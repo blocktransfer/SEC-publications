@@ -452,7 +452,11 @@ This "waiting period" for Examination was the other main reaosn  I havne't  fone
 [^psnause]: _See_ direct refernce in Resposne #2 note 37, the public  sdata standard for registration information encoding. Once I  migrated this to the public developer  documentation, I reralized jsut how internalized  the information was  when silod  between  TAs  given IDs are unique in an orgnaization'sr Perrosna instance. Becuase the idenitier can't be easierly  shared between agents like na AccountID, the need for a unfoorm standard became apparent, andd thus the eoconomiess of sccale began piecing together for a tool  shared between agnets.  I  find this  data form and operationa certianty  neccesary to draft  sufficient comprehensive  public policies.
 
 
-#### 
+#### =Open Identity verification Paltform
+
+In early designs , [^kyc-href] I spoke with a development t eam  which created  hte identity  protcessing system  of  an  agent  with over onee-hundred-tyhousand securtyholder accoutns. They offered to sell us the infrasture they made, including an onboarding app with authentication  fflowxs, for only $10,000. Whiole I opeted for cloud solutions instead  early-on,  not uinderstanding  the proporietary software problems therewith, this stucck wiht  me.
+
+
 
 chacnged / neww identity  provider
 
@@ -483,7 +487,7 @@ https://github.com/blocktransfer/identity-verification
 
 PII obvious 
 
-## OFAC Searches
+#### OFAC Searches
 
 _DC_ 
 conflicts with ofac  snctioning an entire country
@@ -1116,3 +1120,5 @@ nove  in parts should be here  at the  close
 
 
 
+
+[^kyc-href]: _See_ plrelimairy  KYYC  integration data stands for MSF, noted in a TAD3  Python commit, _available at_ https://github.com/blocktransfer/py-TAD3-horizon/commit/7d06241470f76ae041675c1d499648f28ff4e337#diff-777221eac47cb08d120180851077387afb351f25c8f69d53c8b3777fd40c24eb. Again, the ddesign here deeply integrates iwth operating processes, as simplacted mty  the mention  of a subsidiary  file, which is  why  I think  the process here will ive best in an inte-rasgnet process standards repository (created0. ).  Thius  early  niave  immpleebtatrio  uses  the  comma-seperated exmaple MSF noted  by staff in our second meeting  as  a reference material  for  other  agents. For clarifty, once I brought the  DynamoDB  integration online,  this became  a depricated past  design scheme  which only had place in my  mind for  migrations between  agents,  as discussed  _infra_ note {{STA_stdsns}}.
