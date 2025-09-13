@@ -439,18 +439,36 @@ Staff cdid a great  job uncovering  the discrpeency in our public polcy's AML pr
 
 I've been  thinking  a little  dtoo  deeply  about the storagfe of information in  a standdalone identity suite, as I';e wanted  to use MPC  "to replace our AWS stack with newly decentralized infrastructure to get our projects fully onchain (among pros)." I;ve been exlporing this path  for over a year in the investor  communtiy  through hosting our podcast, reference files, and datbase config, with the help of James. However, I understand now that i must sideline this for a more immediate implementaion , and this works fine since it's easier to secure data on a centralized servcer  instancce anway./
 
-We w ill update website policies to refl;ect  the propoer processes and use  of peronal information for KYC, as a staff can  track  on a public codebase i ssue, _available at_ https://github.com/blocktransfer/website/issues/8.[^site-cde]  As expressed in the postscript of PREV's  cover l etter, I do not work well with directive centralized deadlines, and I've designed all our  poperations to  conform  to asynchornous contibutions made at the  behest  of decentralized members.[^duna-org]
+We w ill update website policies to refl;ect  the propoer processes and use  of peronal information for KYC, as a staff can  track  on a public codebase i ssue, _available at_ https://github.com/blocktransfer/website/issues/8.[^site-cde]  As expressed in the postscript of PREV's  cover l etter, I do not work well with directive centralized deadlines, and I've designed all our  poperations to  conform  to asynchornous contibutions made at the  behest  of decentralized members.[^duna-org]  I do not expect the old terms will have any  effect on our inagural client becuase investors have not onboarded for their securities in years.
+
+This "waiting period" for Examination was the other main reaosn  I havne't  fone in to overhaul  these policies. THe PSNA Reference token is deeeply  ingrained in data standards and operational expectations.[^psnause]  I'm glad we were all able to get on the same page with  signarture garuntee polcies reliant on cryptographic ccredentialy  s associated in the investor's cusotdy and associate with identity for recovery.
+
+[^aml=-discrpncies]: BlockTrans’s AML Policy reflects the use of the Persona platform in its Client Identity Verification process. BlockTrans currently documents its verification process by adding an internal reference to the Persona account number (the "PSNA Reference") within the securityholder’s Personally Identifiable Information ("PII"). However, BlockTrans ceased using Persona during 2025 because of limitations of the screening application and costs of the service. Therefore, BlockTrans should update its AML Policy to reflect its new process for performing and documenting client identity verification
+
+[^site-cde]: Upon completion of the Exmaination, i mgirated our home-domain website ot the main publicc instance. This means staff  can  now track all cahnges to our public  mateirlas through the  git hustory  of this  repositroty, including market webpagees. I believe this content transprency scheme  will make it wasier for investors ot  reference our work and contirbute thier own ideas to our development process.  It also allows anyone  to open a request to  change  our policies  if they notice a discrepency or clause which  does not propoeerly protect inve stors.
+
+[^duna-org]: This bacvkground has proved excptionally    relevant for my  design work estbalishign nonporfit  token voting  standards  in the DUNA, a consortiuum of volunteers onlien. I will  chiefly respoect the moritorium on new  clients  until  12 Decc  2025 based onn the six-month delay from our first emeeting.  Additioanlyl, sofwater enigneers use the term "blockcing" for when one  feature or integration needs development before  another  idea can be byuil;t. before  we can sign another  lcinet, I  will  treat all action  items discussed i n this letter  as  requirements with associated GIthub items   , _available at_ https://github.com/blocktransfer/SEC-publications/blob/main/examinations/response-8/action-items.md.
+
+[^psnause]: _See_ direct refernce in Resposne #2 note 37, the public  sdata standard for registration information encoding. Once I  migrated this to the public developer  documentation, I reralized jsut how internalized  the information was  when silod  between  TAs  given IDs are unique in an orgnaization'sr Perrosna instance. Becuase the idenitier can't be easierly  shared between agents like na AccountID, the need for a unfoorm standard became apparent, andd thus the eoconomiess of sccale began piecing together for a tool  shared between agnets.  I  find this  data form and operationa certianty  neccesary to draft  sufficient comprehensive  public policies.
 
 
+#### 
 
+chacnged / neww identity  provider
 
-### chacnged / neww identity  provider
-
+propriterary ones here iwht sctz or vstol belopw
 
 
 re open source KYC we can frame as  the most trivial  thing to do b/c
 (a) no fortnend so kskillz lol (matching) and
 (b) story of 10k propriretary tooling usined at  Vstock (cold outreach basis)
+
+
+
+
+
+
+
 
 https://developers.stellar.org/docs/learn/fundamentals/stellar-ecosystem-proposals#sep-0012---kyc-api
 
@@ -776,6 +794,11 @@ BlockTrans does not currently have written procedures pertaining to the cancella
 
 
 
+insturdcted laylor to not havbe i nvestors sent certs anymore
+
+standardize  in open issuer agreement template  
+
+and direct any new investors to me by email
 
 ### Lost  Ceritifcet Statoru Programming
 
@@ -1093,8 +1116,3 @@ nove  in parts should be here  at the  close
 
 
 
-[^aml=-discrpncies]: BlockTrans’s AML Policy reflects the use of the Persona platform in its Client Identity Verification process. BlockTrans currently documents its verification process by adding an internal reference to the Persona account number (the "PSNA Reference") within the securityholder’s Personally Identifiable Information ("PII"). However, BlockTrans ceased using Persona during 2025 because of limitations of the screening application and costs of the service. Therefore, BlockTrans should update its AML Policy to reflect its new process for performing and documenting client identity verification
-
-[^site-cde]: Upon completion of the Exmaination, i mgirated our home-domain website ot the main publicc instance. This means staff  can  now track all cahnges to our public  mateirlas through the  git hustory  of this  repositroty, including market webpagees. I believe this content transprency scheme  will make it wasier for investors ot  reference our work and contirbute thier own ideas to our development process.  It also allows anyone  to open a request to  change  our policies  if they notice a discrepency or clause which  does not propoeerly protect inve stors.
-
-[^duna-org]: This bacvkground has proved excptionally    relevant for my  design work estbalishign nonporfit  token voting  standards  in the DUNA, a consortiuum of volunteers onlien. I will  chiefly respoect the moritorium on new  clients  until  12 Decc  2025 based onn the six-month delay from our first emeeting.  Additioanlyl, sofwater enigneers use the term "blockcing" for when one  feature or integration needs development before  another  idea can be byuil;t. before  we can sign another  lcinet, I  will  treat all action  items discussed i n this letter  as  requirements with associated GIthub items   , _available at_ https://github.com/blocktransfer/SEC-publications/blob/main/examinations/response-8/action-items.md.
