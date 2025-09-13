@@ -18,13 +18,6 @@ a lot ot what Peirce is getting at, and wenee d to makeup political  goodwill fr
 
 
 
-
-we can intro as basis for more indsitutional instrets
-
-DAO  Vvote  appriving  as of  — 07-Jan-25 11:31 AM
-(CHIVES SAYS)
-> I think I'd say yes. Naturally we'd rather see issuers seek to provide a custody first best-of-all-worlds solution, but taking a step towards blockchain and public auditability even if firmly in the old ways (TAD2) is still a step in the right direction. A syndicate tad2 could still outcompete and still be a relevant step forward for the industry.
-
 want to  set precedent for  expandin ops after  ocmpleting agenda items
 
 use with internal deference to Bur on basis o f  decentrlaized comms
@@ -427,16 +420,39 @@ The Deficincy  Letter cites our disconitnued  use of the legacy rpovidor partluy
 
 
 
-[^mercy]: _See, e.g.,_ https://x.com/JFWooten4/status/1854654933498552550
+[^mercy]: _See, e.g.,_ 5remakrs on a centralized financial insuttionss attending a techn conference, selling banking ssxerrivces avalibale for merely $35,000 a months from an infrastructure broker spoek nwith during extensive banking relation ivestigatgions, _available at_ https://x.com/JFWooten4/status/1854654933498552550. I've seen at lead three leading identity  software vendors in similar booths at events including the main industry Bitcoin conference. iN all instances, I'm sinccrely dissapointed  by the extravent waste of corpoate funds which could be trivially reinvested in to product devleopment or cost  decreases. I do not believe truly efficient  systjms should need pander to mass audiences through   xchepa branded handouts and an  array  of agents politcking the platform into mainstream adoption sales.
+
+
+#### Electing OCMmuntiy Netwokr effects
+
+Throughotu 2024,  I developed a centralized product roadmpa  for expanding our business on the basis of a collaboration arrangment and NDA in Ex. 8.1.1 with a well-connected financial insuttion.[^git] I embarked on  these experiementations with the aprpoovatl of a communtiy vote.[^instrets]  Extensive disusccsion  ensued around these interactions in a braod principled manner, and I would be happy to share direct links with staff if they might confirm Commission ability to acccess and review messages  in a publidcc Dsdciord server.
+
+However, even  this dusicsussion platfomr has centralization challenges introduced through account permissiones. Lastl  year really clarified  that for m e while I  explored what a alrgedr-scale deplopyment of technology closer to TAD2 would look like. FOr isntnace,  Ex 8.1.2 detials a fiat deposit flow using  partner banks before the adoption of this year's new stablecoin ledgislation and protectioons.
+
+The KYC flows for this  work presumed the use of Perosna, and we hadd extensive back-and-frorth with the entity and thier counsel to connect instances and data in  a potential launch .  I saw here the vendor lock-in challenge  with ddifferent agendts  using the proproietary Persona daashboard, as data stayed isolated  in their  servers with a single entity  conntrolling access and review. As the  grouop kept insisting on using Plygon, a level 2 with  centralized consensus, it became clear that the focus here was adoption and corporate profits  over and above impact andd safety.
+
+I've  seen  this viewpoit andd  technology mature into a consortum of ideas championed by DTCC,[^investors] andd I it  truly  idsspapoints me eeing how these entralized teams produces such centralized products.[^broekrs] as I saw this work mature aroun broker-dealers, it would haave been trivial to discount our values and regualtory committment  to stbaility for a piece of  the old financial game they control. but i just don't think a long-term solution wil lwork if it's not corroberated from the bottom-up with small-business and innovation as core developmental drivers as value focuses.
+
+
+
+
+[^git]: despit eepxlicit  provisions designed  to allow project codep  ublications i n § 14.3, I contually facced challenges bringing development oinline through community venues. Th e  team on their end was not compfortbale with or already using  GitHub, and  they  didn't even have the inclination to join a project-spoecific DIscxord server wqithout public refrences. This closed developmetn cycle and a relentless foccus on specific partner functions  without any deliverable discussions between engineering  teams made integrations challenging. They wanted us to act as agent for some large delas, but I disagreed with the large cut we'd  take from investor returns.
+
+
+[^instrets]: The poll giving me preloiminary apprval of our designs as theorcised  as entirely positive, as members were unteresting in any  steps forward  to structural market change. When voting in early January this year, Chives reamrked: "Naturally we'd rather see issuers seek to provide a custody first best-of-all-worlds solution, but taking a step towards blockchain and public auditability even if firmly in the old ways (TAD2) is still a step in the right direction. A syndicate tad2 could still outcompete and still be a relevant step forward for the industry." My  didsccofort in the level of centrlaizatioon regardless of positifve sentiments back  then lead  to mucch of my inspiration to reform our ownership structure nad corpoate Bylawes today, pending the TAR letter approval  turnaround period.
+
+[^investors]: 
+
+[^broekrs]: Exs. 8.1.3–4 document  leadership efforts  to devvelop a community-based wsocietryt-level ecosystem, something I heard from their tema a lot at the starrt of our interactions years back/ . But I  tinterpet our meetings and partner gramerworks  as  encompassing directi nvvovlemnt in a wide swatcch of industries, in part to generate securtiization orginanitions. Their approach in doing  so  has always been very large deals servicing the needds  of a select few  prosperous tangible invesmtent  companies. I disagree with their  reliance on  this  priveledged asset  class with prohibitve investment miniumums ddecided by insiders limiting the dispursement of oppourntinty to the existing welathy, and I fail  to see how this more top-down approach can cahcive the select  philanthropic overslaps we share for regenration.
 
 #### Updating Public Policy Statments
 
 
 
+turret-style distirbuted fiel strage
 
 
-
-
+https://github.com/blocktransfer/website/issues/8
 
 
 
@@ -457,7 +473,7 @@ https://developers.stellar.org/docs/learn/fundamentals/stellar-ecosystem-proposa
 
 
 
-Anti-Money Laundering (AML) Policy – BlockTrans’s AML Policy reflects the use ofthe Persona platform in its Client Identity Verification process. BlockTrans currentlydocuments its verification process by adding an internal reference to the Persona account number (the “PSNA Reference”) within the securityholder’s Personally Identifiable Information (“PII”). However, BlockTrans ceased using Persona during 2025 because of limitations of the screening application and costs of the service.
+Anti-Money Laundering (AML) Policy – BlockTrans’s AML Policy reflects the use ofthe Persona platform in its Client Identity Verification process. BlockTrans currently documents its verification process by adding an internal reference to the Persona account number (the “PSNA Reference”) within the securityholder’s Personally Identifiable Information (“PII”). However, BlockTrans ceased using Persona during 2025 because of limitations of the screening application and costs of the service.
 
  Therefore, BlockTrans should update its AML Policy to reflect its new process for performing and documenting client identity verification
 
@@ -471,7 +487,7 @@ PII obvious
 
 ## OFAC Searches
 
-_DC_ form reposnsse 5  note 7 goal
+_DC_ 
 conflicts with ofac  snctioning an entire country
 
 
@@ -781,6 +797,14 @@ BlockTrans does not currently have written procedures pertaining to the cancella
 
 
 
+### Lost  Ceritifcet Statoru Programming
+
+story 
+`
+`rty6b76n8m980oikm8;uj.yuio8ujyhj uikmnhmm,.m 
+I have no  itnention of singing the FAST LPA agreements, and  if edcchanges scchoose  to delist serviced sercurities in resposne. . ,  then  it will be on the imepus of the fcourts to decide on antirust acction
+
+
 
 ### Securities  Cancellation Dates
 
@@ -1087,6 +1111,5 @@ https://discord.com/channels/@me/1399830854385274991/1415471113609154631
 # end (fold)
 
 nove  in parts should be here  at the  close
-
 
 
