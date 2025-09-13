@@ -9,22 +9,10 @@ publish: 15 Sep 2025
 for the outstanding API modivfiicaiton and update for  legacy internal comparison, we can have also idneditfiier seperations between  the "street naem" custodian shares of clearing agenccyies with specified on-chain accounts as per 6days interest i n https://discord.com/channels/@me/1399830854385274991/1412802278737580073
 ^ lets do this in the main asset page rather than subdt /outstanding
 
-### {{NAME}}  gameplan
 
 
-a lot ot what Peirce is getting at, and wenee d to makeup political  goodwill from https://github.com/users/JFWooten4/projects/1/views/1?filterQuery=-status%3A%22Pending+%F0%9F%92%9C%22&pane=issue&itemId=81176338
+---
 
-
-
-
-
-want to  set precedent for  expandin ops after  ocmpleting agenda items
-
-use with internal deference to Bur on basis o f  decentrlaized comms
-^ (unrelated)
-
-then  CRITICALLY: I  want it  framed  as  a teardown to other 3643 arragnements
-https://www.dtcc.com/news/2025/march/20/dtcc-joins-erc3643-association
 
 the `outstanding`  count modifications hsouldd frame around this probelm 1st and fiormenetst
       (I have also removed teh `PENDING ` flag in re "digging a deeper hole" senitments form Meeting 2)
@@ -441,9 +429,9 @@ I've  seen  this viewpoit andd  technology mature into a consortum of ideas cham
 
 [^instrets]: The poll giving me preloiminary apprval of our designs as theorcised  as entirely positive, as members were unteresting in any  steps forward  to structural market change. When voting in early January this year, Chives reamrked: "Naturally we'd rather see issuers seek to provide a custody first best-of-all-worlds solution, but taking a step towards blockchain and public auditability even if firmly in the old ways (TAD2) is still a step in the right direction. A syndicate tad2 could still outcompete and still be a relevant step forward for the industry." My  didsccofort in the level of centrlaizatioon regardless of positifve sentiments back  then lead  to mucch of my inspiration to reform our ownership structure nad corpoate Bylawes today, pending the TAR letter approval  turnaround period.
 
-[^investors]: 
+[^investors]: The centralized aspects of the o itken finfrasturcure go entirely against my investor poerioties and decentralizedexpansion precendent in _Id._ _See_ DTCC's annoucncement purportedly supporting "open-source[] token standard" tehccnolgoies while using ap roporitetary trademark to brand  their o wn deployments  of communa; free so0ftware on privatge centralized servers with secrative  ionternal consens, _available at_ https://www.dtcc.com/news/2025/march/20/dtcc-joins-erc3643-association. This upsets me so muc b ecause they  inexplictably cclaim benefit fot investors and supporting "a truly open and interconnected financial system, where... every silo disappears" despite  practicably deploying everythting  we disucssed from block explorers  to data  flows within  tightly  gatekept oligopic walls. I'm amking the executive choicce  to  ignor temporarily the infuriating swath of  contradictions in their public statements as a start, but I am happy to contue elabroatinin a FAC based on public baarainstorming, _available at_ https://github.com/blocktransfer/SEC-publications/issues/11.
 
-[^broekrs]: Exs. 8.1.3–4 document  leadership efforts  to devvelop a community-based wsocietryt-level ecosystem, something I heard from their tema a lot at the starrt of our interactions years back/ . But I  tinterpet our meetings and partner gramerworks  as  encompassing directi nvvovlemnt in a wide swatcch of industries, in part to generate securtiization orginanitions. Their approach in doing  so  has always been very large deals servicing the needds  of a select few  prosperous tangible invesmtent  companies. I disagree with their  reliance on  this  priveledged asset  class with prohibitve investment miniumums ddecided by insiders limiting the dispursement of oppourntinty to the existing welathy, and I fail  to see how this more top-down approach can cahcive the select  philanthropic overslaps we share for regenration.
+[^broekrs]: Exs. 8.1.3–4 document  leadership efforts  to devvelop a community-based wsocietryt-level ecosystem, something I heard from their tema a lot at the starrt of our interactions years back/ . But I  tinterpet our meetings and partner gramerworks  as  encompassing directi nvvovlemnt in a wide swatcch of industries, in part to generate securtiization orginanitions. Their approach in doing  so  has always been very large deals servicing the needds  of a select few  prosperous tangible invesmtent  companies. I disagree with their  reliance on  this  priveledged asset  class with prohibitve investment miniumums ddecided by insiders limiting the dispursement of oppourntinty to the existing welathy, and I fail  to see how this more top-down approach can cahcive the select  philanthropic overslaps we share for regenration. <!-- deference to Bur on basis of decentralized comms -->
 
 #### Updating Public Policy Statments
 
