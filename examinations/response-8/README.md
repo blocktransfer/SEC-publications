@@ -46,7 +46,7 @@ Dear Mr. Vitulano,
 
 [Acccolades  b/c this was aweesome]
 
-Basically, after _EXTENSIVE SSETUP BEFORE THIS POINT_, I want to ask them to `move  in`  so to speak as proposed but overlooked in Response  6 § II.B.2.d.
+Basically, after _EXTENSIVE SSETUP BEFORE THIS POINT_, I want to ask them to `move  in`  so to speak as proposed but overlooked in PREV § II.B.2.d.
 "API to access our PII." (with tbale leave  & `think about it lol` sentiments)
 
 Narrative starts with FAC as basiss for review on sentiments of possible sudden weather changes
@@ -341,20 +341,20 @@ Rule 17Ad-10(a)(1) under the Exchange Act states that every recordkeeping transf
 
 Rule 17Ad-10(b) under the Exchange Act states that every recordkeeping transfer agent shall maintain and keep current an accurate master securityholder file and subsidiary files. If such transferagent has any record difference, its master securityholder file and subsidiary files must accuratelyrepresent all relevant debits and credits until the record differences is resolved. The recordkeeping transfer agent shall exercise diligent and continuous attention to resolve all record differences.
 
-The Staff discovered the following exceptions during its review of the Laylor Corporation (“Laylor”) master securityholder file for the period of September 2023 through April 2025:
+The Staff discovered the following exceptions during its review of the Laylor Corporation ("Laylor") master securityholder file for the period of September 2023 through April 2025:
 
 
-1. First Last (“Investor A”): In an email dated September 28, 2023, Laylor’s President, authorized the issuance of 100,000 shares to Investor A. While some of the certificate detail required under Rule 17Ad-9(a)(2) and (5) under the Exchange Act appears in the Legacy Database, as evidenced in the excel spreadsheet of its output, BlockTrans did not post the credit of 100,000 shares to the blockchain portion of the Master Securityholder File (“MSF”) for the issuance to this securityholder.
+1. First Last ("Investor A"): In an email dated September 28, 2023, Laylor’s President, authorized the issuance of 100,000 shares to Investor A. While some of the certificate detail required under Rule 17Ad-9(a)(2) and (5) under the Exchange Act appears in the Legacy Database, as evidenced in the excel spreadsheet of its output, BlockTrans did not post the credit of 100,000 shares to the blockchain portion of the Master Securityholder File ("MSF") for the issuance to this securityholder.
 
 Pursuant to Rule 17Ad-10(a)(2)(i) under the Exchange Act, recordkeeping transfer agentsmust post credits containing minimum and appropriate certificate detail within 30 days after issuance. As the authorization for the issuance of Investor A’s shares is dated September 28, 2023, BlockTrans should have posted the credit of 100,000 shares to the MSF by October 28, 2023.
 
-In addition, the Staff’s review of the information maintained on the Legacy Database for Investor A disclosed that the data populating the “from” column (column J) reflected the Memo (HASH) from the transaction issuing another investor’s 300,000 shares. As a result, it appears that this data was mistakenly linked to Investor A’s certificate detail.[^2]
+In addition, the Staff’s review of the information maintained on the Legacy Database for Investor A disclosed that the data populating the "from" column (column J) reflected the Memo (HASH) from the transaction issuing another investor’s 300,000 shares. As a result, it appears that this data was mistakenly linked to Investor A’s certificate detail.[^2]
 
 [^2]: subsubsection with start of issue auth convo...]
 for excel _See_ TAR n.45
 
 
-2. First Last (“Investor B”): This securityholder’s 1 million shares were revoked/cancelled on December 8, 2023, as a result of the clawback by the issuer. The shares were subsequently re-issued to Investor B pursuant to an email authorization from Laylor to BlockTrans on February 26, 2024. However, the Staff’s review of the information maintained on the Legacy Database for Investor B disclosed that the issue date (“aqAt”), reflected in “holdings” column (column k) corresponded to the original establishment of the cancelled position on September 11, 2023, not February 26, 2024 (authorization date) or March 21, 2024 (date of transaction on the Stellar blockchain)[^3]
+2. First Last ("Investor B"): This securityholder’s 1 million shares were revoked/cancelled on December 8, 2023, as a result of the clawback by the issuer. The shares were subsequently re-issued to Investor B pursuant to an email authorization from Laylor to BlockTrans on February 26, 2024. However, the Staff’s review of the information maintained on the Legacy Database for Investor B disclosed that the issue date ("aqAt"), reflected in "holdings" column (column k) corresponded to the original establishment of the cancelled position on September 11, 2023, not February 26, 2024 (authorization date) or March 21, 2024 (date of transaction on the Stellar blockchain)[^3]
 
 [^3]: DB design and good catch on the blockchain side..]
 
@@ -435,13 +435,11 @@ I've  seen  this viewpoit andd  technology mature into a consortum of ideas cham
 
 #### Updating Public Policy Statments
 
+Staff cdid a great  job uncovering  the discrpeency in our public polcy's AML processing page.[^aml=-discrpncies] One reason this persisted past our use of PSNA References through the admin console comes to contemplations over adata access. A community post in note 6 link 1 refres to a Dsicord thread in the lumants communtiyt, _available at_ https://github.com/JFWooten4/free-markets/blob/d80c385d1644eb2e1e01ed41623ba3f2c1c598bf/group/stellar/retroactive-scf/community-discussions.md.
 
+I've been  thinking  a little  dtoo  deeply  about the storagfe of information in  a standdalone identity suite, as I';e wanted  to use MPC  "to replace our AWS stack with newly decentralized infrastructure to get our projects fully onchain (among pros)." I;ve been exlporing this path  for over a year in the investor  communtiy  through hosting our podcast, reference files, and datbase config, with the help of James. However, I understand now that i must sideline this for a more immediate implementaion , and this works fine since it's easier to secure data on a centralized servcer  instancce anway./
 
-turret-style distirbuted fiel strage
-
-
-https://github.com/blocktransfer/website/issues/8
-
+We w ill update website policies to refl;ect  the propoer processes and use  of peronal information for KYC, as a staff can  track  on a public codebase i ssue, _available at_ https://github.com/blocktransfer/website/issues/8.[^site-cde]  As expressed in the postscript of PREV's  cover l etter, I do not work well with directive centralized deadlines, and I've designed all our  poperations to  conform  to asynchornous contibutions made at the  behest  of decentralized members.[^duna-org]
 
 
 
@@ -458,12 +456,6 @@ https://developers.stellar.org/docs/learn/fundamentals/stellar-ecosystem-proposa
 
 
 
-
-
-
-Anti-Money Laundering (AML) Policy – BlockTrans’s AML Policy reflects the use ofthe Persona platform in its Client Identity Verification process. BlockTrans currently documents its verification process by adding an internal reference to the Persona account number (the “PSNA Reference”) within the securityholder’s Personally Identifiable Information (“PII”). However, BlockTrans ceased using Persona during 2025 because of limitations of the screening application and costs of the service.
-
- Therefore, BlockTrans should update its AML Policy to reflect its new process for performing and documenting client identity verification
 
 https://github.com/blocktransfer/identity-verification
 
@@ -487,7 +479,7 @@ conflicts with ofac  snctioning an entire country
 
 
 
-C. U.S. Department of Treasury – Office of Foreign Assets Control (“OFAC”) –
+C. U.S. Department of Treasury – Office of Foreign Assets Control ("OFAC") –
 
 BlockTrans Does Not Maintain or Implement Written Procedures Related to Its OFAC Searches
 
@@ -495,7 +487,7 @@ _thye shoiuyd reach  out  dir_
 
 Every person or business in the U.S., including all securities transfer agents, must monitor transactions to blocked countries, and to certain identified individuals, by comparing and matching information against current lists (www.treas.gov/ofac) maintained by OFAC.
 
-The Staff’s review of BlockTrans’s procedures revealed that the Registrant does not address OFAC compliance. However, the Registrant verbally disclosed that it utilized the Persona platform for screening against OFAC’s list of specially designated nationals (“SDNs”), which was evidenced by adding a PSNA Reference within the securityholder’s PII. However, the Staff’s review of the output from the Legacy Database disclosed two securityholders, Investors C and D, whose PII did not include a PSNA Reference, indicating they had not been screened.
+The Staff’s review of BlockTrans’s procedures revealed that the Registrant does not address OFAC compliance. However, the Registrant verbally disclosed that it utilized the Persona platform for screening against OFAC’s list of specially designated nationals ("SDNs"), which was evidenced by adding a PSNA Reference within the securityholder’s PII. However, the Staff’s review of the output from the Legacy Database disclosed two securityholders, Investors C and D, whose PII did not include a PSNA Reference, indicating they had not been screened.
 Further, based on the Staff’s conversations with BlockTrans, it appears that these screenings were performed only at the time a securityholder was onboarded, rather than periodically which would be more prudent for a dynamic list like OFAC’s SDNs.
 
 Therefore, BlockTrans’ failure to maintain written procedures addressing OFAC regulations, and to conduct OFAC searches for these two securityholders is an internal control weakness.
@@ -703,7 +695,7 @@ given ii.b.1
 , _available at_  https://www.sec.gov/newsroom/speeches-statements/peirce-ats-20220126. The removal of this  consideration had indsutry-chaneging agfferts for  the tntity  incorpated in the TAR letter n.119's cacccoimnoapy h text, which I brou ght up in our third meeting as a current context  for discussion  of DEX  regualtory principles. THe Staff did an exccellent job guiding my thoughts,,m  notivated by expriences i n the seccond footnote  link,  motre thorougly ddisused  with the  community on out pofact, _available at_ https://lnns.co/rswev9D3A1n/4848. I sincerely  apprecaite d Commissioner  Peirce's hihglihgt  of EtherDelta's settled enforcment  action in menaingful  public forum as a great  exanoke if tghe needed  differentiation between on-chain transparenct orderbooks and proprietary private servers
 , _available at_ https://youtu.be/kl7omhTtERE?t=1427.
 
-[^venue-prot]: For isntnace,  the  intemreidairt  incorpated by reference at _Id._ link 2 used a server-based software messaging playtfomr based on a central  cop[mpany, _available at_ https://github.com/airswap/airswap-protocols. Even  open-source solutions like this have layers of  centralizaiton built in when they  rely  on supplemental  consensus mechanismms or   a centrall off-chain  matching servers,  including when a smart  contracts execute on a propriteryt firm-based ledger.  I 've epxlored  this in  Response  6  § 0.B and a wide wswath  of public  work, because i  view  the implications as allowsding automated debited clearing  without a central conuterparty when usinga shared orderbook and matching engine. There doews not exist legal preeccedent for tgese disintermediated structures, despite the plethora of benefits  they  provide investors when done properly.
+[^venue-prot]: For isntnace,  the  intemreidairt  incorpated by reference at _Id._ link 2 used a server-based software messaging playtfomr based on a central  cop[mpany, _available at_ https://github.com/airswap/airswap-protocols. Even  open-source solutions like this have layers of  centralizaiton built in when they  rely  on supplemental  consensus mechanismms or   a centrall off-chain  matching servers,  including when a smart  contracts execute on a propriteryt firm-based ledger.  I 've epxlored  this in  PREV § 0.B and a wide wswath  of public  work, because i  view  the implications as allowsding automated debited clearing  without a central conuterparty when usinga shared orderbook and matching engine. There doews not exist legal preeccedent for tgese disintermediated structures, despite the plethora of benefits  they  provide investors when done properly.
 
 
 
@@ -796,7 +788,7 @@ I have no  itnention of singing the FAST LPA agreements, and  if edcchanges scch
 
 ### Securities  Cancellation Dates
 
-This information is required as part of the minimum certificate detail pursuant to Rule 17Ad-9(a) under the Exchange Act. Cancellation dates are reflected on the Stellar blockchain and for securityholders who opened Accounts/Wallets on Stellar (the “Stellar Accounts”) are readily obtainable. However, for those securityholders without Stellar Accounts whose shares are held in the “Distribution Account”, there is no clear audit trail that records the number of shares cancelled by securityholder or the date of cancellation. To obtain this information on a securityholder level, BlockTrans would have to review several sources to determine the number of shares cancelled and the cancel date.
+This information is required as part of the minimum certificate detail pursuant to Rule 17Ad-9(a) under the Exchange Act. Cancellation dates are reflected on the Stellar blockchain and for securityholders who opened Accounts/Wallets on Stellar (the "Stellar Accounts") are readily obtainable. However, for those securityholders without Stellar Accounts whose shares are held in the "Distribution Account", there is no clear audit trail that records the number of shares cancelled by securityholder or the date of cancellation. To obtain this information on a securityholder level, BlockTrans would have to review several sources to determine the number of shares cancelled and the cancel date.
 
 As a result, BlockTrans does not maintain or have readily accessible the cancellation dates or share amounts for cancelled securities of securityholders allocating to the Distribution Account.
 
@@ -840,11 +832,11 @@ gets also iunto  dev tooling (circa  subsubsec elsehwere)  for Football comp. Cr
 
 
 ```quote
-The instructions for Form TA-1 disclose that a filer should “State in Question 3.c. the full address ofthe registrant’s principal office where transfer agent activities are, or will be, performed.”
+The instructions for Form TA-1 disclose that a filer should "State in Question 3.c. the full address ofthe registrant’s principal office where transfer agent activities are, or will be, performed."
 
-BlockTrans’s current Form TA-1/A, dated September 25, 2023, reflects a principal office address of 99 Wall Street #4640, New York, NY 10005 (“99 Wall Street”)
+BlockTrans’s current Form TA-1/A, dated September 25, 2023, reflects a principal office address of 99 Wall Street #4640, New York, NY 10005 ("99 Wall Street")
 
-The Staff’s discussions with the Registrant revealed that the 99 Wall Street address is the location of a virtual business addressservice, PhysicalAddress.com (“PhysicalAddress”), that receives/handles mail for clients.
+The Staff’s discussions with the Registrant revealed that the 99 Wall Street address is the location of a virtual business addressservice, PhysicalAddress.com ("PhysicalAddress"), that receives/handles mail for clients.
 
 BlockTrans does not maintain any personnel at that location. Likewise, it does not appear that BlockTrans performs any transfer agent activities at that location.
 ```
@@ -1050,14 +1042,13 @@ See also https://blocktransfer.com/compliance/team/legacy-investor-onboarding
 Retro comp @ agenda#13 is why iu asked about paymetns in https://www.sec.gov/comments/sr-occ-2025-801/srocc2025801-598095-1737722.pdf#page=68 ¶ 23
 
 WEANT THIS ON THE PUBLIC PAGE FOR INCOMING PROCEDURESD (TEAM)
-Backline Response 1 note  10 introducitn https://www.blocktransfer.com/blog/post/introducing-transfer-agent-depository  with qutoe  from SEC release “The transfer agent depository ("TAD") would replace the certificate with computerized stockowner lists... which would serve as both the issuer's stock records and the shareowner's evidence of ownership.” as related  to shreedding  use
+Backline Response 1 note  10 introducitn https://www.blocktransfer.com/blog/post/introducing-transfer-agent-depository  with qutoe  from SEC release "The transfer agent depository ("TAD") would replace the certificate with computerized stockowner lists... which would serve as both the issuer's stock records and the shareowner's evidence of ownership." as related  to shreedding  use
 ^ quote I s  _Id._ serc https://archive.org/details/fsec00unit  at   § III.A.3.F.
-Adnthen we  can  Id. That  for the trifecta,  cuitiung the follwing  from 42:  a TAD “may have some long run promise, but it would seem to presuppose a highly integrated national computerized ‘book entry’ system which simply doesn't yet exist” according  to one of  the 145 banks  resposning to  staff and Congressikonal inquirtt.
-Criticallythis  was  the introduction  of  the in IHS via  “ownership of securities in the records of the issuer in other than the name of the beneficial owner of such securities” (from  study name)(
+Adnthen we  can  Id. That  for the trifecta,  cuitiung the follwing  from 42:  a TAD "may have some long run promise, but it would seem to presuppose a highly integrated national computerized ‘book entry’ system which simply doesn't yet exist" according  to one of  the 145 banks  resposning to  staff and Congressikonal inquirtt.
+Criticallythis  was  the introduction  of  the in IHS via  "ownership of securities in the records of the issuer in other than the name of the beneficial owner of such securities" (from  study name)(
 
 ## other items outstanding
 
-e sixz months pending future for the dealing work 6 months we have "docn not work welll with centralized deadlines" per Response X postfcript (cover eltter ) and so then downto `bvlocking` diction explantion in swe
 
 https://github.com/JFWooten4/agenda/issues/15#issuecomment-3024711494
 https://github.com/JFWooten4/agenda/issues/7#issuecomment-2989720732
@@ -1101,3 +1092,9 @@ https://discord.com/channels/@me/1399830854385274991/1415471113609154631
 nove  in parts should be here  at the  close
 
 
+
+[^aml=-discrpncies]: BlockTrans’s AML Policy reflects the use of the Persona platform in its Client Identity Verification process. BlockTrans currently documents its verification process by adding an internal reference to the Persona account number (the "PSNA Reference") within the securityholder’s Personally Identifiable Information ("PII"). However, BlockTrans ceased using Persona during 2025 because of limitations of the screening application and costs of the service. Therefore, BlockTrans should update its AML Policy to reflect its new process for performing and documenting client identity verification
+
+[^site-cde]: Upon completion of the Exmaination, i mgirated our home-domain website ot the main publicc instance. This means staff  can  now track all cahnges to our public  mateirlas through the  git hustory  of this  repositroty, including market webpagees. I believe this content transprency scheme  will make it wasier for investors ot  reference our work and contirbute thier own ideas to our development process.  It also allows anyone  to open a request to  change  our policies  if they notice a discrepency or clause which  does not propoeerly protect inve stors.
+
+[^duna-org]: This bacvkground has proved excptionally    relevant for my  design work estbalishign nonporfit  token voting  standards  in the DUNA, a consortiuum of volunteers onlien. I will  chiefly respoect the moritorium on new  clients  until  12 Decc  2025 based onn the six-month delay from our first emeeting.  Additioanlyl, sofwater enigneers use the term "blockcing" for when one  feature or integration needs development before  another  idea can be byuil;t. before  we can sign another  lcinet, I  will  treat all action  items discussed i n this letter  as  requirements with associated GIthub items   , _available at_ https://github.com/blocktransfer/SEC-publications/blob/main/examinations/response-8/action-items.md.
