@@ -5,7 +5,9 @@ announcements:
   - findings: https://x.com/blocktransfer/status/1956349988889366676
   - completion: 
 ```
+
 # [Download]() (as PDF)
+
 ## submission email
 to steve CC dave
 AS REPLY  TO THE X POST SEND ACK_
@@ -17,6 +19,8 @@ Here's out resposne letter. I'm goiong to keep working on the referenced items r
 
 In good faith,
 John Wooten
+
+----
 
 
 > [!NOTE]
@@ -41,6 +45,10 @@ then we can come in and save hte solution with new decentralizedd asttestations
 
 
 # Introduction
+
+## Letterhead
+
+Our Document Request Response #6 ("PREV") incorporated by reference in toto.
 
 ## Addresee
 
@@ -74,11 +82,11 @@ becuase like lol ultimatley the goal  is creating  this awesome predicatbale pbe
 
 
 
-basis
+basis:
 
-#$  Ex. 1,  a exhange with webb🤝a.cvoim link form , _available at_ 
+Ex. 1,  a exhange with webb🤝
 
-### FAC statutory basis (exemplifiexi n the iran implications  of OFACV)
+FAC statutory basis
 15 USC § 78q-1 (the "NMS Statute")
 subsection (f)
 
@@ -107,22 +115,10 @@ In  good faith,
 John  Wooten
 [req "signed cover letter" which prob just "/s/" but lol we have the good electroic one to drop like cmmnt]
 
-## Letterhead
-
-Our Document Request Response #6 ("PREV") incorporated by reference in toto.
-
-
 
 # TOC
-!!
-For PDF  when  rendering output
 
 # Letter
-
-
-
-
-
 
 ## §1 Deficiency Responses
 
@@ -529,7 +525,7 @@ PII obvious
 
 
 #### OFAC Searches
-
+iran implications 
 _DC_ 
 conflicts with ofac  snctioning an entire country
 
@@ -882,7 +878,7 @@ As  cited  _supra_ note {{awscollege}} , 37,347,572 shares of Bed Bath & Beyond,
 
 <img width="600" alt="f111-story" src="imgs/fighter-pilots.png">
 
- I've sincerelyt apprecaited "navigating e" efforts from the stadff and my  Dad over hte  year,s helping me see  the fraud of DTCC rfor what it  is. Behind us in this  photo is  an F-111,  the plan  my granpda from PREV spent most of his  time flying in  the Strategic Air COmmand./  He trained and  practices for years on years  to fly  the main nuclear bomb carriage in the fuselage  directly into the heart  of  Russia's CPSU.
+ I've sincerelyt apprecaited "navigating e" efforts from the stadff and my  Dad over hte  year,s helping me see  the fraud of DTCC rfor what it  is.[^cede]: Behind us in this  photo is  an F-111,  the plan  my granpda from PREV spent most of his  time flying in  the Strategic Air COmmand./  He trained and  practices for years on years  to fly  the main nuclear bomb carriage in the fuselage  directly into the heart  of  Russia's CPSU.
 
 I plan to follow a similar path tpowards tpday's CCP.[^larp] I view  transfer a gents  like fighter  pilots  in the cockpiut  of  oversight  adn direction  in  TAD33's pplane. We have the netowrk as an engine propelling us to bring decentralized excahgne forward as a bomb nullifying their predatory business m odels  in view of best  futures.
 
@@ -1219,7 +1215,8 @@ nove  in parts should be here  at the  close
 
 [^larp]: I have no  itnention of singing the FAST LPA agreements, and  if edcchanges scchoose  to delist serviced sercurities in resposne. . ,  then  it will be on the imepus of the fcourts to decide on antirust acction.  Central  clearing counterparties onylm  serve  ot extend Wall  Street's  ujnprecedented ability t o generate credit out of  the  value o f our markets.  They have no right to  takle so much  power and voting  control on the basis of  manainging  our retirmenet accouints' pooled  investments. ANd unlike a certain precedfesor, for  clarity, I will not "eject:" into the  cushy  arms  of any g eneous aquisition or  endorsement  offers for votes,
 
+[^cede]: I  mena this  aas  slightly  as  possible,  with  compelte  respect  for ht e lack  of options staff  have  given  the present market  strucutre  nad  literally  hundreds of years entranching broker  credit-based cleairng. v$uch  of my  market-ddesign  inspirations  come from a  deep analysis  of the Amsterdam stock   exchange'
+s  hadnlign o f  shares in  the  Futch  East  India  company  over its tenured  lifespan.  Dserpute being justg  a few  blocks  away  form  hte  issuers's trasnfer agent and  corpoartet  secretary,   tradiogn emmerged  on contracts  to  avoid  transafctions costs dedspite poor legal  protections of debotor losses, as discussed in my first  communtiy  interaction. other countries have proper dbeit-based  direct ownership models whilcxh keep reconcliliation simple nad honesst in the names  of actual investors. 
+
+
 [^gnpa]: 
-
-[^cede]: I
-
