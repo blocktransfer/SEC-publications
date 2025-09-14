@@ -572,6 +572,8 @@ if "Gary Gensler, Clearinghouses Are the Answer", WALL ST. J. (Apr. 21, 2010) th
 
 
 
+we have strong basois on the minor intro with binance 
+Ex. 8.3 iimage from when i was 17.18yr old. 
 
 
 ### Handling MailSecurities) 
@@ -976,33 +978,15 @@ The stgraight rail segment  goes over an elevated bridge and behind my loccal cc
 
 
 
-###  dd
+###  Scoped INfidivual Positional Aspiaritons
 
-we have strong basois on the minor intro with binance 
-Ex. 8.3 iimage from when i was 17.18yr old. 
-^ the _SHIRT_ basis  here  omes from Exhbibt  2.9.7
-(id verif f self  in photos susbsuppls 1–3)
+AjUst  as  an  early switch-tower operaetor stayed  ot tghier espedcialized  route planning,  so to do  I envisonion  and presently  see  spoecializewmd commiuntiny  memmnebrs  exclling  in tgheir  chosen  skillsets.  IO have rleatively  ismple  aspirations in the long-run because I just want  a  cision of a decentrlaizedc  transfer agency porotfocl  to exist and work  as  it needs  to .[^support]  I w ill continue my  efforts to  decentralize  hte  Registratiknt s othat we  cna concince TGtradnning andw mZMmarkets of our lack  of ccentral physcial  operations,  a  key tenet  to passing through  decentralized  exchange in m y  view.
 
+*I suspect that staff  in  other divisions may  agreed  wiht my  interpetaaiton of indiviudal rolkes  in  remote-first orgnaizaitons such as  those detialed i n our jintial exmaminerf explanation chain, emailing inforaiton about public comment submitted in relation to online -only    filers.  Far be it fo me to guess at internal agency processings, but it ttook  the Commission over three times  asd long to process this TA/1  as did  the 2023  update referenced in the  Defficicicny letter.f PErhaps they took pause  in a resuidieanl address sourced as  an officec  space, which  I have not seen very often  exmaining opther small trasnfer-agent  filer.s
 
+I started blockc Tranfer to address clear problems present in legacy market infrastrucre. We disuccssed exeicig nfair exhangefees, and reforaocats have doumete structural flaws for ecades.[^trmimbathjj] Central control created tshse problems as clearing and esettlemnt developed inot the pyramid of middlemne weknow os swell.[^pyramid]
 
-
-"far be it _fo me_ to guess at internal _agency_ processings," but it ttook  the Commission over three times  asd long to process this TA/1  as did  the 2023  update referenced in the  Defficicicny letter.f
-
-
-
-I started blockc Tranfer to address clear problems present in legacy market infrastrucre. We disuccssed exeicig nfair exhangefees, and reforaocats have doumete structural flaws for ecades. Central control created tshse problems as clearing and esettlemnt developed inot the pyramid of middlemne weknow 
-
-I appreciate that teh Commission's used to aplying its laws to centralized organizaaions with principal ffices and hierarchal organiztion reporting. But i beliecve many of these legacy tools liit brilliant contribots' abiltiy to make the best local decisions. And morenlie quality requires tranpsrency
-"senior policy making authority"
-
-
-we have alsol
-
-
-
-
-
-adddress  photo removing ddelegated hierrarchila decisions
+I appreciate that teh Commission's used to aplying its laws to centralized organizaaions with principal ffices and hierarchal organiztion reporting. But i beliecve many of these legacy tools liit brilliant contribots' abiltiy to make the best local decisions. I want  to continnuje developing our  moral quality throiugh traspnren yt arrangments  that remove delegated  hierarchal  decisions which c oncetrap te power in senior figureheads,  greasnting  policymakign authoritiy  to all participants.[^goin-high]
 
 
 
@@ -1010,7 +994,18 @@ adddress  photo removing ddelegated hierrarchila decisions
 
 
 
-Out apprach revolves around using a transprency public blockchain as the issuer's masterledger. THis ledger uses a cedentralized consensus mechaism and a distirbuted data retention stanard deployed globally. 
+
+
+[^support]: Support ing outr market and  by exmtmensoin all its aend  retirees, w hiuel  openign up our boarders for  the entreapped fcpaital barod,  is enought  for me. I  am a relateively dsimple person with  few  needs  outsidde  na insatiable sededsire to manage  the assets  whcih cross my  way.  _See, e.g.,_ the  hsirt  I'm weatring i n  Ex. 8.3 (taken 7 years ago) which matches the exact sshirt I wore in Exs.  2.9.7.1–3, the KYC onboarding images form my selfie  verificaiton  video as I opened  a  beta  account. One  of m y  firstg  comnteplatioosn i n open-=sopuicrcing the o rgnaizaitonal  desing wasd  a maximum wage, e bcuase  I  don't  beleive early adoptioors wshjould  abuse  public utilities to enrifch themselves, _available at_ https://github.com/blocktransfer/org-docs/issues/1. 
+
+[^trmimbathjj]: _See_ 2009  OIG  report uyncovering "involuntarily" sdotkc l aons  , _available at_ https://www.sec.gov/files/450.pdf#page=8, which persist intpo today'sd fraiuds, _available at, e.g.,_ https://www.finra.org/media-center/newsreleases/2025/finra-fines-apex-clearing-32-million-violations-relating-fully-paid. _See also_  overvoted and unistructed  ballot opaquely  coallated before reaching electrikon inspectors, _available at_ https://www.sec.gov/spotlight/proxy-voting-roundtable.shtml.  THese  sentiiments m ade htier  waiy into  the  crypto task  force eaerileir this year  throiugh input highlighiting hte  compoelx chain  of intermediateenoed n onminee ownership reconcilaitikon, _available at_ https://www.sec.gov/files/ctf-input-mooney-041425.pdf#page=29.00#page=14.  I j  sut  can't  watch theose proglems grow and harm investors  when  such a simpsler solitoipmn exoists  waiting  for  use in preesent  blockchain  tgechnologies.
+
+[^pyramid]: I take  partiocuialtr trouble with th e  custodial bankjs and intermediaited  clearing  firms  offering post-trade settlement to brokers  wiht poffessionoal trading  firms a nd polatyjforms.   There s n o  reason  for this complex hierarchy built on the backs o f  investors  in the  contextg o f  an immedsiaely-psossible direct-holdiung market  stgrucutrfe with  all the beneefits  of thge  CUstodial Strucutre  eplroied inth eTAR  leter.  I don't understand  how DTCC's dpown DA CCTO cna  pu blcily criticize  the centralizty of large finanical institutions while nobody bats an eyue at the  deployment  of  their  new consolitdation etewchnology eyeing for  direct e xhcange inktgergraionts.  All the money  paying  their slaaries only comes  from one place and  it's  tje retirmement  incomes  of a stagnating public. mmajoirtyu.
+
+[^goin-high]:  Out apprach revolves around using a transprency public blockchain as the issuer's masterledger. THis ledger uses a cedentralized consensus mechaism and a distirbuted data retention stanard deployed globally. With anyone  able  to  participate  at  a moment's notice without express permissikon ,  it  is not  possi8ble  to  organize all efforts  into  a central locaiton, much l4ess  a principal office givne aeny self-interesdted  participating  TAD3 i ssuerr  couldc at  any  moment deploy a whoel  team of  experinced devleopmersnts. It's p-recilyt  this flexabiulitiy  I  nee d to  gfight  foir to ensure others don't turn to me as  a ch0occklepoint o n  crucial  expansio ndecisions.
+
+
+
 
 
 --> 
@@ -1238,5 +1233,3 @@ broadly we h ave here the  conectikonA to automating through software and backen
 
 href EDGAR Letter § II.B.1.a
 ^ p[rob needs  forma deifntional]
-
-
