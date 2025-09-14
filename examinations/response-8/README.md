@@ -942,22 +942,41 @@ I will establihs  htese new preodcedures in  adopting hte  stadndard issuer comm
 
 
 
+[^noincome]: _See_ lack  of prior incoome at https://wooten.link/taxes. Most o f  our deepest  ocntirofbutors spent considerable personal ressxources  continuing advoac yand developemtn  efforts, myslerf  included as evidenced  in cpaital contributes  of piublic  Syndicatge financial s , _available at_ https://www.issuers.info/1846058/BAL/2024-12-31_Annual.pdf.  By  keepign all  out operating work such  as  this and  financial statgements  such as funds  public,  I intent  to  make it  as  simple asx sposible  fopr external  collaboratorfs  otgo  joing our work with  confidence  .   IN tim  I expect htat market rewards  cna incongt ongoign wokr,  whicch will show up  in  public payments on Stellar.
 
-```quote
-The instructions for Form TA-1 disclose that a filer should "State in Question 3.c. the full address ofthe registrant’s principal office where transfer agent activities are, or will be, performed."
+[^saslesarrangmentgs]:  The  essense  of this growth  will  develop eover i tme laongside sentiments made p ublicly surrounding the decentralizaiotn o f sales efofrts. Whiel  traditional  venture interest has steered m e towrarfds commissioned  ar5ragnements,  my  firsthand experience disturbution  g  such  products ajnd services  to  ssxmall businessesshowed me that  the normal  conversion  metrics of business services  easiytl  conflicct  iwht investor protectionxs  neede d for secure, documented  onabording.   TYhius, i blieve  a more  community-centered reastoractiv er considerartion  mechazisms  will best reward growth efforts wihtout  incenting  material  copnflicts  of interest.   Iam devlelopijgn this witrh  epsdxspertinemtnatio n over tiem, a nd staff  can follow  along witgh therse efforts  outside of  direct  letter respohnshxes on my working agenda, _available at_ https://github.com/JFWooten4/agenda/issues/13.
 
-BlockTrans’s current Form TA-1/A, dated September 25, 2023, reflects a principal office address of 99 Wall Street #4640, New York, NY 10005 ("99 Wall Street")
+[^meetingapprov]: _See_ STA remarks  lamenting on  thin amrketins (bug enough to fund an industry advoate ccy group and lavish annual fconference) in § II whc threaten "small shareholder positions" without suffeicntly -efficienty technolgoy , _available at_ https://www.sec.gov/comments/s7-27-15/s72715-20.pdf. _See also_ annual public meeting hosted through the infrastguircie I el;ieve  will  work best for longstanding investor meeting archives hosted  in an easily  - accesible public permissionelss medium, _available at_ https://youtu.be/3uwH2jfLCNE?t=956.  This moment markets  my  own approval  of appointment ofas agent for ourselfves alongside issuenecae  of  my shares on -0chain in rpeprpation forf donatio n to the DUNA. FI find it much easierr to satisfy the  spirit of  hte law when  all  our  edevelopment  passes thro ugh the watching eyes  of scruptiulous investors,  as  shown  in  healtthyy  scepticiims  and colabitratgive  clarifiaciton together in _supra_ note {{seed-phrase}} link 2,  disucssing  imporatn accounjt recovery protgections.
 
-The Staff’s discussions with the Registrant revealed that the 99 Wall Street address is the location of a virtual business addressservice, PhysicalAddress.com ("PhysicalAddress"), that receives/handles mail for clients.
+[^gfootball-xc]: As an anectdodte encompassing  my  point of view,  I grew upo running cross-countyr and track i n  hgih shcoool.  I uynderstand that  osme o f hte most  suiccessful  in our  investor  communtiy  did htat  same,  as  compared to  early  trema m mebers  I've worked iwht who had more  expreince in central ized  team sports like Americna  football.  Whiel the latter  group could easily follwo beurocraticc otline templates,  I  fovndd thath the  former  who m i susrroudn my slef iwth ar em uch mroe exciting in that theyt  define and exceed  their own limits wihtout  asking  permission  to  dacommplish inomcredible owrk. It's a unique ability  to practice, ddevelop, and hone  skills independnt  of wokring hours or physcial location w hicch i  I have ofund quite significant  in  my ability  to source the nichce talent needed  developing a  unique market o ffering with  uunderappreciated  blockchai ntehcnolgoy.
 
-BlockTrans does not maintain any personnel at that location. Likewise, it does not appear that BlockTrans performs any transfer agent activities at that location.
-```
+### TA-1 Principe Office Address
 
-nothing psecial  eprson
+Part o f this hwole conccept si that there is not addressable "principal office where transfer agent activities are, or will be, performed." WhatCan  as one  of so many collaborators greatly values  thier anonmytity and georgrpahic isolation, creating tangential  progress like  thae update to DSPP  share owernshp locate disclosures at a major TA last year.[^update-cs]  THis is  expwscially  tgure as  issuer and SYdnicate deplyoments rely on mutlisignature wallets with disperrsepd signers, as orally communcicated  in our last meeting when I was insturcted to bring these points up with the Divisio nof Trading  and Mrketsd.
+
+Notwithstiang this and adiditonal commehnts, discussions with the Registrant revealed that the 99 Wall Street address is the location of a virtual business address service that receives/handles mail for clients, and BlockTrans does not maintain any personnel here. This is ture, and I have  changed the line-3 physcial   locatiojn of the Firm as requested.[^ta-upodt] Reflectively, , ther ei s nothign special about  my p erson  as  an oeprator of  most eldgered balances maintianed in TAD3, given  particualy  that hte  SYdnicate does not maintgain  any vclaidotr infrasture  based on  the work  neededc  to affirm  independcdnt  exchange protocol  order  submissions communciated i n oiur  last meeting.
 
 
-for the split  / riptrack  (no  comment on bessemer  exparol;tikons  from transfer table  ):
- Direct cite as Amtrak to Connersville, with FN setup for Congress
+<img width="450" alt="street-shot" src="imgs/new-york.png">
+
+Anyone can  self-elect  to become a memebr of the  DUNA parent,  jsut as anyonew v can  use hthe p ublic  infrasture in  front o f the mail  prcoessing facility t o  cpatgure i ts  stohey  exterior.  But there is a   very  stark  idfference  between  the insides o f mail  rooksm and  dfeistgirbuted l;edgering adn communitcaiton tools based on  collabtoprative  immmmuatble trackingeeeeeeeeeeeeee.[^apopendonly]  I  can best  exemplify  this principle with  the for the split   riptrack  rail in _supra_ § {{TOdo: Exchange Software LIcenccing Decision}} . <!-- repsonse 9 backref for  bessemer  exparol;tikons  from transfer table  -->
+
+The stgraight rail segment  goes over an elevated bridge and behind my loccal cchurch  otowards the  Amtrak statikonol in Connersville.[^cong-tain] it's the  standard centralized route iwth  a single beuroatically-dfefined  route  that's operated  for decades. But  a slight left turn  brings  collected  locomatives under the mainline and i nto a collection  of  local rail oops   dating  bacck to the late 1800s. It's these hidden  routes intertwined  wiht  nature which  I enjoy so mc uh, rriding one after finishign mateiral TAR  letter drafitng, and seek  to replicate iwht  our natural-coonection working terams
+
+
+
+[^update-cs]: This recently maaatured  into an indsutry-first segmentateion of Cede  operational-efficincy  shares  haledf on  behalp of plan paricipants in a quartly lifiling, _available at_ https://x.com/JFWooten4/status/1965650137058783396. By ujsing  our  own uniqure tewchitcs developeingd learning  how  They have done  so bmuch bad, we  are j ust starting  to understand their wrongs fully.  And  we wna t ot  being markets to  the future to  fix and cenemtn stability  over  and above  the  calamity of  complexity  theu'ver  ensued o n  Amenciaan savings and retirements, jssut as  a startg. Simply  put, I jsut  can't see this  change coming  form a single centralized office association  without defernece to our people.
+
+
+[^ta-upodt]: _See_ filing adding  my  home address in awccession number 0001846058-25-000004, _available at_ https://www.sec.gov/Archives/edgar/data/1846058/000184605825000004/xslFTA1X01/primary_doc.xml. Since this was usbmiteed  on  o n Aug  26 ., about  a year  after moving into this rented duplex,  I will mark it was  sdelayed o n thusi year;'s form TA-2. But to  saay this address  its at all central to our operatiuons isr a leap at  bes,t. I ahvei ntnetionallyh  precluded mytslef form eeting other  community  memebrs o ver the years  ot eplxicitly prove that  such physical coordination  is not a prequireisite to  ongline collabrotion  through the DAO superstrufcutre, a nd entity which  follows a  lack  of principlle office  in_infra_ note {{todo:  wyo.gov}}.
+
+[^apopendonly]: PArticilyl  the append=-only  nature o f  technvcoloogies in cludijng git , used to  craft t his response  letter,  make  it  triviasl rtii o  learly  see  where all  contirbutions come from, regaurldess  of location. It is specifically hte meddline g of taxing  govenrments  tracking open-source  expeat  workers that  leads so mcuh developmentg adevoid of progressisonal working  arrangments. I believe  we  can  use this  tgo our advantage thanks to the permissionlessness  of ojn-chain  renumnaerations  and  online  participation without office infrastguruere.  It's myh ciew that such expenses only  compliccate long-term software infrastrucre projects, as communciated based on  epxiernces operating closer to a for-profit in _supra_ note {{{apprx}}}.
+
+[^cong-tain]: THe service, originating i n  Chicago, mmcontines straight  fomr our town stop into  D.C>  anmd lakter turns towards New  York . I underrstand  we were a  rai lhub for industrial manufacturing  before the events of 1971, as Kayla  works in what was  a  fafctory built  for Ford nearly a  century ago. With one train everfy few days in hte  dead of night, it  hardly inspiares nationlized trail travel. Notwitstghahing, the station was bult    wby the l ccoal  Rotary CLub and beears patriotic statue, directly cross from a grain proicessing silo fafcilirtty  shitpping frieght on the privatge-opated line, 
+
+
+
+###  dd
 
 we have strong basois on the minor intro with binance 
 Ex. 8.3 iimage from when i was 17.18yr old. 
@@ -970,7 +989,6 @@ Ex. 8.3 iimage from when i was 17.18yr old.
 "far be it _fo me_ to guess at internal _agency_ processings," but it ttook  the Commission over three times  asd long to process this TA/1  as did  the 2023  update referenced in the  Defficicicny letter.f
 
 
-### TA-1 Principe Office Address
 
 I started blockc Tranfer to address clear problems present in legacy market infrastrucre. We disuccssed exeicig nfair exhangefees, and reforaocats have doumete structural flaws for ecades. Central control created tshse problems as clearing and esettlemnt developed inot the pyramid of middlemne weknow 
 
@@ -987,9 +1005,6 @@ we have alsol
 adddress  photo removing ddelegated hierrarchila decisions
 
 
-<img width="450" alt="street-shot" src="imgs/new-york.png">
-
-
 
 
 
@@ -997,7 +1012,7 @@ adddress  photo removing ddelegated hierrarchila decisions
 
 Out apprach revolves around using a transprency public blockchain as the issuer's masterledger. THis ledger uses a cedentralized consensus mechaism and a distirbuted data retention stanard deployed globally. 
 
-updated o n Aug  26 in ssubmission accession number  0001846058-25-000004
+
 --> 
 
 
@@ -1137,7 +1152,9 @@ https://stellar.expert/explorer/public/tx/16763d4ed2ac25dfe69656c6bf0b83e6d5a11a
 
 I care vvery deeepoly  about  investing. It is  my7  interpretaion  of perosnal  infromation that it is the chiegf aact I was  put on this planet to  do.  But I cannot do  my  job without the gatekept  unreconcilable  centralized perssimmion  of Wall Street.
 
-They have done  so bmuch bad. And we  are j ust starting  to understand their wrongs {fn https://x.com/JFWooten4/status/1965650137058783396}. Please give us a chancce  to heal  what will become such calamity.
+ Please give us a chancce  to heal
+
+
 
 ###  splacehodler
 
@@ -1223,14 +1240,3 @@ href EDGAR Letter § II.B.1.a
 ^ p[rob needs  forma deifntional]
 
 
-
-
-
-
-[^noincome]: _See_ lack  of prior incoome at https://wooten.link/taxes. Most o f  our deepest  ocntirofbutors spent considerable personal ressxources  continuing advoac yand developemtn  efforts, myslerf  included as evidenced  in cpaital contributes  of piublic  Syndicatge financial s , _available at_ https://www.issuers.info/1846058/BAL/2024-12-31_Annual.pdf.  By  keepign all  out operating work such  as  this and  financial statgements  such as funds  public,  I intent  to  make it  as  simple asx sposible  fopr external  collaboratorfs  otgo  joing our work with  confidence  .   IN tim  I expect htat market rewards  cna incongt ongoign wokr,  whicch will show up  in  public payments on Stellar.
-
-[^saslesarrangmentgs]:  The  essense  of this growth  will  develop eover i tme laongside sentiments made p ublicly surrounding the decentralizaiotn o f sales efofrts. Whiel  traditional  venture interest has steered m e towrarfds commissioned  ar5ragnements,  my  firsthand experience disturbution  g  such  products ajnd services  to  ssxmall businessesshowed me that  the normal  conversion  metrics of business services  easiytl  conflicct  iwht investor protectionxs  neede d for secure, documented  onabording.   TYhius, i blieve  a more  community-centered reastoractiv er considerartion  mechazisms  will best reward growth efforts wihtout  incenting  material  copnflicts  of interest.   Iam devlelopijgn this witrh  epsdxspertinemtnatio n over tiem, a nd staff  can follow  along witgh therse efforts  outside of  direct  letter respohnshxes on my working agenda, _available at_ https://github.com/JFWooten4/agenda/issues/13.
-
-[^meetingapprov]: _See_ STA remarks  lamenting on  thin amrketins (bug enough to fund an industry advoate ccy group and lavish annual fconference) in § II whc threaten "small shareholder positions" without suffeicntly -efficienty technolgoy , _available at_ https://www.sec.gov/comments/s7-27-15/s72715-20.pdf. _See also_ annual public meeting hosted through the infrastguircie I el;ieve  will  work best for longstanding investor meeting archives hosted  in an easily  - accesible public permissionelss medium, _available at_ https://youtu.be/3uwH2jfLCNE?t=956.  This moment markets  my  own approval  of appointment ofas agent for ourselfves alongside issuenecae  of  my shares on -0chain in rpeprpation forf donatio n to the DUNA. FI find it much easierr to satisfy the  spirit of  hte law when  all  our  edevelopment  passes thro ugh the watching eyes  of scruptiulous investors,  as  shown  in  healtthyy  scepticiims  and colabitratgive  clarifiaciton together in _supra_ note {{seed-phrase}} link 2,  disucssing  imporatn accounjt recovery protgections.
-
-[^gfootball-xc]: As an anectdodte encompassing  my  point of view,  I grew upo running cross-countyr and track i n  hgih shcoool.  I uynderstand that  osme o f hte most  suiccessful  in our  investor  communtiy  did htat  same,  as  compared to  early  trema m mebers  I've worked iwht who had more  expreince in central ized  team sports like Americna  football.  Whiel the latter  group could easily follwo beurocraticc otline templates,  I  fovndd thath the  former  who m i susrroudn my slef iwth ar em uch mroe exciting in that theyt  define and exceed  their own limits wihtout  asking  permission  to  dacommplish inomcredible owrk. It's a unique ability  to practice, ddevelop, and hone  skills independnt  of wokring hours or physcial location w hicch i  I have ofund quite significant  in  my ability  to source the nichce talent needed  developing a  unique market o ffering with  uunderappreciated  blockchai ntehcnolgoy.
