@@ -1012,54 +1012,23 @@ I appreciate that teh Commission's used to aplying its laws to centralized organ
 
 I've lawyas known wwe'd expand  and someone else would ahandle PHysiclaAddressss  mailroom digital  rpocessing,m resulting in  necesary public poilikccy. I'vve  avoided developing these standrds because historic implmentaitons woudl be  impliclty  centralized  as directive working instructions in a hirerachal centrali organzaiton,.[^laibilty] However,  I hbave  a better scope  of vision for  authority-light team expansikon  to routine items like  KYC processing,  which I intent to matujre going  forward including through this processing.
 
-I wonder now  to  staff what our  examinatiohn juresdictikon wilkl look l ike given the Commission'd  regional-office  operating model.  And  rI question if it would affect the  consistency  of  exmamination udnerstanding to limit material -  shareing  to  a  singel jursidction or not.  I liekd the orignial New-Yokr registration because  I repr4e44sumed it  would  be  the most  sccruitinaous examijnation region of possible addreses?[^addr-loc]
+I wonder now  to  staff what our  examinatiohn juresdictikon wilkl look l ike given the Commission'd  regional-office  operating model. And  rI question if it would affect the  consistency  of  exmamination udnerstanding to limit material -  shareing  to  a  singel jursidction or not.  I liekd the orignial New-Yokr registration because  I repr4e44sumed it  would  be  the most  sccruitinaous examijnation region of possible addreses.?[^addr-loc]
+
+Whilie I do not agree  with teh changes  in public lcoale inforation, I appreciate staff effforts  to streamline regualtory oversight.[^packages]  ONe  option I've alwyas had  configured is  an aexternal review account wihtr limited read permissions across all mail  items.  I have configured for years now this custom account profile which can  connect to any communcated staff  email for permissionless access  to all  p[rocessed materials  and  autdit lgs of access hisotry.[^audiot-optikons]
+
+I porpose again an option for staff to ahve more poersonal oversight and interactions wiht my own limited scoipe of work. My  intenrtitons a re  ot increases permissioneless Commission cdisclosrueres ,  kloiwering the burdern ovf verifiying  good-faith correct oiperations, similar  to  the prooposed mailbox a cces and overlooked interleave scheme  of  PREV § II.B.2.d § 2.d , offering an "API to access our PII."  I understand the role physical visits  used to play, and so  I would be happy to cover spacce for staff to move into the other  side o f our duplex since our neigtbors moved out last week,
 
 
 
 
+[^laibilty]: Such a policcy  is  mateiral because  sectio n12  of the subscriber agreementr indepmnifies PhyscaiAddress from Synciate dmaanages resulting in mishandling, despite no evidfnece  of  anyhting b ut professional serivce in the past, _available at_   https://physicaladdress.com/subscriber-agreement. Donna and  Dave wer  kind ernoguht to inform me that most angents have specififc  written outsourcing agrreeement s with their providers,  which  I  forwentg in  exchange  ofr h te scaling benefits nad  ingfraxstrcuture  stability  discussed i n our meeting all together. I  szstand by  tthis interpretaion of technical quality, which I  was  not  eable  to  ascertain with structly  comparably  e  scan turnaorund times at any  other privoders during  an extensive search  ascross  the indsutry.  Axxoesidnflt,  I  qill xrewrtw  a policcy for  adaptation into  ongoing operatikons expkolaing the  treatment  of differnet  mail items  bassed o n  requested  and personal  use cases, _available at_ https://github.com/blocktransfer/website/issues/9.
+
+[^addr-loc]: As  evidenced  in the filing, I presently  live i n  a removete  part  of the countrfy which isn't  clsoe to any  concvnetnient cnetralized  odffices like  Wall Street./  I wnat to  conitnue our relationship with the bes t location for secure physical correpsonsce. But I do  not  see this  vision  combining with  the necesary decrentrlaized and often anonymous assistance of  others, particialt yhtrough the DUNA strucutre vwhiddch  I presume woiuld  have  oversight implications  asa whole parnet.  Thier seucirty  matters owrfor working indepocepnce  and cryptofgrpahci secuiryt,  hwichi is hwy  I  designed and iwll document hte  for-benefit-off  adddfressivng serivce aliasses ias  a d efauilt o ption of ro  all committmentred memebrs.
 
 
-i specifcialyl  wnat a fn  on the reccomendation provided to make TA-1  line 3 the address "to which  yoiu would forward  packages" 
-direct screenshopts on  the aimplmentaion page at  https://physicaladdress.com/virtualizedmail/settings#deleteforwardconfirm
+[^packages]: For isntnace,  Staff particialyt  intructed us in meeting 2 to use for line 3 the address "to which  yoiu would forward  packages." Despite onl yever fotwarding  a few items related to centralized documents and insittiions  like FINRA's old fingeringpringing  caredff, as deiscussed from before the Sterling transition,  I  appreciate theirt  basis.  Few  fdirms ujdnerfstgand  the  ysstems and cultire needed  to scale  adecentralized  orgnaizatigons or (to the e xtrmee)   autnomious sidstributed  owrkforces iw ht self-alinging  interests.  Wi will share  all  possible informatioon through out r public policies and queerryt responses  ot get staff more comfortbale wiht this , as  it  realted s  deeply  to the processing  of  items  from applications which sign trasnsactions for  users  at arbitotraty localetioons qwhen processed  through the Stellar  COnsensus Protocol. 
 
-askin to  the prooposed interleave scheme  of Response §  , I sould be happy to let them use it with the limited permission applic cable in the `DOC _ HERE _ NONPUBLIC _ POLICY _ OPTIONS`:
-
-User Permissions:
--  Update Company
--  Update Users
--  Update Senders
-**-  View Envelope**
--  Archive Envelope
--  Move Envelope
--  Delete Envelope
--  Forward Envelope
--  Scan Contents
--  Billing
--  Block Sender
--  Folder Manage
-
-* User Name:
-SEC Audits
-* E-Mail Verify:
-sec.audits@blocktransfer.io
-Status: New UserLast Access: 2022/10/06 08:02 EDT
-
----
-
-
-> The problem of ‘too central to fail’ can be addressed
-by reorganizing the underlying network topologies, while the problem of ‘too large to fail’ remains, at least
-to a certain extent. It is reasonable to conclude that for systemic risk-efficient allocations (i.e. the optimized
-networks) the individual systemic risk becomes more proportional to liabilities
-
-
-froim https://arxiv.org/pdf/1905.05931
-
-
----
-!!
-
-
+[^audiot-optikons]: For secretasrial a ssistence  , the permissioning options define granular user access controls, ranging from administrative actions (such as updating company settings, users, and senders) to envelope-level operations (viewing, archiving, moving, deleting, forwarding, or scanning contents), as well as account functions like billing, blocking senders, and managing folders.  TRhis  will allow accouints which can only add and process  mail items wihtout  any option  to remove  potential mail  items into the trash  before sccanning them. While out po;licy has  been to  scan all meail as soon as it  comes it, the updating processing poilicy will  flesh  this i nto a more reactive policy sensativve to  investor  information and orgnaizaitonal pricacy.
 
 
 ### Early Tea,m Working Arrangements
@@ -1154,9 +1123,6 @@ tech  tgalentg  /  ditsteirbuted office shiops is  Ex.  8.4
 
 [Acccolades  b/c this was aweesome]
 
-Basically, after _EXTENSIVE SSETUP BEFORE THIS POINT_, I want to ask them to `move  in`  so to speak as proposed but overlooked in PREV § II.B.2.d.
-"API to access our PII." (with tbale leave  & `think about it lol` sentiments)
-
 Narrative starts with FAC as basiss for review on sentiments of possible sudden weather changes
 
 Existing work in 723 (later) extends to the investor protection points in re Acccount Recoveryt 
@@ -1164,11 +1130,16 @@ Existing work in 723 (later) extends to the investor protection points in re Acc
 becuase like lol ultimatley the goal  is creating  this awesome predicatbale pbeurcoracy o n our side that interlinks with the berorcratic investpr protections needed for relaible sagfertty
 
 
-^ but also  cite exmpty  duplex partner option for off
 
 
 
+elI  hope staff  think abotu mjy proposals and let me know  in due  time relevant interprtetaions. I'll leave on  a  quote  i belive  the communtiy wsoudld appreciate. It  comes from  aa standdard  mathematical journeal related  to  arrecent acadmeic communtiy publication pending broaer publidc discussion, _available at_ https://arxiv.org/pdf/1905.05931.
 
+
+> The problem of ‘too central to fail’ can be addressed by reorganizing the underlying network topologies, while the problem of ‘too large to fail’ remains, at least to a certain extent. It is reasonable to conclude that for systemic risk-efficient allocations (i.e. the optimized networks) the individual systemic risk becomes more proportional to liabilities.
+> 
+> Policies that explicitly account for the network structure of financial markets are a necessary
+and efficient way to reduce systemic risk.
 
 
 # Misc hrefs related to logging
@@ -1232,6 +1203,6 @@ href EDGAR Letter § II.B.1.a
 
  
 
-[^laibilty]: Such a policcy  is  mateiral because  sectio n12  of the subscriber agreementr indepmnifies PhyscaiAddress from Synciate dmaanages resulting in mishandling, despite no evidfnece  of  anyhting b ut professional serivce in the past, _available at_   https://physicaladdress.com/subscriber-agreement. Donna and  Dave wer  kind ernoguht to inform me that most angents have specififc  written outsourcing agrreeement s with their providers,  which  I  forwentg in  exchange  ofr h te scaling benefits nad  ingfraxstrcuture  stability  discussed i n our meeting all together. I  szstand by  tthis interpretaion of technical quality, which I  was  not  eable  to  ascertain with structly  comparably  e  scan turnaorund times at any  other privoders during  an extensive search  ascross  the indsutry.  Axxoesidnflt,  I  qill xrewrtw  a policcy for  adaptation into  ongoing operatikons expkolaing the  treatment  of differnet  mail items  bassed o n  requested  and personal  use cases, _available at_ https://github.com/blocktransfer/website/issues/9.
 
-[^addr-loc]: As  evidenced  in the filing, I presently  live i n  a removete  part  of the countrfy which isn't  clsoe to any  concvnetnient cnetralized  odffices like  Wall Street./  I wnat to  conitnue our relationship with the bes t location for secure physical correpsonsce. But I do  not  see this  vision  combining with  the necesary decrentrlaized and often anonymous assistance of  others, particialt yhtrough the DUNA strucutre vwhiddch  I presume woiuld  have  oversight implications  asa whole parnet.  Thier seucirty  matters owrfor working indepocepnce  and cryptofgrpahci secuiryt,  hwichi is hwy  I  designed and iwll document hte  for-benefit-off  adddfressivng serivce aliasses ias  a d efauilt o ption of ro  all committmentred memebrs.
+
+
