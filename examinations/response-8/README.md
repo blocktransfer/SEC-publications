@@ -6,21 +6,9 @@ announcements:
   - completion: 
 ```
 
-# [Download]() (as PDF)
-
-## submission email
-to steve CC dave
-AS REPLY  TO THE X POST SEND ACK_
-
-Hello,
-
-Here's out resposne letter. I'm goiong to keep working on the referenced items rather than comment on recnet SRO or market changes. But i am always here to help voice a concerned investor constituency voice for rule meetihgs.
+# [compile](https://writer.zoho.com/writer/open/a1vvyeef50b7575f84f1d846559dc867d2845)
 
 
-In good faith,
-John Wooten
-
-----
 
 
 > [!NOTE]
@@ -107,8 +95,7 @@ the law requires more than notice  and  comment because changing  witgh the NMS 
 
 
 In  good faith,
-
-John  Wooten
+/s/John  Wooten
 [req "signed cover letter" which prob just "/s/" but lol we have the good electroic one to drop like cmmnt]
 
 
@@ -953,6 +940,8 @@ org  design is  "not  a p hrase" re Russell meeting (conference) csentiments and
 haven't  setup the i ssuer  ccom  agreement  ("standard  template") just  yet  and os we will be doing that as  the revamp
 
 
+
+John Wooten, Principal/Founder
 
 gets also iunto  dev tooling (circa  subsubsec elsehwere)  for Football comp. Cross COOuntry methpsors
 
