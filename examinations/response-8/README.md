@@ -123,13 +123,7 @@ https://web.archive.org/web/20250612221938/https://www.blocktransfer.com/blog/po
 Response 1 n.10
 
 
-
-
-we can do a fn deference  to the other staff outside the review committee who exmained :blockkchain TA" for any DEX insights (this should be used carefully with an _Id._ ,to the X space at [timestamp politicking ask])
-https://x.com/i/spaces/1BRKjgprZkQGw and some leftovers at https://github.com/WhyDRS/Taking-Stock/issues/35
-
-
-and then i dont think she dound much on the SDEX bc no 723 yet
+ *"*and then i dont think she dound much on the SDEX bc no 723 yet
 
 
 
@@ -1108,6 +1102,12 @@ https://stellar.expert/explorer/public/tx/16763d4ed2ac25dfe69656c6bf0b83e6d5a11a
 
 
 
+we can do a fn deference  to the other staff outside the review committee who exmained :blockkchain TA" for any DEX insights (this should be used carefully with an _Id._ ,to the X space at [timestamp politicking ask])
+https://x.com/i/spaces/1BRKjgprZkQGw and some leftovers at https://github.com/WhyDRS/Taking-Stock/issues/35
+
+
+
+
 
 I care vvery deeepoly  about  investing. It is  my7  interpretaion  of perosnal  infromation that it is the chiegf aact I was  put on this planet to  do.  But I cannot do  my  job without the gatekept  unreconcilable  centralized perssimmion  of Wall Street.
 
@@ -1133,7 +1133,7 @@ becuase like lol ultimatley the goal  is creating  this awesome predicatbale pbe
 
 
 
-elI  hope staff  think abotu mjy proposals and let me know  in due  time relevant interprtetaions. I'll leave on  a  quote  i belive  the communtiy wsoudld appreciate. It  comes from  aa standdard  mathematical journeal related  to  arrecent acadmeic communtiy publication pending broaer publidc discussion, _available at_ https://arxiv.org/pdf/1905.05931.
+elI  hope staff  think abotu mjy proposals and let me know  in due  time relevant interprtetaions. I'll leave on  a  quote  i belive  the communtiy wsoudld appreciate. It  comes from  aa standdard  mathematical journeal related  to  arrecent acadmeic communtiy publication[^laweson] pending broaer publidc discussion, _available at_ https://arxiv.org/pdf/1905.05931.
 
 
 > The problem of ‘too central to fail’ can be addressed by reorganizing the underlying network topologies, while the problem of ‘too large to fail’ remains, at least to a certain extent. It is reasonable to conclude that for systemic risk-efficient allocations (i.e. the optimized networks) the individual systemic risk becomes more proportional to liabilities.
@@ -1141,6 +1141,12 @@ elI  hope staff  think abotu mjy proposals and let me know  in due  time relevan
 > Policies that explicitly account for the network structure of financial markets are a necessary
 and efficient way to reduce systemic risk.
 
+
+
+
+[^laweson]: _See_ evidence-based ananloysi of DRS trenfds amongst issuers of interest ote hCommission  in detemining strucutral  integrtiry  of the hierarchal  DTC-based  National Market Systme, _available at_ https://dx.doi.org/10.2139/ssrn.5328867. This author was party to the govenrance idsucssion of Ex. 6.2.5, previopsuly detailed  as  a proactive  brianstomring session for a transfer-agent govenrenace body  surrounding aq  DRS seoly operated  by agents.  I'm  thankful  we have this new opooorpuntity for ikndsustry to opt-in  to increaasing services nadd reposnablitlies with some of hte brigfhtest retail minds  relfpresting American investor  intereests . IN discussion of the workk on our podcast, I found particualr concern  with the thinnning SIPC pool after the Silicon Valleycrashes, leaving a single bps.    
+ 
+  
 
 # Misc hrefs related to logging
 
@@ -1206,3 +1212,4 @@ href EDGAR Letter § II.B.1.a
 
 
 
+                                                                                                                                                                                                                                                                                                        
