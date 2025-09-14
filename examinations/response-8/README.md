@@ -79,7 +79,7 @@ basis
 #$  Ex. 1,  a exhange with webb🤝a.cvoim link form , _available at_ 
 
 ### FAC statutory basis (exemplifiexi n the iran implications  of OFACV)
-15 U.S.C. § 78q-1 (the "NMS Statute")
+15 USC § 78q-1 (the "NMS Statute")
 subsection (f)
 
 Federal Advisory  Committee ("FAC")
@@ -765,7 +765,7 @@ n
 
 2023 proposed amendments to Reg SCI would not have applied to transfer agents
 
-Department of Government Efficiency cuts
+
 ^ sole regernce, only aded with a fn
 
 `parallle/side markets`
@@ -871,18 +871,7 @@ In our sedcond meeting, I placed emphasis on how legafcy inmported investgor  ba
 
 Because all certificates are ignored  by rule,[^nullvoid]  I do not think it would be fair  to cclassify  us  as  a reporting instution under Rule 17f-1(a)(1). IN analysing the  content  of  Form X-17F-1A, I furhter posit such reeports wouldd noit make sense for outr business because of the inability  to lsoe digital assets i n a manner such as those defined in line 4.[^seed-phrase]  TYHe investors h ave something  much closer to  "digital  gold"  (for l ack  of  a btetter metaphor) whiuch crucially is  abundantly  apparent  when invovvled in  fraud, thanks  to the  on-chain montiorign of _supra_ § {{Alternate Trading Venue Problemsd TODO}} 
 
-I ebelive  a  Transfer  Imporvmeent  Proposals ("TIP")  standard desinged  alongside  communtiy contributors will best protect i nvestors by  laying  out  a  shared rframework for identifying, investigating, and rectifying on-cyhyain crime using agent-controlled  trustline  managmeent.
-
-
-the thing is this will need to be a TIP for hte  creds and 
-
-
-becuase (DOGE citation) with the dismatingn of  the CFPB it iqs quesitonable if law enforcement database will help investors
-
-
-
-
-Distinction ebtween certs  and the actualyl alw for  all securitgies . 
+I ebelive  a  Transfer  Imporvmeent  Proposal ("TIP")  standard desinged  alongside  communtiy contributors will best protect i nvestors by  laying  out  a  shared rframework for identifying, investigating, and rectifying on-cyhyain crime using agent-controlled  trustline  managmeent. Givven attmeped dismatnlings of  th4e CFPB in _National Treasury Employees Union v. Russell Vought, 25-5091, (D.C. Cir.)_, I further ind it  quesitonable if law enforcement's centralized database within Acccentuire policing will help protect h te public more than existing  SRO  enforcement  actions upheld by  _Alpine's_ immierdiate rejection. THese rules  make proecesjusral isolations for  certificates, but the point o f  my  work in TAR letter § IV was a distinct protection  for  all  invoestors using secure DRS records.
 
 
 
@@ -896,12 +885,20 @@ Distinction ebtween certs  and the actualyl alw for  all securitgies .
 [^seed-phrase]: The exceptoipn here, of  course,  is a crpyotrgrpaohic seed phrase. This is why I put  so much wokr into both the identity  recovery  verificaiton system design and DUNA  governemna ce for the adffifrmation of rule logic surroudnign verified  account restoration funcitonaljitry, _available at_ https://github.com/blocktransfer/py-TAD3-horizon/blob/def8aaa17338073afe871de5881a30e406ba3d3c/investors/executeVerifiedRestore.py.  I find this incredibly iumportant for enabling  efficeint  trusted access to  Stellar since this will be msost ivnestorss' first time interacting with  a web3 applicatikon, hadnling thier own ownership keys in self-custody.  _See also_ an exmaple of fdecentrtalized ocmmunity discussion  directloy rfelated to Commission objectives in relation  to precisely this saferty feature, _available at_ https://github.com/JFWooten4/agenda/issues/7#issuecomment-2992215559. I;ve come to the  conlcusion that it'ss onyl  through sponrtanous onlien conversatiosn with passionate investors that  wr might build the best p ublic policy fully encumbering the interests  of the decentralized i nvesting  public ad hocc.
 
 
+#### Exchange Act Counterfeiting REeports
 
+Rule 78q(f)(1)(A) clearly  refers  to all securtiies.., which include any Uncertificated stock in 15 USC § 78c(a)(10). By extension under UCC § 8-501, this applies to entitlements traded at  cleairng agencies covered uyndder paragraph (1)'s paarticipation requirements.  However,  nominee-based exchange entitlements
 
-
-
-
+[^tar-fuck]
 story 
+
+
+The owner’s property right (the vote, the control of their entitlement) is taken and deployed elsewhere.
+
+Even if industry argues it’s “permitted” under customer agreements, the economic reality is dispossession without active consent.
+
+
+
 `
 `rty6b76n8m980oikm8;uj.yuio8ujyhj uikmnhmm,.m 
 
@@ -911,7 +908,7 @@ I have no  itnention of singing the FAST LPA agreements, and  if edcchanges scch
 
 intro'ign the nuke here
 
-#### Securities  Cancellation Dates
+##### Securities  Cancellation Dates FN<!>
 
 This information is required as part of the minimum certificate detail pursuant to Rule 17Ad-9(a) under the Exchange Act. Cancellation dates are reflected on the Stellar blockchain and for securityholders who opened Accounts/Wallets on Stellar (the "Stellar Accounts") are readily obtainable. However, for those securityholders without Stellar Accounts whose shares are held in the "Distribution Account", there is no clear audit trail that records the number of shares cancelled by securityholder or the date of cancellation. To obtain this information on a securityholder level, BlockTrans would have to review several sources to determine the number of shares cancelled and the cancel date.
 
@@ -923,7 +920,7 @@ As a result, BlockTrans does not maintain or have readily accessible the cancell
 
 <img width="600" alt="f111-story" src="imgs/fighter-pilots.png">
 ^Y
-want refspfefctful deference to (9) ponlicies
+navigatingwant refspfefctful deference to (9) ponlicies
 
 ##### backups in CRON and pen...
 
@@ -1236,4 +1233,17 @@ nove  in parts should be here  at the  close
 
 
 
+voided in reconciliation
 
+[^tar-fuck]: _See_ Dole fn n.24. _See also_ Bed Bath n.32  andd accompanying text.
+
+
+n.19  is the  trasuries from Lehman
+
+That’s a direct illustration of “stolen” entitlements under your § 78q(f) classification: investors’ property was diverted to satisfy secured creditors, even though the beneficial owners thought they still controlled those securities.
+
+Bankruptcy exposed the fact that more shares were credited in Cede & Co. than the issuer had actually issued.
+
+When reconciled, the excess ~37.4 million positions have no legal effect. They are void — the issuer’s register controls.
+
+That’s exactly what “cancelled” means under § 78q(f): securities that appear outstanding in circulation but, when measured against the official books, are legally null.
