@@ -1,6 +1,9 @@
 ```
 extends: Response #6 <-- actually important for the cross-ref refferal to backlink, even if a placeholder we need to establihs and communitye te URL SCheme
 publish: 15 Sep 2025
+announcements:
+  - findings: https://x.com/blocktransfer/status/1956349988889366676
+  - completion: 
 ```
 # [Download]() (as PDF)
 ## submission email
@@ -831,7 +834,7 @@ Thus my inital approacch was to scan and shred oldd certificates using  the PHsy
 
 [^cancel-fac]: Namel,y the distrtibtiuon of physiccal certiifcates would act  as a  central point of failure rquiring immense securityy andd oeprational  control measures only possible t hrough  centralization. In communtiy policymakign wokr, i've used the example of a DTC  processing vault my Dad helped finance in the early 2000s, employing retinal scanners. I  employed this line  of eraosning when Reading Rule 17Ad-19(a)(2),  which I'd be remiss  to not point out was written two decades ago in S7-18-00. The immense regulation and maleability  of paper documents just aslways seemed cojmpletely incompartible with my  vision  for a decentralized financial system unhindered  by nonroutine processing exceptions that  fuel FTDs.
 
-[^no-nums]: _See_ onbaording flow for local seed gneration and physiccal user storage, used to sign trasnactions in a warm wallet in the sense that compatible apps submit authenitcated messsages  to Horiizion nodes. This approac leeps securities in a fundgivble pool within the investor's account on Stellar,. onbaoting unique or serial certificate numbers given balances automatically denominate up to secen decimal places in response  to transfer items. Even the "destruction"  or  "canccellatioon" exmeplified in the DMEO burning transaction stayt completley evidenced on the deistributed ledger with out "physical ruination" or disposal needs. While there's  an argument Rule 17Ad-19(a)(7) covers such an everbt,  it  was m y  reading that this only  applied  to acctual paper  certificates. Given the use og "printed" in 17 CFR § 240.17f-1 ("Rule 17f-1") subparagraph (a)(6)(i).
+[^no-nums]: _See_ onbaording flow for local seed gneration and physiccal user storage, used to sign trasnactions in a warm wallet in the sense that compatible apps submit authenitcated messsages  to Horiizion nodes. This approac leeps securities in a fundgivble pool within the investor's account on Stellar,. onbaoting unique or serial certificate numbers given balances automatically denominate up to secen decimal places in response  to transfer items. Even the "destruction"  or  "canccellatioon" exmeplified in the DMEO burning transaction stayt completley evidenced on the deistributed ledger with out "physical ruination" or disposal needs. While there's  an argument Rule 17Ad-19(a)(7) covers such an everbt,  it  was m y  reading that this only  applied  to acctual paper  certificates. Given the use og "printed" in 17 CFR § 240.17f-1 ("Rule 17f-1") paragraph (a)(6).
 
 [^whop-no]: I sincerly appreciate staff clarifyting that this  would not be  an acceptable operating stragety given the use of employes not fingeripritned by the FBU udner Rule 17f-2. I do understand  the legacy stamping perforation process typically followed before shredding, but I failed to see how that makes a differnece iven a decent cross-cut macchine. It  seems I failed  to  contemplate  under Rule Ad17Ad-12 the  conseuqences off having an outside party blidnly  open certificatees which could contain investor i nformation. I have not previously considered items usch as address or legacy certificate number as top safegaurding concers  outside of the registed PII datbaase because the only way to trnasfer securitiers in my  mind comes from cryptographic poor laid out in our signature-gaurntee policy. 
 
@@ -841,7 +844,15 @@ Thus my inital approacch was to scan and shred oldd certificates using  the PHsy
 
 #### Certificate Cancellation and Destruction
 
-problem framed around STAMP vioders
+IN the  early days of Blokc Transfer, I joined Kenmark's STAMP  program becuase  I thought innefifcinet procees were backed into the law. There I saw firsthand just how troublesome physical trasnfer agraunteesx cna be even with a comprehensive oversight newtokr.[^stamp-los] I am glad we can  move past this histeopric limitation with uncertiifcated securities erpresented in token specie on an issuer ledger.
+
+
+
+
+report to the Commission... information about securities that are missing, lost, counterfeit, stolen, or cancelled
+
+Form X-17F-1A
+
 
 Lost and Stolen Securities Program
 the thing is this will need to be a TIP for hte  creds and on-chain montiorign 
@@ -1210,3 +1221,5 @@ nove  in parts should be here  at the  close
 
 
 
+
+[^stamp-los]: _See, e.g.,_ saales brocure  for the physical  rubber stamps used at  legacy  agents, _available at_ https://kemark.com/assets/stamp2000equipment.pdf. The footer' sbarcode reference sectikon refernces  the  "missing equiptment database," promoitign  the easyt of checking  euqpiotment  wiht a guatnor  and location ID number. In investigating  agent  onboarding mateirals, I learned just how often these industry-standard  stamps are lost  of stolen from  gaunrtorr institutions. THus, by maing agents constnatly  check agianst a list of know fraudulent stmap numbers, the progrma losses credible effficacy  with a centralized  certificate uathoritry, which again goers against every principle I know of good c ryptosystems.
