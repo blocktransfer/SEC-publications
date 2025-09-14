@@ -1,37 +1,38 @@
 ```
 extends: Response #6 <-- actually important for the cross-ref refferal to backlink, even if a placeholder we need to establihs and communitye te URL SCheme
 publish: 15 Sep 2025
+announcements:
+  - findings: https://x.com/blocktransfer/status/1956349988889366676
+  - completion: 
 ```
+
+# [Download]() (as PDF)
+
+## submission email
+to steve CC dave
+AS REPLY  TO THE X POST SEND ACK_
+
+Hello,
+
+Here's out resposne letter. I'm goiong to keep working on the referenced items rather than comment on recnet SRO or market changes. But i am always here to help voice a concerned investor constituency voice for rule meetihgs.
+
+
+In good faith,
+John Wooten
+
+----
+
 
 > [!NOTE]
 > They have  properly  identified  `1legacy`  as a  subsidiaryu file and  then  we  have  sledger  as  the  MSF  -  just need to affirm and ink  that  down form Ad-9
 
-for the outstanding API modivfiicaiton and update for  legacy internal comparison, we can have also idneditfiier seperations between  the "street naem" custodian shares of clearing agenccyies with specified on-chain accounts as per 6days interest i n https://discord.com/channels/@me/1399830854385274991/1412802278737580073
+for the outstanding API modivfiicaiton and update for  legacy internal comparison, we can have also idneditfiier seperations between  the "street naem" custodian shares of clearing agenccyies  with specified on-chain accounts as per 6days interest i n https://discord.com/channels/@me/1399830854385274991/1412802278737580073
 ^ lets do this in the main asset page rather than subdt /outstanding
 
-### {{NAME}}  gameplan
 
 
-a lot ot what Peirce is getting at, and wenee d to makeup political  goodwill from https://github.com/users/JFWooten4/projects/1/views/1?filterQuery=-status%3A%22Pending+%F0%9F%92%9C%22&pane=issue&itemId=81176338
+---
 
-
-
-
-
-
-we can intro as basis for more indsitutional instrets
-
-DAO  Vvote  appriving  as of  — 07-Jan-25 11:31 AM
-(CHIVES SAYS)
-> I think I'd say yes. Naturally we'd rather see issuers seek to provide a custody first best-of-all-worlds solution, but taking a step towards blockchain and public auditability even if firmly in the old ways (TAD2) is still a step in the right direction. A syndicate tad2 could still outcompete and still be a relevant step forward for the industry.
-
-want to  set precedent for  expandin ops after  ocmpleting agenda items
-
-use with internal deference to Bur on basis o f  decentrlaized comms
-^ (unrelated)
-
-then  CRITICALLY: I  want it  framed  as  a teardown to other 3643 arragnements
-https://www.dtcc.com/news/2025/march/20/dtcc-joins-erc3643-association
 
 the `outstanding`  count modifications hsouldd frame around this probelm 1st and fiormenetst
       (I have also removed teh `PENDING ` flag in re "digging a deeper hole" senitments form Meeting 2)
@@ -44,6 +45,10 @@ then we can come in and save hte solution with new decentralizedd asttestations
 
 
 # Introduction
+
+## Letterhead
+
+Our Document Request Response #6 ("PREV") incorporated by reference in toto.
 
 ## Addresee
 
@@ -63,26 +68,17 @@ New York, NY 10004-2616
 
 Dear Mr. Vitulano,
 
-[Acccolades  b/c this was aweesome]
-
-Basically, after _EXTENSIVE SSETUP BEFORE THIS POINT_, I want to ask them to `move  in`  so to speak as proposed but overlooked in Response  6 § II.B.2.d.
-"API to access our PII." (with tbale leave  & `think about it lol` sentiments)
-
-Narrative starts with FAC as basiss for review on sentiments of possible sudden weather changes
-
-Existing work in 723 (later) extends to the investor protection points in re Acccount Recoveryt 
-
-becuase like lol ultimatley the goal  is creating  this awesome predicatbale pbeurcoracy o n our side that interlinks with the berorcratic investpr protections needed for relaible sagfertty
 
 
 
 
-basis
 
-#$  Ex. 1,  a exhange with webb🤝a.cvoim link form , _available at_ 
+basis:
 
-### FAC statutory basis (exemplifiexi n the iran implications  of OFACV)
-15 U.S.C. § 78q-1 (the "NMS Statute")
+Ex. 8.2,  a exhange with webb🤝
+
+FAC statutory basis
+15 USC § 78q-1 (the "NMS Statute")
 subsection (f)
 
 Federal Advisory  Committee ("FAC")
@@ -92,6 +88,22 @@ I wnant _singular mention_ of "covered securities"
 
 
 #### singular pg.1 footnote:
+reg letter adn Don email suppl both quote the FAC _infra_ in 15 USC § 78q-1
+
+https://www.law.cornell.edu/uscode/text/15/78q-1 §§ f4
+
+
+`parallle/side markets`
+
+
+offer through  a decentralized frmaework  for  decentralized market
+
+purport ot  uspport  competition (the exchanges, direct  callout  of monoppoily staturing wihtout duoipoly citation)
+
+
+
+the law requires more than notice  and  comment because changing  witgh the NMS  Statue _is_ more than notice nad ocmment simplicity. 
+
 
 
 In  good faith,
@@ -99,29 +111,12 @@ In  good faith,
 John  Wooten
 [req "signed cover letter" which prob just "/s/" but lol we have the good electroic one to drop like cmmnt]
 
-## Letterhead
-
-Our Document Request Response #6 ("PREV") incorporated by reference in toto.
-
-## Headings
-
-esclaeltion  on FAC
-\
-
-
 
 # TOC
-!!
-For PDF  when  rendering output
 
 # Letter
 
-
-
-
-
-
-## Deficiency Responses
+## §1 Deficiency Responses
 
 
 'd lketo start wit a big thank o staff for their throgouh inolvment throghou this eview. I sincrely appreciate all the finding in teh 14 Aug 2025 Defficinecy Letter within Appendix A (the "Findings"). Although I understand hte exam began as a check on our frst lost investors, it grew to be so much mre.
@@ -208,6 +203,10 @@ If they ask about the differetn WK assets, we have a basiss from the `2022_pegge
 --- 
 **TODOs** 
 ---
+
+
+
+
 
 # we went to get into the FAC based on a direct webb supplement (intro)
 
@@ -356,20 +355,30 @@ Rule 17Ad-10(a)(1) under the Exchange Act states that every recordkeeping transf
 
 Rule 17Ad-10(b) under the Exchange Act states that every recordkeeping transfer agent shall maintain and keep current an accurate master securityholder file and subsidiary files. If such transferagent has any record difference, its master securityholder file and subsidiary files must accuratelyrepresent all relevant debits and credits until the record differences is resolved. The recordkeeping transfer agent shall exercise diligent and continuous attention to resolve all record differences.
 
-The Staff discovered the following exceptions during its review of the Laylor Corporation (“Laylor”) master securityholder file for the period of September 2023 through April 2025:
+The Staff discovered the following exceptions during its review of the Laylor Corporation ("Laylor") master securityholder file for the period of September 2023 through April 2025:
 
 
-1. First Last (“Investor A”): In an email dated September 28, 2023, Laylor’s President, authorized the issuance of 100,000 shares to Investor A. While some of the certificate detail required under Rule 17Ad-9(a)(2) and (5) under the Exchange Act appears in the Legacy Database, as evidenced in the excel spreadsheet of its output, BlockTrans did not post the credit of 100,000 shares to the blockchain portion of the Master Securityholder File (“MSF”) for the issuance to this securityholder.
+1. First Last ("Investor A"): In an email dated September 28, 2023, Laylor’s President, authorized the issuance of 100,000 shares to Investor A. While some of the certificate detail required under Rule 17Ad-9(a)(2) and (5) under the Exchange Act appears in the Legacy Database, as evidenced in the excel spreadsheet of its output, BlockTrans did not post the credit of 100,000 shares to the blockchain portion of the Master Securityholder File ("MSF") for the issuance to this securityholder.
 
 Pursuant to Rule 17Ad-10(a)(2)(i) under the Exchange Act, recordkeeping transfer agentsmust post credits containing minimum and appropriate certificate detail within 30 days after issuance. As the authorization for the issuance of Investor A’s shares is dated September 28, 2023, BlockTrans should have posted the credit of 100,000 shares to the MSF by October 28, 2023.
 
-In addition, the Staff’s review of the information maintained on the Legacy Database for Investor A disclosed that the data populating the “from” column (column J) reflected the Memo (HASH) from the transaction issuing another investor’s 300,000 shares. As a result, it appears that this data was mistakenly linked to Investor A’s certificate detail.[^2]
+In addition, the Staff’s review of the information maintained on the Legacy Database for Investor A disclosed that the data populating the "from" column (column J) reflected the Memo (HASH) from the transaction issuing another investor’s 300,000 shares. As a result, it appears that this data was mistakenly linked to Investor A’s certificate detail.[^2]
 
 [^2]: subsubsection with start of issue auth convo...]
 for excel _See_ TAR n.45
 
 
-2. First Last (“Investor B”): This securityholder’s 1 million shares were revoked/cancelled on December 8, 2023, as a result of the clawback by the issuer. The shares were subsequently re-issued to Investor B pursuant to an email authorization from Laylor to BlockTrans on February 26, 2024. However, the Staff’s review of the information maintained on the Legacy Database for Investor B disclosed that the issue date (“aqAt”), reflected in “holdings” column (column k) corresponded to the original establishment of the cancelled position on September 11, 2023, not February 26, 2024 (authorization date) or March 21, 2024 (date of transaction on the Stellar blockchain)[^3]
+
+
+
+https://github.com/JFWooten4/free-markets/blob/d80c385d1644eb2e1e01ed41623ba3f2c1c598bf/micro/2025/Jun/24.md
+
+
+https://github.com/blocktransfer/syndicate-api/issues/3
+
+
+
+2. First Last ("Investor B"): This securityholder’s 1 million shares were revoked/cancelled on December 8, 2023, as a result of the clawback by the issuer. The shares were subsequently re-issued to Investor B pursuant to an email authorization from Laylor to BlockTrans on February 26, 2024. However, the Staff’s review of the information maintained on the Legacy Database for Investor B disclosed that the issue date ("aqAt"), reflected in "holdings" column (column k) corresponded to the original establishment of the cancelled position on September 11, 2023, not February 26, 2024 (authorization date) or March 21, 2024 (date of transaction on the Stellar blockchain)[^3]
 
 [^3]: DB design and good catch on the blockchain side..]
 
@@ -393,40 +402,157 @@ Therefore, BlockTrans is not in compliance with Rule 17Ad-10(e) under the Exchan
 
 
 
-# II. Weaknesses in Internal Controls, Supervisory Procedures, and Operational
-Processes
 
-## A. Written Procedures
 
-### chacnged / neww identity  provider
 
+
+
+
+
+
+
+
+##  §2 Internal and Proceduaral Weaknesses
+
+###  Client Identity Verification Procewss
+
+Hadnnking kYC inforation has alwyas been the msot centralized function  I envisioned  for thee SYndicate. It  rleated deepl yto   my aspireaitons in Response 5 note 7  to disintermediate wall Street, because o f a  principle I commonly ccite  called Conway's Law. The rule[^conway=paper]  originateds from a paper on  the innonvative capacity  of committees, w hich I've seen repeatedly fail to ourperform independnet  moeny managers  given the leeway to allocate capital as  they see fit within their own small groups. Put more applcicably, all  my investing  epxerience sccreaams  to  me that  small  teams are the m ost e fficient deployment  of resources, adn as such I've designed all possible posilicies to  support  decentralized  autonomous  teams  of orgnaization memebrs without explicit directive  overhead  or managemnet.
+
+The cchallenge and opporuntiy with KYC lies in the intimate bonding requirements to  proccess PII. Even in the legacy  OPpersona implementation, internal team members needed  to login and authentiaccakte identieis. Thiss processing reality conflicts with my visioon for peromsisioneless working arrangments wheere contributors have  a minnmumal set of sensitive permissions, electing to work on any public repos.
+
+My  intial rememdy was  to outsource this to a proprietary development company abcked by the  titans of Sand Hill. This worked fine while the Syndicate waas still copletely centralized priorr to discovereing the communtiy. But no that we are migrating to open standdards together, a central service provider for such a crucial part of investor onboarding threatens the envisioned open team concepts I hold s odearly
+
+The Deficincy  Letter cites our disconitnued  use of the legacy rpovidor partluy  due to ccosts of the service. While this was a factor,  money  is  not particiuualy  an  item in my  mind when it  comes ot  investor ptoections.[^sel-psn] The bigger problem I s ee comeds from the internalization of ercnomies of scale and platform netowrk effects withihn a poor copoate govenrance framwrok, as happeneed to DTCC [^mercy]
+
+
+[^conway=paper]: _See_ su mmary of original paper by the author alongside the source text, _available at_ https://www.melconway.com/Home/Conways_Law.html. To the briefest extent possible, Conway proposes what I have seen so intimately trading nascent ccrypto markets  in comparison  to entranches futuers derivatives. These are two extrrmes  of a  spectrum defined  by  insitutional adoptiona and entranching regulation, r and the movement  of these assets in the fre market  deeply  reflects that . Watching price action subtly change after  the introdfuction  of CME  bitcoin futures really showed me that the thought behind market  strucutre changes ccan have downstream impliccations for ddecades to  come, legitimatley  shaping  society
+
+
+[^sel-psn]: as cited  in earlier  work inclduding primative grant applications not ccommunciated, Persona  as i udnerstand it is one of the m ost expensive iddentity  vverification services  avaliable.  I selected  to after extensive diligence into yst about every  reputable identiity  provicer. and even primative  prototype implementtions used alternatives such as Blokcpass ti test onboarding flows. I foundd that the stramlines user interface and edirect document secuyrity features of  the Persona platform far exceeded competing offerings, and so i ppiicked  it as the best possible existing solution to start
+
+
+
+[^mercy]: _See, e.g.,_ 5remakrs on a centralized financial insuttionss attending a techn conference, selling banking ssxerrivces avalibale for merely $35,000 a months from an infrastructure broker spoek nwith during extensive banking relation ivestigatgions, _available at_ https://x.com/JFWooten4/status/1854654933498552550. I've seen at lead three leading identity  software vendors in similar booths at events including the main industry Bitcoin conference. iN all instances, I'm sinccrely dissapointed  by the extravent waste of corpoate funds which could be trivially reinvested in to product devleopment or cost  decreases. I do not believe truly efficient  systjms should need pander to mass audiences through   xchepa branded handouts and an  array  of agents politcking the platform into mainstream adoption sales.
+
+
+#### Electing OCMmuntiy Netwokr effects
+
+Throughotu 2024,  I developed a centralized product roadmpa  for expanding our business on the basis of a collaboration arrangment and NDA in Ex. 8.1.1 with a well-connected financial insuttion.[^git] I embarked on  these experiementations with the aprpoovatl of a communtiy vote.[^instrets]  Extensive disusccsion  ensued around these interactions in a braod principled manner, and I would be happy to share direct links with staff if they might confirm Commission ability to acccess and review messages  in a publidcc Dsdciord server.
+
+However, even  this dusicsussion platfomr has centralization challenges introduced through account permissiones. Lastl  year really clarified  that for m e while I  explored what a alrgedr-scale deplopyment of technology closer to TAD2 would look like. FOr isntnace,  Ex 8.1.2 detials a fiat deposit flow using  partner banks before the adoption of this year's new stablecoin ledgislation and protectioons.
+
+The KYC flows for this  work presumed the use of Perosna, and we hadd extensive back-and-frorth with the entity and thier counsel to connect instances and data in  a potential launch .  I saw here the vendor lock-in challenge  with ddifferent agendts  using the proproietary Persona daashboard, as data stayed isolated  in their  servers with a single entity  conntrolling access and review. As the  grouop kept insisting on using Plygon, a level 2 with  centralized consensus, it became clear that the focus here was adoption and corporate profits  over and above impact andd safety.
+
+I've  seen  this viewpoit andd  technology mature into a consortum of ideas championed by DTCC,[^investors] andd I it  truly  idsspapoints me eeing how these entralized teams produces such centralized products.[^broekrs] as I saw this work mature aroun broker-dealers, it would haave been trivial to discount our values and regualtory committment  to stbaility for a piece of  the old financial game they control. but i just don't think a long-term solution wil lwork if it's not corroberated from the bottom-up with small-business and innovation as core developmental drivers as value focuses.
+
+
+
+
+[^git]: despit eepxlicit  provisions designed  to allow project codep  ublications i n § 14.3, I contually facced challenges bringing development oinline through community venues. Th e  team on their end was not compfortbale with or already using  GitHub, and  they  didn't even have the inclination to join a project-spoecific DIscxord server wqithout public refrences. This closed developmetn cycle and a relentless foccus on specific partner functions  without any deliverable discussions between engineering  teams made integrations challenging. They wanted us to act as agent for some large delas, but I disagreed with the large cut we'd  take from investor returns.
+
+
+[^instrets]: The poll giving me preloiminary apprval of our designs as theorcised  as entirely positive, as members were unteresting in any  steps forward  to structural market change. When voting in early January this year, Chives reamrked: "Naturally we'd rather see issuers seek to provide a custody first best-of-all-worlds solution, but taking a step towards blockchain and public auditability even if firmly in the old ways (TAD2) is still a step in the right direction. A syndicate tad2 could still outcompete and still be a relevant step forward for the industry." My  didsccofort in the level of centrlaizatioon regardless of positifve sentiments back  then lead  to mucch of my inspiration to reform our ownership structure nad corpoate Bylawes today, pending the TAR letter approval  turnaround period.
+
+[^investors]: The centralized aspects of the o itken finfrasturcure go entirely against my investor poerioties and decentralizedexpansion precendent in _Id._ _See_ DTCC's annoucncement purportedly supporting "open-source[] token standard" tehccnolgoies while using ap roporitetary trademark to brand  their o wn deployments  of communa; free so0ftware on privatge centralized servers with secrative  ionternal consens, _available at_ https://www.dtcc.com/news/2025/march/20/dtcc-joins-erc3643-association. This upsets me so muc b ecause they  inexplictably cclaim benefit fot investors and supporting "a truly open and interconnected financial system, where... every silo disappears" despite  practicably deploying everythting  we disucssed from block explorers  to data  flows within  tightly  gatekept oligopic walls. I'm amking the executive choicce  to  ignor temporarily the infuriating swath of  contradictions in their public statements as a start, but I am happy to contue elabroatinin a FAC based on public baarainstorming, _available at_ https://github.com/blocktransfer/SEC-publications/issues/11.
+
+[^broekrs]: Exs. 8.1.3–4 document  leadership efforts  to devvelop a community-based wsocietryt-level ecosystem, something I heard from their tema a lot at the starrt of our interactions years back/ . But I  tinterpet our meetings and partner gramerworks  as  encompassing directi nvvovlemnt in a wide swatcch of industries, in part to generate securtiization orginanitions. Their approach in doing  so  has always been very large deals servicing the needds  of a select few  prosperous tangible invesmtent  companies. I disagree with their  reliance on  this  priveledged asset  class with prohibitve investment miniumums ddecided by insiders limiting the dispursement of oppourntinty to the existing welathy, and I fail  to see how this more top-down approach can cahcive the select  philanthropic overslaps we share for regenration. <!-- deference to Bur on basis of decentralized comms -->
+
+#### Updating Public Policy Statments
+
+Staff cdid a great  job uncovering  the discrpeency in our public polcy's AML processing page.[^aml=-discrpncies] One reason this persisted past our use of PSNA References through the admin console comes to contemplations over adata access. A community post in note 6 link 1 refres to a Dsicord thread in the lumants communtiyt, _available at_ https://github.com/JFWooten4/free-markets/blob/d80c385d1644eb2e1e01ed41623ba3f2c1c598bf/group/stellar/retroactive-scf/community-discussions.md.
+
+I've been  thinking  a little  dtoo  deeply  about the storagfe of information in  a standdalone identity suite, as I';e wanted  to use MPC  "to replace our AWS stack with newly decentralized infrastructure to get our projects fully onchain (among pros)." I;ve been exlporing this path  for over a year in the investor  communtiy  through hosting our podcast, reference files, and datbase config, with the help of James. However, I understand now that i must sideline this for a more immediate implementaion , and this works fine since it's easier to secure data on a centralized servcer  instancce anway./
+
+We w ill update website policies to refl;ect  the propoer processes and use  of peronal information for KYC, as a staff can  track  on a public codebase i ssue, _available at_ https://github.com/blocktransfer/website/issues/8.[^site-cde]  As expressed in the postscript of PREV's  cover l etter, I do not work well with directive centralized deadlines, and I've designed all our  poperations to  conform  to asynchornous contibutions made at the  behest  of decentralized members.[^duna-org]  I do not expect the old terms will have any  effect on our inagural client becuase investors have not onboarded for their securities in years.
+
+This "waiting period" for Examination was the other main reaosn  I havne't  fone in to overhaul  these policies. THe PSNA Reference token is deeeply  ingrained in data standards and operational expectations.[^psnause]  I'm glad we were all able to get on the same page with  signarture garuntee polcies reliant on cryptographic ccredentialy  s associated in the investor's cusotdy and associate with identity for recovery.
+
+[^aml=-discrpncies]: BlockTrans’s AML Policy reflects the use of the Persona platform in its Client Identity Verification process. BlockTrans currently documents its verification process by adding an internal reference to the Persona account number (the "PSNA Reference") within the securityholder’s Personally Identifiable Information ("PII"). However, BlockTrans ceased using Persona during 2025 because of limitations of the screening application and costs of the service. Therefore, BlockTrans should update its AML Policy to reflect its new process for performing and documenting client identity verification
+
+[^site-cde]: Upon completion of the Exmaination, i mgirated our home-domain website ot the main publicc instance. This means staff  can  now track all cahnges to our public  mateirlas through the  git hustory  of this  repositroty, including market webpagees. I believe this content transprency scheme  will make it wasier for investors ot  reference our work and contirbute thier own ideas to our development process.  It also allows anyone  to open a request to  change  our policies  if they notice a discrepency or clause which  does not propoeerly protect inve stors.
+
+[^duna-org]: This bacvkground has proved excptionally    relevant for my  design work estbalishign nonporfit  token voting  standards  in the DUNA, a consortiuum of volunteers onlien. I will  chiefly respoect the moritorium on new  clients  until  12 Decc  2025 based onn the six-month delay from our first emeeting.  Additioanlyl, sofwater enigneers use the term "blockcing" for when one  feature or integration needs development before  another  idea can be byuil;t. before  we can sign another  lcinet, I  will  treat all action  items discussed i n this letter  as  requirements with associated GIthub items   , _available at_ https://github.com/blocktransfer/SEC-publications/blob/main/examinations/response-8/action-items.md.
+
+[^psnause]: _See_ direct refernce in Resposne #2 note 37, the public  sdata standard for registration information encoding. Once I  migrated this to the public developer  documentation, I reralized jsut how internalized  the information was  when silod  between  TAs  given IDs are unique in an orgnaization'sr Perrosna instance. Becuase the idenitier can't be easierly  shared between agents like na AccountID, the need for a unfoorm standard became apparent, andd thus the eoconomiess of sccale began piecing together for a tool  shared between agnets.  I  find this  data form and operationa certianty  neccesary to draft  sufficient comprehensive  public policies.
+
+
+#### =Open Identity verification Paltform
+
+In early designs , [^kyc-href] I spoke with a development t eam  which created  hte identity  protcessing system  of  an  agent  with over onee-hundred-tyhousand securtyholder accoutns. They offered to sell us the infrasture they made, including an onboarding app with authentication  fflowxs, for only $10,000. Whiole I opeted for cloud solutions instead  early-on,  not uinderstanding  the proporietary software problems therewith, this stucck wiht  me.
+
+
+
+
+chacnged / neww identity  provider
+
+propriterary ones here iwht sctz or vstol belopw
 
 
 re open source KYC we can frame as  the most trivial  thing to do b/c
 (a) no fortnend so kskillz lol (matching) and
 (b) story of 10k propriretary tooling usined at  Vstock (cold outreach basis)
 
+
+
+
+
+
+
+
 https://developers.stellar.org/docs/learn/fundamentals/stellar-ecosystem-proposals#sep-0012---kyc-api
 
 
 
 
-
-
-Anti-Money Laundering (AML) Policy – BlockTrans’s AML Policy reflects the use ofthe Persona platform in its Client Identity Verification process. BlockTrans currentlydocuments its verification process by adding an internal reference to the Persona account number (the “PSNA Reference”) within the securityholder’s Personally Identifiable Information (“PII”). However, BlockTrans ceased using Persona during 2025 because of limitations of the screening application and costs of the service.
-
- Therefore, BlockTrans should update its AML Policy to reflect its new process for performing and documenting client identity verification
+https://github.com/blocktransfer/identity-verification
 
 
 
+- dao bug  bounties for server enviroment in deplyment
+
+PII obvious 
 
 
 
 
-### Cancellation and Destruction of Securities Certificates
 
-BlockTrans does not currently have written procedures pertaining to the cancellation and/or destruction of securities certificates. Rule 17Ad-19(b) under the Exchange Act requires every transfer agent involved in the handling, processing, or storage of securities certificates to establish and implement written procedures for the cancellation, storage, transportation, destruction, or other disposition of securities certificate. While the Registrant’s business model focuses on uncertificated shares, the Agreement for Transfer Services between BlockTrans and Laylor, dated June 30, 2023, instructed investors to mail prior physical stock certificates to BlockTrans for destruction. Even though BlockTrans did not receive any securities certificates during the Staff’s review period, it should establish written procedures for the cancellation and/or destruction of securities certificates in accordance with the Rule in the event that it does receive them. 
+[^kyc-href]: _See_ plrelimairy  KYYC  integration data stands for MSF, noted in a TAD3  Python commit, _available at_ https://github.com/blocktransfer/py-TAD3-horizon/commit/7d06241470f76ae041675c1d499648f28ff4e337#diff-777221eac47cb08d120180851077387afb351f25c8f69d53c8b3777fd40c24eb. Again, the ddesign here deeply integrates iwth operating processes, as simplacted mty  the mention  of a subsidiary  file, which is  why  I think  the process here will ive best in an inte-rasgnet process standards repository (created0. ).  Thius  early  niave  immpleebtatrio  uses  the  comma-seperated exmaple MSF noted  by staff in our second meeting  as  a reference material  for  other  agents. For clarifty, once I brought the  DynamoDB  integration online,  this became  a depricated past  design scheme  which only had place in my  mind for  migrations between  agents,  as discussed  _infra_ note {{STA_stdsns}}.
 
+
+
+#### OFAC Searches
+iran implications 
+_DC_ 
+conflicts with ofac  snctioning an entire country
+
+
+
+want refspfefctful deference to terror intent not adequatly  circunscreibed through independt  registrar MSF analysis
+
+
+
+
+
+
+C. U.S. Department of Treasury – Office of Foreign Assets Control ("OFAC") –
+
+BlockTrans Does Not Maintain or Implement Written Procedures Related to Its OFAC Searches
+
+_thye shoiuyd reach  out  dir_
+
+Every person or business in the U.S., including all securities transfer agents, must monitor transactions to blocked countries, and to certain identified individuals, by comparing and matching information against current lists (www.treas.gov/ofac) maintained by OFAC.
+
+The Staff’s review of BlockTrans’s procedures revealed that the Registrant does not address OFAC compliance. However, the Registrant verbally disclosed that it utilized the Persona platform for screening against OFAC’s list of specially designated nationals ("SDNs"), which was evidenced by adding a PSNA Reference within the securityholder’s PII. However, the Staff’s review of the output from the Legacy Database disclosed two securityholders, Investors C and D, whose PII did not include a PSNA Reference, indicating they had not been screened.
+Further, based on the Staff’s conversations with BlockTrans, it appears that these screenings were performed only at the time a securityholder was onboarded, rather than periodically which would be more prudent for a dynamic list like OFAC’s SDNs.
+
+Therefore, BlockTrans’ failure to maintain written procedures addressing OFAC regulations, and to conduct OFAC searches for these two securityholders is an internal control weakness.
+
+BlockTrans could consult OFAC’s website at http://home.treasury.gov/policy-issues/office-of-foreign-assets-control-sanctions-programs-and-information to review its obligations underOFAC’s mandate and make any changes deemed by the Firm to be necessary for compliance.
+
+
+s-p policy, disclosure , and noticce
+
+will add ad eploymnetn URL  to rthe repository when it's ready
 
 
 ### Lost Securityholder Search Evidence
@@ -593,7 +719,7 @@ NASA paid th e xorbitatnt rate because there weren't modern decentralized open0s
 [^mom-fidl]: For isntnace,  my Mom held dirctly-regfistered hares of Merk for ddecades, participating in their dividend reinvestment Plan. Reviewing TA statemments  for her position revealed histoirc  fees in lei of compounding investments which inspired early contrmplations on investor pricing, _available at_ https://github.com/JFWooten4/DRIP-fee-impact. Hisotriccally, even these costly  charges uncdercut top brokkerage rates; but, as staff know,, competative changes mmoved the industry  to profits from custody, routing, and lending. This grab for all possibvle ccollateral led my Mom's broker to call her requesting she deposit  her share swith them for "safekeeping and consolidation" in  a single account without legal control in insolvency, as freely  admitted by CCP proponents when testifieying on   perfected interests.
 
 
-[^awscollege]: _See, e.g.,_ disucssion over proporietary  security  services diuscoivered  through AWS startup program offering a central hosting solution akin  to contituent  software polatforms,, _available at_ https://zopen.to/K8CAHO5DfzKCt1eNINvS. Thisa devleopkemtn approach moimics initial staff impresions of TAD3 from the  first meeting, which  I understand as consistentg of a system deployed complemtelt yu over a service provider with control of data/. As we see with questionable  FTD data  rom the TAR  letter  nn. 11,  34–35, and text aqaccompnaying 32; such ce tralizty  rarely wokrs in the long-run. Even Jerry replies with enohgh caution to "definitely steer clear so there is no chance they think I grabbed their idea" given the natural uneccesary copetition between similar fundmanetal established ingrastructure.
+[^awscollege]: _See, e.g.,_ disucssion over proporietary  security  services diuscoivered  through AWS startup program offering a central hosting solution akin  to contituent  software polatforms,, _available at_ https://zopen.to/K8CAHO5DfzKCt1eNINvS. Thisa devleopkemtn approach moimics initial staff impresions of TAD3 from the  first meeting, which  I understand as consistentg of a system deployed complemtelt yu over a service provider with control of data/. As we see with questionable  FTD data  rom the TAR  letter  nn. 11, 24, and 32–35; such ce tralizty  rarely wokrs in the long-run. Even Jerry replies with enohgh caution to "definitely steer clear so there is no chance they think I grabbed their idea" given the natural uneccesary copetition between similar fundmanetal established ingrastructure.
 
 
 [^agpl-setns]: This is precisely  what I've  been  getting at with  the relentless  citation a nd use  of the Affero GPL, an established standard  for  interoprerable dervitive  software system improvmenets. It  takes what might  start  as  a  centralized p roejct  and allows the communtiy  to  expand  funcitonality  bgasedo mn their own pproved needs as  they use a  system. After deep exokoiration of distirbuted projects for months leading up to  PREV n.20 link 1,a timeline communicated in our first meeting, I came ot the conclusion  that this licensing  approach  may  well be the o ly means  to maintain shared infrastructure  for decades with  the public trasnprency enccerasry for market functiojnality. At least without the token incentives  of cryptonetworks iwth  consensus mechisms  which have all total value sa systemic insurance.
@@ -624,7 +750,7 @@ given ii.b.1
 , _available at_  https://www.sec.gov/newsroom/speeches-statements/peirce-ats-20220126. The removal of this  consideration had indsutry-chaneging agfferts for  the tntity  incorpated in the TAR letter n.119's cacccoimnoapy h text, which I brou ght up in our third meeting as a current context  for discussion  of DEX  regualtory principles. THe Staff did an exccellent job guiding my thoughts,,m  notivated by expriences i n the seccond footnote  link,  motre thorougly ddisused  with the  community on out pofact, _available at_ https://lnns.co/rswev9D3A1n/4848. I sincerely  apprecaite d Commissioner  Peirce's hihglihgt  of EtherDelta's settled enforcment  action in menaingful  public forum as a great  exanoke if tghe needed  differentiation between on-chain transparenct orderbooks and proprietary private servers
 , _available at_ https://youtu.be/kl7omhTtERE?t=1427.
 
-[^venue-prot]: For isntnace,  the  intemreidairt  incorpated by reference at _Id._ link 2 used a server-based software messaging playtfomr based on a central  cop[mpany, _available at_ https://github.com/airswap/airswap-protocols. Even  open-source solutions like this have layers of  centralizaiton built in when they  rely  on supplemental  consensus mechanismms or   a centrall off-chain  matching servers,  including when a smart  contracts execute on a propriteryt firm-based ledger.  I 've epxlored  this in  Response  6  § 0.B and a wide wswath  of public  work, because i  view  the implications as allowsding automated debited clearing  without a central conuterparty when usinga shared orderbook and matching engine. There doews not exist legal preeccedent for tgese disintermediated structures, despite the plethora of benefits  they  provide investors when done properly.
+[^venue-prot]: For isntnace,  the  intemreidairt  incorpated by reference at _Id._ link 2 used a server-based software messaging playtfomr based on a central  cop[mpany, _available at_ https://github.com/airswap/airswap-protocols. Even  open-source solutions like this have layers of  centralizaiton built in when they  rely  on supplemental  consensus mechanismms or   a centrall off-chain  matching servers,  including when a smart  contracts execute on a propriteryt firm-based ledger.  I 've epxlored  this in  PREV § 0.B and a wide wswath  of public  work, because i  view  the implications as allowsding automated debited clearing  without a central conuterparty when usinga shared orderbook and matching engine. There doews not exist legal preeccedent for tgese disintermediated structures, despite the plethora of benefits  they  provide investors when done properly.
 
 
 
@@ -635,36 +761,7 @@ given ii.b.1
 
 
 
-
-
-reg letter adn Don email suppl both quote the FAC _infra_ in 15 USC § 78q-1
-
-https://www.law.cornell.edu/uscode/text/15/78q-1 §§ f4
-
-
-
-n 
-
-2023 proposed amendments to Reg SCI would not have applied to transfer agents
-
-Department of Government Efficiency cuts
-^ sole regernce, only aded with a fn
-
-`parallle/side markets`
-
-
-offer through  a decentralized frmaework  for  decentralized market
-
-purport ot  uspport  competition (the exchanges, direct  callout  of monoppoily staturing wihtout duoipoly citation)
-
-
-interpretive proxy for specific programs
-
-
-
-
-
-## B. MSF Certificate Detail
+~~## B. MSF Certificate Detail~~
 
 In writing the prior subsubsection, I noticed a single-brick lego was  ajar on a Mellenium falcon model  in my office. I had a simialr exprience noticng  a single missing brick out of a dozen completed sets while in therapy  for cvonditions disussedd  in the email submitting Respon #2 sent on 16 Jun 2025 at 4:40pm ET.  Mymind just notices all the little things in  systems, wanting everything in its place.
 
@@ -694,23 +791,144 @@ I jut don't see a good reason the world needs to run everything on their antiqua
 
 
 
-### Securities  Cancellation Dates
 
-This information is required as part of the minimum certificate detail pursuant to Rule 17Ad-9(a) under the Exchange Act. Cancellation dates are reflected on the Stellar blockchain and for securityholders who opened Accounts/Wallets on Stellar (the “Stellar Accounts”) are readily obtainable. However, for those securityholders without Stellar Accounts whose shares are held in the “Distribution Account”, there is no clear audit trail that records the number of shares cancelled by securityholder or the date of cancellation. To obtain this information on a securityholder level, BlockTrans would have to review several sources to determine the number of shares cancelled and the cancel date.
+
+
+
+
+
+
+### Physical  Securities and Lifeccycle
+
+ I  hope  that by  this point I hav  well esltabsohsed my intention ot operate as a digital-first  trasnfer agent. I uderstand this i s not the approach  taken  by all  agents, but I think it i s  the movst efficient for TAs using TAD3.  It  seemed i n our meetings  that  staff  were  well  unformed ofg this  spapprafdch, but they  were  still k ind  enough  to reccomend additional processes for handlings.
+
+We do not  does not currently have written procedures pertaining to the cancellation and/or destruction of securities certificates.  Part  of the  challenge I always saw with allowing certifiecats  stems  from the location of registgration on Stgellar. There is a naive approach  of placing all certifcated hsared i n an omnibus account  similar  ot a Dsitributor account, or having us  as agent open and handle individual accounts for eacch  certificate holdder, using  central keys to sign and effect Medallion'd  trasnsferrs.
+
+In gfolldowin g this line o f thinking, I spent months contenmpokalting the distriubtion of "certificates" in  the  form of edmbossed metal seed-phrase  cards. However, I found this faced  the same centralization  challenges  of a p;hsuycial processing  facility.[^cancel-fac] While it might be faster and easier to centrally provision everyone's account  phrasses, I know infrvesotrs receive far better security  garuntees by c ontrolling their own self-custody wlalets.[^no-nums]
+
+Thus my inital approacch was to scan and shred oldd certificates using  the PHsycialAddress service and destruction facilities maintained at 99 Wall Street.[^whop-no]  I will  chancge these oeprating practices to maintain proper sagefaruding of certificates received in the mail in a new process whcih defines proccedures for cancllation and  destruction.[^on-only]  I'm migrating out tally journal into te CRON work detailed later nad in its own repository, and I'll add a peice for the rare shredding records of Rule Ad-19(c)(3).
+
+
+
+
+[^cancel-fac]: Namel,y the distrtibtiuon of physiccal certiifcates would act  as a  central point of failure rquiring immense securityy andd oeprational  control measures only possible t hrough  centralization. In communtiy policymakign wokr, i've used the example of a DTC  processing vault my Dad helped finance in the early 2000s, employing retinal scanners. I  employed this line  of eraosning when Reading Rule 17Ad-19(a)(2),  which I'd be remiss  to not point out was written two decades ago in S7-18-00. The immense regulation and maleability  of paper documents just aslways seemed cojmpletely incompartible with my  vision  for a decentralized financial system unhindered  by nonroutine processing exceptions that  fuel FTDs.
+
+[^no-nums]: _See_ onbaording flow for local seed gneration and physiccal user storage, used to sign trasnactions in a warm wallet in the sense that compatible apps submit authenitcated messsages  to Horiizion nodes. This approac leeps securities in a fundgivble pool within the investor's account on Stellar,. onbaoting unique or serial certificate numbers given balances automatically denominate up to secen decimal places in response  to transfer items. Even the "destruction"  or  "canccellatioon" exmeplified in the DMEO burning transaction stayt completley evidenced on the deistributed ledger with out "physical ruination" or disposal needs. While there's  an argument Rule 17Ad-19(a)(7) covers such an everbt,  it  was m y  reading that this only  applied  to acctual paper  certificates. Given the use og "printed" in 17 CFR § 240.17f-1 ("Rule 17f-1") paragraph (a)(6).
+
+[^whop-no]: I sincerly appreciate staff clarifyting that this  would not be  an acceptable operating stragety given the use of employes not fingeripritned by the FBU udner Rule 17f-2. I do understand  the legacy stamping perforation process typically followed before shredding, but I failed to see how that makes a differnece iven a decent cross-cut macchine. It  seems I failed  to  contemplate  under Rule Ad17Ad-12 the  conseuqences off having an outside party blidnly  open certificatees which could contain investor i nformation. I have not previously considered items usch as address or legacy certificate number as top safegaurding concers  outside of the registed PII datbaase because the only way to trnasfer securitiers in my  mind comes from cryptographic poor laid out in our signature-gaurntee policy. 
+
+[^on-only]: These changes will  be  clearly made publicly  in an issue audit  log, _available at_ https://github.com/blocktransfer/TAD3/issues/3. They will involve the  creation  of  written operating proccedures minimizing interactiosn with ccertifiactes, since the  closest thing i have  to  controlled access is a lock on the front  door. Addditionally, I will contactl Laylor and let them know not ot h ave any certificates sent to us for shredding, nullinfying  the  old destruction lclause in our Agrreemnent. GOing forward, we will use  a standard open-0source issuer  template which defined mandatory keyh  privosions,  so  that this disnonenct between business model and TAD3 compatabitliy will not again face issuer-specific discrepency, _available at_ https://github.com/blocktransfer/TAD3/issues/4.
+
+
+
+#### Certificate Cancellation and Destruction
+
+IN the  early days of Blokc Transfer, I joined Kenmark's STAMP  program becuase  I thought innefifcinet procees were backed into the law. There I saw firsthand just how troublesome physical trasnfer agraunteesx cna be even with a comprehensive oversight newtokr.[^stamp-los] I am glad we can  move past this histeopric limitation with uncertiifcated securities erpresented in token specie on an issuer ledger.
+
+
+UNFBorpiituily, other regulations do write especific  corporate interests into our "nationa' market  functions. [^crohnyies] I take  particular issue with the Lost and Stolen Securities Program with tis associated Form X-17F-1A filings, based on an otudated viewed of  unccertificated trading.[^basios=:LSSP]
+
+15 U.S.C § 78q ("Rule 78q") clause (f)(1)(A) reuqires  transfer agents to "report to the Commission  [opr its designee]... information about securities that are missing, lost, counterfeit, stolen, or cancelled[.]" Sincei mplmeneting the  cCOngressional reuqiremnt, a designee which ultimately  came under the operation  of DTC  managed  this progframe for the intenture industry,  as stafgf know.  Howeever, at the start  of this year, this responsabiltiy  was  outsourced to a tehcnology  consultant for no consideration.[^accenture]
+
+I sincerly  appreciate that the prPorgram  is no lunder run by the DTCC, and I offer nothing but the highest a ccolades  for diligent staff effort to streamline industry  services, especially  when  such  changes decentrqlaize power amongst dispaerrsed participants with competing interests. I also applaoud the orignal purpose of Rule 78q in clause (f)(3)(A)  to investigate  criome.  Hpowever,  IO doubt that missing stock  certyifiacates are as high up on th4e Attonereyt  Gener;ls agenda today, required exnrtive ongoing use  of the National Crime Information Center.
+
+
+[^stamp-los]: _See, e.g.,_ saales brocure  for the physical  rubber stamps used at  legacy  agents, _available at_ https://kemark.com/assets/stamp2000equipment.pdf. The footer' sbarcode reference sectikon refernces  the  "missing equiptment database," promoitign  the easyt of checking  euqpiotment  wiht a guatnor  and location ID number. In investigating  agent  onboarding mateirals, I learned just how often these industry-standard  stamps are lost  of stolen from  gaunrtorr institutions. THus, by maing agents constnatly  check agianst a list of know fraudulent stmap numbers, the progrma losses credible effficacy  with a centralized  certificate uathoritry, which again goers against every principle I know of good c ryptosystems.
+
+[^crohnyies]: _See, e.g.,_ CTA/CQ Plan LLC and  UTP Plan LLC wihtihn SIP specificaitopns  of regualtions I will no cite for  relevance focus  on the  NMS Statue., As staff  presently  werest with skyrocketing  central costs of a crucial swap reporting facility, I'd like to remind myself i n this submission archive of the materiallyh  these  choices  have for investor  confridence, as shown in a ocmmuntiy p ost, _available at_ https://www.reddit.com/r/Superstonk/comments/1k1pmgr/comment/mnpj6je. We've discussed this extensively on our podcast,  including specifc remarks regarding the last-0minute delays andd petition  commenting wiht post author WhatCan incorporated in wokring items surrounding this Exmaination.  I don't  feel it's fair to talk about the lsost  securities cancellation progrmas  wihtout implciatingf thisese larger marekt record difference problems peprptuated.
+
+[^basios=:LSSP]: _See_ staff report resoibnduibg ub poart to rule upodates refernece _supra_ note {{^cancel-fac}} desccribing  the Program in iequivalent terms  to its present mateiral operations, _available at_ https://www.sec.gov/files/377fin.pdf. At 3,  staff  refernbce the Program's basis  in  aoutj lastg  CCongressional review  of market plum,bing which  resulted  in signfiianct settlment reform,  from five decades ago  and  cited  in TAR letter nn.57, 140,.  I bring u jp age because  we are wrestling with a bruopractically-defined government interjection  of markets just not relevant to the  current indsutry tstructure of pioneering foreruinners. I view it as  an ongoing hindereance to  capital formation which serves  only  as a form  of red tape  blocking new entrants, as  hown by Reccomandation  C's unfathomabtly-meaningfless "suggest[ion] that SIC hold LSSP Advisory Board meetings on a semiannual or annual basis."
+
+[^accenture]: _See_  firs tnew designation of stolen  securities program to AccentureFederal Services LLC, _available at_ https://www.sec.gov/files/rules/other/2025/34-102541.pdf. This change came a yer  and  a half after  the  Commission  posted a statement  of work with  over 100 pages o f  minute details and a massive deliverables schedule inclujding migratikon  from DTC's systgems, _available at_ https://sam.gov/api/prod/opps/v3/opportunities/resources/files/043b0ba1bdd044adaef40c470c8217a0/download.  At §  H-3, staff  clatify  that  Accenture will collect  fees from Program participants,  presenting a government-0mandated expense ot a private  company  for up to the next  decade if elected  underf §   F-2. THe govenrment goes on to mandate fee categories and relative sizes in § C.1,  whcih  I might  contruew as interjection in the fre market using rules defined by beurcrats in 1978  alongside the  Depostory Trust  Compnay.
+
+
+#### Lost  Ceritifcet Statoru Programming
+
+We  doinl;t kliuve in the decades of past  where bearer  cveritifcates and lost  coupons create major problems/.[^ffiar-ok] SDtaff note that  "Rule 17Ad-19(b) under the Exchange Act requires every transfer agent involved in the handling, processing, or storage of securities certificates to establish and implement written procedures for the cancellation, storage, transportation, destruction, or other disposition of securities certificate."  However,m  in  crteating and adopting such a policy above nad beyond naive shredding, I am conbcerned that succh processing  rulsetops may be consuted as "business activities"  which "involve the handling of securities certificates"  under  Rule 17f-1(b).
+
+In our sedcond meeting, I placed emphasis on how legafcy inmported investgor  balances were "static" except in the  case of issuer discresion liek splits.[^outtaway] In this light, I epxlained how legaccy postions uporiurted  by the issuer  or  communcciated fro m an ougoing agent  are taken at face value as registered on any MSF  or stocholder list, not as endoreses on certificates not communiccated before migration. This treatmnt aligns with the registration requiremnt of securities and indsutry standards to require Medallion endorsement of physcial transfers alongsidde submission of any materials  for processing.
+
+Because all certificates are ignored  by rule,[^nullvoid]  I do not think it would be fair  to cclassify  us  as  a reporting instution under Rule 17f-1(a)(1). IN analysing the  content  of  Form X-17F-1A, I furhter posit such reeports wouldd noit make sense for outr business because of the inability  to lsoe digital assets i n a manner such as those defined in line 4.[^seed-phrase]  TYHe investors h ave something  much closer to  "digital  gold"  (for l ack  of  a btetter metaphor) whiuch crucially is  abundantly  apparent  when invovvled in  fraud, thanks  to the  on-chain montiorign of _supra_ § {{Alternate Trading Venue Problemsd TODO}} 
+
+I ebelive  a  Transfer  Imporvmeent  Proposal ("TIP")  standard desinged  alongside  communtiy contributors will best protect i nvestors by  laying  out  a  shared rframework for identifying, investigating, and rectifying on-cyhyain crime using agent-controlled  trustline  managmeent. Givven attmeped dismatnlings of  th4e CFPB in _National Treasury Employees Union v. Russell Vought, 25-5091, (D.C. Cir.)_, I further ind it  quesitonable if law enforcement's centralized database within Acccentuire policing will help protect h te public more than existing  SRO  enforcement  actions upheld by  _Alpine's_ immierdiate rejection. THese rules  make proecesjusral isolations for  certificates, but the point o f  my  work in TAR letter § IV was a distinct protection  for  all  invoestors using secure DRS records.
+
+
+
+
+[^ffiar-ok]: I think  that's  a fair statemnet.  Whether it  was  DTC  or others (this  is the only  point I will given  them a lifelien on), dematerialization  changed  market  strucutre in ways not adequately  responded to by regulation after the  pflaws revelaedx  in Rergulation SHO.  In a new market structure, even one generously  presumed around DA,  there no longer needs  ot  be a phyusical policing  force out  searchinkg or  destorying  mssing certifiactes.  THe larger  lookmign  cyber problems  of stolen account  crednetials back almsot all the fraud I've investigated, and  the only  rememdly legacy agents  have for this is sending  paper mail verificaiton  codes.
+
+[^outtaway]: ADmittedly, I did  make manual adjustments to the legacy datbalse's holdings on the basis of the Stock Revocation. However, this i s not an expected access pattern I believe our  services or lredger ought support. Issuers do not generally  have the autghoirty to rescint  issued ssecurtiies, and I want t o strengthen  the language in our arrangments form _supra_ note {{^on-only}} link 2 to  prevent such  an instance in the futurre. NBaemklym, I will use the onboarding lessons pending  documentation alonlgside other posiliciesy pages related to REsposne 7  aas basis for requioerikng new clients to haver comprehensive sharheodler infromation, in thte sensxe that they are certain of suhc persons' intent to hold shares, as sopposed to  an "airdrop" with ongoing outrach; _available at_ https://github.com/blocktransfer/website/tree/ee725d7cc9ae09a4bc04a61275fd010266328533/compliance/team.
+
+[^nullvoid]: THe LAylor  Agremeent i nlcuded  a clause delcaering past  certifiaces null and vboid, which is why  I included  the address for shredding facilities. THe corp;roate decree to remove the  status of these securities  certifiecates justiofied  the handling  of destruction by extenal  parties,  in my  mind.  HOwever,  I think this declaration (if it's even val id  in various courts o f law) is asking too  much  from the isseur, copariesd to the much  easier route of just saying they cannot be used anymore and should be kept or  disposed  of at shareholders'  weill.  Any  communcciated  ceritifcaten umbers form an ouitgoin agent  would ahve  no palce within TAD3's data  standards aznd hense no bearing o n operations.
+
+[^seed-phrase]: The exceptoipn here, of  course,  is a crpyotrgrpaohic seed phrase. This is why I put  so much wokr into both the identity  recovery  verificaiton system design and DUNA  governemna ce for the adffifrmation of rule logic surroudnign verified  account restoration funcitonaljitry, _available at_ https://github.com/blocktransfer/py-TAD3-horizon/blob/def8aaa17338073afe871de5881a30e406ba3d3c/investors/executeVerifiedRestore.py.  I find this incredibly iumportant for enabling  efficeint  trusted access to  Stellar since this will be msost ivnestorss' first time interacting with  a web3 applicatikon, hadnling thier own ownership keys in self-custody.  _See also_ an exmaple of fdecentrtalized ocmmunity discussion  directloy rfelated to Commission objectives in relation  to precisely this saferty feature, _available at_ https://github.com/JFWooten4/agenda/issues/7#issuecomment-2992215559. I;ve come to the  conlcusion that it'ss onyl  through sponrtanous onlien conversatiosn with passionate investors that  wr might build the best p ublic policy fully encumbering the interests  of the decentralized i nvesting  public ad hocc.
+
+
+#### Exchange Act Counterfeiting REeports
+
+Rule 78q(f)(1)(A) clearly  refers  to all securtiies.., which include any Uncertificated stock in 15 USC § 78c(a)(10). By extension under UCC § 8-501, this applies to entitlements traded at  cleairng agencies covered uyndder paragraph (1)'s paarticipation requirements.  However, it  is  my  understand o f  public  information  that  DTC  does  not  report  the cancellation of nominee-based exchange entitlements.[^tar-fuck]
+
+As  cited  _supra_ note {{awscollege}} , 37,347,572 shares of Bed Bath & Beyond, Inc.  had  no basis in lawful issuance  on  the  coproate regfiter,  but they  appeared in Cede  & Co.'s account resulting  in  voided claims when  reconciledxc. Moreover, customer accounts and circulated in DTC’s system held  12,370,657 shares of  Dole Food Company, Inc.  in exce3ss  of auhtoirzed  shares  outstanding, which  were treated  aas  counterfeit reequivalents  in a  classa ction. _See also_ TAR  letter n.19 where  the  trasuries from Lehman customers were effectively stolen as  their  property was diverted to satisfy secured creditors, even though the beneficial owners thought they still controlled those securities; again,  not reported.
+
+
+
+<img width="600" alt="f111-story" src="imgs/fighter-pilots.png">
+
+ I've sincerelyt apprecaited "navigating e" efforts from the stadff and my  Dad over hte  year,s helping me see  the fraud of DTCC rfor what it  is.[^cede]: Behind us in this  photo is  an F-111,  the plan  my granpda from PREV spent most of his  time flying in  the Strategic Air COmmand./  He trained and  practices for years on years  to fly  the main nuclear bomb carriage in the fuselage  directly into the heart  of  Russia's CPSU.
+
+I plan to follow a similar path tpowards tpday's CCP.[^larp] I view  transfer a gents  like fighter  pilots  in the cockpiut  of  oversight  adn direction  in  TAD33's pplane. We have the netowrk as an engine propelling us to bring decentralized excahgne forward as a bomb nullifying their predatory business m odels.[^gnpa]
+
+in view of best  futures.
+
+[^gnpa]: in my grandpas decades in the air force, he  was always proving himself to higher-ups to keep pflying in higher and higher skies for thre  freedom  he found  in  a  starry COldd War. What we h ave  now, as showcased by  Erik's comments in Resposne 3 note 2,  is  perhaps  the deadliest game of trained competitors  tgo  exchanges that practically build  our capital market.  I  take  these  designs  very seriopiusly , bvewcause  I feel like m,y grandpa the firs time he flew a B47  out  of surviving  neccesity.  As the sole  member  on  a cross-country tema  that swore offf  drinkign (for l ife) ,  he  had  to  ctkae  charge o ne morning when  TODO
+
+
+I d on't think  we need perosnal substantiation, but if i need a  refresher  during  drafting we have  a direct citation in https://github.com/JFWooten4/gratitude-journal/blob/main/2025/Jul/4.md
+
+
+
+
+
+
+[^tar-fuck]: _See, e.g.,_ case  involving  the cancellation  of outstanding  hsares  held  by  the  CEO  of QS Energy, Inc.  in a "fraudulent scheme to manipulate the market"  through  a combination  of  public prompotions and  private  salkes of restricted  stock, _available at_ https://www.sec.gov/litigation/complaints/complr17283.htm. Upon punishment bt the  SOuther District o f  New YOrk,  the i ssuer  was  orders "to cancel any issued and outstanding shares of STWA stock currently owned" in street-name beneficial  title, _available at_ https://www.sec.gov/enforcement-litigation/litigation-releases/lr-19469. Hopwever, CCede  & Co. never reliquished the certificates related  to such  securities,  forcing  the  company t o  later waste millions o f hsarfheolder  dollars aquiring stoick  in  the market  to avoid liticagiton with DTCC, _available at_ https://www.sec.gov/Archives/edgar/data/1103795/000101968716005479/R19.htm. For  about one decade  between  the resgistrar's  cancellation  of the shares  and a later  FAST  aagent's reissuance  of  those 3,047,403 common units.,  DTC  failed  to effect  or report the corresponding cancellation in its nominee system, thereby continuing to recognize as outstanding shares that had been judicially nullified, in clear  violation of a   mandateds they were entrusted to police.
+
+
+[^larp]: I have no  itnention of singing the FAST LPA agreements, and  if edcchanges scchoose  to delist serviced sercurities in resposne. . ,  then  it will be on the imepus of the fcourts to decide on antirust acction.  Central  clearing counterparties onylm  serve  ot extend Wall  Street's  ujnprecedented ability t o generate credit out of  the  value o f our markets.  They have no right to  takle so much  power and voting  control on the basis of  manainging  our retirmenet accouints' pooled  investments. ANd unlike a certain precedfesor, for  clarity, I will not "eject:" into the  cushy  arms  of any g eneous aquisition or  endorsement  offers for votes,
+
+[^cede]: I  mena this  aas  slightly  as  possible,  with  compelte  respect  for ht e lack  of options staff  have  given  the present market  strucutre  nad  literally  hundreds of years entranching broker  credit-based cleairng. v$uch  of my  market-ddesign  inspirations  come from a  deep analysis  of the Amsterdam stock   exchange'
+s  hadnlign o f  shares in  the  Futch  East  India  company  over its tenured  lifespan.  Dserpute being justg  a few  blocks  away  form  hte  issuers's trasnfer agent and  corpoartet  secretary,   tradiogn emmerged  on contracts  to  avoid  transafctions costs dedspite poor legal  protections of debotor losses, as discussed in my first  communtiy  interaction. other countries have proper dbeit-based  direct ownership models whilcxh keep reconcliliation simple nad honesst in the names  of actual investors. 
+
+
+
+
+#### Deleted Certificate Detail,  backups
+
+
+Securities  Cancellation Dates\
+This information is required as part of the minimum certificate detail pursuant to Rule 17Ad-9(a) under the Exchange Act. 
+
+
+However, for those securityholders without Stellar Accounts whose shares are held in the "Distribution Account", there is no clear audit trail that records the number of shares cancelled by securityholder or the date of cancellation. 
+have to review several sources
+
 
 As a result, BlockTrans does not maintain or have readily accessible the cancellation dates or share amounts for cancelled securities of securityholders allocating to the Distribution Account.
 
 
-### Deleted Certificate Detail
 
-#### backups in CRON and pen...
 
-For those securityholders who don’t maintain StellarAccounts, the Registrant will manually delete certificate detail for cancelled securities. At present, deleted certificate detail for these securityholders would be reflected in backup files maintained by BlockTrans. However, the Registrant does not have a process to back-up and maintain the certificate detail for these securityholders which resides in the Legacy Database.
+CRON and pen
 
-Rule 17Ad-10(f) under the Exchange Act states that every recordkeeping transfer agentshall retain a record of all certificate detail deleted from the master securityholder file for a period of six years from the date of deletion. In lieu of maintaining a hard copy, a recordkeeping transfer agent may comply with this paragraph by complying with §240.17Ad-7(f) or §240.17Ad-7(g).
 
-BlockTrans’ failure to establish a process to ensure that back-up files of the Legacy Database are maintained is an internal control weakness, as such process could ensure that BlockTrans maintains a record of certificate detail deleted from the MSF as required by Rule 17Ad-10(f) under the Exchange Act.
+For those securityholders who don’t maintain Stellar ccounts, the Registrant will manually delete certificate detail for cancelled securities. At present, deleted certificate detail for these securityholders would be reflected in backup files maintained by BlockTrans. However, the Registrant does not have a process to back-up and maintain the certificate detail for these securityholders which resides in the Legacy Database.
 
+
+
+
+BlockTrans’ failure to establish a process to ensure that back-up files of the Legacy Database are maintained is an internal control weakness, 
+
+as such process could ensure that BlockTrans maintains a record of certificate detail deleted from the MSF as required by Rule 17Ad-10(f) under the Exchange Act.
+§240.17Ad-7(f)
 ---
 
 subsubsec on legacy backups and ledger cachinege
@@ -720,43 +938,9 @@ _See also_ re outstanding ledger state Horizon cript repo at https://github.com/
 
 
 
-
-
-
-## OFAC Searches
-
-_DC_ form reposnsse 5  note 7 goal
-conflicts with ofac  snctioning an entire country
-
-
-
-
-
-
-
-
-
-
-C. U.S. Department of Treasury – Office of Foreign Assets Control (“OFAC”) –
-
-BlockTrans Does Not Maintain or Implement Written Procedures Related to Its OFAC Searches
-
-
-
-Every person or business in the U.S., including all securities transfer agents, must monitor transactions to blocked countries, and to certain identified individuals, by comparing and matching information against current lists (www.treas.gov/ofac) maintained by OFAC.
-
-The Staff’s review of BlockTrans’s procedures revealed that the Registrant does not address OFAC compliance. However, the Registrant verbally disclosed that it utilized the Persona platform for screening against OFAC’s list of specially designated nationals (“SDNs”), which was evidenced by adding a PSNA Reference within the securityholder’s PII. However, the Staff’s review of the output from the Legacy Database disclosed two securityholders, Investors C and D, whose PII did not include a PSNA Reference, indicating they had not been screened.
-Further, based on the Staff’s conversations with BlockTrans, it appears that these screenings were performed only at the time a securityholder was onboarded, rather than periodically which would be more prudent for a dynamic list like OFAC’s SDNs.
-
-Therefore, BlockTrans’ failure to maintain written procedures addressing OFAC regulations, and to conduct OFAC searches for these two securityholders is an internal control weakness.
-
-BlockTrans could consult OFAC’s website at http://home.treasury.gov/policy-issues/office-of-foreign-assets-control-sanctions-programs-and-information to review its obligations underOFAC’s mandate and make any changes deemed by the Firm to be necessary for compliance.
-
-
-
 ---
 
-# § 3 - re Findings § I.A.1 (circle back on the rial point as _DC_)
+## § 3 - re Findings § I.A.1 (circle back on the rial point as _DC_)
 hysical address org ijmplementaions
 setup notsl:
 
@@ -774,14 +958,27 @@ gets also iunto  dev tooling (circa  subsubsec elsehwere)  for Football comp. Cr
 
 
 ```quote
-The instructions for Form TA-1 disclose that a filer should “State in Question 3.c. the full address ofthe registrant’s principal office where transfer agent activities are, or will be, performed.”
+The instructions for Form TA-1 disclose that a filer should "State in Question 3.c. the full address ofthe registrant’s principal office where transfer agent activities are, or will be, performed."
 
-BlockTrans’s current Form TA-1/A, dated September 25, 2023, reflects a principal office address of 99 Wall Street #4640, New York, NY 10005 (“99 Wall Street”)
+BlockTrans’s current Form TA-1/A, dated September 25, 2023, reflects a principal office address of 99 Wall Street #4640, New York, NY 10005 ("99 Wall Street")
 
-The Staff’s discussions with the Registrant revealed that the 99 Wall Street address is the location of a virtual business addressservice, PhysicalAddress.com (“PhysicalAddress”), that receives/handles mail for clients.
+The Staff’s discussions with the Registrant revealed that the 99 Wall Street address is the location of a virtual business addressservice, PhysicalAddress.com ("PhysicalAddress"), that receives/handles mail for clients.
 
 BlockTrans does not maintain any personnel at that location. Likewise, it does not appear that BlockTrans performs any transfer agent activities at that location.
 ```
+
+nothing psecial  eprson
+
+<img width="480" alt="sidewalk-observer" src="imgs/new-york.png">
+
+
+for the split  / riptrack  (no  comment on bessemer  exparol;tikons  from transfer table  ):
+ Direct cite as Amtrak to Connersville, with FN setup for Congress
+
+we have strong basois on the minor intro with binance 
+Ex. 8.3 iimage from when i was 17.18yr old. 
+^ the _SHIRT_ basis  here  omes from Exhbibt  2.9.7
+(id verif f self  in photos susbsuppls 1–3)
 
 
 
@@ -876,7 +1073,9 @@ froim https://arxiv.org/pdf/1905.05931
 
 
 
-## XX. Early Working Arrangements
+### XX. Early Working Arrangements
+
+Ex  8.5
 
 I remember talling my p artenr[^1]]  last novemebr  that I was  going  ot need some space  to work extremely  hard compiling my TAR comment.[^2]  She eotred  that everytign  would jsut be normal beccause that;s about the  speed I always work.  found it humenrous and drew direct parellles form  **_Fred Brooks’_**  sentiments in  **_The Mythical Man-Month_** **_ _** that you can’t fry an egg faster by adding more cooks   
 I Nitsm ost  literalt interepreation,    
@@ -902,14 +1101,13 @@ admittedly  the immediate future with _IL_ will jsut need total reworking/refact
 
 
 
-# § 4
-bass protecs  for SRO
+## § 4 bass protecs  for SRO
 
 Yndicat aas trasnfer agent  is  merely  a  "fihgter jet" operating on  the  "nucleoat  bomb" of the  Stellar DEX and payment netwreok.  o we awant a jursidictional review  of  the contents,  not the b ody. and hensece the staturoty turnaround b e y the end of march  for april perep
 
 s7-2024-05 is  Financial Data Transparency Act Joint Data Standards
 
-##  standin 'Frinedhsip' shection
+###  standin 'Frinedhsip' shection
 
 
 
@@ -951,11 +1149,33 @@ https://stellar.expert/explorer/public/tx/16763d4ed2ac25dfe69656c6bf0b83e6d5a11a
 
 
 
-idk if here but somehwere we have deference as to https://github.com/JFWooten4/free-markets/blob/d80c385d1644eb2e1e01ed41623ba3f2c1c598bf/micro/2025/Jun/24.md?plain=1
+
 
 I care vvery deeepoly  about  investing. It is  my7  interpretaion  of perosnal  infromation that it is the chiegf aact I was  put on this planet to  do.  But I cannot do  my  job without the gatekept  unreconcilable  centralized perssimmion  of Wall Street.
 
 They have done  so bmuch bad. And we  are j ust starting  to understand their wrongs {fn https://x.com/JFWooten4/status/1965650137058783396}. Please give us a chancce  to heal  what will become such calamity.
+
+###  splacehodler
+
+tech  tgalentg  /  ditsteirbuted office shiops is  Ex.  8.4
+
+### end (fold)
+
+[Acccolades  b/c this was aweesome]
+
+Basically, after _EXTENSIVE SSETUP BEFORE THIS POINT_, I want to ask them to `move  in`  so to speak as proposed but overlooked in PREV § II.B.2.d.
+"API to access our PII." (with tbale leave  & `think about it lol` sentiments)
+
+Narrative starts with FAC as basiss for review on sentiments of possible sudden weather changes
+
+Existing work in 723 (later) extends to the investor protection points in re Acccount Recoveryt 
+
+becuase like lol ultimatley the goal  is creating  this awesome predicatbale pbeurcoracy o n our side that interlinks with the berorcratic investpr protections needed for relaible sagfertty
+
+
+
+
+
 
 
 
@@ -984,22 +1204,20 @@ See also https://blocktransfer.com/compliance/team/legacy-investor-onboarding
 Retro comp @ agenda#13 is why iu asked about paymetns in https://www.sec.gov/comments/sr-occ-2025-801/srocc2025801-598095-1737722.pdf#page=68 ¶ 23
 
 WEANT THIS ON THE PUBLIC PAGE FOR INCOMING PROCEDURESD (TEAM)
-Backline Response 1 note  10 introducitn https://www.blocktransfer.com/blog/post/introducing-transfer-agent-depository  with qutoe  from SEC release “The transfer agent depository ("TAD") would replace the certificate with computerized stockowner lists... which would serve as both the issuer's stock records and the shareowner's evidence of ownership.” as related  to shreedding  use
+Backline Response 1 note  10 introducitn https://www.blocktransfer.com/blog/post/introducing-transfer-agent-depository  with qutoe  from SEC release "The transfer agent depository ("TAD") would replace the certificate with computerized stockowner lists... which would serve as both the issuer's stock records and the shareowner's evidence of ownership." as related  to shreedding  use
 ^ quote I s  _Id._ serc https://archive.org/details/fsec00unit  at   § III.A.3.F.
-Adnthen we  can  Id. That  for the trifecta,  cuitiung the follwing  from 42:  a TAD “may have some long run promise, but it would seem to presuppose a highly integrated national computerized ‘book entry’ system which simply doesn't yet exist” according  to one of  the 145 banks  resposning to  staff and Congressikonal inquirtt.
-Criticallythis  was  the introduction  of  the in IHS via  “ownership of securities in the records of the issuer in other than the name of the beneficial owner of such securities” (from  study name)(
+Adnthen we  can  Id. That  for the trifecta,  cuitiung the follwing  from 42:  a TAD "may have some long run promise, but it would seem to presuppose a highly integrated national computerized ‘book entry’ system which simply doesn't yet exist" according  to one of  the 145 banks  resposning to  staff and Congressikonal inquirtt.
+Criticallythis  was  the introduction  of  the in IHS via  "ownership of securities in the records of the issuer in other than the name of the beneficial owner of such securities" (from  study name)(
 
 ## other items outstanding
 
-e sixz months pending future for the dealing work 6 months we have "docn not work welll with centralized deadlines" per Response X postfcript (cover eltter ) and so then downto `bvlocking` diction explantion in swe
 
 https://github.com/JFWooten4/agenda/issues/15#issuecomment-3024711494
 https://github.com/JFWooten4/agenda/issues/7#issuecomment-2989720732
 (from response 5)
-https://github.com/JFWooten4/agenda/issues/7#issuecomment-2990117590
 
 defernce to nonbuilding on the light Augluiar touch already broecraticsally introucted: 
-Frame his intro (with TAR1 cross-ref note 95) as "easy  venture pitch" in re Chives convo after DUNA exhibit chat (cite !!~~// circa cCharleston) **reasonably abstained**^ ex 8.9
+Frame his intro (with TAR1 cross-ref note 95) as "easy  venture pitch" in re Chives convo after DUNA exhibit chat (cite !!~~// circa cCharleston) **reasonably abstained**^ ex 8.6
 
 and theyne we also ahve bpoth dir below  and  https://discord.com/channels/955819881989808128/1143956254016933920/1220504821589606453
 
@@ -1010,30 +1228,3 @@ users  didn't  expect the pace  infer IDss b/c they hav basically always away sh
 
 ```
 \
-### imgs
-
-for the split  / riptrack  (no  comment on bessemer  exparol;tikons  from transfer table  ):
- Direct cite as Amtrak to Connersville, with FN setup for Congress
-
-we have strong basois on the minor intro with binance 
-iimage from when i was 17.18yr old. 
-^ the _SHIRT_ basis  here  omes from Exhbibt  2.9.7
-(id verif f self  in photos susbsuppls 1–3)
-
-
-DEX as nuceleuar bomb in the fuel tank has basis in Erik V comments from ccrypto  grountable highterd in Resposne 3 note 2
-^ "in my grandpas decades in the air force," he flow the F-111
-pllane designed andd trained  to  carry nuccleaar  weapons
-the law requires more than n&c because 78q iS MORE nei
-I d on't think  we need perosnal substantiation, but if i need a  refresher  during  drafting we have  a direct citation in https://github.com/JFWooten4/gratitude-journal/blob/main/2025/Jul/4.md
-
-
-https://discord.com/channels/@me/1399830854385274991/1415471113609154631
-
-# end (fold)
-
-nove  in parts should be here  at the  close
-
-
-
-
