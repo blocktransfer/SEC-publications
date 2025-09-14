@@ -1062,15 +1062,20 @@ froim https://arxiv.org/pdf/1905.05931
 
 
 
-### XX. Early Working Arrangements
+### Early Tea,m Working Arrangements
 
-Ex  8.5
+Beofer the  distributed  open-source developkment now leading outr work, I communicated in our  first meeting  earl yexperiences with collegeiate working peers.[^app-demo] Ex  8.5 contains  earlyh  consideration  and  rights arrangmenets  withg  implicatged  team  mermebrs designed  around central emplyoment and transfers of IP  for Affero if elected bny  the Syndicate.  I  will continue working on  bringing  developers o nto this project  wiht  continued efforts  to  ahcieve communtiy funding,  as commmunicated in the email preparing  for our second meeting's schedulign.[^ptick]
 
-I remember talling my p artenr[^1]]  last novemebr  that I was  going  ot need some space  to work extremely  hard compiling my TAR comment.[^2]  She eotred  that everytign  would jsut be normal beccause that;s about the  speed I always work.  found it humenrous and drew direct parellles form  **_Fred Brooks’_**  sentiments in  **_The Mythical Man-Month_** **_ _** that you can’t fry an egg faster by adding more cooks   
-I Nitsm ost  literalt interepreation,    
-  
-Aa  dfein Resp 2 and first  disussion   
-  
+I'm happy  with  hwat we  were able  to accomil;push  in  our short time together, showing the potential  groweth o f  these w porks joined  otgether in  a strictly  central  orgnaization with  direct selling. This was  particuly well  exmepolified in   our prepartory remarks and sugbmission  to  the disuccssed Senior Design  Expo, _available at_ https://expo.gatech.edu/prod1/portal/portal.jsp?c=17462&p=413142918&g=413665329&id=416518489.  It  wa s here speaking on Zoom calls with  public CFOs  when the  collective team shined, speaking  wihtg  lcoal judges and  professors to explain  our work whic hultimately lead  to  the group recognition, _available at_ https://www.flickr.com/photos/gatechengineers/52546254100/in/photostream.
+
+I remember talling my p artenr[^1]]  last novemebr  that I was  going  ot need some space  to work extremely  hard compiling my TAR comment.[^2]  She eotred  that everytign  would jsut be normal beccause that;s about the  speed I always work. 
+
+ found it humenrous and drew direct parellles form  _Fred Brooks’_  sentiments in  _The Mythical Man-Month_ that you can’t fry an egg faster by adding more cooks   
+
+In its most literal interpretation,  
+
+A define Resp 2 and first discussion
+
   
   
   [^1]: Ms. Melton was disucssed in our  first  meeting in relation to her patrticipatikon in the filing  of Form ID for our first  client, as more thotrhoruhgly communitcated in the EDGAR  letter at §§ I.B,  I.C.1. Th eltter goes on to express concerns over the cnetrlaization of notary services, including  online, I’ve seen ddespute help from my partenr without written contract.
@@ -1080,9 +1085,6 @@ Aa  dfein Resp 2 and first  disussion
 [^2]: See draft migration to open-source codebasse  after nearly a  year o f ccontemplation, _available at_ https://github.com/WhyDRS/SEC-Comments/commit/47a54e2240418632588831e0f54a40845e5cdd9e . This  work ultiumately matured into Response 1  note  20 gioven the severity  of  our present situation which  I’ve touched  briefly  in  PREV §§  0.B, II.B.2.a.
 
 
-- https://github.com/blocktransfer/investor-app
-- https://expo.gatech.edu/prod1/portal/portal.jsp?c=17462&p=413142918&g=413665329&id=416518489
-- https://www.flickr.com/photos/gatechengineers/52546254100/in/photostream
 
 admittedly  the immediate future with _IL_ will jsut need total reworking/refactor
 
@@ -1226,3 +1228,7 @@ broadly we h ave here the  conectikonA to automating through software and backen
 
 href EDGAR Letter § II.B.1.a
 ^ p[rob needs  forma deifntional]
+
+[^app-demo]: These efoforts  princioapplly  lead to prototrype  development  opf our investor a pp wallet  ocncept.  Most e verythign  else  was j ust my contioned  aefforts.  Staff  cna view the  commit hirsoty  of  the Flu tter reposoirty( tehcc scakc  descirpted  in  the  affixed  report),  bnased o n  the Firgma  wireframe  design i n the main info page, _available at_ https://github.com/blocktransfer/investor-app. I find this  style  of volunteering  free-sfotware  permissionless  contirbutions (albeit  with  a prepoer license) mucch  more efficient for global  community  growht,  and  it's the main  form of  work  I  endoarvo0r  in myself and spire for  us.
+
+[^ptick]: _See_ related prepratory community  ddiscussion before l ive call sharfed  wiht Donna and Dacve in _supra_ § {{TODO: Updating Public Policy Statments  }}, extending  years o f grant  applications which  began with team pitch material, _available at_ https://github.com/user-attachments/files/21184218/BT_app_pitch.2.pdf. At  14, the early h wqokring group  presents our strenghts,  despite fgaacing intial rejection  from decentralizing commuintiy fuinding mechanismms.   Without this support,  much  of  these  early  efforts  dissapeated,  as  evidenced  by  terminariton arrangments i n Ex.  8.5.2.1, laergely due  ot team  members  continuing on to  gradute educations while  I continue  wroiking full-time on the Registrant. _See also_   Fiogma design work  nad  early  imenetnentions under the  group  and rarrnagments  for  IssuerlInk  prototyleps  based o n  market feedback., which  I  am continuing to seek support developing collaborativey, _available at_ https://github.com/blocktransfer/issuerlink.
