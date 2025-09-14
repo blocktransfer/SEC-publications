@@ -519,7 +519,7 @@ conflicts with ofac  snctioning an entire country
 
 
 
-
+want refspfefctful deference to terror intent not adequatly  circunscreibed through independt  registrar MSF analysis
 
 
 
@@ -711,7 +711,7 @@ NASA paid th e xorbitatnt rate because there weren't modern decentralized open0s
 [^mom-fidl]: For isntnace,  my Mom held dirctly-regfistered hares of Merk for ddecades, participating in their dividend reinvestment Plan. Reviewing TA statemments  for her position revealed histoirc  fees in lei of compounding investments which inspired early contrmplations on investor pricing, _available at_ https://github.com/JFWooten4/DRIP-fee-impact. Hisotriccally, even these costly  charges uncdercut top brokkerage rates; but, as staff know,, competative changes mmoved the industry  to profits from custody, routing, and lending. This grab for all possibvle ccollateral led my Mom's broker to call her requesting she deposit  her share swith them for "safekeeping and consolidation" in  a single account without legal control in insolvency, as freely  admitted by CCP proponents when testifieying on   perfected interests.
 
 
-[^awscollege]: _See, e.g.,_ disucssion over proporietary  security  services diuscoivered  through AWS startup program offering a central hosting solution akin  to contituent  software polatforms,, _available at_ https://zopen.to/K8CAHO5DfzKCt1eNINvS. Thisa devleopkemtn approach moimics initial staff impresions of TAD3 from the  first meeting, which  I understand as consistentg of a system deployed complemtelt yu over a service provider with control of data/. As we see with questionable  FTD data  rom the TAR  letter  nn. 11,  34–35, and text aqaccompnaying 32; such ce tralizty  rarely wokrs in the long-run. Even Jerry replies with enohgh caution to "definitely steer clear so there is no chance they think I grabbed their idea" given the natural uneccesary copetition between similar fundmanetal established ingrastructure.
+[^awscollege]: _See, e.g.,_ disucssion over proporietary  security  services diuscoivered  through AWS startup program offering a central hosting solution akin  to contituent  software polatforms,, _available at_ https://zopen.to/K8CAHO5DfzKCt1eNINvS. Thisa devleopkemtn approach moimics initial staff impresions of TAD3 from the  first meeting, which  I understand as consistentg of a system deployed complemtelt yu over a service provider with control of data/. As we see with questionable  FTD data  rom the TAR  letter  nn. 11, 24, and 32–35; such ce tralizty  rarely wokrs in the long-run. Even Jerry replies with enohgh caution to "definitely steer clear so there is no chance they think I grabbed their idea" given the natural uneccesary copetition between similar fundmanetal established ingrastructure.
 
 
 [^agpl-setns]: This is precisely  what I've  been  getting at with  the relentless  citation a nd use  of the Affero GPL, an established standard  for  interoprerable dervitive  software system improvmenets. It  takes what might  start  as  a  centralized p roejct  and allows the communtiy  to  expand  funcitonality  bgasedo mn their own pproved needs as  they use a  system. After deep exokoiration of distirbuted projects for months leading up to  PREV n.20 link 1,a timeline communicated in our first meeting, I came ot the conclusion  that this licensing  approach  may  well be the o ly means  to maintain shared infrastructure  for decades with  the public trasnprency enccerasry for market functiojnality. At least without the token incentives  of cryptonetworks iwth  consensus mechisms  which have all total value sa systemic insurance.
@@ -887,26 +887,20 @@ I ebelive  a  Transfer  Imporvmeent  Proposal ("TIP")  standard desinged  alongs
 
 #### Exchange Act Counterfeiting REeports
 
-Rule 78q(f)(1)(A) clearly  refers  to all securtiies.., which include any Uncertificated stock in 15 USC § 78c(a)(10). By extension under UCC § 8-501, this applies to entitlements traded at  cleairng agencies covered uyndder paragraph (1)'s paarticipation requirements.  However,  nominee-based exchange entitlements
+Rule 78q(f)(1)(A) clearly  refers  to all securtiies.., which include any Uncertificated stock in 15 USC § 78c(a)(10). By extension under UCC § 8-501, this applies to entitlements traded at  cleairng agencies covered uyndder paragraph (1)'s paarticipation requirements.  However, it  is  my  understand o f  public  information  that  DTC  does  not  report  the cancellation of nominee-based exchange entitlements.[^tar-fuck]
 
-[^tar-fuck]
-story 
-
-
-The owner’s property right (the vote, the control of their entitlement) is taken and deployed elsewhere.
-
-Even if industry argues it’s “permitted” under customer agreements, the economic reality is dispossession without active consent.
+As  cited  _supra_ note {{awscollege}} , 37,347,572 shares of Bed Bath & Beyond, Inc.  had  no basis in lawful issuance  on  the  coproate regfiter,  but they  appeared in Cede  & Co.'s account resulting  in  voided claims when  reconciledxc. Moreover, customer accounts and circulated in DTC’s system held  12,370,657 shares of  Dole Food Company, Inc.  in exce3ss  of auhtoirzed  shares  outstanding, which  were treated  aas  counterfeit reequivalents  in a  classa ction. _See also_ TAR  letter n.19 where  the  trasuries from Lehman customers were effectively stolen as  their  property was diverted to satisfy secured creditors, even though the beneficial owners thought they still controlled those securities; again,  not reported.
 
 
 
-`
-`rty6b76n8m980oikm8;uj.yuio8ujyhj uikmnhmm,.m 
+<img width="600" alt="f111-story" src="imgs/fighter-pilots.png">
 
 
-I have no  itnention of singing the FAST LPA agreements, and  if edcchanges scchoose  to delist serviced sercurities in resposne. . ,  then  it will be on the imepus of the fcourts to decide on antirust acction
+
+^navigating
 
 
-intro'ign the nuke here
+[^larp]
 
 ##### Securities  Cancellation Dates FN<!>
 
@@ -918,9 +912,8 @@ As a result, BlockTrans does not maintain or have readily accessible the cancell
 #### Deleted Certificate Detail
 
 
-<img width="600" alt="f111-story" src="imgs/fighter-pilots.png">
-^Y
-navigatingwant refspfefctful deference to (9) ponlicies
+
+
 
 ##### backups in CRON and pen...
 
@@ -1233,17 +1226,9 @@ nove  in parts should be here  at the  close
 
 
 
-voided in reconciliation
-
-[^tar-fuck]: _See_ Dole fn n.24. _See also_ Bed Bath n.32  andd accompanying text.
+[^tar-fuck]: _See, e.g.,_ case  involving  the cancellation  of outstanding  hsares  held  by  the  CEO  of QS Energy, Inc.  in a "fraudulent scheme to manipulate the market"  through  a combination  of  public prompotions and  private  salkes of restricted  stock, _available at_ https://www.sec.gov/litigation/complaints/complr17283.htm. Upon punishment bt the  SOuther District o f  New YOrk,  the i ssuer  was  orders "to cancel any issued and outstanding shares of STWA stock currently owned" in street-name beneficial  title, _available at_ https://www.sec.gov/enforcement-litigation/litigation-releases/lr-19469. Hopwever, CCede  & Co. never reliquished the certificates related  to such  securities,  forcing  the  company t o  later waste millions o f hsarfheolder  dollars aquiring stoick  in  the market  to avoid liticagiton with DTCC, _available at_ https://www.sec.gov/Archives/edgar/data/1103795/000101968716005479/R19.htm. For  about one decade  between  the resgistrar's  cancellation  of the shares  and a later  FAST  aagent's reissuance  of  those 3,047,403 common units.,  DTC  failed  to effect  or report the corresponding cancellation in its nominee system, thereby continuing to recognize as outstanding shares that had been judicially nullified, in clear  violation of a   mandateds they were entrusted to police.
 
 
-n.19  is the  trasuries from Lehman
+[^larp]: I have no  itnention of singing the FAST LPA agreements, and  if edcchanges scchoose  to delist serviced sercurities in resposne. . ,  then  it will be on the imepus of the fcourts to decide on antirust acction
 
-That’s a direct illustration of “stolen” entitlements under your § 78q(f) classification: investors’ property was diverted to satisfy secured creditors, even though the beneficial owners thought they still controlled those securities.
 
-Bankruptcy exposed the fact that more shares were credited in Cede & Co. than the issuer had actually issued.
-
-When reconciled, the excess ~37.4 million positions have no legal effect. They are void — the issuer’s register controls.
-
-That’s exactly what “cancelled” means under § 78q(f): securities that appear outstanding in circulation but, when measured against the official books, are legally null.
