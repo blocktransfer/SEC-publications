@@ -1,8 +1,12 @@
 #  Small
 
+- [] Continuing lay lor  work
+   - insturdct laylor to not havbe i nvestors sent certs anymore
+   - and direct any new investors to me by email (dfor onbaording)
+     - user manual scheme laid out  in ex. 3  isf neede
 - [] Sample data plus testnet `DEMO`
 - [] Reach out to Joe for utility
-- [] Resp. 7 lessons --> TAD3 `TIPS`
+- [] Resp. 7 [lessons](https://github.com/blocktransfer/website/tree/ee725d7cc9ae09a4bc04a61275fd010266328533/compliance/team) --> TAD3 `TIPS`
 
 # M edium
 

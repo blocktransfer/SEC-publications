@@ -865,47 +865,51 @@ I sincerly  appreciate that the prPorgram  is no lunder run by the DTCC, and I o
 
 #### Lost  Ceritifcet Statoru Programming
 
+We  doinl;t kliuve in the decades of past  where bearer  cveritifcates and lost  coupons create major problems/.[^ffiar-ok] SDtaff note that  "Rule 17Ad-19(b) under the Exchange Act requires every transfer agent involved in the handling, processing, or storage of securities certificates to establish and implement written procedures for the cancellation, storage, transportation, destruction, or other disposition of securities certificate."  However,m  in  crteating and adopting such a policy above nad beyond naive shredding, I am conbcerned that succh processing  rulsetops may be consuted as "business activities"  which "involve the handling of securities certificates"  under  Rule 17f-1(b).
 
-prbolem  is anyt  porlicies on processing could be consuted as participatign iwhtin last 6 months, whicch is  an aunddafir  classificaiton
+In our sedcond meeting, I placed emphasis on how legafcy inmported investgor  balances were "static" except in the  case of issuer discresion liek splits.[^outtaway] In this light, I epxlained how legaccy postions uporiurted  by the issuer  or  communcciated fro m an ougoing agent  are taken at face value as registered on any MSF  or stocholder list, not as endoreses on certificates not communiccated before migration. This treatmnt aligns with the registration requiremnt of securities and indsutry standards to require Medallion endorsement of physcial transfers alongsidde submission of any materials  for processing.
+
+Because all certificates are ignored  by rule,[^nullvoid]  I do not think it would be fair  to cclassify  us  as  a reporting instution under Rule 17f-1(a)(1). IN analysing the  content  of  Form X-17F-1A, I furhter posit such reeports wouldd noit make sense for outr business because of the inability  to lsoe digital assets i n a manner such as those defined in line 4.[^seed-phrase]  TYHe investors h ave something  much closer to  "digital  gold"  (for l ack  of  a btetter metaphor) whiuch crucially is  abundantly  apparent  when invovvled in  fraud, thanks  to the  on-chain montiorign of _supra_ § {{Alternate Trading Venue Problemsd TODO}} 
+
+I ebelive  a  Transfer  Imporvmeent  Proposals ("TIP")  standard desinged  alongside  communtiy contributors will best protect i nvestors by  laying  out  a  shared rframework for identifying, investigating, and rectifying on-cyhyain crime using agent-controlled  trustline  managmeent.
 
 
-the thing is this will need to be a TIP for hte  creds and on-chain montiorign 
+the thing is this will need to be a TIP for hte  creds and 
 
-78q(f)(3):
-(A)In order to carry out the authority under paragraph (1) above, the Commission or its designee may enter into agreement with the Attorney General to use the facilities of the National Crime Information Center (“NCIC”) to receive, store, and disseminate information in regard to missing, lost, counterfeit, or stolen securities and to permit direct inquiry access to NCIC’s file on such securities for the financial community.
 
 becuase (DOGE citation) with the dismatingn of  the CFPB it iqs quesitonable if law enforcement database will help investors
 
 
 
 
-
-
- Rule 17Ad-19(b) under the Exchange Act requires every transfer agent involved in the handling, processing, or storage of securities certificates to establish and implement written procedures for the cancellation, storage, transportation, destruction, or other disposition of securities certificate. 
-
+Distinction ebtween certs  and the actualyl alw for  all securitgies . 
 
 
 
 
+[^ffiar-ok]: I think  that's  a fair statemnet.  Whether it  was  DTC  or others (this  is the only  point I will given  them a lifelien on), dematerialization  changed  market  strucutre in ways not adequately  responded to by regulation after the  pflaws revelaedx  in Rergulation SHO.  In a new market structure, even one generously  presumed around DA,  there no longer needs  ot  be a phyusical policing  force out  searchinkg or  destorying  mssing certifiactes.  THe larger  lookmign  cyber problems  of stolen account  crednetials back almsot all the fraud I've investigated, and  the only  rememdly legacy agents  have for this is sending  paper mail verificaiton  codes.
+
+[^outtaway]: ADmittedly, I did  make manual adjustments to the legacy datbalse's holdings on the basis of the Stock Revocation. However, this i s not an expected access pattern I believe our  services or lredger ought support. Issuers do not generally  have the autghoirty to rescint  issued ssecurtiies, and I want t o strengthen  the language in our arrangments form _supra_ note {{^on-only}} link 2 to  prevent such  an instance in the futurre. NBaemklym, I will use the onboarding lessons pending  documentation alonlgside other posiliciesy pages related to REsposne 7  aas basis for requioerikng new clients to haver comprehensive sharheodler infromation, in thte sensxe that they are certain of suhc persons' intent to hold shares, as sopposed to  an "airdrop" with ongoing outrach; _available at_ https://github.com/blocktransfer/website/tree/ee725d7cc9ae09a4bc04a61275fd010266328533/compliance/team.
+
+[^nullvoid]: THe LAylor  Agremeent i nlcuded  a clause delcaering past  certifiaces null and vboid, which is why  I included  the address for shredding facilities. THe corp;roate decree to remove the  status of these securities  certifiecates justiofied  the handling  of destruction by extenal  parties,  in my  mind.  HOwever,  I think this declaration (if it's even val id  in various courts o f law) is asking too  much  from the isseur, copariesd to the much  easier route of just saying they cannot be used anymore and should be kept or  disposed  of at shareholders'  weill.  Any  communcciated  ceritifcaten umbers form an ouitgoin agent  would ahve  no palce within TAD3's data  standards aznd hense no bearing o n operations.
+
+[^seed-phrase]: The exceptoipn here, of  course,  is a crpyotrgrpaohic seed phrase. This is why I put  so much wokr into both the identity  recovery  verificaiton system design and DUNA  governemna ce for the adffifrmation of rule logic surroudnign verified  account restoration funcitonaljitry, _available at_ https://github.com/blocktransfer/py-TAD3-horizon/blob/def8aaa17338073afe871de5881a30e406ba3d3c/investors/executeVerifiedRestore.py.  I find this incredibly iumportant for enabling  efficeint  trusted access to  Stellar since this will be msost ivnestorss' first time interacting with  a web3 applicatikon, hadnling thier own ownership keys in self-custody.  _See also_ an exmaple of fdecentrtalized ocmmunity discussion  directloy rfelated to Commission objectives in relation  to precisely this saferty feature, _available at_ https://github.com/JFWooten4/agenda/issues/7#issuecomment-2992215559. I;ve come to the  conlcusion that it'ss onyl  through sponrtanous onlien conversatiosn with passionate investors that  wr might build the best p ublic policy fully encumbering the interests  of the decentralized i nvesting  public ad hocc.
 
 
-should establish written procedures for the cancellation and/or destruction of securities certificates in accordance with the Rule in the event that it does receive them. 
 
 
 
-insturdcted laylor to not havbe i nvestors sent certs anymore
-
-standardize  in open issuer agreement template  
-
-and direct any new investors to me by email
 
 
 story 
 `
 `rty6b76n8m980oikm8;uj.yuio8ujyhj uikmnhmm,.m 
+
+
 I have no  itnention of singing the FAST LPA agreements, and  if edcchanges scchoose  to delist serviced sercurities in resposne. . ,  then  it will be on the imepus of the fcourts to decide on antirust acction
 
 
+intro'ign the nuke here
 
 #### Securities  Cancellation Dates
 
@@ -1179,7 +1183,6 @@ Criticallythis  was  the introduction  of  the in IHS via  "ownership of securit
 https://github.com/JFWooten4/agenda/issues/15#issuecomment-3024711494
 https://github.com/JFWooten4/agenda/issues/7#issuecomment-2989720732
 (from response 5)
-https://github.com/JFWooten4/agenda/issues/7#issuecomment-2990117590
 
 defernce to nonbuilding on the light Augluiar touch already broecraticsally introucted: 
 Frame his intro (with TAR1 cross-ref note 95) as "easy  venture pitch" in re Chives convo after DUNA exhibit chat (cite !!~~// circa cCharleston) **reasonably abstained**^ ex 8.9
