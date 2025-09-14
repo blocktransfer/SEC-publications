@@ -68,23 +68,14 @@ New York, NY 10004-2616
 
 Dear Mr. Vitulano,
 
-[Acccolades  b/c this was aweesome]
 
-Basically, after _EXTENSIVE SSETUP BEFORE THIS POINT_, I want to ask them to `move  in`  so to speak as proposed but overlooked in PREV § II.B.2.d.
-"API to access our PII." (with tbale leave  & `think about it lol` sentiments)
-
-Narrative starts with FAC as basiss for review on sentiments of possible sudden weather changes
-
-Existing work in 723 (later) extends to the investor protection points in re Acccount Recoveryt 
-
-becuase like lol ultimatley the goal  is creating  this awesome predicatbale pbeurcoracy o n our side that interlinks with the berorcratic investpr protections needed for relaible sagfertty
 
 
 
 
 basis:
 
-Ex. 8.1,  a exhange with webb🤝
+Ex. 8.2,  a exhange with webb🤝
 
 FAC statutory basis
 15 USC § 78q-1 (the "NMS Statute")
@@ -949,7 +940,7 @@ _See also_ re outstanding ledger state Horizon cript repo at https://github.com/
 
 ---
 
-# § 3 - re Findings § I.A.1 (circle back on the rial point as _DC_)
+## § 3 - re Findings § I.A.1 (circle back on the rial point as _DC_)
 hysical address org ijmplementaions
 setup notsl:
 
@@ -977,6 +968,8 @@ BlockTrans does not maintain any personnel at that location. Likewise, it does n
 ```
 
 nothing psecial  eprson
+
+<img width="480" alt="sidewalk-observer" src="imgs/new-york.png">
 
 
 for the split  / riptrack  (no  comment on bessemer  exparol;tikons  from transfer table  ):
@@ -1080,7 +1073,9 @@ froim https://arxiv.org/pdf/1905.05931
 
 
 
-## XX. Early Working Arrangements
+### XX. Early Working Arrangements
+
+Ex  8.5
 
 I remember talling my p artenr[^1]]  last novemebr  that I was  going  ot need some space  to work extremely  hard compiling my TAR comment.[^2]  She eotred  that everytign  would jsut be normal beccause that;s about the  speed I always work.  found it humenrous and drew direct parellles form  **_Fred Brooks’_**  sentiments in  **_The Mythical Man-Month_** **_ _** that you can’t fry an egg faster by adding more cooks   
 I Nitsm ost  literalt interepreation,    
@@ -1106,14 +1101,13 @@ admittedly  the immediate future with _IL_ will jsut need total reworking/refact
 
 
 
-# § 4
-bass protecs  for SRO
+## § 4 bass protecs  for SRO
 
 Yndicat aas trasnfer agent  is  merely  a  "fihgter jet" operating on  the  "nucleoat  bomb" of the  Stellar DEX and payment netwreok.  o we awant a jursidictional review  of  the contents,  not the b ody. and hensece the staturoty turnaround b e y the end of march  for april perep
 
 s7-2024-05 is  Financial Data Transparency Act Joint Data Standards
 
-##  standin 'Frinedhsip' shection
+###  standin 'Frinedhsip' shection
 
 
 
@@ -1161,6 +1155,28 @@ I care vvery deeepoly  about  investing. It is  my7  interpretaion  of perosnal 
 
 They have done  so bmuch bad. And we  are j ust starting  to understand their wrongs {fn https://x.com/JFWooten4/status/1965650137058783396}. Please give us a chancce  to heal  what will become such calamity.
 
+###  splacehodler
+
+tech  tgalentg  /  ditsteirbuted office shiops is  Ex.  8.4
+
+### end (fold)
+
+[Acccolades  b/c this was aweesome]
+
+Basically, after _EXTENSIVE SSETUP BEFORE THIS POINT_, I want to ask them to `move  in`  so to speak as proposed but overlooked in PREV § II.B.2.d.
+"API to access our PII." (with tbale leave  & `think about it lol` sentiments)
+
+Narrative starts with FAC as basiss for review on sentiments of possible sudden weather changes
+
+Existing work in 723 (later) extends to the investor protection points in re Acccount Recoveryt 
+
+becuase like lol ultimatley the goal  is creating  this awesome predicatbale pbeurcoracy o n our side that interlinks with the berorcratic investpr protections needed for relaible sagfertty
+
+
+
+
+
+
 
 
 # Misc hrefs related to logging
@@ -1201,7 +1217,7 @@ https://github.com/JFWooten4/agenda/issues/7#issuecomment-2989720732
 (from response 5)
 
 defernce to nonbuilding on the light Augluiar touch already broecraticsally introucted: 
-Frame his intro (with TAR1 cross-ref note 95) as "easy  venture pitch" in re Chives convo after DUNA exhibit chat (cite !!~~// circa cCharleston) **reasonably abstained**^ ex 8.9
+Frame his intro (with TAR1 cross-ref note 95) as "easy  venture pitch" in re Chives convo after DUNA exhibit chat (cite !!~~// circa cCharleston) **reasonably abstained**^ ex 8.6
 
 and theyne we also ahve bpoth dir below  and  https://discord.com/channels/955819881989808128/1143956254016933920/1220504821589606453
 
@@ -1212,20 +1228,3 @@ users  didn't  expect the pace  infer IDss b/c they hav basically always away sh
 
 ```
 \
-### imgs
-https://discord.com/channels/@me/1399830854385274991/1415471113609154631
-
-# end (fold)
-
-"move  in:" parts should be § 4  at the  close
-
-
-
-
-
-
-
-
-
-
-
