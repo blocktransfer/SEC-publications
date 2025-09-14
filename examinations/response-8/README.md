@@ -84,7 +84,7 @@ becuase like lol ultimatley the goal  is creating  this awesome predicatbale pbe
 
 basis:
 
-Ex. 1,  a exhange with webb🤝
+Ex. 8.1,  a exhange with webb🤝
 
 FAC statutory basis
 15 USC § 78q-1 (the "NMS Statute")
@@ -108,6 +108,11 @@ https://www.law.cornell.edu/uscode/text/15/78q-1 §§ f4
 offer through  a decentralized frmaework  for  decentralized market
 
 purport ot  uspport  competition (the exchanges, direct  callout  of monoppoily staturing wihtout duoipoly citation)
+
+
+
+the law requires more than notice  and  comment because changing  witgh the NMS  Statue _is_ more than notice nad ocmment simplicity. 
+
 
 
 In  good faith,
@@ -880,7 +885,28 @@ As  cited  _supra_ note {{awscollege}} , 37,347,572 shares of Bed Bath & Beyond,
 
  I've sincerelyt apprecaited "navigating e" efforts from the stadff and my  Dad over hte  year,s helping me see  the fraud of DTCC rfor what it  is.[^cede]: Behind us in this  photo is  an F-111,  the plan  my granpda from PREV spent most of his  time flying in  the Strategic Air COmmand./  He trained and  practices for years on years  to fly  the main nuclear bomb carriage in the fuselage  directly into the heart  of  Russia's CPSU.
 
-I plan to follow a similar path tpowards tpday's CCP.[^larp] I view  transfer a gents  like fighter  pilots  in the cockpiut  of  oversight  adn direction  in  TAD33's pplane. We have the netowrk as an engine propelling us to bring decentralized excahgne forward as a bomb nullifying their predatory business m odels  in view of best  futures.
+I plan to follow a similar path tpowards tpday's CCP.[^larp] I view  transfer a gents  like fighter  pilots  in the cockpiut  of  oversight  adn direction  in  TAD33's pplane. We have the netowrk as an engine propelling us to bring decentralized excahgne forward as a bomb nullifying their predatory business m odels.[^gnpa]
+
+in view of best  futures.
+
+[^gnpa]: in my grandpas decades in the air force, he  was always proving himself to higher-ups to keep pflying in higher and higher skies for thre  freedom  he found  in  a  starry COldd War. What we h ave  now, as showcased by  Erik's comments in Resposne 3 note 2,  is  perhaps  the deadliest game of trained competitors  tgo  exchanges that practically build  our capital market.  I  take  these  designs  very seriopiusly , bvewcause  I feel like m,y grandpa the firs time he flew a B47  out  of surviving  neccesity.  As the sole  member  on  a cross-country tema  that swore offf  drinkign (for l ife) ,  he  had  to  ctkae  charge o ne morning when  TODO
+
+
+I d on't think  we need perosnal substantiation, but if i need a  refresher  during  drafting we have  a direct citation in https://github.com/JFWooten4/gratitude-journal/blob/main/2025/Jul/4.md
+
+
+
+
+
+
+[^tar-fuck]: _See, e.g.,_ case  involving  the cancellation  of outstanding  hsares  held  by  the  CEO  of QS Energy, Inc.  in a "fraudulent scheme to manipulate the market"  through  a combination  of  public prompotions and  private  salkes of restricted  stock, _available at_ https://www.sec.gov/litigation/complaints/complr17283.htm. Upon punishment bt the  SOuther District o f  New YOrk,  the i ssuer  was  orders "to cancel any issued and outstanding shares of STWA stock currently owned" in street-name beneficial  title, _available at_ https://www.sec.gov/enforcement-litigation/litigation-releases/lr-19469. Hopwever, CCede  & Co. never reliquished the certificates related  to such  securities,  forcing  the  company t o  later waste millions o f hsarfheolder  dollars aquiring stoick  in  the market  to avoid liticagiton with DTCC, _available at_ https://www.sec.gov/Archives/edgar/data/1103795/000101968716005479/R19.htm. For  about one decade  between  the resgistrar's  cancellation  of the shares  and a later  FAST  aagent's reissuance  of  those 3,047,403 common units.,  DTC  failed  to effect  or report the corresponding cancellation in its nominee system, thereby continuing to recognize as outstanding shares that had been judicially nullified, in clear  violation of a   mandateds they were entrusted to police.
+
+
+[^larp]: I have no  itnention of singing the FAST LPA agreements, and  if edcchanges scchoose  to delist serviced sercurities in resposne. . ,  then  it will be on the imepus of the fcourts to decide on antirust acction.  Central  clearing counterparties onylm  serve  ot extend Wall  Street's  ujnprecedented ability t o generate credit out of  the  value o f our markets.  They have no right to  takle so much  power and voting  control on the basis of  manainging  our retirmenet accouints' pooled  investments. ANd unlike a certain precedfesor, for  clarity, I will not "eject:" into the  cushy  arms  of any g eneous aquisition or  endorsement  offers for votes,
+
+[^cede]: I  mena this  aas  slightly  as  possible,  with  compelte  respect  for ht e lack  of options staff  have  given  the present market  strucutre  nad  literally  hundreds of years entranching broker  credit-based cleairng. v$uch  of my  market-ddesign  inspirations  come from a  deep analysis  of the Amsterdam stock   exchange'
+s  hadnlign o f  shares in  the  Futch  East  India  company  over its tenured  lifespan.  Dserpute being justg  a few  blocks  away  form  hte  issuers's trasnfer agent and  corpoartet  secretary,   tradiogn emmerged  on contracts  to  avoid  transafctions costs dedspite poor legal  protections of debotor losses, as discussed in my first  communtiy  interaction. other countries have proper dbeit-based  direct ownership models whilcxh keep reconcliliation simple nad honesst in the names  of actual investors. 
+
 
 
 
@@ -949,6 +975,17 @@ The Staff’s discussions with the Registrant revealed that the 99 Wall Street a
 
 BlockTrans does not maintain any personnel at that location. Likewise, it does not appear that BlockTrans performs any transfer agent activities at that location.
 ```
+
+nothing psecial  eprson
+
+
+for the split  / riptrack  (no  comment on bessemer  exparol;tikons  from transfer table  ):
+ Direct cite as Amtrak to Connersville, with FN setup for Congress
+
+we have strong basois on the minor intro with binance 
+Ex. 8.3 iimage from when i was 17.18yr old. 
+^ the _SHIRT_ basis  here  omes from Exhbibt  2.9.7
+(id verif f self  in photos susbsuppls 1–3)
 
 
 
@@ -1176,28 +1213,11 @@ users  didn't  expect the pace  infer IDss b/c they hav basically always away sh
 ```
 \
 ### imgs
-
-for the split  / riptrack  (no  comment on bessemer  exparol;tikons  from transfer table  ):
- Direct cite as Amtrak to Connersville, with FN setup for Congress
-
-we have strong basois on the minor intro with binance 
-iimage from when i was 17.18yr old. 
-^ the _SHIRT_ basis  here  omes from Exhbibt  2.9.7
-(id verif f self  in photos susbsuppls 1–3)
-
-
-DEX as nuceleuar bomb in the fuel tank has basis in Erik V comments from ccrypto  grountable highterd in Resposne 3 note 2
-^ "in my grandpas decades in the air force," he flow the F-111
-pllane designed andd trained  to  carry nuccleaar  weapons
-the law requires more than n&c because 78q iS MORE nei
-I d on't think  we need perosnal substantiation, but if i need a  refresher  during  drafting we have  a direct citation in https://github.com/JFWooten4/gratitude-journal/blob/main/2025/Jul/4.md
-
-
 https://discord.com/channels/@me/1399830854385274991/1415471113609154631
 
 # end (fold)
 
-nove  in parts should be here  at the  close
+"move  in:" parts should be § 4  at the  close
 
 
 
@@ -1209,14 +1229,3 @@ nove  in parts should be here  at the  close
 
 
 
-
-[^tar-fuck]: _See, e.g.,_ case  involving  the cancellation  of outstanding  hsares  held  by  the  CEO  of QS Energy, Inc.  in a "fraudulent scheme to manipulate the market"  through  a combination  of  public prompotions and  private  salkes of restricted  stock, _available at_ https://www.sec.gov/litigation/complaints/complr17283.htm. Upon punishment bt the  SOuther District o f  New YOrk,  the i ssuer  was  orders "to cancel any issued and outstanding shares of STWA stock currently owned" in street-name beneficial  title, _available at_ https://www.sec.gov/enforcement-litigation/litigation-releases/lr-19469. Hopwever, CCede  & Co. never reliquished the certificates related  to such  securities,  forcing  the  company t o  later waste millions o f hsarfheolder  dollars aquiring stoick  in  the market  to avoid liticagiton with DTCC, _available at_ https://www.sec.gov/Archives/edgar/data/1103795/000101968716005479/R19.htm. For  about one decade  between  the resgistrar's  cancellation  of the shares  and a later  FAST  aagent's reissuance  of  those 3,047,403 common units.,  DTC  failed  to effect  or report the corresponding cancellation in its nominee system, thereby continuing to recognize as outstanding shares that had been judicially nullified, in clear  violation of a   mandateds they were entrusted to police.
-
-
-[^larp]: I have no  itnention of singing the FAST LPA agreements, and  if edcchanges scchoose  to delist serviced sercurities in resposne. . ,  then  it will be on the imepus of the fcourts to decide on antirust acction.  Central  clearing counterparties onylm  serve  ot extend Wall  Street's  ujnprecedented ability t o generate credit out of  the  value o f our markets.  They have no right to  takle so much  power and voting  control on the basis of  manainging  our retirmenet accouints' pooled  investments. ANd unlike a certain precedfesor, for  clarity, I will not "eject:" into the  cushy  arms  of any g eneous aquisition or  endorsement  offers for votes,
-
-[^cede]: I  mena this  aas  slightly  as  possible,  with  compelte  respect  for ht e lack  of options staff  have  given  the present market  strucutre  nad  literally  hundreds of years entranching broker  credit-based cleairng. v$uch  of my  market-ddesign  inspirations  come from a  deep analysis  of the Amsterdam stock   exchange'
-s  hadnlign o f  shares in  the  Futch  East  India  company  over its tenured  lifespan.  Dserpute being justg  a few  blocks  away  form  hte  issuers's trasnfer agent and  corpoartet  secretary,   tradiogn emmerged  on contracts  to  avoid  transafctions costs dedspite poor legal  protections of debotor losses, as discussed in my first  communtiy  interaction. other countries have proper dbeit-based  direct ownership models whilcxh keep reconcliliation simple nad honesst in the names  of actual investors. 
-
-
-[^gnpa]: 
