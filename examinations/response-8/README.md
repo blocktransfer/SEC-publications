@@ -22,7 +22,7 @@ John Wooten
 > [!NOTE]
 > They have  properly  identified  `1legacy`  as a  subsidiaryu file and  then  we  have  sledger  as  the  MSF  -  just need to affirm and ink  that  down form Ad-9
 
-for the outstanding API modivfiicaiton and update for  legacy internal comparison, we can have also idneditfiier seperations between  the "street naem" custodian shares of clearing agenccyies with specified on-chain accounts as per 6days interest i n https://discord.com/channels/@me/1399830854385274991/1412802278737580073
+for the outstanding API modivfiicaiton and update for  legacy internal comparison, we can have also idneditfiier seperations between  the "street naem" custodian shares of clearing agenccyies  with specified on-chain accounts as per 6days interest i n https://discord.com/channels/@me/1399830854385274991/1412802278737580073
 ^ lets do this in the main asset page rather than subdt /outstanding
 
 
@@ -89,6 +89,17 @@ I wnant _singular mention_ of "covered securities"
 
 
 #### singular pg.1 footnote:
+reg letter adn Don email suppl both quote the FAC _infra_ in 15 USC § 78q-1
+
+https://www.law.cornell.edu/uscode/text/15/78q-1 §§ f4
+
+
+`parallle/side markets`
+
+
+offer through  a decentralized frmaework  for  decentralized market
+
+purport ot  uspport  competition (the exchanges, direct  callout  of monoppoily staturing wihtout duoipoly citation)
 
 
 In  good faith,
@@ -368,6 +379,16 @@ In addition, the Staff’s review of the information maintained on the Legacy Da
 
 [^2]: subsubsection with start of issue auth convo...]
 for excel _See_ TAR n.45
+
+
+
+
+
+https://github.com/JFWooten4/free-markets/blob/d80c385d1644eb2e1e01ed41623ba3f2c1c598bf/micro/2025/Jun/24.md
+
+
+https://github.com/blocktransfer/syndicate-api/issues/3
+
 
 
 2. First Last ("Investor B"): This securityholder’s 1 million shares were revoked/cancelled on December 8, 2023, as a result of the clawback by the issuer. The shares were subsequently re-issued to Investor B pursuant to an email authorization from Laylor to BlockTrans on February 26, 2024. However, the Staff’s review of the information maintained on the Legacy Database for Investor B disclosed that the issue date ("aqAt"), reflected in "holdings" column (column k) corresponded to the original establishment of the cancelled position on September 11, 2023, not February 26, 2024 (authorization date) or March 21, 2024 (date of transaction on the Stellar blockchain)[^3]
@@ -753,35 +774,6 @@ given ii.b.1
 
 
 
-
-
-reg letter adn Don email suppl both quote the FAC _infra_ in 15 USC § 78q-1
-
-https://www.law.cornell.edu/uscode/text/15/78q-1 §§ f4
-
-
-
-n 
-
-2023 proposed amendments to Reg SCI would not have applied to transfer agents
-
-
-^ sole regernce, only aded with a fn
-
-`parallle/side markets`
-
-
-offer through  a decentralized frmaework  for  decentralized market
-
-purport ot  uspport  competition (the exchanges, direct  callout  of monoppoily staturing wihtout duoipoly citation)
-
-
-interpretive proxy for specific programs
-
-
-
-
-
 ~~## B. MSF Certificate Detail~~
 
 In writing the prior subsubsection, I noticed a single-brick lego was  ajar on a Mellenium falcon model  in my office. I had a simialr exprience noticng  a single missing brick out of a dozen completed sets while in therapy  for cvonditions disussedd  in the email submitting Respon #2 sent on 16 Jun 2025 at 4:40pm ET.  Mymind just notices all the little things in  systems, wanting everything in its place.
@@ -895,34 +887,40 @@ As  cited  _supra_ note {{awscollege}} , 37,347,572 shares of Bed Bath & Beyond,
 
 <img width="600" alt="f111-story" src="imgs/fighter-pilots.png">
 
+ I've sincerelyt apprecaited "navigating e" efforts from the stadff and my  Dad over hte  year,s helping me see  the fraud of DTCC rfor what it  is. Behind us in this  photo is  an F-111,  the plan  my granpda from PREV spent most of his  time flying in  the Strategic Air COmmand./  He trained and  practices for years on years  to fly  the main nuclear bomb carriage in the fuselage  directly into the heart  of  Russia's CPSU.
+
+I plan to follow a similar path tpowards tpday's CCP.[^larp] I view  transfer a gents  like fighter  pilots  in the cockpiut  of  oversight  adn direction  in  TAD33's pplane. We have the netowrk as an engine propelling us to bring decentralized excahgne forward as a bomb nullifying their predatory business m odels  in view of best  futures.
 
 
-^navigating
+
+#### Deleted Certificate Detail,  backups
 
 
-[^larp]
+Securities  Cancellation Dates\
+This information is required as part of the minimum certificate detail pursuant to Rule 17Ad-9(a) under the Exchange Act. 
 
-##### Securities  Cancellation Dates FN<!>
 
-This information is required as part of the minimum certificate detail pursuant to Rule 17Ad-9(a) under the Exchange Act. Cancellation dates are reflected on the Stellar blockchain and for securityholders who opened Accounts/Wallets on Stellar (the "Stellar Accounts") are readily obtainable. However, for those securityholders without Stellar Accounts whose shares are held in the "Distribution Account", there is no clear audit trail that records the number of shares cancelled by securityholder or the date of cancellation. To obtain this information on a securityholder level, BlockTrans would have to review several sources to determine the number of shares cancelled and the cancel date.
+However, for those securityholders without Stellar Accounts whose shares are held in the "Distribution Account", there is no clear audit trail that records the number of shares cancelled by securityholder or the date of cancellation. 
+have to review several sources
+
 
 As a result, BlockTrans does not maintain or have readily accessible the cancellation dates or share amounts for cancelled securities of securityholders allocating to the Distribution Account.
 
 
-#### Deleted Certificate Detail
 
 
+CRON and pen
 
-
-
-##### backups in CRON and pen...
 
 For those securityholders who don’t maintain Stellar ccounts, the Registrant will manually delete certificate detail for cancelled securities. At present, deleted certificate detail for these securityholders would be reflected in backup files maintained by BlockTrans. However, the Registrant does not have a process to back-up and maintain the certificate detail for these securityholders which resides in the Legacy Database.
 
-Rule 17Ad-10(f) under the Exchange Act states that every recordkeeping transfer agent shall retain a record of all certificate detail deleted from the master securityholder file for a period of six years from the date of deletion. In lieu of maintaining a hard copy, a recordkeeping transfer agent may comply with this paragraph by complying with §240.17Ad-7(f) or §240.17Ad-7(g).
 
-BlockTrans’ failure to establish a process to ensure that back-up files of the Legacy Database are maintained is an internal control weakness, as such process could ensure that BlockTrans maintains a record of certificate detail deleted from the MSF as required by Rule 17Ad-10(f) under the Exchange Act.
 
+
+BlockTrans’ failure to establish a process to ensure that back-up files of the Legacy Database are maintained is an internal control weakness, 
+
+as such process could ensure that BlockTrans maintains a record of certificate detail deleted from the MSF as required by Rule 17Ad-10(f) under the Exchange Act.
+§240.17Ad-7(f)
 ---
 
 subsubsec on legacy backups and ledger cachinege
@@ -1129,7 +1127,7 @@ https://stellar.expert/explorer/public/tx/16763d4ed2ac25dfe69656c6bf0b83e6d5a11a
 
 
 
-idk if here but somehwere we have deference as to https://github.com/JFWooten4/free-markets/blob/d80c385d1644eb2e1e01ed41623ba3f2c1c598bf/micro/2025/Jun/24.md?plain=1
+
 
 I care vvery deeepoly  about  investing. It is  my7  interpretaion  of perosnal  infromation that it is the chiegf aact I was  put on this planet to  do.  But I cannot do  my  job without the gatekept  unreconcilable  centralized perssimmion  of Wall Street.
 
@@ -1221,14 +1219,12 @@ nove  in parts should be here  at the  close
 
 
 
-
-
-
-
-
 [^tar-fuck]: _See, e.g.,_ case  involving  the cancellation  of outstanding  hsares  held  by  the  CEO  of QS Energy, Inc.  in a "fraudulent scheme to manipulate the market"  through  a combination  of  public prompotions and  private  salkes of restricted  stock, _available at_ https://www.sec.gov/litigation/complaints/complr17283.htm. Upon punishment bt the  SOuther District o f  New YOrk,  the i ssuer  was  orders "to cancel any issued and outstanding shares of STWA stock currently owned" in street-name beneficial  title, _available at_ https://www.sec.gov/enforcement-litigation/litigation-releases/lr-19469. Hopwever, CCede  & Co. never reliquished the certificates related  to such  securities,  forcing  the  company t o  later waste millions o f hsarfheolder  dollars aquiring stoick  in  the market  to avoid liticagiton with DTCC, _available at_ https://www.sec.gov/Archives/edgar/data/1103795/000101968716005479/R19.htm. For  about one decade  between  the resgistrar's  cancellation  of the shares  and a later  FAST  aagent's reissuance  of  those 3,047,403 common units.,  DTC  failed  to effect  or report the corresponding cancellation in its nominee system, thereby continuing to recognize as outstanding shares that had been judicially nullified, in clear  violation of a   mandateds they were entrusted to police.
 
 
-[^larp]: I have no  itnention of singing the FAST LPA agreements, and  if edcchanges scchoose  to delist serviced sercurities in resposne. . ,  then  it will be on the imepus of the fcourts to decide on antirust acction
+[^larp]: I have no  itnention of singing the FAST LPA agreements, and  if edcchanges scchoose  to delist serviced sercurities in resposne. . ,  then  it will be on the imepus of the fcourts to decide on antirust acction.  Central  clearing counterparties onylm  serve  ot extend Wall  Street's  ujnprecedented ability t o generate credit out of  the  value o f our markets.  They have no right to  takle so much  power and voting  control on the basis of  manainging  our retirmenet accouints' pooled  investments. ANd unlike a certain precedfesor, for  clarity, I will not "eject:" into the  cushy  arms  of any g eneous aquisition or  endorsement  offers for votes,
 
+[^gnpa]: 
+
+[^cede]: I
 

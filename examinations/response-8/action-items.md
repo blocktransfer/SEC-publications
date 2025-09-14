@@ -17,3 +17,4 @@
 #  Lonog-term
 
 - [] Adding a repo website URL when ID suite  deployede
+- [] §240.17Ad-7(f)  policy  iuntegrations
