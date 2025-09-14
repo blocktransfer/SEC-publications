@@ -2,6 +2,19 @@
 extends: Response #6 <-- actually important for the cross-ref refferal to backlink, even if a placeholder we need to establihs and communitye te URL SCheme
 publish: 15 Sep 2025
 ```
+# [Download]() (as PDF)
+## submission email
+to steve CC dave
+AS REPLY  TO THE X POST SEND ACK_
+
+Hello,
+
+Here's out resposne letter. I'm goiong to keep working on the referenced items rather than comment on recnet SRO or market changes. But i am always here to help voice a concerned investor constituency voice for rule meetihgs.
+
+
+In good faith,
+John Wooten
+
 
 > [!NOTE]
 > They have  properly  identified  `1legacy`  as a  subsidiaryu file and  then  we  have  sledger  as  the  MSF  -  just need to affirm and ink  that  down form Ad-9
@@ -102,7 +115,7 @@ For PDF  when  rendering output
 
 
 
-## Deficiency Responses
+## §1 Deficiency Responses
 
 
 'd lketo start wit a big thank o staff for their throgouh inolvment throghou this eview. I sincrely appreciate all the finding in teh 14 Aug 2025 Defficinecy Letter within Appendix A (the "Findings"). Although I understand hte exam began as a check on our frst lost investors, it grew to be so much mre.
@@ -828,6 +841,18 @@ Thus my inital approacch was to scan and shred oldd certificates using  the PHsy
 
 #### Certificate Cancellation and Destruction
 
+problem framed around STAMP vioders
+
+Lost and Stolen Securities Program
+the thing is this will need to be a TIP for hte  creds and on-chain montiorign 
+
+78q(f)(3):
+(A)In order to carry out the authority under paragraph (1) above, the Commission or its designee may enter into agreement with the Attorney General to use the facilities of the National Crime Information Center (“NCIC”) to receive, store, and disseminate information in regard to missing, lost, counterfeit, or stolen securities and to permit direct inquiry access to NCIC’s file on such securities for the financial community.
+
+becuase (DOGE citation) with the dismatingn of  the CFPB it iqs quesitonable if law enforcement database will help investors
+
+
+
 
 
 
@@ -838,7 +863,8 @@ Thus my inital approacch was to scan and shred oldd certificates using  the PHsy
 
 
 
-Even though BlockTrans did not receive any securities certificates during the Staff’s review period, it should establish written procedures for the cancellation and/or destruction of securities certificates in accordance with the Rule in the event that it does receive them. 
+
+should establish written procedures for the cancellation and/or destruction of securities certificates in accordance with the Rule in the event that it does receive them. 
 
 
 
@@ -848,7 +874,7 @@ standardize  in open issuer agreement template
 
 and direct any new investors to me by email
 
-### Lost  Ceritifcet Statoru Programming
+#### Lost  Ceritifcet Statoru Programming
 
 story 
 `
@@ -857,21 +883,21 @@ I have no  itnention of singing the FAST LPA agreements, and  if edcchanges scch
 
 
 
-### Securities  Cancellation Dates
+#### Securities  Cancellation Dates
 
 This information is required as part of the minimum certificate detail pursuant to Rule 17Ad-9(a) under the Exchange Act. Cancellation dates are reflected on the Stellar blockchain and for securityholders who opened Accounts/Wallets on Stellar (the "Stellar Accounts") are readily obtainable. However, for those securityholders without Stellar Accounts whose shares are held in the "Distribution Account", there is no clear audit trail that records the number of shares cancelled by securityholder or the date of cancellation. To obtain this information on a securityholder level, BlockTrans would have to review several sources to determine the number of shares cancelled and the cancel date.
 
 As a result, BlockTrans does not maintain or have readily accessible the cancellation dates or share amounts for cancelled securities of securityholders allocating to the Distribution Account.
 
 
-### Deleted Certificate Detail
+#### Deleted Certificate Detail
 
 
 <img width="600" alt="f111-story" src="imgs/fighter-pilots.png">
 ^Y
 want refspfefctful deference to (9) ponlicies
 
-#### backups in CRON and pen...
+##### backups in CRON and pen...
 
 For those securityholders who don’t maintain Stellar ccounts, the Registrant will manually delete certificate detail for cancelled securities. At present, deleted certificate detail for these securityholders would be reflected in backup files maintained by BlockTrans. However, the Registrant does not have a process to back-up and maintain the certificate detail for these securityholders which resides in the Legacy Database.
 
@@ -1166,6 +1192,7 @@ https://discord.com/channels/@me/1399830854385274991/1415471113609154631
 # end (fold)
 
 nove  in parts should be here  at the  close
+
 
 
 
