@@ -111,11 +111,6 @@ John  Wooten
 
 Our Document Request Response #6 ("PREV") incorporated by reference in toto.
 
-## Headings
-
-esclaeltion  on FAC
-\
-
 
 
 # TOC
