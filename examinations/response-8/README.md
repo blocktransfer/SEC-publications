@@ -1008,21 +1008,16 @@ I appreciate that teh Commission's used to aplying its laws to centralized organ
 
 
 
---> 
+###  Team Mail Processing  POlicy
+
+I've lawyas known wwe'd expand  and someone else would ahandle PHysiclaAddressss  mailroom digital  rpocessing,m resulting in  necesary public poilikccy. I'vve  avoided developing these standrds because historic implmentaitons woudl be  impliclty  centralized  as directive working instructions in a hirerachal centrali organzaiton,.[^laibilty] However,  I hbave  a better scope  of vision for  authority-light team expansikon  to routine items like  KYC processing,  which I intent to matujre going  forward including through this processing.
+
+I wonder now  to  staff what our  examinatiohn juresdictikon wilkl look l ike given the Commission'd  regional-office  operating model.  And  rI question if it would affect the  consistency  of  exmamination udnerstanding to limit material -  shareing  to  a  singel jursidction or not.  I liekd the orignial New-Yokr registration because  I repr4e44sumed it  would  be  the most  sccruitinaous examijnation region of possible addreses?[^addr-loc]
 
 
 
-###  TA12  address change items
--0  basis  fo  examination  jurisdiciton
-- e xpertise of staff  in  other options  for  new addresing?>[^1]
-- continuing relationshiups and basically  if based o n mailing or  the  principle office
-(others r crypto secuirtyh   impls below)
 
 
-the policy  is material bescause https://physicaladdress.com/subscriber-agreement/ § 12 indemnifies them from Sydnmciate damages
-
-[^1]: huint at williing t o move  for benst expertise
-^ but also  cite exmpty  duplex partner option for off
 
 i specifcialyl  wnat a fn  on the reccomendation provided to make TA-1  line 3 the address "to which  yoiu would forward  packages" 
 direct screenshopts on  the aimplmentaion page at  https://physicaladdress.com/virtualizedmail/settings#deleteforwardconfirm
@@ -1169,6 +1164,7 @@ Existing work in 723 (later) extends to the investor protection points in re Acc
 becuase like lol ultimatley the goal  is creating  this awesome predicatbale pbeurcoracy o n our side that interlinks with the berorcratic investpr protections needed for relaible sagfertty
 
 
+^ but also  cite exmpty  duplex partner option for off
 
 
 
@@ -1233,3 +1229,9 @@ broadly we h ave here the  conectikonA to automating through software and backen
 
 href EDGAR Letter § II.B.1.a
 ^ p[rob needs  forma deifntional]
+
+ 
+
+[^laibilty]: Such a policcy  is  mateiral because  sectio n12  of the subscriber agreementr indepmnifies PhyscaiAddress from Synciate dmaanages resulting in mishandling, despite no evidfnece  of  anyhting b ut professional serivce in the past, _available at_   https://physicaladdress.com/subscriber-agreement. Donna and  Dave wer  kind ernoguht to inform me that most angents have specififc  written outsourcing agrreeement s with their providers,  which  I  forwentg in  exchange  ofr h te scaling benefits nad  ingfraxstrcuture  stability  discussed i n our meeting all together. I  szstand by  tthis interpretaion of technical quality, which I  was  not  eable  to  ascertain with structly  comparably  e  scan turnaorund times at any  other privoders during  an extensive search  ascross  the indsutry.  Axxoesidnflt,  I  qill xrewrtw  a policcy for  adaptation into  ongoing operatikons expkolaing the  treatment  of differnet  mail items  bassed o n  requested  and personal  use cases, _available at_ https://github.com/blocktransfer/website/issues/9.
+
+[^addr-loc]: As  evidenced  in the filing, I presently  live i n  a removete  part  of the countrfy which isn't  clsoe to any  concvnetnient cnetralized  odffices like  Wall Street./  I wnat to  conitnue our relationship with the bes t location for secure physical correpsonsce. But I do  not  see this  vision  combining with  the necesary decrentrlaized and often anonymous assistance of  others, particialt yhtrough the DUNA strucutre vwhiddch  I presume woiuld  have  oversight implications  asa whole parnet.  Thier seucirty  matters owrfor working indepocepnce  and cryptofgrpahci secuiryt,  hwichi is hwy  I  designed and iwll document hte  for-benefit-off  adddfressivng serivce aliasses ias  a d efauilt o ption of ro  all committmentred memebrs.
