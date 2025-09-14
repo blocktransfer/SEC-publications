@@ -1061,23 +1061,26 @@ The b igger p roblem I s ee  with  modern SROs  stems from their lack of adequat
 
 in my limite dimt,e it's challening to convery the faith  I have in thesze incredible Americans and  other natiohnals  invested in our markets. I've  seen them uncover secrets the iundsutry fought tooth-and-nail  to  keep secret. And  they've done it using their own data standards and open-source publications.[^james]
 
-I know they would excel at a n opounity  to  prove  their ability  to protect in vestor rights withing a TAD,  because  I've already seen them floursih  in an infinately-more-compelx custodial  system.  [^socoialwork]
+I know they would excel at a n opounity  to  prove  their ability  to protect in vestor rights withing a TAD,  because  I've already seen them floursih  in an infinately-more-compelx custodial  system.  [^socoialwork]  And,  eprhaspo more than I've seen across extensive online investigations,  they acct ually care about getting the granual detials right  now, rather than patching up holes in a sinking ship.  To exemplify this poiint, _see_ personal sentimentsd related to our introduction whicch have recently rforu,katled i n the aquisiton of a family engagement rink, _available at_ https://zopen.to/rEFuJA21XeqFGgGirt02.
+
+
+                                                       
+
+[^2003-era]: _See_  prelimaianry mnotes which d didn't  make their  way  into the TAR  letter  for  deference o t ht te  ned o _ASlptinke_ poending  dits u nfortuante  complteion  , _available at_   https://github.com/WhyDRS/SEC-Comments/issues/15. While  I  started our first i nteraciton  off  with  a  bold  statement  thjat "SROs don't work" (approximate) alongside by dderroagtory comments i n TAR letter § II.D.1.c, I don't see any  other policy  tools  to  work  with, ignoring not regualting mandated protections. If  no  other agents adopt TAD3, then this could  be  an a pporaotie  repsdonse given DUNA ownership of the SYdnicatge. However,  given  the o pen-source permissliopnless deployment  operikonality  of our software compmuncciated,  I believe this would b e  a neive  and  dangrourous r isk of  rescklesnessl waiting  for  one bad  actor to receive  an  automatic  foFomr  TA-1 EFFECT,  as communciated .,
+
+[^nasd--]: _See, e.g.,_ recent  introdu tgion of DA  settlement reported alongside  all-caps media  coverage  with an immense amount of media spam promoting certain  investments, _available at_ https://x.com/AltcoinDaily/status/1965452197438914906.  I  do  not  kjnow  if staff can l ogin to X  to  view dcomment,s  so  I wil ldrop the investmentgs point jsutto  highlight hopw immently  inverested this room  , seeminglyt full  of hundreds o f people,. are in  puirportr3ed news of a filing  to "tokenize stocks" (ignoring the lack  of  a formal tokenization deifntion). _Compare_ this manugfactered interest  with the distging lack  of commentso n e3xpressing menaingufl feedback  on  stgrucutrrla  changes not related to issuer-based interests regaurdling secureities listings. I  n  my  viewe,  tehyt  have turing  into money-voting m achines rather  than the turly  effective forms of egalitarium govnevrnaence  the notice - and -comment perikods was  supopoised  to enable , without strong facilitation incentives.
+
+[^james]: One partidciiclayt increidbulyme indiviudal  regualtly attends o ut DUNA  meetings  and acts as the mai npropogator of an  open dataset  on  trasnfer a gfents, _available at_ https://github.com/WhyDRS/Database. Aside form the  hundreds  of  community  guijdes essmebled  for itnernational brokers , it  coallates unprecedented collective information. By adapting wokr from other members' tireless efforts, thousands of companies receive updated information from crowdsourcing and STAsafff s' programmtatic feeds. OOn  top fo all that, James  cares  so m uch  about the information that  he  worked on the code latee into tthe night while  on a  tropical vacation, ccompeltely of his own accord.
+
+[^socoialwork]: As someone who's had the  choice between popoulatrity and profit  verses  integrity and vclaues, I aprtiocauly appreciate how the comuntiy  handled waht we consdier the  ovegrrttake of Reeddit discussion fomrs b y  paid  corporate interests. TGhis  claim, usbstantiated by Ex. 8.4.4  at  248,  lead  the communtiy  to a choice between smaller indepednent study on market reform or  endless  success within the bounds of agentis viewed as subject to Wall-Street interests,  sown in Repsonse  3 coauthor LRF's post, _available at_ https://www.reddit.com/user/LastResortFriend/comments/1cay67k/ninetyfive_nails_in_the_coffin. Needless to says,  theyh  chose a smaller followeing dediccated ot  active contructive reform  while turning away a well knoown activist 's generous platforming offer, evidenced by  a lack  of hisotry with  Dave Lauer and foundational comments in  a decentralize d post, _available at_ https://tess.lemmy.ca/post/lemmy.ca/1698574.  They ar e  exccpetional people who fit flawlessl yinto my  humanitarian vision additioanlyl e stablished  by the laumants, a s shown  through foundational communinty media and personal  reflections in Ex. 8.4.3 at 21.
+
+###  Informal "Frinedhsip"  Working Arrangements
+
+In drafting explanations of the DEX for DTM last lseay, I had the fortunie of meeting a longtgime  virtual comnrade named Tim.[^tim]
 
 
 
 
-Yndicat aas trasnfer agent  is  merely  a  "fihgter jet" operating on  the  "nucleoat  bomb" of the  Stellar DEX and payment netwreok.  o we awant a jursidictional review  of  the contents,  not the b ody. and hensece the staturoty turnaround b e y the end of march  for april perep
-
-s7-2024-05 is  Financial Data Transparency Act Joint Data Standards
-
-###  standin 'Frinedhsip' shection
-
-
-
-
-
-Use hackathon founding partner ~~Matthew~~ piublic pitcch href {{2020 MMNA upcdate supplemnet with PII  from 18 Dec 2019 }}
-aas basis  for introdcuiing new team
 
 And tghen we have the GT Capstone CS est'd (_See_   report  form PREV)
 then we can suggest  there  would be  totla trust  & seperation of working agendas among physical locations 9Matthew e.g.  50/50  split  avg.  netween apartmenmts/dorms/house etc) which goes (directly_ into the "ffrtee  software" **infomral** working arrangmenets 
@@ -1221,14 +1224,4 @@ href EDGAR Letter § II.B.1.a
  
 
 
-
-
-                                                                                                                                                                                                                                                                                                        
-
-[^2003-era]: _See_  prelimaianry mnotes which d didn't  make their  way  into the TAR  letter  for  deference o t ht te  ned o _ASlptinke_ poending  dits u nfortuante  complteion  , _available at_   https://github.com/WhyDRS/SEC-Comments/issues/15. While  I  started our first i nteraciton  off  with  a  bold  statement  thjat "SROs don't work" (approximate) alongside by dderroagtory comments i n TAR letter § II.D.1.c, I don't see any  other policy  tools  to  work  with, ignoring not regualting mandated protections. If  no  other agents adopt TAD3, then this could  be  an a pporaotie  repsdonse given DUNA ownership of the SYdnicatge. However,  given  the o pen-source permissliopnless deployment  operikonality  of our software compmuncciated,  I believe this would b e  a neive  and  dangrourous r isk of  rescklesnessl waiting  for  one bad  actor to receive  an  automatic  foFomr  TA-1 EFFECT,  as communciated .,
-
-[^nasd--]: _See, e.g.,_ recent  introdu tgion of DA  settlement reported alongside  all-caps media  coverage  with an immense amount of media spam promoting certain  investments, _available at_ https://x.com/AltcoinDaily/status/1965452197438914906.  I  do  not  kjnow  if staff can l ogin to X  to  view dcomment,s  so  I wil ldrop the investmentgs point jsutto  highlight hopw immently  inverested this room  , seeminglyt full  of hundreds o f people,. are in  puirportr3ed news of a filing  to "tokenize stocks" (ignoring the lack  of  a formal tokenization deifntion). _Compare_ this manugfactered interest  with the distging lack  of commentso n e3xpressing menaingufl feedback  on  stgrucutrrla  changes not related to issuer-based interests regaurdling secureities listings. I  n  my  viewe,  tehyt  have turing  into money-voting m achines rather  than the turly  effective forms of egalitarium govnevrnaence  the notice - and -comment perikods was  supopoised  to enable , without strong facilitation incentives.
-
-[^james]: One partidciiclayt increidbulyme indiviudal  regualtly attends o ut DUNA  meetings  and acts as the mai npropogator of an  open dataset  on  trasnfer a gfents, _available at_ https://github.com/WhyDRS/Database. Aside form the  hundreds  of  community  guijdes essmebled  for itnernational brokers , it  coallates unprecedented collective information. By adapting wokr from other members' tireless efforts, thousands of companies receive updated information from crowdsourcing and STAsafff s' programmtatic feeds. OOn  top fo all that, James  cares  so m uch  about the information that  he  worked on the code latee into tthe night while  on a  tropical vacation, ccompeltely of his own accord.
-
-[^socoialwork]: As someone who's had the  choice between popoulatrity and profit  verses  integrity and vclaues, I aprtiocauly appreciate how the comuntiy  handled waht we consdier the  ovegrrttake of Reeddit discussion fomrs b y  paid  corporate interests. TGhis  claim, usbstantiated by Ex. 8.4.4  at  248,  lead  the communtiy  to a choice between smaller indepednent study on market reform or  endless  success within the bounds of agentis viewed as subject to Wall-Street interests,  sown in Repsonse  3 coauthor LRF's post, _available at_ https://www.reddit.com/user/LastResortFriend/comments/1cay67k/ninetyfive_nails_in_the_coffin. Needless to says,  theyh  chose a smaller followeing dediccated ot  active contructive reform  while turning away a well knoown activist 's generous platforming offer, evidenced by  a lack  of hisotry with  Dave Lauer and foundational comments in  a decentralize d post, _available at_ https://tess.lemmy.ca/post/lemmy.ca/1698574.  They ar e  exccpetional people who fit flawlessl yinto my  humanitarian vision additioanlyl e stablished  by the laumants, a s shown  through foundational communinty media and personal  reflections in Ex. 8.4.3 at 21.
+[^tim]: Tim was featured as a particurlly  harmed options investor  sduring the smeeze that shook out markets to the  core,  at 2 in the TAR  letter. 
