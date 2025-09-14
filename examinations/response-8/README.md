@@ -58,7 +58,7 @@ Dear Mr. Vitulano,
 
 
 
-
+re August 14, 2025 exam completed 
 
 
 basis:
@@ -1216,4 +1216,13 @@ users  didn't  expect the pace  infer IDss b/c they hav basically always away sh
 (repeat Response X good shoahrhelder intent)
 
 ```
-\
+^trema individualk judgmentg effecieylesnerly 
+
+###  on   the policy choiuce of issueing  to account IDs
+
+_See_ _supra_ § I.B.1.a
+
+broadly we h ave here the  conectikonA to automating through software and backend autonous  signature  verfifications
+
+href EDGAR Letter § II.B.1.a
+^ p[rob needs  forma deifntional]
