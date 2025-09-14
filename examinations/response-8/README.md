@@ -927,23 +927,20 @@ _See also_ re outstanding ledger state Horizon cript repo at https://github.com/
 
 ---
 
-## § 3 - re Findings § I.A.1 (circle back on the rial point as _DC_)
-hysical address org ijmplementaions
-setup notsl:
+## § 3 Ddistributed Aautonomous P)hyscial Address
 
-"onyl employee" now while my own interpretaion may not ven be a fair one given all of us "paid" $0 from the Sndicate as actor re  lack  of prior incoome at https://wooten.link/taxes
+I apprecaite  stgaff refrfering otm e by the "Principal/Founder"  titles used in past filings, rather  than  the arbitary  "Chief COplaince oFficer" title  of past  Repsones. As  is hopefulyl  clear by now, I prefer desinging systems which  themselves,  or  in conjucntion with a decentralized govenrance group, protect i nvestors withgoujt the stradiional hierarchal  authority o f  a beiurpcratioc decision-making body. TAR  letter  n.81 exemplifies the abject failures thyis approach  can have on   iniviudal investoirs, and my decentralized  approach serves  to further goalsd  to bring the market up without a central long-term  point of failure.
 
-org  design is  "not  a p hrase" re Russell meeting (conference) csentiments and _See also_ plan  for  share donations in TAR Letter at 66 syaing i wiill " donate my shares in the company to WhyDRS,"
+IkN orpgnaizing our phsyical or mailing address, I 'd liek to remkar that beihng the "onyl employee" now, while my own interpretaion, may not ven be a fair one given all of us in the  communrity hjasve been "paid" $0 from the Sndicate as actors.[^noincome] iN duisccussing this unique strucutrfe wuhtg  many   outside  the  Commission,   I wqant  to clarifyy  that  ithis  is  notr  a small phase before we onboard larger issuer  clients.  If  anything,  I  want  less  and  less dirfect  invovlement between represntatigeive poeple  nad  any potential MNPI gained  from dierct d iscussion s  with insiders.[^saslesarrangmentgs]
 
-^ dofllow up with 2024 Annual Meeting of Stakeholders at https://youtu.be/3uwH2jfLCNE?t=956
+I  will  reiterate one more time  my plane    for  share donation of mey  entire class-E position  s in TAR Letter at 66, syaing i wiill " donate my shares in the company to WhyDRS," marking ep rhass  the first nonproofit trasnfer agent in  direct contraditction  to cojmmentors on industry regualtions conflated i wht ohnly  for-profit eagnts subject ot conflcicts of interest.[^meetingapprov]  By making  this shift, IO hope to incent  more expoenential individual contributiosn, as much web developemtn can be expontenitally faster with a select few experts. I saw  this  in my  dyears of  building  out  the  backend  TAD3 functionsd, as everything  can be built and dociumentsed  based o n a deep uderstandign o f fosource mateirals.[^gfootball-xc]
 
-haven't  setup the i ssuer  ccom  agreement  ("standard  template") just  yet  and os we will be doing that as  the revamp
+I will establihs  htese new preodcedures in  adopting hte  stadndard issuer commerfcialo agrrmeent in   _supra_ note {{on-only}} link 2, inc conjucntion  with oowenrship transsitikon  work   redefining BYlaws  tog bind  outr intgerests  with theose of tghe i nvesting public  alongside  issuer servicings.  I just kjnow that so may  already hold  the heartg  for  deep terchniccal exclellence  asnd  gaurdinaship opf  the ccore captial-fromation purpose of amarkts, as evendfenced  by erxtnesive  rescent publications  explainign  interest-gaurding decisions, _available at_ https://www.reddit.com/r/Superstonk/comments/1nelijo/warrants_a_chain_of_problems_for_shorts.  I've  worked  extensively iwth this authior in recent work including a peittion submitted  during our E maniaiton and contextuial  sources  in the  TAR letter, adn I'm continually  amazined by  their  decication and efforts despite no direct  market compensiton  for their immense passion  to do good.
 
 
 
-John Wooten, Principal/Founder
 
-gets also iunto  dev tooling (circa  subsubsec elsehwere)  for Football comp. Cross COOuntry methpsors
+
 
 
 ```quote
@@ -957,8 +954,6 @@ BlockTrans does not maintain any personnel at that location. Likewise, it does n
 ```
 
 nothing psecial  eprson
-
-<img width="480" alt="sidewalk-observer" src="imgs/new-york.png">
 
 
 for the split  / riptrack  (no  comment on bessemer  exparol;tikons  from transfer table  ):
@@ -1231,3 +1226,11 @@ href EDGAR Letter § II.B.1.a
 
 
 
+
+[^noincome]: _See_ lack  of prior incoome at https://wooten.link/taxes. Most o f  our deepest  ocntirofbutors spent considerable personal ressxources  continuing advoac yand developemtn  efforts, myslerf  included as evidenced  in cpaital contributes  of piublic  Syndicatge financial s , _available at_ https://www.issuers.info/1846058/BAL/2024-12-31_Annual.pdf.  By  keepign all  out operating work such  as  this and  financial statgements  such as funds  public,  I intent  to  make it  as  simple asx sposible  fopr external  collaboratorfs  otgo  joing our work with  confidence  .   IN tim  I expect htat market rewards  cna incongt ongoign wokr,  whicch will show up  in  public payments on Stellar.
+
+[^saslesarrangmentgs]:  The  essense  of this growth  will  develop eover i tme laongside sentiments made p ublicly surrounding the decentralizaiotn o f sales efofrts. Whiel  traditional  venture interest has steered m e towrarfds commissioned  ar5ragnements,  my  firsthand experience disturbution  g  such  products ajnd services  to  ssxmall businessesshowed me that  the normal  conversion  metrics of business services  easiytl  conflicct  iwht investor protectionxs  neede d for secure, documented  onabording.   TYhius, i blieve  a more  community-centered reastoractiv er considerartion  mechazisms  will best reward growth efforts wihtout  incenting  material  copnflicts  of interest.   Iam devlelopijgn this witrh  epsdxspertinemtnatio n over tiem, a nd staff  can follow  along witgh therse efforts  outside of  direct  letter respohnshxes on my working agenda, _available at_ https://github.com/JFWooten4/agenda/issues/13.
+
+[^meetingapprov]: _See_ STA remarks  lamenting on  thin amrketins (bug enough to fund an industry advoate ccy group and lavish annual fconference) in § II whc threaten "small shareholder positions" without suffeicntly -efficienty technolgoy , _available at_ https://www.sec.gov/comments/s7-27-15/s72715-20.pdf. _See also_ annual public meeting hosted through the infrastguircie I el;ieve  will  work best for longstanding investor meeting archives hosted  in an easily  - accesible public permissionelss medium, _available at_ https://youtu.be/3uwH2jfLCNE?t=956.  This moment markets  my  own approval  of appointment ofas agent for ourselfves alongside issuenecae  of  my shares on -0chain in rpeprpation forf donatio n to the DUNA. FI find it much easierr to satisfy the  spirit of  hte law when  all  our  edevelopment  passes thro ugh the watching eyes  of scruptiulous investors,  as  shown  in  healtthyy  scepticiims  and colabitratgive  clarifiaciton together in _supra_ note {{seed-phrase}} link 2,  disucssing  imporatn accounjt recovery protgections.
+
+[^gfootball-xc]: As an anectdodte encompassing  my  point of view,  I grew upo running cross-countyr and track i n  hgih shcoool.  I uynderstand that  osme o f hte most  suiccessful  in our  investor  communtiy  did htat  same,  as  compared to  early  trema m mebers  I've worked iwht who had more  expreince in central ized  team sports like Americna  football.  Whiel the latter  group could easily follwo beurocraticc otline templates,  I  fovndd thath the  former  who m i susrroudn my slef iwth ar em uch mroe exciting in that theyt  define and exceed  their own limits wihtout  asking  permission  to  dacommplish inomcredible owrk. It's a unique ability  to practice, ddevelop, and hone  skills independnt  of wokring hours or physcial location w hicch i  I have ofund quite significant  in  my ability  to source the nichce talent needed  developing a  unique market o ffering with  uunderappreciated  blockchai ntehcnolgoy.
