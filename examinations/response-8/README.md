@@ -847,14 +847,14 @@ Thus my inital approacch was to scan and shred oldd certificates using  the PHsy
 IN the  early days of Blokc Transfer, I joined Kenmark's STAMP  program becuase  I thought innefifcinet procees were backed into the law. There I saw firsthand just how troublesome physical trasnfer agraunteesx cna be even with a comprehensive oversight newtokr.[^stamp-los] I am glad we can  move past this histeopric limitation with uncertiifcated securities erpresented in token specie on an issuer ledger.
 
 
+UNFBorpiituily, other regulations do write especific  corporate interests into our "nationa' market  functions. [^crohnyies] I take  particular issue with the Lost and Stolen Securities Program with tis associated Form X-17F-1A filings, based on an otudated viewed of  unccertificated trading.[^basios=:LSSP]
+
+15 U.S.C § 78q ("Rule 78q") clause (f)(1)(A) reuqires  transfer agents to "report to the Commission  [opr its designee]... information about securities that are missing, lost, counterfeit, stolen, or cancelled[.]" Sincei mplmeneting the  cCOngressional reuqiremnt, a designee which ultimately  came under the operation  of DTC  managed  this progframe for the intenture industry,  as stafgf know.  Howeever, at the start  of this year, this responsabiltiy  was  outsourced to a tehcnology  consultant for no consideration.[^accenture]
 
 
-report to the Commission... information about securities that are missing, lost, counterfeit, stolen, or cancelled
-
-Form X-17F-1A
 
 
-Lost and Stolen Securities Program
+
 the thing is this will need to be a TIP for hte  creds and on-chain montiorign 
 
 78q(f)(3):
@@ -1223,3 +1223,9 @@ nove  in parts should be here  at the  close
 
 
 [^stamp-los]: _See, e.g.,_ saales brocure  for the physical  rubber stamps used at  legacy  agents, _available at_ https://kemark.com/assets/stamp2000equipment.pdf. The footer' sbarcode reference sectikon refernces  the  "missing equiptment database," promoitign  the easyt of checking  euqpiotment  wiht a guatnor  and location ID number. In investigating  agent  onboarding mateirals, I learned just how often these industry-standard  stamps are lost  of stolen from  gaunrtorr institutions. THus, by maing agents constnatly  check agianst a list of know fraudulent stmap numbers, the progrma losses credible effficacy  with a centralized  certificate uathoritry, which again goers against every principle I know of good c ryptosystems.
+
+[^crohnyies]: _See, e.g.,_ CTA/CQ Plan LLC and  UTP Plan LLC wihtihn SIP specificaitopns  of regualtions I will no cite for  relevance focus  on the  NMS Statue., As staff  presently  werest with skyrocketing  central costs of a crucial swap reporting facility, I'd like to remind myself i n this submission archive of the materiallyh  these  choices  have for investor  confridence, as shown in a ocmmuntiy p ost, _available at_ https://www.reddit.com/r/Superstonk/comments/1k1pmgr/comment/mnpj6je. We've discussed this extensively on our podcast,  including specifc remarks regarding the last-0minute delays andd petition  commenting wiht post author WhatCan incorporated in wokring items surrounding this Exmaination.  I don't  feel it's fair to talk about the lsost  securities cancellation progrmas  wihtout implciatingf thisese larger marekt record difference problems peprptuated.
+
+[^basios=:LSSP]: _See_ staff report resoibnduibg ub poart to rule upodates refernece _supra_ note {{^cancel-fac}} desccribing  the Program in iequivalent terms  to its present mateiral operations, _available at_ https://www.sec.gov/files/377fin.pdf. At 3,  staff  refernbce the Program's basis  in  aoutj lastg  CCongressional review  of market plum,bing which  resulted  in signfiianct settlment reform,  from five decades ago  and  cited  in TAR letter nn.57, 140,.  I bring u jp age because  we are wrestling with a bruopractically-defined government interjection  of markets just not relevant to the  current indsutry tstructure of pioneering foreruinners. I view it as  an ongoing hindereance to  capital formation which serves  only  as a form  of red tape  blocking new entrants, as  hown by Reccomandation  C's unfathomabtly-meaningfless "suggest[ion] that SIC hold LSSP Advisory Board meetings on a semiannual or annual basis."
+
+[^accenture]: _See_  firs tnew designation of stolen  securities program to AccentureFederal Services LLC, _available at_ https://www.sec.gov/files/rules/other/2025/34-102541.pdf. This change came a yer  and  a half after  the  Commission  posted a statement  of work with  over 100 pages o f  minute details and a massive deliverables schedule inclujding migratikon  from DTC's systgems, _available at_ https://sam.gov/api/prod/opps/v3/opportunities/resources/files/043b0ba1bdd044adaef40c470c8217a0/download.  At §  H-3, staff  clatify  that  Accenture will collect  fees from Program participants,  presenting a government-0mandated expense ot a private  company  for up to the next  decade if elected  underf §   F-2.
