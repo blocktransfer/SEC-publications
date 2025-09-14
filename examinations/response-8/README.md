@@ -458,6 +458,7 @@ In early designs , [^kyc-href] I spoke with a development t eam  which created  
 
 
 
+
 chacnged / neww identity  provider
 
 propriterary ones here iwht sctz or vstol belopw
@@ -486,6 +487,14 @@ https://github.com/blocktransfer/identity-verification
 - dao bug  bounties for server enviroment in deplyment
 
 PII obvious 
+
+
+
+
+
+[^kyc-href]: _See_ plrelimairy  KYYC  integration data stands for MSF, noted in a TAD3  Python commit, _available at_ https://github.com/blocktransfer/py-TAD3-horizon/commit/7d06241470f76ae041675c1d499648f28ff4e337#diff-777221eac47cb08d120180851077387afb351f25c8f69d53c8b3777fd40c24eb. Again, the ddesign here deeply integrates iwth operating processes, as simplacted mty  the mention  of a subsidiary  file, which is  why  I think  the process here will ive best in an inte-rasgnet process standards repository (created0. ).  Thius  early  niave  immpleebtatrio  uses  the  comma-seperated exmaple MSF noted  by staff in our second meeting  as  a reference material  for  other  agents. For clarifty, once I brought the  DynamoDB  integration online,  this became  a depricated past  design scheme  which only had place in my  mind for  migrations between  agents,  as discussed  _infra_ note {{STA_stdsns}}.
+
+
 
 #### OFAC Searches
 
@@ -788,13 +797,43 @@ I jut don't see a good reason the world needs to run everything on their antiqua
 
 
 
+
+
+
+
+
+
 ### Physical  Securities and Lifeccycle
+
+ I  hope  that by  this point I hav  well esltabsohsed my intention ot operate as a digital-first  trasnfer agent. I uderstand this i s not the approach  taken  by all  agents, but I think it i s  the movst efficient for TAs using TAD3.  It  seemed i n our meetings  that  staff  were  well  unformed ofg this  spapprafdch, but they  were  still k ind  enough  to reccomend additional processes for handlings.
+
+We do not  does not currently have written procedures pertaining to the cancellation and/or destruction of securities certificates.  Part  of the  challenge I always saw with allowing certifiecats  stems  from the location of registgration on Stgellar. There is a naive approach  of placing all certifcated hsared i n an omnibus account  similar  ot a Dsitributor account, or having us  as agent open and handle individual accounts for eacch  certificate holdder, using  central keys to sign and effect Medallion'd  trasnsferrs.
+
+In gfolldowin g this line o f thinking, I spent months contenmpokalting the distriubtion of "certificates" in  the  form of edmbossed metal seed-phrase  cards. However, I found this faced  the same centralization  challenges  of a p;hsuycial processing  facility.[^cancel-fac] While it might be faster and easier to centrally provision everyone's account  phrasses, I know infrvesotrs receive far better security  garuntees by c ontrolling their own self-custody wlalets.[^no-nums]
+
+
+
+
+
+
+
+
+
+
 
 https://www.law.cornell.edu/cfr/text/17/240.17Ad-19
 
-##### Cancellation and Destruction of Securities Certificates
+#### Certificate Cancellation and Destruction
 
-BlockTrans does not currently have written procedures pertaining to the cancellation and/or destruction of securities certificates. Rule 17Ad-19(b) under the Exchange Act requires every transfer agent involved in the handling, processing, or storage of securities certificates to establish and implement written procedures for the cancellation, storage, transportation, destruction, or other disposition of securities certificate. While the Registrant’s business model focuses on uncertificated shares, the Agreement for Transfer Services between BlockTrans and Laylor, dated June 30, 2023, instructed investors to mail prior physical stock certificates to BlockTrans for destruction. Even though BlockTrans did not receive any securities certificates during the Staff’s review period, it should establish written procedures for the cancellation and/or destruction of securities certificates in accordance with the Rule in the event that it does receive them. 
+ Rule 17Ad-19(b) under the Exchange Act requires every transfer agent involved in the handling, processing, or storage of securities certificates to establish and implement written procedures for the cancellation, storage, transportation, destruction, or other disposition of securities certificate. 
+
+
+
+While the Registrant’s business model focuses on uncertificated shares, the Agreement for Transfer Services between BlockTrans and Laylor, dated June 30, 2023, instructed investors to mail prior physical stock certificates to BlockTrans for destruction. 
+
+
+
+Even though BlockTrans did not receive any securities certificates during the Staff’s review period, it should establish written procedures for the cancellation and/or destruction of securities certificates in accordance with the Rule in the event that it does receive them. 
 
 
 
@@ -824,9 +863,9 @@ As a result, BlockTrans does not maintain or have readily accessible the cancell
 
 #### backups in CRON and pen...
 
-For those securityholders who don’t maintain StellarAccounts, the Registrant will manually delete certificate detail for cancelled securities. At present, deleted certificate detail for these securityholders would be reflected in backup files maintained by BlockTrans. However, the Registrant does not have a process to back-up and maintain the certificate detail for these securityholders which resides in the Legacy Database.
+For those securityholders who don’t maintain Stellar ccounts, the Registrant will manually delete certificate detail for cancelled securities. At present, deleted certificate detail for these securityholders would be reflected in backup files maintained by BlockTrans. However, the Registrant does not have a process to back-up and maintain the certificate detail for these securityholders which resides in the Legacy Database.
 
-Rule 17Ad-10(f) under the Exchange Act states that every recordkeeping transfer agentshall retain a record of all certificate detail deleted from the master securityholder file for a period of six years from the date of deletion. In lieu of maintaining a hard copy, a recordkeeping transfer agent may comply with this paragraph by complying with §240.17Ad-7(f) or §240.17Ad-7(g).
+Rule 17Ad-10(f) under the Exchange Act states that every recordkeeping transfer agent shall retain a record of all certificate detail deleted from the master securityholder file for a period of six years from the date of deletion. In lieu of maintaining a hard copy, a recordkeeping transfer agent may comply with this paragraph by complying with §240.17Ad-7(f) or §240.17Ad-7(g).
 
 BlockTrans’ failure to establish a process to ensure that back-up files of the Legacy Database are maintained is an internal control weakness, as such process could ensure that BlockTrans maintains a record of certificate detail deleted from the MSF as required by Rule 17Ad-10(f) under the Exchange Act.
 
@@ -1121,4 +1160,19 @@ nove  in parts should be here  at the  close
 
 
 
-[^kyc-href]: _See_ plrelimairy  KYYC  integration data stands for MSF, noted in a TAD3  Python commit, _available at_ https://github.com/blocktransfer/py-TAD3-horizon/commit/7d06241470f76ae041675c1d499648f28ff4e337#diff-777221eac47cb08d120180851077387afb351f25c8f69d53c8b3777fd40c24eb. Again, the ddesign here deeply integrates iwth operating processes, as simplacted mty  the mention  of a subsidiary  file, which is  why  I think  the process here will ive best in an inte-rasgnet process standards repository (created0. ).  Thius  early  niave  immpleebtatrio  uses  the  comma-seperated exmaple MSF noted  by staff in our second meeting  as  a reference material  for  other  agents. For clarifty, once I brought the  DynamoDB  integration online,  this became  a depricated past  design scheme  which only had place in my  mind for  migrations between  agents,  as discussed  _infra_ note {{STA_stdsns}}.
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^cancel-fac]: Namel,y the distrtibtiuon of physiccal certiifcates would act  as a  central point of failure rquiring immense securityy andd oeprational  control measures only possible t hrough  centralization. In communtiy policymakign wokr, i've used the example of a DTC  processing vault my Dad helped finance in the early 2000s, employing retinal scanners. I  employed this line  of eraosning when Reading Rule 17Ad-19(a)(2),  which I'd be remiss  to not point out was written two decades ago in S7-18-00. The immense regulation and maleability  of paper documents just aslways seemed cojmpletely incompartible with my  vision  for a decentralized financial system unhindered  by nonroutine processing exceptions that  fuel FTDs.
+
+[^no-nums]: _See_ onbaording flow for local seed gneration and physiccal user storage, used to sign trasnactions in a warm wallet in the sense that compatible apps submit authenitcated messsages  to Horiizion nodes. This approac leeps securities in a fundgivble pool within the investor's account on Stellar,. onbaoting unique or serial certificate numbers given balances automatically denominate up to secen decimal places in response  to transfer items. Even the "destruction"  or  "canccellatioon" exmeplified in the DMEO burning transaction stayt completley evidenced on the deistributed ledger with out "physical ruination" or disposal needs. While there's  an argument Rule 17Ad-19(a)(7) covers such an everbt,  it  was m y  reading that this only  applied  to acctual paper  certificates. Given the use og "printed" in 17 CFR § 240.17f-1 ("Rule 17f-1") subparagraph (a)(6)(i).
