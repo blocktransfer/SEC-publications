@@ -811,25 +811,30 @@ We do not  does not currently have written procedures pertaining to the cancella
 
 In gfolldowin g this line o f thinking, I spent months contenmpokalting the distriubtion of "certificates" in  the  form of edmbossed metal seed-phrase  cards. However, I found this faced  the same centralization  challenges  of a p;hsuycial processing  facility.[^cancel-fac] While it might be faster and easier to centrally provision everyone's account  phrasses, I know infrvesotrs receive far better security  garuntees by c ontrolling their own self-custody wlalets.[^no-nums]
 
+Thus my inital approacch was to scan and shred oldd certificates using  the PHsycialAddress service and destruction facilities maintained at 99 Wall Street.[^whop-no]  I will  chancge these oeprating practices to maintain proper sagefaruding of certificates received in the mail in a new process whcih defines proccedures for cancllation and  destruction.[^on-only]  I'm migrating out tally journal into te CRON work detailed later nad in its own repository, and I'll add a peice for the rare shredding records of Rule Ad-19(c)(3).
 
 
 
 
+[^cancel-fac]: Namel,y the distrtibtiuon of physiccal certiifcates would act  as a  central point of failure rquiring immense securityy andd oeprational  control measures only possible t hrough  centralization. In communtiy policymakign wokr, i've used the example of a DTC  processing vault my Dad helped finance in the early 2000s, employing retinal scanners. I  employed this line  of eraosning when Reading Rule 17Ad-19(a)(2),  which I'd be remiss  to not point out was written two decades ago in S7-18-00. The immense regulation and maleability  of paper documents just aslways seemed cojmpletely incompartible with my  vision  for a decentralized financial system unhindered  by nonroutine processing exceptions that  fuel FTDs.
+
+[^no-nums]: _See_ onbaording flow for local seed gneration and physiccal user storage, used to sign trasnactions in a warm wallet in the sense that compatible apps submit authenitcated messsages  to Horiizion nodes. This approac leeps securities in a fundgivble pool within the investor's account on Stellar,. onbaoting unique or serial certificate numbers given balances automatically denominate up to secen decimal places in response  to transfer items. Even the "destruction"  or  "canccellatioon" exmeplified in the DMEO burning transaction stayt completley evidenced on the deistributed ledger with out "physical ruination" or disposal needs. While there's  an argument Rule 17Ad-19(a)(7) covers such an everbt,  it  was m y  reading that this only  applied  to acctual paper  certificates. Given the use og "printed" in 17 CFR § 240.17f-1 ("Rule 17f-1") subparagraph (a)(6)(i).
+
+[^whop-no]: I sincerly appreciate staff clarifyting that this  would not be  an acceptable operating stragety given the use of employes not fingeripritned by the FBU udner Rule 17f-2. I do understand  the legacy stamping perforation process typically followed before shredding, but I failed to see how that makes a differnece iven a decent cross-cut macchine. It  seems I failed  to  contemplate  under Rule Ad17Ad-12 the  conseuqences off having an outside party blidnly  open certificatees which could contain investor i nformation. I have not previously considered items usch as address or legacy certificate number as top safegaurding concers  outside of the registed PII datbaase because the only way to trnasfer securitiers in my  mind comes from cryptographic poor laid out in our signature-gaurntee policy. 
+
+[^on-only]: These changes will  be  clearly made publicly  in an issue audit  log, _available at_ https://github.com/blocktransfer/TAD3/issues/3. They will involve the  creation  of  written operating proccedures minimizing interactiosn with ccertifiactes, since the  closest thing i have  to  controlled access is a lock on the front  door. Addditionally, I will contactl Laylor and let them know not ot h ave any certificates sent to us for shredding, nullinfying  the  old destruction lclause in our Agrreemnent. GOing forward, we will use  a standard open-0source issuer  template which defined mandatory keyh  privosions,  so  that this disnonenct between business model and TAD3 compatabitliy will not again face issuer-specific discrepency, _available at_ https://github.com/blocktransfer/TAD3/issues/4.
 
 
-
-
-
-
-https://www.law.cornell.edu/cfr/text/17/240.17Ad-19
 
 #### Certificate Cancellation and Destruction
+
+
+
 
  Rule 17Ad-19(b) under the Exchange Act requires every transfer agent involved in the handling, processing, or storage of securities certificates to establish and implement written procedures for the cancellation, storage, transportation, destruction, or other disposition of securities certificate. 
 
 
 
-While the Registrant’s business model focuses on uncertificated shares, the Agreement for Transfer Services between BlockTrans and Laylor, dated June 30, 2023, instructed investors to mail prior physical stock certificates to BlockTrans for destruction. 
 
 
 
@@ -860,6 +865,11 @@ As a result, BlockTrans does not maintain or have readily accessible the cancell
 
 
 ### Deleted Certificate Detail
+
+
+<img width="600" alt="f111-story" src="imgs/fighter-pilots.png">
+^Y
+want refspfefctful deference to (9) ponlicies
 
 #### backups in CRON and pen...
 
@@ -1173,6 +1183,3 @@ nove  in parts should be here  at the  close
 
 
 
-[^cancel-fac]: Namel,y the distrtibtiuon of physiccal certiifcates would act  as a  central point of failure rquiring immense securityy andd oeprational  control measures only possible t hrough  centralization. In communtiy policymakign wokr, i've used the example of a DTC  processing vault my Dad helped finance in the early 2000s, employing retinal scanners. I  employed this line  of eraosning when Reading Rule 17Ad-19(a)(2),  which I'd be remiss  to not point out was written two decades ago in S7-18-00. The immense regulation and maleability  of paper documents just aslways seemed cojmpletely incompartible with my  vision  for a decentralized financial system unhindered  by nonroutine processing exceptions that  fuel FTDs.
-
-[^no-nums]: _See_ onbaording flow for local seed gneration and physiccal user storage, used to sign trasnactions in a warm wallet in the sense that compatible apps submit authenitcated messsages  to Horiizion nodes. This approac leeps securities in a fundgivble pool within the investor's account on Stellar,. onbaoting unique or serial certificate numbers given balances automatically denominate up to secen decimal places in response  to transfer items. Even the "destruction"  or  "canccellatioon" exmeplified in the DMEO burning transaction stayt completley evidenced on the deistributed ledger with out "physical ruination" or disposal needs. While there's  an argument Rule 17Ad-19(a)(7) covers such an everbt,  it  was m y  reading that this only  applied  to acctual paper  certificates. Given the use og "printed" in 17 CFR § 240.17f-1 ("Rule 17f-1") subparagraph (a)(6)(i).
