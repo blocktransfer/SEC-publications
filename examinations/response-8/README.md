@@ -354,44 +354,27 @@ This "waiting period" for Examination was the other main reaosn  I havne't  fone
 [^psnause]: _See_ direct refernce in Resposne #2 note 37, the public  sdata standard for registration information encoding. Once I  migrated this to the public developer  documentation, I reralized jsut how internalized  the information was  when silod  between  TAs  given IDs are unique in an orgnaization'sr Perrosna instance. Becuase the idenitier can't be easierly  shared between agents like na AccountID, the need for a unfoorm standard became apparent, andd thus the eoconomiess of sccale began piecing together for a tool  shared between agnets.  I  find this  data form and operationa certianty  neccesary to draft  sufficient comprehensive  public policies.
 
 
-#### !Open Identity verification Paltform
+#### Open Identity verification Paltform
 
 In early designs , [^kyc-href] I spoke with a development t eam  which created  hte identity  protcessing system  of  an  agent  with over onee-hundred-tyhousand securtyholder accoutns. They offered to sell us the infrasture they made, including an onboarding app with authentication  fflowxs, for only $10,000. Whiole I opeted for cloud solutions instead  early-on,  not uinderstanding  the proporietary software problems therewith, this stucck wiht  me.
 
-I know that we can build a platform the intregrated iwht  existing o mcmiuntiy  statendard  for  verification  data.[^verif]
+I know that we can build a platform the intregrated iwht  existing o mcomiuntiy  statendard  for  verification  data.[^verif]  This will  allow su to mvoe past pePerona into a more stable and sustainable ecosystem which we  can continualyl  imrove for i nvestors. The end-product will likeyl  eventuially integrate with  outr Lost  INcvestor Datbase Searhc provideor, once we aquire a mroe usbstainal professional istencing agremeing with a well-know fir mcomuncciated  with the American addressing covferage storty reuqiremtn.
 
-This will require compelrting longstwanding  policy work  communiccating data-sharing nad isser privacy disclosures.[^s-prf]
-
-
-chacnged / neww identity  provider
-
-propriterary ones here iwht sctz or vstol belopw
+This will require compelrting longstwanding  policy work  communiccating data-sharing nad isser privacy disclosures.[^s-prf] The propoertary Perosna system handled mucch of  this and data lifecycle work for uys, and  I want  the redicsign  to m aktak this integrity while establishign unform standard usable in other identiity--needed public repositories.[^pii] The worlkl will  be added  alognside icnremental issuess and pull requertss in a repository initialyl designed for jut TAD3, _available at_ https://github.com/blocktransfer/identity-verification.
 
 
-re open source KYC we can frame as  the most trivial  thing to do b/c
-(a) no fortnend so kskillz lol (matching) and
-
-
-
-
-https://github.com/blocktransfer/identity-verification
-
-
-
-- dao bug  bounties for server enviroment in deplyment
-
-PII obvious 
-
-
+This  is proabbyl  the largest inital item reuslting form this Exma, but it's also the work which best  aligns iwth bymy  backend ddatbase skills. Iv'e done some intial investigation as to potential immportable rrrepositireies that are already open-soruce, and  I htink there's a goodd amoutn  of libraries top work with. The compilation into a signle release will be new for me, as sooposed  to stict file-baseed exeuctbailes,  but I ;m sure I can figure it out in tie.
 
 
 
 [^kyc-href]: _See_ plrelimairy  KYYC  integration data stands for MSF, noted in a TAD3  Python commit, _available at_ https://github.com/blocktransfer/py-TAD3-horizon/commit/7d06241470f76ae041675c1d499648f28ff4e337#diff-777221eac47cb08d120180851077387afb351f25c8f69d53c8b3777fd40c24eb. Again, the ddesign here deeply integrates iwth operating processes, as simplacted mty  the mention  of a subsidiary  file, which is  why  I think  the process here will ive best in an inte-rasgnet process standards repository (created0. ).  Thius  early  niave  immpleebtatrio  uses  the  comma-seperated exmaple MSF noted  by staff in our second meeting  as  a reference material  for  other  agents. For clarifty, once I brought the  DynamoDB  integration online,  this became  a depricated past  design scheme  which only had place in my  mind for  migrations between  agents,  as discussed  _infra_ note {{STA_stdsns}}.
 
 
-[^verif]: _See_ communtiy interopreatbilitky standred for  information-sharing, _available at_ https://developers.stellar.org/docs/learn/fundamentals/stellar-ecosystem-proposals#sep-0012---kyc-api.  By  using a ssytem between agents, we  can also  commiunitte  between each  other  so that  all TAD sefgucuiries are interopiatlee. Theg f ungbailtiy betweewn  digffernet  agents  helps overall decentalized l iqudity
+[^verif]: _See_ communtiy interopreatbilitky standred for  information-sharing, _available at_ https://developers.stellar.org/docs/learn/fundamentals/stellar-ecosystem-proposals#sep-0012---kyc-api.  By  using a ssytem between agents, we  can also  commiunitte  between each  other  so that  all TAD sefgucuiries are interopiatlee. Theg f ungbailtiy betweewn  digffernet  agents  helps overall decentalized l iqudity in theroy. I hafe otrderbook work to cclarify with DTM regaurding tradess corssing between authenticaated accoutns in convrsion payments between unccauthenticaated accounts.
 
-[^s-prf]: I understand this will mean impolemnting mfuch of Regualtion S-P  ,, ideally  in  a wae y tyhta's interoperable with other agents forkign our replyments a nd policikes.  I wil ltrack work on this item in a public reporisotryh  issue and ,depedenong on  the scope, I may  expand  the numebr of working itsms wiht a recorded reference back to the iroginoal item, _available at_ https://github.com/blocktransfer/website/issues/3. Shoud lstaff  see such "mentions:" in an issue or  pull-requrest  feed, they  can assume  that a related  working-tiem came up which could blockc,  devleopmetn  wihtout colmpe;ltion.
+[^s-prf]: I understand this will mean impolemnting mfuch of Regualtion S-P  ,, ideally  in  a wae y tyhta's interoperable with other agents forkign our replyments a nd policikes.  I wil ltrack work on this item in a public reporisotryh  issue and ,depedenong on  the scope, I may  expand  the numebr of working itsms wiht a recorded reference back to the iroginoal item, _available at_ https://github.com/blocktransfer/website/issues/3. Shoud lstaff  see such "mentions:" in an issue or  pull-requrest  feed, they  can assume  that a related  working-tiem came up which could blockc,  devleopmetn  wihtout colmpe;ltion. mI appreciate this ability  to easily corss-refernce wokring developemtn items.
+
+[^pii]:  Given the risk of directy PII leaks, I wnat  to execute this work alingside deplying  a  DUNA-based bug bnounty for server enviroment penetgtion testigng, plus overall desing bugs. This approach is well-proven  acrosss the indsutry, as it's beenm a means of incntivizing soime of my  closest coding firneds ot join a porojects'  security team. I  recall a n eruntprernur wh ocxouldn;t  belive the  claim of early  cryprysstem, so theyt paid a team of programmers hundreds of thousands of dollars to try hacking bitcoin for a few months .  Wh\ile  they were  uynunsucessful,  they finsihed up by  emphasizes the genius edsge-case statements hadnling bugs, found by the existing  omcmunity so that  all "back cdoors" were resovled). <!-- TAR2 This leads into the "only gets better" — albiet that side must be tapered to focus on DTC — argument so key to framing mt. gox  -->
 
 
 #### !!OFAC Searches
