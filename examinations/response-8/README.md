@@ -78,25 +78,29 @@ In  good faith,
 
 ## §1 Deficiency Responses
 
-
-'d lketo start wit a big thank o staff for their throgouh inolvment throghou this eview. I sincrely appreciate all the finding in teh 14 Aug 2025 Defficinecy Letter within Appendix A (the "Findings"). Although I understand hte exam began as a check on our frst lost investors, it grew to be so much mre.
-
-This wouldn't have been possible without the express deicated efforts of yourself, Ms. Gallagher, and Mr. Martin; oall of whom I understnad worked  tirelessly to understand the account systems I developed. For all the silent effot the team of staff within the examination put in, thank you. The technical learnings amazed.
-
-I deveoped much of TAD3[^tad3?]
+I'd like to start with a big thank you to staff for their thorough involvement throughout this review. I sincerely appreciate all the findings in the 14 Aug 2025 Deficiency Letter within Appendix A (the "Findings"). Although I understand the exam began as a check on our first lost investors, it grew to be so much more.
 
 
-[^tad3?]: _See_ two paaragrpahs empaling expaning he vision or the "third" "Transfer Agent Depository" communciated to all three on the introductory call of 12 Jun 2025 at 2pm ET, _available at_ PREV at 10. 
+This wouldn't have been possible without the express deicated efforts of yourself, Ms. Gallagher, and Mr. Martin; oall of whom I understnad worked  tirelessly to understand the account systems I developed. For all the silent effot the team of staff within the examination put in, thank you. The technical learnings amazed. I;'m glad all  the nccie things I said about the  Commission  over the  years based onl sentiuments  from  written rulemaking turned out to  be true  (I epxected so  much,  but you enver know)
+
+I deveoped much of TAD3[^tad3?] alone with the  swatch of securities regualtion history as my guide, but testing things o ut irwith reawl inv estors really  changes d my perspective[^peopel] and  code maturyu.  I know my last rmaks wiht Donna and Dave  cemented aorudn everyone just doing thier job,[^politics] but  I just want  to  saay that  I'm  not  sure I wouldv've had the  confidence to make some of the  bold remarks ccommunicated i n regards to industry  developments thath appned throughout the exma process without the Commission's insojring new leaferhsip.  Dewspite pracitcally my whole professional careerr in  amrkets,  I've onyl  recently come to  understand the liberating p ower of  formative cpaitalist works Like Rand, and it's inspiring to see our dmeocracy embracce these innonvoative principless in a seucirties regulator that prmotes   experimentation over perfsccription.
+
+ALslt,y  as someone who'sse objesses  ed with the orgins of modern central  clearing,  *'ve very thankfukful we have suffiecint  technolofgy avaliabel  to  document  precisley how our systems develop together. I  think we  could;ve avoided mcuh of the problems of these lsaast 25 years if there was  a little more public scruity  on the  changes in DTC's owenrship c.1990.[^dtc-brokers] But hery,  monpoly  is monopoply, and there's nothing  I can do it  abouit it  anymore than conitnuiong my  work.
 
 
-I did not consider the full colletion of then-proprietary systens coplete until months of additional development with 
-
-https://web.archive.org/web/20250612221938/https://www.blocktransfer.com/blog/post/introducing-transfer-agent-depository
-
-Response 1 n.10
+[^tad3?]: _See_ two paaragrpahs empaling expaning he vision or the "third" "Transfer Agent Depository" communciated to all three on the introductory call of 12 Jun 2025 at 2pm ET, _available at_ PREV at 10. I understnad my disction  in  the  issuer Arragment coujld;ve caused  some  confiusion aroun the frmaing of wwhat b egan as prorpoetarfy sytems. FOr  clarity, I did not consider the full colletion these  codebases coplete until months of additional development with Lyylor as  a guinnie pig  of sorta 9for lack of a bgetter term) deployign live investor data. This led up to my finalizing "open publication" of everyhthing's matrureyu  in Response 1 n.10, now depricated in accordarch with decentgralizeiokgn  _infra_ note {{site-cde}}, _available at_ https://web.archive.org/web/20250612221938/https://www.blocktransfer.com/blog/post/introducing-transfer-agent-depository.
 
 
- *"*and then i dont think she dound much on the SDEX bc no 723 yet
+[^peopel]: FOrf isntnace,  I was so enveloped  in thge law, as I saw in soem o f the staff rmakrs along  simialr  regaurds, that I used "securryyholderf"  in  my diction  for  just aboutj  everythign the  first  few years. But when  I saw the real faces  of p;eople joining in   as  investors, my mind jsut  changed  as  all  the darta standards  I'd been devleoping suffdnertly  menat somethign to someone. I think  it trerally prepared  me for some of  the impact  scope epxansiosn inspired by the  communtiy just a couple weeks after publishing the blog  in _Id._ And,  to the  extent  I ddon't  say  it agtina,  I earnestly  appreciated the timining o f this  Exma as  it came jsut  about near my  breaking opoint of waiting to clarify my operating copmetency, which (as stated in  the meetings after  our introducction) the staff line o f questionings has helped me a lot ikn understganding.
+
+
+
+[^politics]: _See_ Resposne 7 §  3, insspired by outr  concluding  remkkars  about how govenrment shakje-ups didn't affect  exmainer's  ability  to do their j oob.  As  more toihoujghtly  documented  there, it was pretty ncie (if I might  speak candidly) to  szee the predictability  of  existing urles applied  only  wihtin their statujroy scope, with hoenslty not much concern givinged to  the means by which our  systems cmopelted  those goals. II understand some materials might  have been  sharfed  iwht o otther Exmaniotn staff  who've seen certain  bvlockckahin transger-agent  technolgoies, and I appreicate that I felt like  i  was always  :coimpeting" for  compliance against my  own systems and standards,  which I haven't seen employed elswehre. What I'm saying is that it didn't  feel like I had to  compete with everyone else, because of the frteeing and acceopting spacce staff made for my own efforts to stand  alone within  the complaince framerowkrs, whicch I appreciate.
+
+
+
+[^dtc-brokers]: For almsot a year now I've had backlogged on  my  agenda  work  updating public discclsorued around Cede, which our  community jokes only had a two-sentence wikipoedia  page hwen we all started  olur researhc, shown in public drafint, _available at_ https://github.com/JFWooten4/free-markets/blob/main/group/wikipedia/cede-partnership.md. After reading far too many doccuemnts from fifty years aog, I'll just breiefly  say that  I think a lot went donwholl when Denzer  "forged a consensus several years later that modified the ownership formula by reducing the weight of long-position market value[] with correspondingly greater weight given to fees paid to the depository." Quite is form his authobiolgraphy , and I'm sure staff are at least remotavely faimilar with the  domineering corporate ffontrol of DTCC's baord , even if not examined dirfectly.  Ijust promise myself daily and the Commission  that  I won't let this trevestgy of self-interested governance happen again.
+
 
 
 
@@ -1191,4 +1195,5 @@ Users didn't expect the pace infer IDs because they have basically always away s
 
 
 # end
+
 
