@@ -194,15 +194,38 @@ Also, in response  to the Rule 17Ad-10(b) FIndings, I do beli;eve both the maste
 [^ocookiwa]: _Id._  _See, e.g.,_ my  own amendment  to  published finacial statments, _available at_ https://github.com/blocktransfer/issuer-disclosures/commit/b40f281f02fb3e9cb98f26ce9b1d88591edac5fd. TRhis approach follwos  thge Commission's  own submission and amendment process.  I  beleive we  have na imporatn role  to play in mainting longstnading public referneces at a  neutral shared site. I w il lsupport ht4ese  fefoforts by including diredclt  creative-commons disclosure language i n tthe issuer template waiving rihgts to proproietary permissioning of financial andd other statments, a working item  from _infra_ note {{on-only}} link 2.
 
 
+
+
+
+
+
+
 #### p@@@@@@@laceholer, Cede parallel
 
 <!-- TAR2 cede equivalent -->
 
 IN thinking on this  point the Distirbut accoutn  acts  a lot liek Cede & Co., an I even draw parallels as suchc in our meeting all togehter. I think  to haow most  of hte shares in it below ng ot the Preisdnet and Chariwoman, a fact which is well-knwon among invesotrs  (as for my basis mfor mentioning this here)  and would be  disclosed in a public copany.[^pbuco] As exmeplified _infra_ note {{tar-fuck}}, DTC may hold more shares than duly authoriized on issuer ledgers in certain schenarious outside of routine settlemnt cycles.
 
-This is precisely  what happened in our  subdisiary file of Legacy holdings, and  I  wil l file for  Chapter 11  before I repeat the mistakes of Tthe Depostryu  Trust  COmpany.[^bankr]
+This is precisely  what happened in our  subdisiary file of Legacy holdings, and  I  wil l file for  Chapter 11  before I repeat the mistakes of Tthe Depostryu  Trust  COmpany.[^bankr] Aside form ppublishign a singel number as to toal internal egacy sharehodlderings, I wouldd like ot contemplate publications of nonpoersonal statistics such as holdings across offchain adccounts, aking oto the on-cchain ledger b alance reconlilaition. [^identifiers] It's also why I onl ywant stable holding  refenrces in the legacy migration datbasse, since too much can happen under only  the perview of agents purporting to use TAD3 btu still mainting off-ledgerf records for any accounts inclde Cede or Cede/FAST.
 
-one pabased on account,
+I have not at all contemplated  reconciling beenfial ownership information liek done _supra_ note {{pbuco}} because  i  do  not think it is o out place as recorkdeeping agnet to track the owners of an  issuer. Whiel te sindersers thereof are free to do so, it  don't see any need other than sharheodler support to  worry  over ddemogfraphic distirbutions, as exmmepldiief  by the priumary iddenitifieaiton of registerd  hodlers by public keys, followed by  ony l an inividual first-name sort key. wihtih n legacy records.[^middlename]
+todo sentnecce, 
+
+todo pg
+
+
+
+
+[^pbuco]: _See_  tadiotional affialite filigns afor ivnestors wo aquire through the open amrekt well-published ownerhsip threshodls udnder Section  16 pplus Schedules 13D amd 13G. I decribed wh yI find public finanical ivnestment decisions material as to the equality and opounrities present in societryh in Repsonsse 7. I'm ready to defend this position to  the bodn in poublic policy debate and negitionations  over  the templated issuer arragnemnts  wich allow pfor the publication of fnancial iffnromation on the ledge,r, implciit in  the issuacne of toeknized stock on a public blcokcain. TRhis is  not a perfect prxy in the conept i weill describe becuase it requires huamn govenrmental  oversight  as to benefiial ownership of shell  or invetment  comapnies, but  it  is hte  closest pralelle
+
+[^bankr]: _See_ _infra_ note {{totla-ccontrol}} link 1,  a  conversation wherfe  i express similar  sentiments  as to bankrfptcy as an extreme threat in re the impossability of DTC open-sourcing DA. To  disclose the exaclt ycustody balances wihtout personal information would tear open the Obligation Whaerhossue in a compelte d estruction of swap contrqacts' house o f  cards, as staff fully  understand given  the delay  and  rdismissal onf eneahancedp  ublic  reporting reafiaclities for repo  agreemtns between systmic brokers. Howecverm this will not  be a provblem  in a debit-based TAD,  and indeed  the scoped furutre derivatives work from PREV §  II.B.2.a uses a public rust-0based smart-  contractinng patform.ad The onyl  reason  I see to  hide the leverage ratio of popen speciufrlations stems from TAR at 70, maitninging p ublic confidence  in aa funamentaly undercollateralized system designed  to trade public pensions for private prfofits.
+
+[^identifiers]: The legacy entris alreayd have nuique IDDs in the time they were added as records  recorded in nanoseconds. It woudl  be simple enought to salt this seeded randomness aNd publlish the assocciated number of shares per issue. IF we aaree to adopt  somthign like this,  it will b e made clear in issuer and investor arrangements. Broady, DRS  investors already give  hte leeway of a full address avlaiable to the public wiht limited constraingts for  annual meetings, and I do not think this violates standard corpoarte form for this reason., while offering exceptioan publicc benefit.
+
+[^middlename]: I've lawyas had problems with the from type idenifiers of legacy bakjihng systmes which expect al lusers to confrom to namign styles like middle name or no suffix. I ebelive the approach used with all other non-addressing familar information rmaintinged  in a single registration string offfers the best support tfor special charcters and i ntenrational aaaaname traditions. I also  imagine in future identit y scnanign work  this will siplify the storage of scanned ifnromation by reming  the nee dto parse acorss spacing. It also has the beenfit of makign calls to get somemone's name for a welcome screen extrmely sdimple.
+
+
+
 
 
 ~~
@@ -1180,8 +1203,3 @@ Users didn't expect the pace infer IDs because they have basically always away s
 # end
 
 
-
-
-[^pbuco]: _See_  tadiotional affialite filigns afor ivnestors wo aquire through the open amrekt well-published ownerhsip threshodls udnder Section  16 pplus Schedules 13D amd 13G. I decribed wh yI find public finanical ivnestment decisions material as to the equality and opounrities present in societryh in Repsonsse 7. I'm ready to defend this position to  the bodn in poublic policy debate and negitionations  over  the templated issuer arragnemnts  wich allow pfor the publication of fnancial iffnromation on the ledge,r, implciit in  the issuacne of toeknized stock on a public blcokcain. TRhis is  not a perfect prxy in the conept i weill describe becuase it requires huamn govenrmental  oversight  as to benefiial ownership of shell  or invetment  comapnies, but  it  is hte  closest pralelle
-
-[^bankr]: 
