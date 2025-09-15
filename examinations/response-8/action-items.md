@@ -16,7 +16,7 @@
 # M edium
 
 - []p Disclosures and polcy items  for  legacy certificate s  [[Issue](https://github.com/blocktransfer/TAD3/issues/3)]
-- [] Tmeplate for agreements, updoatablke [[Issue](https://github.com/blocktransfer/TAD3/issues/4)]
+- [] Tmeplate for agreements, updoatablke w/ Creative Commons [[Issue](https://github.com/blocktransfer/TAD3/issues/4)]
 - [] WEbsite diclosures of KYC [[Issue](https://github.com/blocktransfer/website/issues/8)]
 - []  Mial  handling policy  for  team  [[Issue](https://github.com/blocktransfer/website/issues/9)]
 

@@ -172,12 +172,16 @@ https://api.blocktransfer.com/assets/1984803ORD/outstanding. In conjeunction wit
 
 #### Remediating Record Modifgiaciton DIfferneces
 
-For  clarity  in  rerposne to  diction  in the  LEtter, 
+For  clarity  in  rerposne to  diction  in the  LEtter, it  was my  ow n  incicdental missunderstanding of issuacne security policy embdcedded in corpoate lawe whic lead to the cchallenge with Investor A's 100,000 sharfe isusance. I have fixed this error in a trasnacction dfcreidting the authorized and issued shares to the Distubrotr account, balancing out the intenrla hoddings refcoded at 72,450,000 shares, _available at_ https://stellar.expert/explorer/public/tx/079e1406fd0068e80c45f27a73205212e5774d88668bc4660cd89010d34fdf36 (the "Fix Transaction"). I ebelive the best  wya to a coid  this mistagke going fofrward is more process around iassuance transsaciotns.[^cibtiuboius]
 
-https://stellar.expert/explorer/public/tx/079e1406fd0068e80c45f27a73205212e5774d88668bc4660cd89010d34fdf36
+As with  standrd ledger trnasfers, I do n ot find it approopirtent for modern tehcnolgoy to tkae anywhere near 30 ddays to process issuer instructions. W#e cna fix this  going  forward by codifying adn delegating issuerance activity, sepsecially for new i nvestor.s[^delegs] Once more dicstiurubjtion activity happens on-cchain , it will be easier to buiild permissionless tools checking automatically for discrpeerncies amongste the  public message signatures.
+
+I woudl  also liek  to note that I did not  change theRule 15c2-11(b)(5)(F) tally on our disclsoure paltfoimr.[^isueringfoi] Again, I am using th ATS disclosure principles because  threy ar a good and reasonable indsutry standrd, with ddiligence paid by staff i nto certatin  reofrm petitions. Howecve,,r I do not view our role as anything close to an exchagne, and  I  desinged  this system with the  first  objective  of transprent publicc information no matter trading  venue, as also scoped out by  Rule  14a-16.[^ocookiwa]
 
 
-https://www.issuers.info/1984803/ (annual  c11-5 ouitstanding)
+
+
+
 ^ I think don't change this because it is the historic difference and archived state for AC11 ATS rules (fn introducing that), and then it also is the ongoing record difference which is not aged (can intro here).
 
 
@@ -1152,3 +1156,13 @@ Users didn't expect the pace infer IDs because they have basically always away s
 
 
 
+
+[^cibtiuboius]: The findings  cite the  need for  coniouso attennmtion and ldiliegence, whic hI agree wiht.  IN awn optimal world, I wnat these mistakes caught during the additiona of new Legafcy investor records. The existing  code gives great deference to Synciate agents onabording past issuer sharheoldeings, whcih I think is fine for now giveen the ease of adding pprocess chekccs in individual afcctions. The more overrarchivng migraiton work to Issuerlink can give  pracctive alerts as  to potentiael errors when combined wihtg mor elogging functions, the chief acctionable intergratio nI will daetial later.
+
+[^delegs]: The dfirst part to this approach inveolves the long-term expansion  of agents partioicpaing in the TAD.  Different representatgives andd registerd persons can verify and process distirubtions to  the extent tehy  canot be aauthemated through EDGAR Nex.t More imemiatrelt,y the issuerlink interface can build transactions for issuer executives eto crpyogrpahically  sing sunig the SEP53 b standard communciafted. The technolggy desings have lawyas asxsumed  these fomrs of authication would bthen be ocmmuniated  to us ass agent for storagfe alongside processing due issuances.
+
+[^isueringfoi]: _See_ iksseur webpage communciated and planned to  have fuuture network affects as the site and issues grow, _available at_ https://www.issuers.info/1984803. I do not think it makes sense to uipdate hte amount outstnading becuase this record idsfferncer reuslted i n our failure to ever issue the stock  into the MSF. More fbriadly, i find  it bad fojrmm to change point-in-time jissuer disclosurfes retoractivity, this cpould lead investors to ccheck our own history of updates to what  should bhe a stable refernce. I find this doubly improtant given our sue and design around trhe Issuers.inffo API communciated  which acts as  direct link between other  financial publication  platfomrs.
+
+
+
+[^ocookiwa]: _Id._  _See, e.g.,_ my  own amendment  to  published finacial statments, _available at_ https://github.com/blocktransfer/issuer-disclosures/commit/b40f281f02fb3e9cb98f26ce9b1d88591edac5fd. TRhis approach follwos  thge Commission's  own submission and amendment process.  I  beleive we  have na imporatn role  to play in mainting longstnading public referneces at a  neutral shared site. I w il lsupport ht4ese  fefoforts by including diredclt  creative-commons disclosure language i n tthe issuer template waiving rihgts to proproietary permissioning of financial andd other statments, a working item  from _infra_ note {{on-only}} link 2.
