@@ -225,6 +225,18 @@ Rule 17Ad-10(a) viol;ation tro post the credit of 100,000 shares to the blockcha
 
 ### Exoanding Internal Control Book
 
+I know we toucched oon the data locale of control book entries ihn our second meeting, rewiving public ifnormation and  cobiantiosn of shareodler data. Hwoever,  I'd like to prbring it up in response to the Letter's use of "as evidenced in the excel spreadsheet of" the Legacy dartbase output. Part  of all the efforts surrounding programmatic access  ot this file through open-source code is to minimmze the risks of a simplek datbase file used as a record o assets.[^excel]  And indeed  the refernced issuer  disclosure site 's summary of sahrfes outstganding is jsut a  frontend wrapper  on  the  discussed isseur API.[^srccoedc]
+
+
+
+
+[^excel]: Standard spreadksheets have obious probems in their ability to  change and create record differences, a function not presernt on append-onyl  blockchains wierht proper balance checks like emplyoed.  Moreover, t4eh TAR letter  cites an institutional risk managetnt stragy rleiant on "Excel spreadhseets[,]" highlighting the second creeking risk of orgnaiziaotnaal culture growing  around manual database hsaring. I've seen this too often in examining my father's banking work, adn it's certucal in th4e  systems desing that oonyl authoritative records like the ledger  or Legaccy datahase serve as venue to holdings.  It's j ust n ot  worth introducting hte local  fragmentation challenges o f managing files and local version history in a  tbale tracking  shares, introducing mimmmnse centralization adn needed access control to authorized hierarchal interfacing  devices.
+
+[^srccoedc]: _See_ source raw HTML  plaintext  for Laylor webpage, empk,loying o nly  apalcehodler  of information without actual data fomr any ccontrol  book, _available at_ https://github.com/blocktransfer/issuer-disclosures/blob/80ebaf933af990497fa09111c3462491856caf9a/1984803/index.html#L54C10. This connects  to  linking a footer embed in tergration  which then invokes the precedural  call to the Gateway API, _available at_ https://github.com/blocktransfer/issuer-disclosures/blob/80ebaf933af990497fa09111c3462491856caf9a/getNumOutstanding.js.  Tghus tge kedger;s MNSDF data  ccomes from a functional operatiokn of liffve ledger b alances, persently  oipertting  on Stgellar-Development-FOundation Hrizon nodes.   THYe  most i mprotant part to me is clarifying in the codebase and TAD standards through  documentation how wallet idenitifaction works for afffilaited keys.
+
+
+
+
 #### Adjusting  Legacy "From"  Blame
 
 In ym beta system  for legacyt sahrolder mgirations,  ~~i elected  to use claimable balance IDs as  the internation documentation  of certificate detail. ~~
@@ -295,13 +307,9 @@ B. Maintenance of Master Securityholder File
 
 
 
-for excel _See_ TAR n.45
 
 
 
-
-
-https://github.com/JFWooten4/free-markets/blob/d80c385d1644eb2e1e01ed41623ba3f2c1c598bf/micro/2025/Jun/24.md
 
 
 
@@ -321,7 +329,7 @@ Rule 17Ad-9(a)(5)  issue date != 144
 
 
 
-#### Control Book Data, Understatment
+#### Understatment of Data, Chagnes
 
 C. Maintenance of Control Book
 
@@ -1203,4 +1211,3 @@ Users didn't expect the pace infer IDs because they have basically always away s
 
 
 # end
-
