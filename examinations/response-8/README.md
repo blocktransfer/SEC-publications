@@ -449,11 +449,7 @@ In years of exploration into ATS regulations, history, and operations, much of m
 
 I prefer public blockchains which, in their own continuing operations, prove themselves as secure with no need for central attestation based on proprietary principles, as adopted in an ecosystem mantra that Bitcoin is the world's largest bug bounty since any vulnerabilities can make you a fortune. As laid out in the TAR letter n.149, I've seen  this ethods direcltry imrpove our own udnerslying infrastrucure, and I I kknow that we  cna  get the rollout o DDEXes right  over time. That's why I''m so concerned over the hastley rollout of DA without due consideration of  its real market-structure and stability risls.
 
-ASs  laid out in the TAR letter § II.B, DA prposes for the irst time to lower trading  costs byh interleaving margin between participants' CCP accounts. Regarless of trading  venue employed, my  interpertation of the SRO rule changes to date reads  that the industry will afford huge implmentation leeway  to the already-mighty DTCC. Any mishandling has been scoped  as catostophic by Commissioner Peirce in TAR  letter n.21, todo
-
-given ii.b.1
-
-And then we can start section four with Foobs' commenting { https://github.com/JFWooten4/agenda/issues/15#issuecomment-3246300539 } around ex-parte clearing collateral in direct opposition to the TAR letter at note 21 en toto.
+ASs  laid out in the TAR letter § II.B, DA prposes for the irst time to lower trading  costs byh interleaving margin between participants' CCP accounts. Regarless of trading  venue employed, my  interpertation of the SRO rule changes to date reads  that the industry will afford huge implmentation leeway  to the already-mighty DTCC. Any mishandling has been scoped  as catostophic by Commissioner Peirce in TAR  letter n.21, a ccolern whih has recent ly piccked up signina tsteam in our commutiy given coerns around ex-parte clearing collateral markd  in special  unguaranteed trades ijn direct opposition to central cleairng manddates within CNS,, _available at_ https://x.com/ReesePolitics/status/1956433323741585824.
 
 
 
