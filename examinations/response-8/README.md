@@ -227,6 +227,21 @@ Rule 17Ad-10(a) viol;ation tro post the credit of 100,000 shares to the blockcha
 
 I know we toucched oon the data locale of control book entries ihn our second meeting, rewiving public ifnormation and  cobiantiosn of shareodler data. Hwoever,  I'd like to prbring it up in response to the Letter's use of "as evidenced in the excel spreadsheet of" the Legacy dartbase output. Part  of all the efforts surrounding programmatic access  ot this file through open-source code is to minimmze the risks of a simplek datbase file used as a record o assets.[^excel]  And indeed  the refernced issuer  disclosure site 's summary of sahrfes outstganding is jsut a  frontend wrapper  on  the  discussed isseur API.[^srccoedc]
 
+Rule 17Ad-10(e) under the Exchange Act states that every recordkeeping transfer agent shallmaintain and keep current an accurate control book for each issue of securities. 
+
+todo
+
+
+A change in the control book shall not be made except upon written authorization from a duly authorized agent of the issuer. 
+[^written]
+
+Rule 17Ad-9(d) under the Exchange Act defines a control book as a record or other document that shows the total number of shares authorized and issued by the issuer.
+
+As noted above, the issuer's email of September 28, 2023, authorized the issuance of 100,000 shares to Investor A. The Registrant’s failure to post a credit for these shares to the blockchain portion of  the MSF resulted in understatement of Laylor’s issued share amount by 100,000 shares. Consequently, Laylor’s issued amount reflected on its Control Book was understated by 100,000 shares during the period of October 2023 through April 2025.
+
+
+[^written]: lo
+
 
 
 
@@ -239,13 +254,15 @@ I know we toucched oon the data locale of control book entries ihn our second me
 
 #### Adjusting  Legacy "From"  Blame
 
+
+
 In ym beta system  for legacyt sahrolder mgirations,  ~~i elected  to use claimable balance IDs as  the internation documentation  of certificate detail. ~~
 
 go from haash of issuance email --> tx hash  with memo as hass h of issuancce basis[^commerce]
 
 ensures that  sharess are actually  ooutstanding iff/when added  to the  legacy holdings
 
-simple to streamline interop instead  of  the m anul input  at  https://github.com/blocktransfer/py-TAD3-horizon/blob/def8aaa17338073afe871de5881a30e406ba3d3c/investors/legacy/importLegacyAccount.py#L40C27-L40C27
+simple to streamline interop instead  of  the m anul input  at  https://github.com/blocktransfer/py-TAD3-horizon/blob/def8aaa17338073afe871de5881a30e406ba3d3c/investors/legacy/importLegacyAccount.py#L40C27
 
 impls at l egacyAdd  investor API proccess  in  gateway
 
@@ -302,53 +319,14 @@ Critically this was the introduction of the in IHS via "ownership of securities 
 B. Maintenance of Master Securityholder File
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Rule 17Ad-9(a)(5)  issue date != 144
-
-
-
-
 , as well as for posting inaccurate certificate detail to the MSF for both Investors A and B.
-
-
-
-
-
-
 
 #### Understatment of Data, Chagnes
 
 C. Maintenance of Control Book
 
-Rule 17Ad-10(e) under the Exchange Act states that every recordkeeping transfer agent shallmaintain and keep current an accurate control book for each issue of securities. 
 
 
-
-
-A change in the control book shall not be made except upon written authorization from a duly authorized agent of the issuer. 
-[^written]
-
-
-[^written]: lo
-
-
-
-Rule 17Ad-9(d) under the Exchange Act defines a control book as a record or other document that shows the total number of shares authorized and issued by the issuer.
-
-As noted above, the issuer's email of September 28, 2023, authorized the issuance of 100,000 shares to Investor A. The Registrant’s failure to post a credit for these shares to the blockchain portion of  the MSF resulted in understatement of Laylor’s issued share amount by 100,000 shares. Consequently, Laylor’s issued amount reflected on its Control Book was understated by 100,000 shares during the period of October 2023 through April 2025.
 
 
 #### Traditikonal Market Structure Parallel
@@ -446,7 +424,9 @@ This "waiting period" for Examination was the other main reaosn  I havne't  fone
 
 In early designs , [^kyc-href] I spoke with a development t eam  which created  hte identity  protcessing system  of  an  agent  with over onee-hundred-tyhousand securtyholder accoutns. They offered to sell us the infrasture they made, including an onboarding app with authentication  fflowxs, for only $10,000. Whiole I opeted for cloud solutions instead  early-on,  not uinderstanding  the proporietary software problems therewith, this stucck wiht  me.
 
+I know that we can build a platform the intregrated iwht  existing o mcmiuntiy  statendard  for  verification  data.[^verif]
 
+This will require compelrting longstwanding  policy work  communiccating data-sharing nad isser privacy disclosures.[^s-prf]
 
 
 chacnged / neww identity  provider
@@ -456,16 +436,6 @@ propriterary ones here iwht sctz or vstol belopw
 
 re open source KYC we can frame as  the most trivial  thing to do b/c
 (a) no fortnend so kskillz lol (matching) and
-(b) story of 10k propriretary tooling usined at  Vstock (cold outreach basis)
-
-
-
-
-
-
-
-
-https://developers.stellar.org/docs/learn/fundamentals/stellar-ecosystem-proposals#sep-0012---kyc-api
 
 
 
@@ -484,6 +454,10 @@ PII obvious
 
 [^kyc-href]: _See_ plrelimairy  KYYC  integration data stands for MSF, noted in a TAD3  Python commit, _available at_ https://github.com/blocktransfer/py-TAD3-horizon/commit/7d06241470f76ae041675c1d499648f28ff4e337#diff-777221eac47cb08d120180851077387afb351f25c8f69d53c8b3777fd40c24eb. Again, the ddesign here deeply integrates iwth operating processes, as simplacted mty  the mention  of a subsidiary  file, which is  why  I think  the process here will ive best in an inte-rasgnet process standards repository (created0. ).  Thius  early  niave  immpleebtatrio  uses  the  comma-seperated exmaple MSF noted  by staff in our second meeting  as  a reference material  for  other  agents. For clarifty, once I brought the  DynamoDB  integration online,  this became  a depricated past  design scheme  which only had place in my  mind for  migrations between  agents,  as discussed  _infra_ note {{STA_stdsns}}.
 
+
+[^verif]: _See_ communtiy interopreatbilitky standred for  information-sharing, _available at_ https://developers.stellar.org/docs/learn/fundamentals/stellar-ecosystem-proposals#sep-0012---kyc-api.  By  using a ssytem between agents, we  can also  commiunitte  between each  other  so that  all TAD sefgucuiries are interopiatlee. Theg f ungbailtiy betweewn  digffernet  agents  helps overall decentalized l iqudity
+
+[^s-prf]: I understand this will mean impolemnting mfuch of Regualtion S-P  ,, ideally  in  a wae y tyhta's interoperable with other agents forkign our replyments a nd policikes.  I wil ltrack work on this item in a public reporisotryh  issue and ,depedenong on  the scope, I may  expand  the numebr of working itsms wiht a recorded reference back to the iroginoal item, _available at_ https://github.com/blocktransfer/website/issues/3. Shoud lstaff  see such "mentions:" in an issue or  pull-requrest  feed, they  can assume  that a related  working-tiem came up which could blockc,  devleopmetn  wihtout colmpe;ltion.
 
 
 #### !!OFAC Searches
