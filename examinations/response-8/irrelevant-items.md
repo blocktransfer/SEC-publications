@@ -5,3 +5,5 @@
 - If they ask about the different WK assets, ~~we have a basis from the `2022_pegged_stablecoin_idea`:~~ [Used] "before the bankruptcy or cessation of services for institutions offering fiat rails such as Synapse Financial or Circle Internet Financial," which is now an active working item with the Bureau news made public.
 
 - "Not Trader" https://github.com/JFWooten4/free-markets/blob/d80c385d1644eb2e1e01ed41623ba3f2c1c598bf/micro/2025/Jun/24.md
+z
+- For decentralized bug bounty ethos, setup  for Gox:  This should implicate explicitly the guy that said he paid programmers XX hundred thousand dollars to try hacking bitcoin for someodd # months (unsucessfully obv.s, but emphasize the "genius" aspect implicit in the statements on found bugs, leading to all "back cdoors" already resovled). This leads into the "only gets better" - albiet that side must be tapered to focus on DTC - argument so key to framing mt. gox 

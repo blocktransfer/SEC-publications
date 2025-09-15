@@ -12,6 +12,8 @@
 
 - [] Distuibor comparfison endpoint math  [[Issuje](https://github.com/blocktransfer/syndicate-api/issues/3)]
 - [] Public API  gateway documentation [[Issuew](https://github.com/blocktransfer/TAD3-docs/issues/6)]
+- Change  Legacy refernce to tx hash
+- Run  OFAC check on all investors as simmediate  check
 
 # M edium
 

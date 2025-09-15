@@ -1137,11 +1137,7 @@ and efficient way to reduce systemic risk.
 
 ## other items outstanding
 
-- For decentralized bug bounty ethos, setup  for Gox:  This should implicate explicitly the guy that said he paid programmers XX hundred thousand dollars to try hacking bitcoin for someodd # months (unsucessfully obv.s, but emphasize the "genius" aspect implicit in the statements on found bugs, leading to all "back cdoors" already resovled). This leads into the "only gets better" - albiet that side must be tapered to focus on DTC - argument so key to framing mt. gox 
 
-https://github.com/JFWooten4/agenda/issues/15#issuecomment-3024711494
-https://github.com/JFWooten4/agenda/issues/7#issuecomment-2989720732
-(from response 5)
 
 Deference to nonbuilding on the light Angular touch already bureaucratically introduced: 
 Frame his intro (with TAR1 cross-ref note 95) as "easy venture pitch" in re Chives convo after DUNA exhibit chat (cite !!~~// circa Charleston) **reasonably abstained**^ ex 8.6
@@ -1158,12 +1154,6 @@ Users didn't expect the pace infer IDs because they have basically always away s
 ```
 ^Tammy individual judgment effectively
 
-
-#  Lingerings
-
-- we can do a fn deference  to the other staff outside the review committee who exmained :blockkchain TA" for any DEX insights
-  - this should be used carefully with an _Id._, to the X space at [timestamp politicking ask](https://x.com/whydrs/status/1958272783705592272)
-  - and some leftovers at https://github.com/WhyDRS/Taking-Stock/issues/35
 
 
 
