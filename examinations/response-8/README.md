@@ -415,8 +415,12 @@ Losti nvestor policy for minor taingollege [Issue]
 
 
 
+per Tammy  call 16 Jul 25 at  4:03pm ET
+^ youthfinless  opf 2 missing m inors
 
 
+and the  coming  of age startng colelge now maybe idk 
+for this  one kid, i will use a manual ~~secure~~ emaail  idenitifakcion cchain akin ot the  crypto  guy from #Ex.  8.3 intro with binance
 
 
 
@@ -434,11 +438,6 @@ And then we can start section four with Foobs' commenting { https://github.com/J
 
 if "Gary Gensler, Clearinghouses Are the Answer", WALL ST. J. (Apr. 21, 2010) then lol r we  gonna listn
 
-
-
-
-we have strong basois on the minor intro with binance 
-Ex. 8.3 iimage from when i was 17.18yr old. 
 
 
 ### Handling Mail snd Securities
@@ -736,7 +735,7 @@ s  hadnlign o f  shares in  the  Futch  East  India  company  over its tenured  
 
 
 
-#### !!MSF!!Deleted Certificate Detail,  Backups
+#### Deleted Certificate Detail,  Backups
 
 Securities  cancellation dates\are required as part of the minimum certificate detail pursuant to Rule 17Ad-9(a) under the Exchange Act.  However, for those securityholders without Stellar Accounts whose shares are held in the "Distribution Account", there is no clear audit trail that records the number of shares cancelled by securityholder or the date of cancellation, reuqiring  review iof several sources. As a result, BlockTrans does not maintain or have readily accessible the cancellation dates or share amounts for cancelled securities of securityholders allocating to the Distribution Account.
 
