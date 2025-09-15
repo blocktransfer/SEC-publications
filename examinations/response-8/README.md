@@ -1109,17 +1109,22 @@ This unnique vsituation with market-structure implications led  me  to writing  
 
 
 
-https://github.com/WhyDRS/Taking-Stock/issues/35
-
-https://stellar.expert/explorer/public/tx/16763d4ed2ac25dfe69656c6bf0b83e6d5a11a73b9f0a2da817148abc7ca51c2
 
 
 
 
-we can do a fn deference  to the other staff outside the review committee who exmained :blockkchain TA" for any DEX insights (this should be used carefully with an _Id._ ,to the X space at [timestamp politicking ask])
-https://x.com/whydrs/status/1958272783705592272 and some leftovers at https://github.com/WhyDRS/Taking-Stock/issues/35
 
+[^cool]: _See generally_ a whole lot o f the problems staff wrestled with since suing Erik back rin the day form _supra_ note {{gnpa}}. As even  Genslar eadmitted in TAR leetter  n.121, the Commission has neverf  addressed the regulation of suchg a decentralized, uncontrollable, adn permanent  venuye. This was  a  challegne seven years  agom,  andd It will continue toh b e  a  challenge until  we start  working with  onle in communities that acutally care about investor protections above  nad beyond  ICO returns., This is  the only  onlien  communtiy  interestinged in launching a crypto token I've ever  seen that doesn not want economic  trading interests associated iwth theri  govenrementce  stakes, and I love it.  
 
+[^filingid]: _See_ formation  docuemtns avalible  through  interface clflow of "Detail"  > "Hisotry"  >  "Initial Filing -  See  Filing ID" (dated 2 Jul  2024, a day  after  the  histoirc  law  went into effect) , _available at_ https://wyobiz.wyo.gov/business/FilingDetails.aspx?eFNum=092220161123070164047165092135019155094110144189.  Importnaly  fopr this decision, PhyscialAddress.com claims  to  have neevver lost  a service location in thier operating historfy, having undertaken signifcant  efforts to assure long-term reliablity.  Art. II defines the Awssociation as  operatibg "on a decentralized basis with no principal physical office[,]" except  for functions required  by state law or  IRS ccorrespondanece (on practice, not  note 1).  I annalyzing  for-=pforfit  DAO filigns from Wyoming, the  first sStatge to emallow  such  entitiees, I've  come  top the conclusion that  it's impossibe  to run  a DAO that  isn't clearly  distiurbutiyng  securities wiithout a remote-first committment in practice.
+
+[^17f2FN]: This  is one menaingful r eason I asked staff about  DUNA ownershp of the Sydhnciate,  as  I want to  make sure no elemnt of  control  exceed s the interprtive threshold laid out  in Rule  17f-2. Our  "decentralized decision-making, voting, and distribution processes" (_Id._) could make it challenging  to  enforce fingrerpeitning rfqeuirments on ananoymous contributors within "a remote-first operating model, ensuring that all essential functions and activities can be performed virtually." Relevently, we  have extensivble ideasted principles asnd (speakign  for myselfd) stress-tested different  forms  of token-based  consensus  to enforce our obnjectives  of having no clear  control persons above 10% voting weight (and minimal about the  Sectiion 13(d) orr 8(a)(iv) coide A  requirements).   And , for  clarity, those rsuch "persons "" may just be public keyts  connected  to  an online psudhonomy,  although (since the  DUNA could be the sle ownership entity) I think the larger  challenge comes  in drawing a l ine bteween "involvvement  in trrasnfer ragent  functions" under  Exchange Act § 3(a)(25)(A–E) for    members who contribute to our open-source doebase.
+
+###  splacehodler
+
+tech  tgalentg  /  ditsteirbuted office shiops is  Ex.  8.4
+
+### end (fold)
 
 
 
@@ -1127,13 +1132,6 @@ I care vvery deeepoly  about  investing. It is  my7  interpretaion  of perosnal 
 
  Please give us a chancce  to heal
 
-
-
-###  splacehodler
-
-tech  tgalentg  /  ditsteirbuted office shiops is  Ex.  8.4
-
-### end (fold)
 
 [Acccolades  b/c this was aweesome]
 
@@ -1186,8 +1184,10 @@ See also https://blocktransfer.com/compliance/team/legacy-investor-onboarding
  See  team portal setup prior mockup exhibit in FTIN thing from item 1 which is {n.28}
 Retro comp @ agenda#13 is why iu asked about paymetns in https://www.sec.gov/comments/sr-occ-2025-801/srocc2025801-598095-1737722.pdf#page=68 ¶ 23
 
+
 WEANT THIS ON THE PUBLIC PAGE FOR INCOMING PROCEDURESD (TEAM)
 Backline Response 1 note  10 introducitn https://www.blocktransfer.com/blog/post/introducing-transfer-agent-depository  with qutoe  from SEC release "The transfer agent depository ("TAD") would replace the certificate with computerized stockowner lists... which would serve as both the issuer's stock records and the shareowner's evidence of ownership." as related  to shreedding  use
+
 ^ quote I s  _Id._ serc https://archive.org/details/fsec00unit  at   § III.A.3.F.
 Adnthen we  can  Id. That  for the trifecta,  cuitiung the follwing  from 42:  a TAD "may have some long run promise, but it would seem to presuppose a highly integrated national computerized ‘book entry’ system which simply doesn't yet exist" according  to one of  the 145 banks  resposning to  staff and Congressikonal inquirtt.
 Criticallythis  was  the introduction  of  the in IHS via  "ownership of securities in the records of the issuer in other than the name of the beneficial owner of such securities" (from  study name)(
@@ -1212,6 +1212,22 @@ users  didn't  expect the pace  infer IDss b/c they hav basically always away sh
 ```
 ^trema individualk judgmentg effecieylesnerly 
 
+#  Lingerings
+
+
+
+
+
+- we can do a fn deference  to the other staff outside the review committee who exmained :blockkchain TA" for any DEX insights
+  - this should be used carefully with an _Id._, to the X space at [timestamp politicking ask](https://x.com/whydrs/status/1958272783705592272)
+  - and some leftovers at https://github.com/WhyDRS/Taking-Stock/issues/35
+
+
+
+
+
+
+
 ###  on   the policy choiuce of issueing  to account IDs
 
 _See_ _supra_ § I.B.1.a
@@ -1221,10 +1237,7 @@ broadly we h ave here the  conectikonA to automating through software and backen
 href EDGAR Letter § II.B.1.a
 ^ p[rob needs  forma deifntional]
 
+
+
+
  
-
-[^cool]: _See generally_ a whole lot o f the problems staff wrestled with since suing Erik back rin the day form _supra_ note {{gnpa}}. As even  Genslar eadmitted in TAR leetter  n.121, the Commission has neverf  addressed the regulation of suchg a decentralized, uncontrollable, adn permanent  venuye. This was  a  challegne seven years  agom,  andd It will continue toh b e  a  challenge until  we start  working with  onle in communities that acutally care about investor protections above  nad beyond  ICO returns., This is  the only  onlien  communtiy  interestinged in launching a crypto token I've ever  seen that doesn not want economic  trading interests associated iwth theri  govenrementce  stakes, and I love it.  
-
-[^filingid]: _See_ formation  docuemtns avalible  through  interface clflow of "Detail"  > "Hisotry"  >  "Initial Filing -  See  Filing ID" (dated 2 Jul  2024, a day  after  the  histoirc  law  went into effect) , _available at_ https://wyobiz.wyo.gov/business/FilingDetails.aspx?eFNum=092220161123070164047165092135019155094110144189.  Importnaly  fopr this decision, PhyscialAddress.com claims  to  have neevver lost  a service location in thier operating historfy, having undertaken signifcant  efforts to assure long-term reliablity.  Art. II defines the Awssociation as  operatibg "on a decentralized basis with no principal physical office[,]" except  for functions required  by state law or  IRS ccorrespondanece (on practice, not  note 1).  I annalyzing  for-=pforfit  DAO filigns from Wyoming, the  first sStatge to emallow  such  entitiees, I've  come  top the conclusion that  it's impossibe  to run  a DAO that  isn't clearly  distiurbutiyng  securities wiithout a remote-first committment in practice.
-
-[^17f2FN]: This  is one menaingful r eason I asked staff about  DUNA ownershp of the Sydhnciate,  as  I want to  make sure no elemnt of  control  exceed s the interprtive threshold laid out  in Rule  17f-2. Our  "decentralized decision-making, voting, and distribution processes" (_Id._) could make it challenging  to  enforce fingrerpeitning rfqeuirments on ananoymous contributors within "a remote-first operating model, ensuring that all essential functions and activities can be performed virtually." Relevently, we  have extensivble ideasted principles asnd (speakign  for myselfd) stress-tested different  forms  of token-based  consensus  to enforce our obnjectives  of having no clear  control persons above 10% voting weight (and minimal about the  Sectiion 13(d) orr 8(a)(iv) coide A  requirements).   And , for  clarity, those rsuch "persons "" may just be public keyts  connected  to  an online psudhonomy,  although (since the  DUNA could be the sle ownership entity) I think the larger  challenge comes  in drawing a l ine bteween "involvvement  in trrasnfer ragent  functions" under  Exchange Act § 3(a)(25)(A–E) for    members who contribute to our open-source doebase.
