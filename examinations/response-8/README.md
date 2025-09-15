@@ -236,16 +236,17 @@ https://www.law.cornell.edu/cfr/text/17/240.17Ad-9
 
 ### Segmenting Legacy  Subscidairy Files
 
-they actualyl use  the proper diction in  the second meeting (off emmeeory, i don't have these things recorded on the grounds of staff [preference in TAR1  n.176)
-^ 176 is good for TAR2, not so much here outside R5 suppl;1
+They actually use the proper diction in the second meeting (off memory, I don't have these things recorded on the grounds of staff preference in TAR1 n.176).  
+^ 176 is good for TAR2, not so much here outside R5 suppl;1.
 
-f0or the record difference part (setup in the last subsec), we have deviance form legaccy to Stellar
+For the record difference part (setup in the last subsec), we have deviance from legacy to Stellar.
 
-subsubsec on MSDF as master ledger records - big  win
+Subsubsec on MSDF as master ledger records — big win.
 
-then we can into the API changes
-https://api.blocktransfer.com/assets/1984803ORD/outstanding <-- from Resp.  1  note  16
-the fn of the written remarks on oral corrresponddancce  is Exhibit 
+Then we can get into the API changes  
+https://api.blocktransfer.com/assets/1984803ORD/outstanding <-- from Resp. 1 note 16  
+The fn of the written remarks on oral correspondence is Exhibit.
+
 
 ### Towo thigns (tbd on how we do this)
 
@@ -299,11 +300,6 @@ would presumable  be  a non-tiems with the reuqierment for new issues to  Accoun
 [^commerce]: Mirrors https://stellar.expert/explorer/public/tx/251986873717821440 at https://www.commerce.gov/news/press-releases/2025/08/department-commerce-posts-2nd-quarter-gross-domestic-product-blockchain (ref'ing tx not file)
 
 
-
-
-### subpart C
-
-titling nad buldup as needed, akin  to earlier _supras_
 
 
 
