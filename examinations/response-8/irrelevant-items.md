@@ -20,3 +20,12 @@ And then we also have both dir below and https://discord.com/channels/9558198819
 
 - Retro comp @ agenda #13 is why I asked about payments in https://www.sec.gov/comments/sr-occ-2025-801/srocc2025801-598095-1737722.pdf#page=68 ¶ 23
 
+- the hash duplicate was orignally  checked at https://github.com/JFWooten4/agenda/issues/15#issuecomment-3090379988
+
+- Expansion of physician notes from our conversation as to digitization policy in re decentralized MNPI v. public writings  🧠
+
+- From the "investor community" directory defined in Response 1 § XVII.A.1 subsection "Legacy Expectations v. Federal Minimums" which asks "Are physical addresses still relevant for a transfer agent which does not offer hard certificates?"
+
+- expansion of lost investor searching small biz implication on third call
+
+- 

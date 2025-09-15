@@ -29,3 +29,4 @@ Users didn't expect the pace infer IDs because they have basically always away s
 
 - _See_ team portal setup prior mockup exhibit in FTIN thing from item 1 which is {n.28}  
 
+- (Partly submitted by TAR reference) If "Gary Gensler, Clearinghouses Are the Answer," WALL ST. J. (Apr. 21, 2010) then lol are we gonna listen

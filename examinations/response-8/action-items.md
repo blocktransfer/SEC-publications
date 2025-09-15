@@ -13,8 +13,8 @@
 - [] Distuibor comparfison endpoint math  [[Issuje](https://github.com/blocktransfer/syndicate-api/issues/3)]
 - [] Public API  gateway documentation [[Issuew](https://github.com/blocktransfer/TAD3-docs/issues/6)]
 - [] Change  Legacy refernce to tx hash
-- [] Run  OFAC check on all investors as simmediate  check
-- [] Losti nvestor policy for minor taingollege [Issue]
+- [] Run  OFAC check on all investors as simmediate  check (did hte 2)
+- [] Losti nvestor policy for minor taingollege [[Issue](https://github.com/blocktransfer/website/issues/10)]
 
 # M edium
 
