@@ -715,7 +715,7 @@ Relevant to the parent entity addressing and search items briefly discussed, I s
 
 This unique situation with market-structure implications led me to writing the text associated with TAR letter n.176, which I understand implicates review under a FAC. Staff can bring this up to the Parties whenever they'd like, but I just want to say that I wouldn't be working this hard if I didn't believe DA poses an immediate clear and present danger given certain warrants which begin trading on 7 Oct. 2025.[^family] The first canary died some time ago.
 
-todo nqg?
+I'm actively working to encode a pioneering governance stock within compatible community interfaces and member wallets, _available at_ https://blog.block.science/introducing-neural-quorum-governance. I believe this could be the only decentralized charitable voting technology able to isolate us from the corruptibility of prior experience with marketable tokens. We have been discussing this since grouping together and will implement as a team based on our ongoing DUNA meetings.
 
 
 [^family]: For instance, I cancelled an excursion to visit my father in order to write this Response, which was planned during the week of an event, _available at_ https://fxtwitter.com/JFWooten4/status/1964030067912089825. My mother was visiting the area after its conclusion, and this could have been my only opportunity all summer to see them both for more than a single day. However, I abandoned my aspirations of an enjoyable three months the moment I drank my third Monster to finish the TAR letter in time for Response 1's central submission window, which again I found reasonable. Notwithstanding, I hope this extensive physical exertion shows.
