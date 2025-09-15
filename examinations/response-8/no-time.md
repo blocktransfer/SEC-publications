@@ -24,3 +24,9 @@ Users didn't expect the pace infer IDs because they have basically always away s
 ^Tammy individual judgment effectively
 
 - Existing work in {{_infra_ note {{tim}} link 2 (later) extends to the investor protection points in re Account Recovery.  
+
+- Work in https://blocktransfer.com/compliance/team/legacy-investor-onboarding  
+
+- _See_ team portal setup prior mockup exhibit in FTIN thing from item 1 which is {n.28}  
+
+- (Partly submitted by TAR reference) If "Gary Gensler, Clearinghouses Are the Answer," WALL ST. J. (Apr. 21, 2010) then lol are we gonna listen
