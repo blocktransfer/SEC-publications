@@ -246,7 +246,7 @@ Handling KYC information has always been the most centralized function I envisio
 
 The challenge and opportunity with KYC lies in the intimate bonding requirements to process PII. Even in the legacy Persona implementation, internal team members needed to log in and authenticate identities. This processing reality conflicts with my vision for permissionless working arrangements where contributors have a minimal set of sensitive permissions, electing to work on any public repos.
 
-My initial remedy was to outsource this to a proprietary development company backed by the titans of Sand Hill. This worked fine while the Syndicate was still completely centralized prior to discovering the community. But now that we are migrating to open standards together, a central service provider for such a crucial part of investor onboarding threatens the envisioned open team concepts I hold so dearly.
+My initial remedy was to outsource this to a proprietary development company backed by the titans of Sand Hill. This worked fine while the Syndicate was still completely centralized prior to discovering the community.[^s] But now that we are migrating to open standards together, a central service provider for such a crucial part of investor onboarding threatens the envisioned open team concepts I hold so dearly.
 
 The Deficiency Letter cites our discontinued use of the legacy provider partly due to costs of the service. While this was a factor, money is not particularly an item in my mind when it comes to investor protections.[^sel-psn] The bigger problem I see comes from the internalization of economies of scale and platform network effects within a poor corporate governance framework, as happened to DTCC.[^mercy]
 
@@ -256,7 +256,7 @@ The Deficiency Letter cites our discontinued use of the legacy provider partly d
 
 [^mercy]: _See, e.g.,_ remarks on a centralized financial institution attending a tech conference, selling banking services available for merely $35,000 a month from an infrastructure broker spoken with during extensive banking relation investigations, _available at_ https://fxtwitter.com/JFWooten4/status/1854654933498552550. I've seen at least three leading identity software vendors in similar booths at events including the main industry Bitcoin conference. In all instances, I'm sincerely disappointed by the extravagant waste of corporate funds which could be trivially reinvested into product development or cost decreases. I do not believe truly efficient systems should need to pander to mass audiences through cheap branded handouts and an array of agents politicking the platform into mainstream adoption sales.
 
-🤖 todo 4th  fn
+[^s]: _See_ disclosure of how I came across the investor community alongside discussion of legacy market sources of central-banker credit creation, _available at_ https://lnns.co/0clzI2NVtmk. In order to join the call, I created an X account by signing up with a quick Google login, creating an account with no post history or human profile photo. Despite a complete lack of social credibility, Chives and Bibic graciously let me into the platform to speak, a common practice continually employed today to ensure we give credence to all investor voices. I believe in the relentless pursuit of all thoughtful perspectives so that we can build the best possible infrastructure for masses of people with diverse needs by their similar investing objectives.
 
 
 #### 1. Electing Community Network Effects
@@ -348,13 +348,9 @@ TAR letter n.135 references Buffett, an influential thinker in my mind who was a
 
 ### C. Handling Mail and Securities
 
-The Staff’s discussions with BlockTrans disclosed that it currently uses PhysicalAddress for receipt and handling of its mail. PhysicalAddress scans envelopes received at the 99 Wall Street address for the Registrant and posts them on its platform for review by BlockTrans. The Registrant will then instruct PhysicalAddress on how to handle the item (i.e., forward, open/scan to PDF, or shred). However, BlockTrans has not established written procedures to define what category/type of mail should receive which treatment.
+The staff’s discussions with BlockTrans disclosed that it currently uses PhysicalAddress for receipt and handling of its mail. PhysicalAddress scans envelopes received at the 99 Wall Street address for the Registrant and posts them on its platform for review by BlockTrans. The Registrant will then instruct PhysicalAddress on how to handle the item (i.e., forward, open/scan to PDF, or shred). However, BlockTrans has not established written procedures to define what category/type of mail should receive which treatment.
 
-Rule 17Ad-12(a) under the Exchange Act states that any registered transfer agent that has custody or possession of any funds or securities related to its transfer agent activities shall assure that (1) all such securities are held in safekeeping and handled, in light of all facts and circumstances, in a manner reasonably free from risk of theft, loss, or destruction. As noted above, securityholders had been instructed to mail physical stock certificates to BlockTrans.
-
-Although the Registrant has not received any physical certificates at the 99 Wall Street address, BlockTrans’ failure to have a documented methodology for handling different categories/types of mail received at a virtual business address appears to be an internal control weakness.
-
-🤖 todo p4
+Rule 17Ad-12(a) under the Exchange Act states that any registered transfer agent that has custody or possession of any funds or securities related to its transfer agent activities shall assure that (1) all such securities are held in safekeeping and handled, in light of all facts and circumstances, in a manner reasonably free from risk of theft, loss, or destruction. As noted above, securityholders had been instructed to mail physical stock certificates to BlockTrans. Although the Registrant has not received any physical certificates at the 99 Wall Street address, BlockTrans’ failure to have a documented methodology for handling different categories/types of mail received at a virtual business address appears to be an internal control weakness.
 
 
 #### 1. Extending Safeguarding Interpretive Proxy
@@ -566,10 +562,7 @@ This is correct, and I have had this on the backburner for far too long. In the 
 
 I envision this repository will also handle the storage movements between S3 buckets, once it is no longer done through manual backups in the admin console. This is dependent on establishing the open-source IAM permissions so as to additionally document publicly our backup processes (in the CRON code through variable names at the very least). I have a lot of immature thoughts as to the application of retention law to uncached ledger state, originally explored in reconstruction backpedaling work to generate reports at arbitrary heights without state historic backups, _available at_ https://github.com/blocktransfer/record-dates. 
 
-🤖🤖 TODO cuz i  owe  a deferecne
-
-For the outstanding API modification and update for legacy internal comparison, we can have also identifier separations between the "street name" custodian shares of clearing agencies with specified on-chain accounts as per 6days interest in "I’ve been told that 'street name' existed before Cede."  
-^ Let's do this in the main asset page rather than subdt/outstanding
+Given my hostility toward Cede, I'd like to disclose my operational approach to supplanting FAST. Since early developments, I naively presumed that we would manage the keys and wallets for DTC. I coded reporting schemes and implemented live vanity-address placeholders with direct caching of broker requests in performant internal databases. However, I've come to the conclusion that this was too much, and we are not a custodian for the shares of a clearing agency, inspired by community sentiments regarding nominee street-name operations before Cede.
 
 
 ## III. Distributed Autonomous Physical Address
@@ -771,5 +764,3 @@ Ex. 8.4.1–2 is a photo of this artist's pick guards, crafted using a jeweler's
 It turns out this artist actually had a career for decades in his prime as a relatively famous player. He lamented on all the times touring around and showing off the pieces he carved from scratch in the most eloquent way possible. I want to give people that same feeling, to create their own portfolios and play them on.
 
 I cannot overstate how serious I take the allegation of David, standing up against a Goliath who's sent endless lobbyists and consultants to tear down his claims in law. _See, e.g.,_ direct attacks in state courts meant to represent the people's views in TAR letter n.169. I sincerely hope the Commission contemplates their documented work, because I cannot fathom what a piece of reactive legislation would look like, permitting their crash to hit all because of willful ignorance.
-
-
