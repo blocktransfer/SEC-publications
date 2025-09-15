@@ -15,6 +15,7 @@
 
 # M edium
 
+- [] Direct issue  and cnacel date trracking [[Issue](https://github.com/blocktransfer/TAD3/issues/1)]
 - []p Disclosures and polcy items  for  legacy certificate s  [[Issue](https://github.com/blocktransfer/TAD3/issues/3)]
 - [] Tmeplate for agreements, updoatablke w/ Creative Commons [[Issue](https://github.com/blocktransfer/TAD3/issues/4)]
 - [] WEbsite diclosures of KYC [[Issue](https://github.com/blocktransfer/website/issues/8)]

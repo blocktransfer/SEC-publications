@@ -197,44 +197,21 @@ Also, in response  to the Rule 17Ad-10(b) FIndings, I do beli;eve both the maste
 
 
 
+#### Legacy Issue Date pROcessing
 
+Investor B’s 1 million shares were revoked/cancelled on December 8, 2023, as a result of the clawback by the issuer. The shares were subsequently re-issued to Investor B pursuant to an email authorization from Laylor to BlockTrans on February 26, 2024. However, the Staff’s review of the information maintained on the Legacy Database for Investor B disclosed that the issue date ("aqAt"), reflected in "holdings" column (column k) corresponded to the original establishment of the cancelled position on September 11, 2023, not February 26, 2024 (authorization date) or March 21, 2024 (date of transaction on the Stellar blockchain).
 
+For imeidaitely cairty, I intentd to modify issuer agreement template giong forward  ot reuire issuances  to  account IDs on the oledger rather than Legacy datbase. I appreciatre the speicifciy on holdings location of this data, and this was my fault based on the manual processing of these rauthroizations.[^reauth] I discussed wiht staff the segmentation of issue  and aquistiojn dates for tax purposes, and I would liek to  clarify that I do not want the final design here to use disjointed tracking timestammps becuase the flow of securities hsoudld only move one way: toward on-chain issuacne records.[^144basi]
 
-#### p@@@@@@@laceholer, Cede parallel
-
-<!-- TAR2 cede equivalent -->
-
-IN thinking on this  point the Distirbut accoutn  acts  a lot liek Cede & Co., an I even draw parallels as suchc in our meeting all togehter. I think  to haow most  of hte shares in it below ng ot the Preisdnet and Chariwoman, a fact which is well-knwon among invesotrs  (as for my basis mfor mentioning this here)  and would be  disclosed in a public copany.[^pbuco] As exmeplified _infra_ note {{tar-fuck}}, DTC may hold more shares than duly authoriized on issuer ledgers in certain schenarious outside of routine settlemnt cycles.
-
-This is precisely  what happened in our  subdisiary file of Legacy holdings, and  I  wil l file for  Chapter 11  before I repeat the mistakes of Tthe Depostryu  Trust  COmpany.[^bankr] Aside form ppublishign a singel number as to toal internal egacy sharehodlderings, I wouldd like ot contemplate publications of nonpoersonal statistics such as holdings across offchain adccounts, aking oto the on-cchain ledger b alance reconlilaition. [^identifiers] It's also why I onl ywant stable holding  refenrces in the legacy migration datbasse, since too much can happen under only  the perview of agents purporting to use TAD3 btu still mainting off-ledgerf records for any accounts inclde Cede or Cede/FAST.
-
-I have not at all contemplated  reconciling beenfial ownership information liek done _supra_ note {{pbuco}} because  i  do  not think it is o out place as recorkdeeping agnet to track the owners of an  issuer. Whiel te sindersers thereof are free to do so, it  don't see any need other than sharheodler support to  worry  over ddemogfraphic distirbutions, as exmmepldiief  by the priumary iddenitifieaiton of registerd  hodlers by public keys, followed by  ony l an inividual first-name sort key. wihtih n legacy records.[^middlename]
-todo sentnecce, 
-
-todo pg
-
-
-
-
-[^pbuco]: _See_  tadiotional affialite filigns afor ivnestors wo aquire through the open amrekt well-published ownerhsip threshodls udnder Section  16 pplus Schedules 13D amd 13G. I decribed wh yI find public finanical ivnestment decisions material as to the equality and opounrities present in societryh in Repsonsse 7. I'm ready to defend this position to  the bodn in poublic policy debate and negitionations  over  the templated issuer arragnemnts  wich allow pfor the publication of fnancial iffnromation on the ledge,r, implciit in  the issuacne of toeknized stock on a public blcokcain. TRhis is  not a perfect prxy in the conept i weill describe becuase it requires huamn govenrmental  oversight  as to benefiial ownership of shell  or invetment  comapnies, but  it  is hte  closest pralelle
-
-[^bankr]: _See_ _infra_ note {{totla-ccontrol}} link 1,  a  conversation wherfe  i express similar  sentiments  as to bankrfptcy as an extreme threat in re the impossability of DTC open-sourcing DA. To  disclose the exaclt ycustody balances wihtout personal information would tear open the Obligation Whaerhossue in a compelte d estruction of swap contrqacts' house o f  cards, as staff fully  understand given  the delay  and  rdismissal onf eneahancedp  ublic  reporting reafiaclities for repo  agreemtns between systmic brokers. Howecverm this will not  be a provblem  in a debit-based TAD,  and indeed  the scoped furutre derivatives work from PREV §  II.B.2.a uses a public rust-0based smart-  contractinng patform.ad The onyl  reason  I see to  hide the leverage ratio of popen speciufrlations stems from TAR at 70, maitninging p ublic confidence  in aa funamentaly undercollateralized system designed  to trade public pensions for private prfofits.
-
-[^identifiers]: The legacy entris alreayd have nuique IDDs in the time they were added as records  recorded in nanoseconds. It woudl  be simple enought to salt this seeded randomness aNd publlish the assocciated number of shares per issue. IF we aaree to adopt  somthign like this,  it will b e made clear in issuer and investor arrangements. Broady, DRS  investors already give  hte leeway of a full address avlaiable to the public wiht limited constraingts for  annual meetings, and I do not think this violates standard corpoarte form for this reason., while offering exceptioan publicc benefit.
-
-[^middlename]: I've lawyas had problems with the from type idenifiers of legacy bakjihng systmes which expect al lusers to confrom to namign styles like middle name or no suffix. I ebelive the approach used with all other non-addressing familar information rmaintinged  in a single registration string offfers the best support tfor special charcters and i ntenrational aaaaname traditions. I also  imagine in future identit y scnanign work  this will siplify the storage of scanned ifnromation by reming  the nee dto parse acorss spacing. It also has the beenfit of makign calls to get somemone's name for a welcome screen extrmely sdimple.
+The  delay between authorizatgion  and issuance on the ledger  reflects  my  efforts to have the investor open  a full account rather  than onyl provide an address for insertion  to the Legayc datbase.[^reissue]
 
 
 
 
 
-~~
-#### for itme 2:~~
+tyey delay on reissuance after the extennded search period yayayata (avery messy here)  
 
-
-this is where we  can cite ad9(a)(5–6) databse creatioon adjsutments as reccomended in  meeting 2
-
-tyey delay on reissuance after the extennded search period yayayata (avery messy here)  should href the delayed reissue per legacy config at https://stellar.expert/explorer/public/tx/bc2af326fc2f76f551ce2bc44eb48c0ccff1339ea8114ed21d2dc728dd35247d
+should href the delayed reissue per legacy config at https://stellar.expert/explorer/public/tx/bc2af326fc2f76f551ce2bc44eb48c0ccff1339ea8114ed21d2dc728dd35247d
 
 the full dive here will  aly out the framework to improve with CRON checks on nonissuances per item1
 https://stellar.expert/explorer/public/tx/24a054a5f885875732ac1732c93e6172721ffaa061816f74130722063e5e291e
@@ -310,7 +287,6 @@ B. Maintenance of Master Securityholder File
 
 Rule 17Ad-10(a)(1) under the Exchange Act states that every recordkeeping transfer agent shall promptly and accurately post to the master securityholder file debit and credits containing minimumand appropriate certificate detail representing every security transferred, purchased, redeemed orissued[^1]
 
-[^1]: can do a good usbsection here with IL and cede setup]
 
 
 Rule 17Ad-10(b) under the Exchange Act states that every recordkeeping transfer agent shall maintain and keep current an accurate master securityholder file and subsidiary files. If such transferagent has any record difference, its 
@@ -337,9 +313,6 @@ https://github.com/JFWooten4/free-markets/blob/d80c385d1644eb2e1e01ed41623ba3f2c
 
 
 
-2. First Last ("Investor B"): This securityholder’s 1 million shares were revoked/cancelled on December 8, 2023, as a result of the clawback by the issuer. The shares were subsequently re-issued to Investor B pursuant to an email authorization from Laylor to BlockTrans on February 26, 2024. However, the Staff’s review of the information maintained on the Legacy Database for Investor B disclosed that the issue date ("aqAt"), reflected in "holdings" column (column k) corresponded to the original establishment of the cancelled position on September 11, 2023, not February 26, 2024 (authorization date) or March 21, 2024 (date of transaction on the Stellar blockchain)[^3]
-
-[^3]: DB design and good catch on the blockchain side..]
 
 Rule 17Ad-9(a)(5)  issue date != 144
 
@@ -350,19 +323,55 @@ Therefore, BlockTrans is not in compliance with Rule 17Ad-10(a) under the Exchan
 Moreover, BlockTrans is not in compliance with Rule 17Ad-10(b) under the Exchange Act sincethese discrepancies caused BlockTrans’s MSF for Laylor to be inaccurate during the period of September 2023 through April 2025.
 
 
-#### control book items
-
-C. Maintenance of Control Book
-
-Rule 17Ad-10(e) under the Exchange Act states that every recordkeeping transfer agent shallmaintain and keep current an accurate control book for each issue of securities. A change in the control book shall not be made except upon written authorization from a duly authorized agent of the issuer. Rule 17Ad-9(d) under the Exchange Act defines a control book as a record or other document that shows the total number of shares authorized and issued by the issuer.
-
-As noted above, the issuer's email of September 28, 2023, authorized the issuance of 100,000 shares to Investor A. The Registrant’s failure to post a credit for these shares to the blockchain portion of  the MSF resulted in understatement of Laylor’s issued share amount by 100,000 shares. Consequently, Laylor’s issued amount reflected on its Control Book was understated by 100,000 shares during the period of October 2023 through April 2025.
-
 Therefore, BlockTrans is not in compliance with Rule 17Ad-10(e) under the Exchange Act for failing to maintain and keep current an accurate control book for Laylor.
 
 
 
-#### placeholer, Cede parallel
+
+#### Control Book Data, Understatment
+
+C. Maintenance of Control Book
+
+Rule 17Ad-10(e) under the Exchange Act states that every recordkeeping transfer agent shallmaintain and keep current an accurate control book for each issue of securities. 
+
+
+
+
+A change in the control book shall not be made except upon written authorization from a duly authorized agent of the issuer. 
+[^written]
+
+
+[^written]: lo
+
+
+
+Rule 17Ad-9(d) under the Exchange Act defines a control book as a record or other document that shows the total number of shares authorized and issued by the issuer.
+
+As noted above, the issuer's email of September 28, 2023, authorized the issuance of 100,000 shares to Investor A. The Registrant’s failure to post a credit for these shares to the blockchain portion of  the MSF resulted in understatement of Laylor’s issued share amount by 100,000 shares. Consequently, Laylor’s issued amount reflected on its Control Book was understated by 100,000 shares during the period of October 2023 through April 2025.
+
+
+#### Traditikonal Market Structure Parallel
+
+IN thinking on this  point the Distirbut accoutn  acts  a lot liek Cede & Co., an I even draw parallels as suchc in our meeting all togehter. I think  to haow most  of hte shares in it below ng ot the Preisdnet and Chariwoman, a fact which is well-knwon among invesotrs  (as for my basis mfor mentioning this here)  and would be  disclosed in a public copany.[^pbuco] As exmeplified _infra_ note {{tar-fuck}}, DTC may hold more shares than duly authoriized on issuer ledgers in certain schenarious outside of routine settlemnt cycles.
+
+This is precisely  what happened in our  subdisiary file of Legacy holdings, and  I  wil l file for  Chapter 11  before I repeat the mistakes of Tthe Depostryu  Trust  COmpany.[^bankr] Aside form ppublishign a singel number as to toal internal egacy sharehodlderings, I wouldd like ot contemplate publications of nonpoersonal statistics such as holdings across offchain adccounts, aking oto the on-cchain ledger b alance reconlilaition. [^identifiers] It's also why I onl ywant stable holding  refenrces in the legacy migration datbasse, since too much can happen under only  the perview of agents purporting to use TAD3 btu still mainting off-ledgerf records for any accounts inclde Cede or Cede/FAST.
+
+I have not at all contemplated  reconciling beenfial ownership information liek done _supra_ note {{pbuco}} because  i  do  not think it is o out place as recorkdeeping agnet to track the owners of an  issuer. Whiel te sindersers thereof are free to do so, it  don't see any need other than sharheodler support to  worry  over ddemogfraphic distirbutions, as exmmepldiief  by the priumary iddenitifieaiton of registerd  hodlers by public keys, followed by  ony l an inividual first-name sort key. wihtih n legacy records.[^middlename]
+todo sentnecce, 
+
+todo pg
+
+
+
+
+[^pbuco]: _See_  tadiotional affialite filigns afor ivnestors wo aquire through the open amrekt well-published ownerhsip threshodls udnder Section  16 pplus Schedules 13D amd 13G. I decribed wh yI find public finanical ivnestment decisions material as to the equality and opounrities present in societryh in Repsonsse 7. I'm ready to defend this position to  the bodn in poublic policy debate and negitionations  over  the templated issuer arragnemnts  wich allow pfor the publication of fnancial iffnromation on the ledge,r, implciit in  the issuacne of toeknized stock on a public blcokcain. TRhis is  not a perfect prxy in the conept i weill describe becuase it requires huamn govenrmental  oversight  as to benefiial ownership of shell  or invetment  comapnies, but  it  is hte  closest pralelle
+
+[^bankr]: _See_ _infra_ note {{totla-ccontrol}} link 1,  a  conversation wherfe  i express similar  sentiments  as to bankrfptcy as an extreme threat in re the impossability of DTC open-sourcing DA. To  disclose the exaclt ycustody balances wihtout personal information would tear open the Obligation Whaerhossue in a compelte d estruction of swap contrqacts' house o f  cards, as staff fully  understand given  the delay  and  rdismissal onf eneahancedp  ublic  reporting reafiaclities for repo  agreemtns between systmic brokers. Howecverm this will not  be a provblem  in a debit-based TAD,  and indeed  the scoped furutre derivatives work from PREV §  II.B.2.a uses a public rust-0based smart-  contractinng patform.ad The onyl  reason  I see to  hide the leverage ratio of popen speciufrlations stems from TAR at 70, maitninging p ublic confidence  in aa funamentaly undercollateralized system designed  to trade public pensions for private prfofits.
+
+[^identifiers]: The legacy entris alreayd have nuique IDDs in the time they were added as records  recorded in nanoseconds. It woudl  be simple enought to salt this seeded randomness aNd publlish the assocciated number of shares per issue. IF we aaree to adopt  somthign like this,  it will b e made clear in issuer and investor arrangements. Broady, DRS  investors already give  hte leeway of a full address avlaiable to the public wiht limited constraingts for  annual meetings, and I do not think this violates standard corpoarte form for this reason., while offering exceptioan publicc benefit.
+
+[^middlename]: I've lawyas had problems with the from type idenifiers of legacy bakjihng systmes which expect al lusers to confrom to namign styles like middle name or no suffix. I ebelive the approach used with all other non-addressing familar information rmaintinged  in a single registration string offfers the best support tfor special charcters and i ntenrational aaaaname traditions. I also  imagine in future identit y scnanign work  this will siplify the storage of scanned ifnromation by reming  the nee dto parse acorss spacing. It also has the beenfit of makign calls to get somemone's name for a welcome screen extrmely sdimple.
+
 
 
 
@@ -1203,3 +1212,9 @@ Users didn't expect the pace infer IDs because they have basically always away s
 # end
 
 
+
+[^reauth]: I made maistkes reaching out this this investor because of nonstnadardized issuer import data. Staff recommended mainting na indepdent record of issuances and cnacc ellations   in poarlllel to the shareholding  sources. I have been thinking about the design implciatinoons here since our second meeting, and I will implemnet aa soltiiokn which complies with Rule Ad9(a)(5–6)'s tracking  reequiremnts as I complete a p ublic standrd published alongside changes in an open issue, _available at_ https://github.com/blocktransfer/TAD3/issues/1.  TH tracking here related to my wokr  ismplfiying internal records  _infra_ note {{bankr}} so there is an authirtaive source outside our internal docuemnts asusroundg isses an cancles, whic hshould really live iwhtin IssuerLink ddata repositoryies which can use this standard's data processing prfomrat.
+
+[^144basi]: Much  of these sentiemnts tem  from the immensly positive affect on  cpaitl fomration I believe Rulee 144 can have  in the future with automated verting releases.  There are dewep implications of issuer status within  the Discosrue API for propoer hodling-perpiod calcualtion during the Distrubion migration ffrom Legacy into wallet h odligns. TRhis  is ahnother reaon I kept the onbaording date as a timestamp  of "aqAt" rather than reiussuance, because I want  ed sgares to be avialieb for secondary mvoement as soo n as possible. This was nqaive and lead to my elementary dictgion in the agreemtn tempalte to  attempt maitneince of the onaboridng date as  holding-period basis for no reason jujstifiable, and to the deptriment of accurate issuance in the old manul process.
+
+[^reissue]: 
