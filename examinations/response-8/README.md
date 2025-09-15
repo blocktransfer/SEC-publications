@@ -64,6 +64,8 @@ re August 14, 2025 exam completed
 basis:
 
 Ex. 8.2,  a exhange with webb🤝
+^^
+
 
 FAC statutory basis
 15 USC § 78q-1 (the "NMS Statute")
@@ -78,15 +80,12 @@ I wnant _singular mention_ of "covered securities"
 #### singular pg.1 footnote:
 reg letter adn Don email suppl both quote the FAC _infra_ in 15 USC § 78q-1
 
+
+
+
 https://www.law.cornell.edu/uscode/text/15/78q-1 §§ f4
 
 
-`parallle/side markets`
-
-
-offer through  a decentralized frmaework  for  decentralized market
-
-purport ot  uspport  competition (the exchanges, direct  callout  of monoppoily staturing wihtout duoipoly citation)
 
 
 
@@ -96,8 +95,6 @@ the law requires more than notice  and  comment because changing  witgh the NMS 
 
 In  good faith,
 /s/John  Wooten
-[req "signed cover letter" which prob just "/s/" but lol we have the good electroic one to drop like cmmnt]
-
 
 # TOC
 
@@ -176,20 +173,15 @@ If they ask about the differetn WK assets, we have a basiss from the `2022_pegge
 
 
 
-## Post-Header Intro Page (ccirca 3 paragrpahs for a good iftr, _See_  Response 3 for expected paragraph table size for 4 peoplel)
-
-
-* Nonprofit DDAO governing  remediations
 
 
 
 
-# we went to get into the FAC based on a direct webb supplement (intro)
 
 
 
 
-## Master Securityholder File Maintenance
+### Master Securityholder File Maintenance
 
 i nee to get across the lac o centraal contros over balance mmaintence/records
 
@@ -299,7 +291,7 @@ would presumable  be  a non-tiems with the reuqierment for new issues to  Accoun
 
 
 
-## MSF Items
+### MSF Items
 
 
 
@@ -351,7 +343,7 @@ Therefore, BlockTrans is not in compliance with Rule 17Ad-10(a) under the Exchan
 Moreover, BlockTrans is not in compliance with Rule 17Ad-10(b) under the Exchange Act sincethese discrepancies caused BlockTrans’s MSF for Laylor to be inaccurate during the period of September 2023 through April 2025.
 
 
-## control book items
+### control book items
 
 C. Maintenance of Control Book
 
