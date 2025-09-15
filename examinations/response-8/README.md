@@ -531,11 +531,7 @@ we have strong basois on the minor intro with binance
 Ex. 8.3 iimage from when i was 17.18yr old. 
 
 
-### !Handling MailSecurities) 
-
-All this is good , should be in Action Items
-~~~~
-
+### Handling Mail snd Securities
 
 The Staff’s discussions with BlockTrans disclosed that it currently uses PhysicalAddress for receipt and handling of its mail. PhysicalAddress scans envelopes received at the 99 Wall Street address for the Registrant and posts them on its platform for review by BlockTrans. The Registrant will then instruct PhysicalAddress on how to handle the item (i.e., forward, open/scan to pdf, or shred). However, BlockTrans has not established written procedures to define what category/type of mail should receive which treatment.
 
@@ -545,32 +541,14 @@ Rule 17Ad-12(a) under the Exchange Act states that any registered transfer agent
 Although the Registrant has not received any physical certificates at the 99 Wall Street address, BlockTrans’ failure to have a documented methodology for handling different categories/types of mail received at a virtual business address appears to be an internal control weakness.
 
 
-~~~~
 
-#### !Extendign Safeguarding  Interpretive proxy
+#### Extendign Safeguarding  Interpretive proxy
 
 Firstr o f all,  I would like to commend the Commission for bringing transfer agentr regualtions back onto the proposed-rule  stage earlier this moonth.[^rin] I partiucally appreciate how this is the only one of  23  agency  rules with an regualtory classification under E.O. 14192. If I might say so, transfer agents offer the perfect outdated regulatory regime to update with the leeway given  by any defregulations.
 
 NAmely, in jsut a few monhtss we'll reach the ten-year annivaersary of staff  contemplations of TA market structure in S7-27-15.  In this time, the monoply  concerns raised about DTCC  have only strengthened as  they  rollout an industry-encompassing[^totla-ccontrol] ssystem  designed  to encompass all U.S. assets.[^pprev-psure] Unlike other Proposed urlemaking, 3235-AL55 has a single congressional authority.[^dtmnd]
 
 I  find this single public-policy  rrpecedence Judiciously relevant  on  the basis of limited past TA operational controls , especialyl  those droppped from June 12th's "regulatyr reset."[^rr-osc] fro time, I'll elaborate on two of  the policy choices impliccated in meeting remarks over ta ijtnenral protections. In contemplating these ideas, I have  to  ask myself, :"might clear, public rules on GitHub Solicit trust?"
-
-
-
-
-
-proponenets o f DA  have remarked that  non-NMS optikons are insecure `parallle/side markets` without  investor protections
-
-offer through  a decentralized frmaework  for  decentralized market
-
-purport ot  uspport  competition (the exchanges, direct  callout  of monoppoily staturing wihtout duoipoly citation)
-
-while  supporting, endorsing, and integrating  DTCC-DA's central  control 
-_See_ _supra_ note [^totla-ccontrol]
-
-
-
-
 
 
 [^rin]: _See_ statmenet  on the o ublic release  pof tSpring's regulatory  fglexability agenda  from Chair Atkins earlier this month, _available at_ https://www.sec.gov/newsroom/speeches-statements/atkins-2025-regulatory-agenda-090425.  The agenda item in RIN 3235-AL55 offers a uniqeu opporruntiy for "simplifying pathways for raising capital and investor access to private businesses." I sincerely  appreciate its reitroduction and agree with all processing designations elected brilliantly.
@@ -883,10 +861,6 @@ subsubsec on legacy backups and ledger cachinege
 
 _See also_ re outstanding ledger state Horizon cript repo at https://github.com/blocktransfer/record-dates
 
-
-
-
----
 
 ## § 3 Ddistributed Aautonomous P)hyscial Address
 

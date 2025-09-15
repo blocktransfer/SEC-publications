@@ -4,3 +4,17 @@
 
 - https://github.com/JFWooten4/agenda/issues/15#issuecomment-3024711494
 - https://github.com/JFWooten4/agenda/issues/7#issuecomment-2989720732
+
+
+
+
+
+
+
+proponenets o f DA  have remarked that  non-NMS optikons are insecure `parallle/side markets` without  investor protections
+
+offer through  a decentralized frmaework  for  decentralized market
+
+purport ot  uspport  competition (the exchanges, direct  callout  of monoppoily staturing wihtout duoipoly citation)
+
+while  supporting, endorsing, and integrating  DTCC-DA's central  control 
