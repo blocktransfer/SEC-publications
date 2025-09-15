@@ -254,30 +254,13 @@ As noted above, the issuer's email of September 28, 2023, authorized the issuanc
 
 #### Adjusting  Legacy "From"  Blame
 
+Much of our problems wiht differneces between  Legacy a nd ledsger counts stems form using  a balme ideniitfier based o nb auhtirzion  opf issuiance.,  There  was  a column for basis of issue in the Legacy  datgabsae which  had either  a hash of an onboarding transction  or  a hash  of  an  issuance emial. Poorlblems occured becuase  you  can  have  a hash  of  an issuance emial weihtout  a corrasponding trasnction hash actualyl issuing  thne hares.
 
+In  tghe i nstance of  an issuer in the wearlkyh  system,  I will now change  the "from" blame to the transaction  hash  of  a  ledger operation creating  the authorized issuance. This c ould go directly  to  an investor a ccount if imemedaielty speficied  in  issuance insturctions. Otherwise,  it would goi to the Distgiubrutor  account.
 
-In ym beta system  for legacyt sahrolder mgirations,  ~~i elected  to use claimable balance IDs as  the internation documentation  of certificate detail. ~~
+The transaction itself w ill still  contain  a hash affirming a link  tgo iisance instructions, madnd so the Legacyt database detial will s till  ahgve al ink  ot the authroizing  issuer communiation. This  approach mirirror's tghe Depratmetn  of Commercce's recently published refrence c scheme, also using the transaction hash  to reference sstable authorized data, _available at_ https://www.commerce.gov/news/press-releases/2025/08/department-commerce-posts-2nd-quarter-gross-domestic-product-blockchain. The  actual trasnaciton ccontains a memeo field containing the data meant to be pushlished as authoritatrive bnasis, aking  ot an issueance communication, _available at_ https://stellar.expert/explorer/public/tx/251986873717821440.
 
-go from haash of issuance email --> tx hash  with memo as hass h of issuancce basis[^commerce]
-
-ensures that  sharess are actually  ooutstanding iff/when added  to the  legacy holdings
-
-simple to streamline interop instead  of  the m anul input  at  https://github.com/blocktransfer/py-TAD3-horizon/blob/def8aaa17338073afe871de5881a30e406ba3d3c/investors/legacy/importLegacyAccount.py#L40C27
-
-impls at l egacyAdd  investor API proccess  in  gateway
-
-and  then  it is phreased  to be inthe import tx anysway,m and I just  haven't integrated it insto the issuances
-d
-would presumable  be  a non-tiems with the reuqierment for new issues to  AccountIDs
-
-
-
-issueing  to account ID policys to minimize human invovlemnt
-Broadly we have here the connection to automating through software and backend autonomous signature verifications
-
-
-
-[^commerce]: Mirrors https://stellar.expert/explorer/public/tx/251986873717821440 at https://www.commerce.gov/news/press-releases/2025/08/department-commerce-posts-2nd-quarter-gross-domestic-product-blockchain (ref'ing tx not file)
+This new approach w ill  not make i t possible  tog  create a new opearitonal Legacy  entry without  a corresponding  share issaucne on-chain, and  it does not jrequire changes  to the  code becuase itmpunt dfunctions  already use syhntasx for transaction hasing, _available at_ https://github.com/blocktransfer/py-TAD3-horizon/blob/def8aaa17338073afe871de5881a30e406ba3d3c/investors/legacy/importLegacyAccount.py#L40C27.  I wilklk keep  this c hange in mind whe n impemnetning  the  autoamted issuer  ocnenctions so tha   sharess are actually  ooutstanding if anmd when added  to the  legacy holdings entries,  to  the extens such  an opff-chain record will be allowed  by issuer template agreemtnes.,a The only  other  change  is procedeural in the  sense that shares must be issued before the Legafcy  etnry rather than the other wway around in the original implemention.
 
 
 
