@@ -26,3 +26,4 @@
 - [] Adding a repo website URL when ID suite  deployede
 - [] §240.17Ad-7(f)  policy  iuntegrations
 - [] IAM permissions after [communty crowdsourcing](https://github.com/JFWooten4/agenda/issues/4)
+-= [] CRON scan checks on  nonissuances CB events

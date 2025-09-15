@@ -151,7 +151,7 @@ THankfully none of my msitakes resutled in a challenge akin to this or an aged r
 
 #### Segmenting Legacy  Subscidairy Files
 
-The biggest probvlem  in my mind was  an ongoing record differnece between the number o f shares helf in an intenral Legacty holdings subsdiairy tally adnd those o n the ledger. The  letter  sites these as occuring for the period of  September 2023 through April 2025, which isi becuase  I did not think throught the lcient's issuance insturctions well enough. I poresumed thatg oral comments made would affect the  status of a securittyholder, which was not correct  or paritcuallyt personally diligent.[^is-a]
+The biggest probvlem  in my mind was  an ongoing record differnece between the number o f shares helf in an intenral Legacty holdings subsdiairy tally adnd those o n the ledger. The  letter  sites these as occuring for the period of  September 2023 through April 2025, which isi becuase  I did not think throught the lcient's issuance insturctions well enough, reuslting in noncompliance with Rule 17Ad-10(b). I poresumed thatg oral comments made would affect the  status of a securittyholder, which was not correct  or paritcuallyt personally diligent.[^is-a]
 
 I plan to correct his edefficicny by adding funcatilty to public APIs also used internally throughout the  codebases.[^trqaqcck] There's alredy functionality to tally ledger balances,  and I want to combine this  with  an intenral Lergacy databse  scan. The  renerwed data  feed  will display both internal tallies of sharfes held and tghe public totall; of  Distributeor account stokc.[^resp1]
 
@@ -203,19 +203,23 @@ Investor B’s 1 million shares were revoked/cancelled on December 8, 2023, as a
 
 For imeidaitely cairty, I intentd to modify issuer agreement template giong forward  ot reuire issuances  to  account IDs on the oledger rather than Legacy datbase. I appreciatre the speicifciy on holdings location of this data, and this was my fault based on the manual processing of these rauthroizations.[^reauth] I discussed wiht staff the segmentation of issue  and aquistiojn dates for tax purposes, and I would liek to  clarify that I do not want the final design here to use disjointed tracking timestammps becuase the flow of securities hsoudld only move one way: toward on-chain issuacne records.[^144basi]
 
-The  delay between authorizatgion  and issuance on the ledger  reflects  my  efforts to have the investor open  a full account rather  than onyl provide an address for insertion  to the Legayc datbase.[^reissue]
+The  delay between authorizatgion  and issuance on the ledger  reflects  my  efforts to have the investor open  a full account rather  than onyl provide an address for insertion  to the Legayc datbase.[^reissue]  THe fix here will include CRON check improvmeents to  oversee  ledgaer  activity in a more autmaticed basis to prvent differnces like the Rule 17Ad-10(a) viol;ation tro post the credit of 100,000 shares to the blockchain for the issuance to Investor A within the 30-day time frame.[^cronsetup] I did not mean to post delayed transction information for this investor, even  it f it was within the mnth time frme.
+
+The automatted runnign wokr her ewill tinroduce diligent programmatic and continuous attention to resolve all record differences which caused BlockTrans’s MSF for Laylor to have  discrepancies. We failted to timely process the issuance of Investor A's shares ti cirrexcopind with  appropriate certiifcate detial in the Legacy Database, not posting a credit required  by Rule 17Ad-10(a)(2)(i) under the Exchange Act given menaul early input. This also meant the Firm was not in compliance with Rule 17Ad-10(e) under the Exchange Act when we failed to maintain a current control book for Laylor reoesented as asset 1984803ORD.
 
 
 
 
 
-tyey delay on reissuance after the extennded search period yayayata (avery messy here)  
 
-should href the delayed reissue per legacy config at https://stellar.expert/explorer/public/tx/bc2af326fc2f76f551ce2bc44eb48c0ccff1339ea8114ed21d2dc728dd35247d
+[^reauth]: I made maistkes reaching out this this investor because of nonstnadardized issuer import data. Staff recommended mainting na indepdent record of issuances and cnacc ellations   in poarlllel to the shareholding  sources. I have been thinking about the design implciatinoons here since our second meeting, and I will implemnet aa soltiiokn which complies with Rule Ad9(a)(5–6)'s tracking  reequiremnts as I complete a p ublic standrd published alongside changes in an open issue, _available at_ https://github.com/blocktransfer/TAD3/issues/1.  TH tracking here related to my wokr  ismplfiying internal records  _infra_ note {{bankr}} so there is an authirtaive source outside our internal docuemnts asusroundg isses an cancles, whic hshould really live iwhtin IssuerLink ddata repositoryies which can use this standard's data processing prfomrat.
 
-the full dive here will  aly out the framework to improve with CRON checks on nonissuances per item1
-https://stellar.expert/explorer/public/tx/24a054a5f885875732ac1732c93e6172721ffaa061816f74130722063e5e291e
+[^144basi]: Much  of these sentiemnts tem  from the immensly positive affect on  cpaitl fomration I believe Rulee 144 can have  in the future with automated verting releases.  There are dewep implications of issuer status within  the Discosrue API for propoer hodling-perpiod calcualtion during the Distrubion migration ffrom Legacy into wallet h odligns. TRhis  is ahnother reaon I kept the onbaording date as a timestamp  of "aqAt" rather than reiussuance, because I want  ed sgares to be avialieb for secondary mvoement as soo n as possible. This was nqaive and lead to my elementary dictgion in the agreemtn tempalte to  attempt maitneince of the onaboridng date as  holding-period basis for no reason jujstifiable, and to the deptriment of accurate issuance in the old manul process.
 
+[^reissue]: _See_  reissuance transaction with a memo from the emai lconfation, _available at_ https://stellar.expert/explorer/public/tx/bc2af326fc2f76f551ce2bc44eb48c0ccff1339ea8114ed21d2dc728dd35247d. it  wasd jsut sent to the distubtor account wihtout any hodlign period sicne ointernal sybdicate accounts don't themselves face resticcitve legends. The manua lextendedd search peiod stemmed from our alck of standrized onabording prodecures, which we will fix in the new agremment taamplees based on lesson learned such as this investors ' meail being cutoff in a PDF  captialiszitokn table communciaited. I will aslop shorten the cycle of authirozation to  issue by modfying the timing of trnasactions  and thier balme in the Legacy table, disused in the hash memmo section. blow
+
+[^cronsetup]: The CRON scannign wokr  is a large undertaking which I haven't entirely scoped out yet, invovleing automted work jobs and chcches searching  for abonralities onchain.  IOt weill invovle searching throuugh trasnasction metadata like the 144 claiom periods within claiamabe balance entries including such dfata as iembneedded in ctrreation trasnactions as  shown in  an exmaple, _available at_ 
+Rule 17Ad-10(a) viol;ation tro post the credit of 100,000 shares to the blockchain for the issuance to Investor A within the 30-day time frame. The  differfnitaiton between balance ID entires  and creation or redfemtion trasnactions existsd because o f a default  caching time horizon for netowrk RPC nodes offering API serivces. I wqill wor out  a combination of cachine  adn node-poeratinog dat a service operaitons whic h will  support these efforts.
 
 
 
@@ -285,20 +289,10 @@ Critically this was the introduction of the in IHS via "ownership of securities 
 
 B. Maintenance of Master Securityholder File
 
-Rule 17Ad-10(a)(1) under the Exchange Act states that every recordkeeping transfer agent shall promptly and accurately post to the master securityholder file debit and credits containing minimumand appropriate certificate detail representing every security transferred, purchased, redeemed orissued[^1]
 
 
 
-Rule 17Ad-10(b) under the Exchange Act states that every recordkeeping transfer agent shall maintain and keep current an accurate master securityholder file and subsidiary files. If such transferagent has any record difference, its 
 
-. The recordkeeping transfer agent shall exercise diligent and continuous attention to resolve all record differences.
-
-The Staff discovered the following exceptions during its review of the Laylor Corporation ("Laylor") master securityholder file for the period of September 2023 through April 2025:
-
-
-1. First Last ("Investor A"): In an email dated September 28, 2023, Laylor’s President, authorized the issuance of 100,000 shares to Investor A. While some of the certificate detail required under Rule 17Ad-9(a)(2) and (5) under the Exchange Act appears in the Legacy Database, as evidenced in the excel spreadsheet of its output, BlockTrans did not post the credit of 100,000 shares to the blockchain portion of the Master Securityholder File ("MSF") for the issuance to this securityholder.
-
-Pursuant to Rule 17Ad-10(a)(2)(i) under the Exchange Act, recordkeeping transfer agentsmust post credits containing minimum and appropriate certificate detail within 30 days after issuance. As the authorization for the issuance of Investor A’s shares is dated September 28, 2023, BlockTrans should have posted the credit of 100,000 shares to the MSF by October 28, 2023.
 
 
 for excel _See_ TAR n.45
@@ -318,12 +312,11 @@ Rule 17Ad-9(a)(5)  issue date != 144
 
 
 
-Therefore, BlockTrans is not in compliance with Rule 17Ad-10(a) under the Exchange Act for failing to post the credit of 100,000 shares to the blockchain for the issuance to Investor A within the 30-day time frame, as well as for posting inaccurate certificate detail to the MSF for both Investors A and B.
 
-Moreover, BlockTrans is not in compliance with Rule 17Ad-10(b) under the Exchange Act sincethese discrepancies caused BlockTrans’s MSF for Laylor to be inaccurate during the period of September 2023 through April 2025.
+, as well as for posting inaccurate certificate detail to the MSF for both Investors A and B.
 
 
-Therefore, BlockTrans is not in compliance with Rule 17Ad-10(e) under the Exchange Act for failing to maintain and keep current an accurate control book for Laylor.
+
 
 
 
@@ -1211,10 +1204,3 @@ Users didn't expect the pace infer IDs because they have basically always away s
 
 # end
 
-
-
-[^reauth]: I made maistkes reaching out this this investor because of nonstnadardized issuer import data. Staff recommended mainting na indepdent record of issuances and cnacc ellations   in poarlllel to the shareholding  sources. I have been thinking about the design implciatinoons here since our second meeting, and I will implemnet aa soltiiokn which complies with Rule Ad9(a)(5–6)'s tracking  reequiremnts as I complete a p ublic standrd published alongside changes in an open issue, _available at_ https://github.com/blocktransfer/TAD3/issues/1.  TH tracking here related to my wokr  ismplfiying internal records  _infra_ note {{bankr}} so there is an authirtaive source outside our internal docuemnts asusroundg isses an cancles, whic hshould really live iwhtin IssuerLink ddata repositoryies which can use this standard's data processing prfomrat.
-
-[^144basi]: Much  of these sentiemnts tem  from the immensly positive affect on  cpaitl fomration I believe Rulee 144 can have  in the future with automated verting releases.  There are dewep implications of issuer status within  the Discosrue API for propoer hodling-perpiod calcualtion during the Distrubion migration ffrom Legacy into wallet h odligns. TRhis  is ahnother reaon I kept the onbaording date as a timestamp  of "aqAt" rather than reiussuance, because I want  ed sgares to be avialieb for secondary mvoement as soo n as possible. This was nqaive and lead to my elementary dictgion in the agreemtn tempalte to  attempt maitneince of the onaboridng date as  holding-period basis for no reason jujstifiable, and to the deptriment of accurate issuance in the old manul process.
-
-[^reissue]: 
