@@ -178,23 +178,37 @@ As with  standrd ledger trnasfers, I do n ot find it approopirtent for modern te
 
 I woudl  also liek  to note that I did not  change theRule 15c2-11(b)(5)(F) tally on our disclsoure paltfoimr.[^isueringfoi] Again, I am using th ATS disclosure principles because  threy ar a good and reasonable indsutry standrd, with ddiligence paid by staff i nto certatin  reofrm petitions. Howecve,,r I do not view our role as anything close to an exchagne, and  I  desinged  this system with the  first  objective  of transprent publicc information no matter trading  venue, as also scoped out by  Rule  14a-16.[^ocookiwa]
 
+Also, in response  to the Rule 17Ad-10(b) FIndings, I do beli;eve both the master securityholder file and subsidiary files must accuratelyrepresented all relevant debits and credits until the record differences is resolved, with the  caviat that the two did n ot match.  THere were still  all (amidmittelyl limited0 public investor trasnsactions on the netokwr, while legacy shareholdings including Investor A had writtne tracking on  the legacy side. NOrthistnading, there  was still  certianly  a  discrepenacy and innacture reconvciliation where both records did not match  ror  an extende time period, wihch the ousjtanidng  API  changes  ought rmeemrdy. 
 
 
 
 
-^ I think don't change this because it is the historic difference and archived state for AC11 ATS rules (fn introducing that), and then it also is the ongoing record difference which is not aged (can intro here).
+[^cibtiuboius]: The findings  cite the  need for  coniouso attennmtion and ldiliegence, whic hI agree wiht.  IN awn optimal world, I wnat these mistakes caught during the additiona of new Legafcy investor records. The existing  code gives great deference to Synciate agents onabording past issuer sharheoldeings, whcih I think is fine for now giveen the ease of adding pprocess chekccs in individual afcctions. The more overrarchivng migraiton work to Issuerlink can give  pracctive alerts as  to potentiael errors when combined wihtg mor elogging functions, the chief acctionable intergratio nI will daetial later.
+
+[^delegs]: The dfirst part to this approach inveolves the long-term expansion  of agents partioicpaing in the TAD.  Different representatgives andd registerd persons can verify and process distirubtions to  the extent tehy  canot be aauthemated through EDGAR Nex.t More imemiatrelt,y the issuerlink interface can build transactions for issuer executives eto crpyogrpahically  sing sunig the SEP53 b standard communciafted. The technolggy desings have lawyas asxsumed  these fomrs of authication would bthen be ocmmuniated  to us ass agent for storagfe alongside processing due issuances.
+
+[^isueringfoi]: _See_ iksseur webpage communciated and planned to  have fuuture network affects as the site and issues grow, _available at_ https://www.issuers.info/1984803. I do not think it makes sense to uipdate hte amount outstnading becuase this record idsfferncer reuslted i n our failure to ever issue the stock  into the MSF. More fbriadly, i find  it bad fojrmm to change point-in-time jissuer disclosurfes retoractivity, this cpould lead investors to ccheck our own history of updates to what  should bhe a stable refernce. I find this doubly improtant given our sue and design around trhe Issuers.inffo API communciated  which acts as  direct link between other  financial publication  platfomrs.
 
 
 
-noted the hash duplicate discrepency at https://github.com/JFWooten4/agenda/issues/15#issuecomment-3090379988 based on physical  notes***
-
-***FN  or more
-::
-expansion of this as  to Digitization policy in re decentralized MNPI
+[^ocookiwa]: _Id._  _See, e.g.,_ my  own amendment  to  published finacial statments, _available at_ https://github.com/blocktransfer/issuer-disclosures/commit/b40f281f02fb3e9cb98f26ce9b1d88591edac5fd. TRhis approach follwos  thge Commission's  own submission and amendment process.  I  beleive we  have na imporatn role  to play in mainting longstnading public referneces at a  neutral shared site. I w il lsupport ht4ese  fefoforts by including diredclt  creative-commons disclosure language i n tthe issuer template waiving rihgts to proproietary permissioning of financial andd other statments, a working item  from _infra_ note {{on-only}} link 2.
 
 
+#### p@@@@@@@laceholer, Cede parallel
 
-#### for itme 2:
+<!-- TAR2 cede equivalent -->
+
+IN thinking on this  point the Distirbut accoutn  acts  a lot liek Cede & Co., an I even draw parallels as suchc in our meeting all togehter. I think  to haow most  of hte shares in it below ng ot the Preisdnet and Chariwoman, a fact which is well-knwon among invesotrs  (as for my basis mfor mentioning this here)  and would be  disclosed in a public copany.[^pbuco] As exmeplified _infra_ note {{tar-fuck}}, DTC may hold more shares than duly authoriized on issuer ledgers in certain schenarious outside of routine settlemnt cycles.
+
+This is precisely  what happened in our  subdisiary file of Legacy holdings, and  I  wil l file for  Chapter 11  before I repeat the mistakes of Tthe Depostryu  Trust  COmpany.[^bankr]
+
+one pabased on account,
+
+
+~~
+#### for itme 2:~~
+
+
 this is where we  can cite ad9(a)(5–6) databse creatioon adjsutments as reccomended in  meeting 2
 
 tyey delay on reissuance after the extennded search period yayayata (avery messy here)  should href the delayed reissue per legacy config at https://stellar.expert/explorer/public/tx/bc2af326fc2f76f551ce2bc44eb48c0ccff1339ea8114ed21d2dc728dd35247d
@@ -276,7 +290,9 @@ Rule 17Ad-10(a)(1) under the Exchange Act states that every recordkeeping transf
 [^1]: can do a good usbsection here with IL and cede setup]
 
 
-Rule 17Ad-10(b) under the Exchange Act states that every recordkeeping transfer agent shall maintain and keep current an accurate master securityholder file and subsidiary files. If such transferagent has any record difference, its master securityholder file and subsidiary files must accuratelyrepresent all relevant debits and credits until the record differences is resolved. The recordkeeping transfer agent shall exercise diligent and continuous attention to resolve all record differences.
+Rule 17Ad-10(b) under the Exchange Act states that every recordkeeping transfer agent shall maintain and keep current an accurate master securityholder file and subsidiary files. If such transferagent has any record difference, its 
+
+. The recordkeeping transfer agent shall exercise diligent and continuous attention to resolve all record differences.
 
 The Staff discovered the following exceptions during its review of the Laylor Corporation ("Laylor") master securityholder file for the period of September 2023 through April 2025:
 
@@ -285,9 +301,7 @@ The Staff discovered the following exceptions during its review of the Laylor Co
 
 Pursuant to Rule 17Ad-10(a)(2)(i) under the Exchange Act, recordkeeping transfer agentsmust post credits containing minimum and appropriate certificate detail within 30 days after issuance. As the authorization for the issuance of Investor A’s shares is dated September 28, 2023, BlockTrans should have posted the credit of 100,000 shares to the MSF by October 28, 2023.
 
-In addition, the Staff’s review of the information maintained on the Legacy Database for Investor A disclosed that the data populating the "from" column (column J) reflected the Memo (HASH) from the transaction issuing another investor’s 300,000 shares. As a result, it appears that this data was mistakenly linked to Investor A’s certificate detail.[^2]
 
-[^2]: subsubsection with start of issue auth convo...]
 for excel _See_ TAR n.45
 
 
@@ -304,6 +318,7 @@ https://github.com/JFWooten4/free-markets/blob/d80c385d1644eb2e1e01ed41623ba3f2c
 
 [^3]: DB design and good catch on the blockchain side..]
 
+Rule 17Ad-9(a)(5)  issue date != 144
 
 
 
@@ -495,8 +510,19 @@ in _The Psychology of Money_ by Morgan Housel:
 > 
 > There are books on economic cycles, trading strategies, and sector bets. But the most powerful and important book should be called _Shut Up And Wait_. It’s just one page with a long-term chart of economic growth.
 
-#### HASH duplicate on 4 --  promulgation of investor ffrom coming of age earlier in year
+#### !!HASH duplicate on 4 --  promulgation of investor ffrom coming of age earlier in year
 
+
+the Staff’s review of the information maintained on the Legacy Database for Investor A disclosed that the data populating the "from" column (column J) reflected the Memo (HASH) from the transaction issuing another investor’s 300,000 shares. As a result, it appears that this data was mistakenly linked to Investor A’s certificate detail.
+
+
+
+
+
+
+the hash duplicate was orignally  checked at https://github.com/JFWooten4/agenda/issues/15#issuecomment-3090379988
+::
+expansion of physcianl notes from oru conversatoin as  to Digitization policy in re decentralized MNPI v. pbulic writings
 
 
 
@@ -1156,13 +1182,6 @@ Users didn't expect the pace infer IDs because they have basically always away s
 
 
 
+[^pbuco]: _See_  tadiotional affialite filigns afor ivnestors wo aquire through the open amrekt well-published ownerhsip threshodls udnder Section  16 pplus Schedules 13D amd 13G. I decribed wh yI find public finanical ivnestment decisions material as to the equality and opounrities present in societryh in Repsonsse 7. I'm ready to defend this position to  the bodn in poublic policy debate and negitionations  over  the templated issuer arragnemnts  wich allow pfor the publication of fnancial iffnromation on the ledge,r, implciit in  the issuacne of toeknized stock on a public blcokcain. TRhis is  not a perfect prxy in the conept i weill describe becuase it requires huamn govenrmental  oversight  as to benefiial ownership of shell  or invetment  comapnies, but  it  is hte  closest pralelle
 
-[^cibtiuboius]: The findings  cite the  need for  coniouso attennmtion and ldiliegence, whic hI agree wiht.  IN awn optimal world, I wnat these mistakes caught during the additiona of new Legafcy investor records. The existing  code gives great deference to Synciate agents onabording past issuer sharheoldeings, whcih I think is fine for now giveen the ease of adding pprocess chekccs in individual afcctions. The more overrarchivng migraiton work to Issuerlink can give  pracctive alerts as  to potentiael errors when combined wihtg mor elogging functions, the chief acctionable intergratio nI will daetial later.
-
-[^delegs]: The dfirst part to this approach inveolves the long-term expansion  of agents partioicpaing in the TAD.  Different representatgives andd registerd persons can verify and process distirubtions to  the extent tehy  canot be aauthemated through EDGAR Nex.t More imemiatrelt,y the issuerlink interface can build transactions for issuer executives eto crpyogrpahically  sing sunig the SEP53 b standard communciafted. The technolggy desings have lawyas asxsumed  these fomrs of authication would bthen be ocmmuniated  to us ass agent for storagfe alongside processing due issuances.
-
-[^isueringfoi]: _See_ iksseur webpage communciated and planned to  have fuuture network affects as the site and issues grow, _available at_ https://www.issuers.info/1984803. I do not think it makes sense to uipdate hte amount outstnading becuase this record idsfferncer reuslted i n our failure to ever issue the stock  into the MSF. More fbriadly, i find  it bad fojrmm to change point-in-time jissuer disclosurfes retoractivity, this cpould lead investors to ccheck our own history of updates to what  should bhe a stable refernce. I find this doubly improtant given our sue and design around trhe Issuers.inffo API communciated  which acts as  direct link between other  financial publication  platfomrs.
-
-
-
-[^ocookiwa]: _Id._  _See, e.g.,_ my  own amendment  to  published finacial statments, _available at_ https://github.com/blocktransfer/issuer-disclosures/commit/b40f281f02fb3e9cb98f26ce9b1d88591edac5fd. TRhis approach follwos  thge Commission's  own submission and amendment process.  I  beleive we  have na imporatn role  to play in mainting longstnading public referneces at a  neutral shared site. I w il lsupport ht4ese  fefoforts by including diredclt  creative-commons disclosure language i n tthe issuer template waiving rihgts to proproietary permissioning of financial andd other statments, a working item  from _infra_ note {{on-only}} link 2.
+[^bankr]: 
