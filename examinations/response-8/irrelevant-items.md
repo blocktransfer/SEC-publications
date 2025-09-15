@@ -17,3 +17,6 @@ And then we also have both dir below and https://discord.com/channels/9558198819
 - governance implications from Exhibit 6.2.5 💡
 
 - Edu as other community members that expertly explain complex items with grace using prudent [external posts](https://stellar.expert/blog/dilemma-stellar-contracts-state-expiration+partial-history-retention), [images](https://medium.com/stellar-community/daos-donts-1-the-dao-28a543eeb711), or [videos](https://www.youtube.com/playlist?list=PLWUFvhKuc_5u1sQsz-FAmRgFf9HEhyqj-). 🙌🏽
+
+- Retro comp @ agenda #13 is why I asked about payments in https://www.sec.gov/comments/sr-occ-2025-801/srocc2025801-598095-1737722.pdf#page=68 ¶ 23
+

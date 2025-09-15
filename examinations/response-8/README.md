@@ -219,22 +219,16 @@ Rule 17Ad-10(a) viol;ation tro post the credit of 100,000 shares to the blockcha
 
 I know we toucched oon the data locale of control book entries ihn our second meeting, rewiving public ifnormation and  cobiantiosn of shareodler data. Hwoever,  I'd like to prbring it up in response to the Letter's use of "as evidenced in the excel spreadsheet of" the Legacy dartbase output. Part  of all the efforts surrounding programmatic access  ot this file through open-source code is to minimmze the risks of a simplek datbase file used as a record o assets.[^excel]  And indeed  the refernced issuer  disclosure site 's summary of sahrfes outstganding is jsut a  frontend wrapper  on  the  discussed isseur API.[^srccoedc]
 
-Rule 17Ad-10(e) under the Exchange Act states that every recordkeeping transfer agent shallmaintain and keep current an accurate control book for each issue of securities. 
+As communcicated, I liek APIs a lto, becuase they  force me  to think deepl ythough  the desig aprarmteoirfs of  systgem interaciotns  at  scaleq. Rule 17Ad-10(e) under the Exchange Act states that every recordkeeping transfer agent shallmaintain and keep current an accurate control book for each issue of securities.  One reaason  this failed ot happen was becaused I did n ot impmenet LAylor's nerw issuacnces through an API, desp[itpe having  tghe operatioonal capabilities to interlink authorizatikon a dnd issueince in the same transdcion.]
 
-todo
+One reason  I have not done this yet  is becaused o f the need for a decentralized group of indepdent  hot  signers among oregnaizatgoin membersl. By  batchign  singatures otgetrh with airgapped lcoal hardware wsinging review, we can drastically increase our ghttroughput with the same level of safet yrpesently employed i n operatikonal  signing today, but without the georcragphic ccnetraliaiotkn eviden _infra_ § 3.  Additioanly and drelated  ot this, staff cite that  a change in the control book shall not be made except upon written authorization from a duly authorized agent of the issuer, whicch is how  theys  keys operate.[^written]
 
+We failed  to reflect   the issuance of the 100,00 shares as well because o f this pending development  backlog, understanting Laytlor's ontrol book during the exam period. We will timely post  crtedit going forward  by trtmpwting in all orefards  to trurn issuances i n to routine turnaround items without hiuman invovent,[^pools] 
 
-A change in the control book shall not be made except upon written authorization from a duly authorized agent of the issuer. 
-[^written]
-
-Rule 17Ad-9(d) under the Exchange Act defines a control book as a record or other document that shows the total number of shares authorized and issued by the issuer.
-
-As noted above, the issuer's email of September 28, 2023, authorized the issuance of 100,000 shares to Investor A. The Registrant’s failure to post a credit for these shares to the blockchain portion of  the MSF resulted in understatement of Laylor’s issued share amount by 100,000 shares. Consequently, Laylor’s issued amount reflected on its Control Book was understated by 100,000 shares during the period of October 2023 through April 2025.
+[^pools]: Generally, I prefer retroactive checks on issuer atuhroirtty,  giving them the leeweay  to  hadle their affairs up until the point  where they prove incapabl;e. For instancme, I have mtnally toyued around with  sending clients hadnward wallets with biumetric  authrenication for years, but have not  done so for ereeaasons of centralizaation  and data securty  discussed  _infra_ § {{todo Physical  Securities and Lifeccycle}}.  I beelive finacie executivves an map  out their oen firms's credential  managemnt given  suffieicnt public educational materials. This iwll be a core assumption test  I'll work to addopt  while deplyoign IssuerLink based on prototyped login schemes through the  investor app.
 
 
-[^written]: lo
-
-
+[^written]: Iudnerstand this statue haas not been updated  in two  decades, adn so I am proably  jsut wasting tome wriign this. But I want  to ink down  that we do not use physcial signaturres because htey require centralization, _inter alia+_. Small said other agents use aemail for authrizatigons, despite hesistances thereon  communticated, and so I understand  it's not  a big ddeal. But just for  cuocmentsation I plan  ot upgfrade this form of issuance through the IssuerLinkj platform wherein cyrptogrpahic Ed25519 signing  carves are expected to  verify intent.
 
 
 [^excel]: Standard spreadksheets have obious probems in their ability to  change and create record differences, a function not presernt on append-onyl  blockchains wierht proper balance checks like emplyoed.  Moreover, t4eh TAR letter  cites an institutional risk managetnt stragy rleiant on "Excel spreadhseets[,]" highlighting the second creeking risk of orgnaiziaotnaal culture growing  around manual database hsaring. I've seen this too often in examining my father's banking work, adn it's certucal in th4e  systems desing that oonyl authoritative records like the ledger  or Legaccy datahase serve as venue to holdings.  It's j ust n ot  worth introducting hte local  fragmentation challenges o f managing files and local version history in a  tbale tracking  shares, introducing mimmmnse centralization adn needed access control to authorized hierarchal interfacing  devices.
@@ -267,12 +261,15 @@ IN thinking on this  point the Distirbut accoutn  acts  a lot liek Cede & Co., a
 
 This is precisely  what happened in our  subdisiary file of Legacy holdings, and  I  wil l file for  Chapter 11  before I repeat the mistakes of Tthe Depostryu  Trust  COmpany.[^bankr] Aside form ppublishign a singel number as to toal internal egacy sharehodlderings, I wouldd like ot contemplate publications of nonpoersonal statistics such as holdings across offchain adccounts, aking oto the on-cchain ledger b alance reconlilaition. [^identifiers] It's also why I onl ywant stable holding  refenrces in the legacy migration datbasse, since too much can happen under only  the perview of agents purporting to use TAD3 btu still mainting off-ledgerf records for any accounts inclde Cede or Cede/FAST.
 
-I have not at all contemplated  reconciling beenfial ownership information liek done _supra_ note {{pbuco}} because  i  do  not think it is o out place as recorkdeeping agnet to track the owners of an  issuer. Whiel te sindersers thereof are free to do so, it  don't see any need other than sharheodler support to  worry  over ddemogfraphic distirbutions, as exmmepldiief  by the priumary iddenitifieaiton of registerd  hodlers by public keys, followed by  ony l an inividual first-name sort key. wihtih n legacy records.[^middlename]
-
-todo sentnecce, Szzz
+I have not at all contemplated  reconciling beenfial ownership information liek done _supra_ note {{pbuco}} because  i  do  not think it is o out place as recorkdeeping agnet to track the owners of an  issuer. Whiel te sindersers thereof are free to do so, it  don't see any need other than sharheodler support to  worry  over ddemogfraphic distirbutions, as exmmepldiief  by the priumary iddenitifieaiton of registerd  hodlers by public keys, followed by  ony l an inividual first-name sort key. wihtih n legacy records.[^middlename] I find it neccesary  to worry about the minatue of indvidial recordkeeping data efficcincy because I do not  have the  conveniance of aggregating hundresd of millions of investors in the name of a sleecct few subledgers at  clearing memebrs, chuinking the job down as  you  move down teh hirerarcy discussed _infra_ § {{Scoped INfidivual Positional Aspiaritons todo}}.
 
 
-We saaw this as a problem laso _infra_ note § {{Deleted Certificate Detail,  Backups todo}}, where  a  singel  central trecord needs mateiral backup efforts. Given the nature of  its sole atuhritatrive state and unialteral control by modifier functions
+
+
+We saaw this Supremacy as a problem laso _infra_ note § {{Deleted Certificate Detail,  Backups todo}}, where  a  singel  central trecord needs mateiral backup efforts. With  great power  comes  great  reponsabilikty, and I don't think there's  a  single person or group of people who could wireld sole atuhritatrive state control of  unialteral stock ledger and  the  functions to  change it.  It's  just an impossible  task that's never been succesffulyl done without extensive political connections which ultiamtely  control the lives of governed users.
+
+
+
 
 
 
@@ -594,7 +591,7 @@ given ii.b.1
 
 
 
-~~## B. MSF Certificate Detail~~
+#### Figurign Direction During Flight  <!--  TAR2 teting on mainnet ssentimetns -->
 
 In writing the prior subsubsection, I noticed a single-brick lego was  ajar on a Mellenium falcon model  in my office. I had a simialr exprience noticng  a single missing brick out of a dozen completed sets while in therapy  for cvonditions disussedd  in the email submitting Respon #2 sent on 16 Jun 2025 at 4:40pm ET.  Mymind just notices all the little things in  systems, wanting everything in its place.
 
@@ -709,15 +706,10 @@ As  cited  _supra_ note {{awscollege}} , 37,347,572 shares of Bed Bath & Beyond,
 
  I've sincerelyt apprecaited "navigating e" efforts from the stadff and my  Dad over hte  year,s helping me see  the fraud of DTCC rfor what it  is.[^cede]: Behind us in this  photo is  an F-111,  the plan  my granpda from PREV spent most of his  time flying in  the Strategic Air COmmand./  He trained and  practices for years on years  to fly  the main nuclear bomb carriage in the fuselage  directly into the heart  of  Russia's CPSU.
 
-I plan to follow a similar path tpowards tpday's CCP.[^larp] I view  transfer a gents  like fighter  pilots  in the cockpiut  of  oversight  adn direction  in  TAD33's pplane. We have the netowrk as an engine propelling us to bring decentralized excahgne forward as a bomb nullifying their predatory business m odels.[^gnpa]
+I plan to follow a similar path tpowards tpday's CCP.[^larp] I view  transfer a gents  like fighter  pilots  in the cockpiut  of  oversight  adn direction  in  TAD33's pplane. We have the netowrk as an engine propelling us to bring decentralized excahgne forward as a bomb nullifying their predatory business m odels in a view towards  our  best possible   futures..[^gnpa]      
 
-in view of best  futures.
-Todo
+[^gnpa]: in my grandpas decades in the air force, he  was always proving himself to higher-ups to keep pflying in higher and higher skies for thre  freedom  he found  in  a  starry COldd War. What we h ave  now, as showcased by  Erik's comments in Resposne 3 note 2,  is  perhaps  the deadliest game of trained competitors  tgo  exchanges that practically build  our capital market.  I  take  these  designs  very seriopiusly , bvewcause  I feel like m,y grandpa the firs time he flew a B47  out  of surviving  neccesity. As the onlyt solbur memeber of a  tema that had  to take off early after a night ofg   drinkign,   he forcefully rtook   charge of the cickpit with the  support of  a runway  commander, priving himself through gflkught.
 
-[^gnpa]: in my grandpas decades in the air force, he  was always proving himself to higher-ups to keep pflying in higher and higher skies for thre  freedom  he found  in  a  starry COldd War. What we h ave  now, as showcased by  Erik's comments in Resposne 3 note 2,  is  perhaps  the deadliest game of trained competitors  tgo  exchanges that practically build  our capital market.  I  take  these  designs  very seriopiusly , bvewcause  I feel like m,y grandpa the firs time he flew a B47  out  of surviving  neccesity.  As the sole  member  on  a cross-country tema  that swore offf  drinkign (for l ife) ,  he  had  to  ctkae  charge o ne morning when  TODO
-
-
-I d on't think  we need perosnal substantiation, but if i need a  refresher  during  drafting we have  a direct citation in https://github.com/JFWooten4/gratitude-journal/blob/main/2025/Jul/4.md
 
 
 
@@ -735,61 +727,42 @@ s  hadnlign o f  shares in  the  Futch  East  India  company  over its tenured  
 
 
 
+
+
+
+
+
+
+
+
 #### Deleted Certificate Detail,  Backups
+
+
+
 
 Securities  cancellation dates\are required as part of the minimum certificate detail pursuant to Rule 17Ad-9(a) under the Exchange Act.  However, for those securityholders without Stellar Accounts whose shares are held in the "Distribution Account", there is no clear audit trail that records the number of shares cancelled by securityholder or the date of cancellation, reuqiring  review iof several sources. As a result, BlockTrans does not maintain or have readily accessible the cancellation dates or share amounts for cancelled securities of securityholders allocating to the Distribution Account.
 
+This is  correcty,  and  I have had this on  the b ackburned for  far  too  long. In the imnediate t-term, I will crteate a database backpu for Legacty upon changes in registration information. T his manual option will tiie  us over unr  I ccahn setup proper IAMs to impmoenet a worflowe to petfomr daily backups where there re changes, w hicch will be made avlianbeel through the rpeosrireryt at https://github.com/blocktransfer/CRON-jobs and evidenced  by a reaosnable file name idenfyting backup function. RThis will aos capture changes for deleted certificate detail for any manual deletion of cancelled  securityholders in a more reaily-generated backup file maintained acording to the Ad-7 retrention  tandards.  
 
-
-https://github.com/blocktransfer/CRON-jobs
-
-
-For those securityholders who don’t maintain Stellar ccounts, the Registrant will manually delete certificate detail for cancelled securities. At present, deleted certificate detail for these securityholders would be reflected in backup files maintained by BlockTrans. However, the Registrant does not have a process to back-up and maintain the certificate detail for these securityholders which resides in the Legacy Database.
+I  envision this repositrry will also  handle th sstoage movemtns between S3 buckets , once it is no longer done through manual backups in the  admin console.  This is depeddnont on establishing the open-source IAM permissoins so as to addditioanlly document publicly our backup processess (in the CRON  code through varibale names at the  very least).  I have a lto fo  immatrue throughs  as to the application onf  retention  law  to unccachied   ledger state, orignally epxlored i n reconcstruction  backpoeddling work ot gneerate reports aat arbtirary  heights thout satatee historic backsups, _available at_  https://github.com/blocktransfer/record-dates. 
 
 
 
-
-BlockTrans’ failure to establish a process to ensure that back-up files of the Legacy Database are maintained is an internal control weakness, 
-
-as such process could ensure that BlockTrans maintains a record of certificate detail deleted from the MSF as required by Rule 17Ad-10(f) under the Exchange Act.
-§240.17Ad-7(f)
-
----
-
-subsubsec on legacy backups and ledger cachinege
-
-_See also_ re outstanding ledger state Horizon cript repo at https://github.com/blocktransfer/record-dates
-
-
-
-
-
-
+TODO
 
 for the outstanding API modivfiicaiton and update for  legacy internal comparison, we can have also idneditfiier seperations between  the "street naem" custodian shares of clearing agenccyies  with specified on-chain accounts as per 6days interest i n "  I’ve been told that “street name” existed before Cede.""
 ^ lets do this in the main asset page rather than subdt /outstanding
 
+TODO
 
 
-logging  changes and additions (per industry basis 
-https://cdn.ymaws.com/stai.org/resource/resmgr/guidelines/sta_conversion_guidelines_ja.pdf  
-
-And the direct callout from distinction from https://stai.org/page/guidelines)
 
 
-- https://us-east-2.console.aws.amazon.com/cloudwatch/home?region=us-east-2#logsV2:log-groups/log-group/$252Faws$252Flambda$252FlegacyAddInvestor
-- https://github.com/blocktransfer/syndicate-api/blob/782f524f836a4ccf7825a2e2cb6c5834a471a8fe/legacy/importFinalAccs.py#L46
 
-See also https://blocktransfer.com/compliance/team/legacy-investor-onboarding  
-See team portal setup prior mockup exhibit in FTIN thing from item 1 which is {n.28}  
-Retro comp @ agenda #13 is why I asked about payments in https://www.sec.gov/comments/sr-occ-2025-801/srocc2025801-598095-1737722.pdf#page=68 ¶ 23
 
-We want this on the public page for incoming procedures (TEAM)  
-Backline Response 1 note 10 introducing https://www.blocktransfer.com/blog/post/introducing-transfer-agent-depository with quote from SEC release "The transfer agent depository ("TAD") would replace the certificate with computerized stockowner lists... which would serve as both the issuer's stock records and the shareowner's evidence of ownership." as related to shredding use
 
-^ Quote is _Id._ see https://archive.org/details/fsec00unit at § III.A.3.F.  
-And then we can Id. that for the trifecta, citing the following from 42: a TAD "may have some long run promise, but it would seem to presuppose a highly integrated national computerized ‘book entry’ system which simply doesn't yet exist" according to one of the 145 banks responding to staff and Congressional inquiry.  
-Critically this was the introduction of the in IHS via "ownership of securities in the records of the issuer in other than the name of the beneficial owner of such securities" (from study name).
+
+
 
 
 
@@ -970,21 +943,31 @@ AZlso relevantly  to my  comments on deadlines, I needed some time off  to work 
 
 
 
-### Pioneering INdustrfy Goivernencae Model
+### ? Pioneering INdustrfy Goivernencae Model
 
 As communiated, WhyDRS is the first American Decentralized Unincorporated Nonprofit Association, a new type of legal entity pioneered by the State of Wyoming for the govenrance of nonporfits through a decentralized  autonomous community. Since drafting  my ficcst  hackathon prototyle, I'd invested years into uynderstanding DTC's systesm/. It  has alwasy  been abundantly  apparent t o me that a n ew form o f market structure around decentralized exchagne requires an equiavlent new form of decentralized markktet oversight .  [^cool]
 
 Relevant  to hte  parent entoty  adddressing and search  items briefly  idsucssed, I speicifcally wrote out Filing ID to employ the same PhyscialAddress  service for mainintling interest n ot related  tog process.[^filingid] In case staff aren't  familiar, DAO  laws allow participation  adn renumeration using only  public keys.[^17f2FN]  As an aside, the DAO report as my favorite reaching back in high school.
 
-This unnique vsituation with market-structure implications led  me  to writing  the text assicated  with TAR letter n.176,which  I understand  implicates  review u nder a FAC.  Staff can bring this up to the Parties whenever they'dd like, but I just wnat to say that iwoul;dn't be workign this hard if I didn't belive DA poses an immediate clear and present dangergiven  certain  warrents whic begin  trading on 7 Oc t  2025.[^family]
+This unnique vsituation with market-structure implications led  me  to writing  the text assicated  with TAR letter n.176,which  I understand  implicates  review u nder a FAC.  Staff can bring this up to the Parties whenever they'dd like, but I just wnat to say that iwoul;dn't be workign this hard if I didn't belive DA poses an immediate clear and present dangergiven  certain  warrents whic begin  trading on 7 Oc t  2025.[^family] The first  canary dies some tiem ago.
 
 
 
 
-canary 1st gme ref
 
 
-[^family]: https://x.com/JFWooten4/status/1964030067912089825
+
+
+
+
+[^family]: For  sintance, I cancelled an excursion  to  visit my father in order  to write this Response, whcih was planned during the week of an event, _available at_ https://x.com/JFWooten4/status/1964030067912089825. My mother was visitng the ara after its  conclusion, and  this could have been my only oppunrity  all summer to see the mboth for more than a ssingel day. however, I abdnonem my aspiratijonss of an enjkoyable three months I moment I drank my  third  monster to finish the TAR letter in time for Repsonse 1's central submission window,, whicch agfain I found reasonable. NOtwithsaetaindfdg,  I hope thiss extensive physccial exxertion sgows.
+
+
+
+
+
+
+
 
 
 [^cool]: _See generally_ a whole lot o f the problems staff wrestled with since suing Erik back rin the day form _supra_ note {{gnpa}}. As even  Genslar eadmitted in TAR leetter  n.121, the Commission has neverf  addressed the regulation of suchg a decentralized, uncontrollable, adn permanent  venuye. This was  a  challegne seven years  agom,  andd It will continue toh b e  a  challenge until  we start  working with  onle in communities that acutally care about investor protections above  nad beyond  ICO returns., This is  the only  onlien  communtiy  interestinged in launching a crypto token I've ever  seen that doesn not want economic  trading interests associated iwth theri  govenrementce  stakes, and I love it.  
@@ -993,7 +976,7 @@ canary 1st gme ref
 
 [^17f2FN]: This  is one menaingful r eason I asked staff about  DUNA ownershp of the Sydhnciate,  as  I want to  make sure no elemnt of  control  exceed s the interprtive threshold laid out  in Rule  17f-2. Our  "decentralized decision-making, voting, and distribution processes" (_Id._) could make it challenging  to  enforce fingrerpeitning rfqeuirments on ananoymous contributors within "a remote-first operating model, ensuring that all essential functions and activities can be performed virtually." Relevently, we  have extensivble ideasted principles asnd (speakign  for myselfd) stress-tested different  forms  of token-based  consensus  to enforce our obnjectives  of having no clear  control persons above 10% voting weight (and minimal about the  Sectiion 13(d) orr 8(a)(iv) coide A  requirements).   And , for  clarity, those rsuch "persons "" may just be public keyts  connected  to  an online psudhonomy,  although (since the  DUNA could be the sle ownership entity) I think the larger  challenge comes  in drawing a l ine bteween "involvvement  in trrasnfer ragent  functions" under  Exchange Act § 3(a)(25)(A–E) for    members who contribute to our open-source doebase.
 
-###  Community Helping Each Other
+### ! Community Helping Each Other
 
 
 - Structural adjustment inspiration here is the DUNA shields as DAO participation immunity to get on with work without worry of individual lawsuit liability.
@@ -1044,4 +1027,4 @@ Ex. 8.4.1–2 is aphotos of this artist 's pick gaurds, crafted using a jeewler'
 
 It turnes out this artist actualyl had a career for decades in hsi prime as a rlatively famous play4r. He lamented on all the timmes touring around and showing off the pierces he carved from scratch in the most eloquent waay possible. I want to give poeple that samme feeling,  to create their own portfolios an play them on.
 
-I cannto overstake how serous I take the allegation of  David, standing up aginst a Goliath who's sent endless lobbysits and consultaents  to tear down his claims in law. _See, e.g.,_ direct attacks in Stae  ccourts meant to rperesent the people/s views in TAR letter n.169 . I sincerely hope teh Commission contemplates thier documetned work , because I  ccannot fathon what a piece of reactive legislation would look like, permiting thier crash to hit all  because of willfful ignorrancce
+I cannto overstake how serous I take the allegation of  David, standing up aginst a Goliath who's sent endless lobbysits and consultaents  to tear down his claims in law. _See, e.g.,_ direct attacks in Stae  ccourts meant to rperesent the people/s views in TAR letter n.169 . I sincerely hope teh Commission contemplates thier documetned work , because I  ccannot fathon what a piece of reactive legislation would look like, permiting thier crash to hit all  because of willfful ignorrancc
