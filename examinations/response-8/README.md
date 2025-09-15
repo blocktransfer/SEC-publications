@@ -32,7 +32,7 @@ New York, NY 10004-2616
 
 Dear Mr. Vitulano,
 
-
+CANNOT BUDGE  ON THIS JOHN
 
 Ex. 8.2,  a exhange with webb🤝
 
@@ -64,6 +64,11 @@ In  good faith,
 # Letter
 
 
+
+
+## Master Securityholder File Maintenance
+
+
 I'd like to start with a big thank you to staff for their thorough involvement throughout this review. I sincerely appreciate all the findings in the 14 Aug 2025 Deficiency Letter within Appendix A (the "Findings" or "Letter"). Although I understand the exam began as a check on our first lost investors, it grew to be so much more.
 
 
@@ -89,7 +94,7 @@ ALslt,y  as someone who'sse objesses  ed with the orgins of modern central  clea
 
 
 
-## §1 Master Securityholder File Maintenance
+### About Plreliminary Netwrok Constructs
 
 
 I really a ppreciate d staff properly idenfying  hte Legacy database of preservice sharehodlers  as  a  subsidiaryu file the the master disturbted    sledger  as  the  "MSF"[^diction] and  authritiative record  of share issuances.[^ad9] I believe  we have aunique opporuntiy because much of our interlijnked automated records rely on a nopen-source community ledger which I vview as the ideral financial payment network. i'll leave those remarks to _infra_ § 4 because  they differnt from the agent-based deployment  Findings whchci connecct more  clearly  with  the exiting interemediary-based seccurities salaws.
@@ -280,7 +285,7 @@ We saaw this as a problem laso _infra_ note § {{Deleted Certificate Detail,  Ba
 
 
 
-##  §2 Internal and Proceduaral Weaknesses
+##  Internal and Proceduaral Weaknesses
 
 ###  Client Identity Verification Procewss
 
@@ -827,7 +832,7 @@ Critically this was the introduction of the in IHS via "ownership of securities 
 
 
 
-## § 3 Ddistributed Aautonomous P)hyscial Address
+## Ddistributed Aautonomous P)hyscial Address
 
 I apprecaite  stgaff refrfering otm e by the "Principal/Founder"  titles used in past filings, rather  than  the arbitary  "Chief COplaince oFficer" title  of past  Repsones. As  is hopefulyl  clear by now, I prefer desinging systems which  themselves,  or  in conjucntion with a decentralized govenrance group, protect i nvestors withgoujt the stradiional hierarchal  authority o f  a beiurpcratioc decision-making body. TAR  letter  n.81 exemplifies the abject failures thyis approach  can have on   iniviudal investoirs, and my decentralized  approach serves  to further goalsd  to bring the market up without a central long-term  point of failure.
 
@@ -957,7 +962,7 @@ In its most literal interpretation,  the size o f a devleopment team doesn't mat
 
 [^2comment]: _See_  draft migration to open-source codebasse  after nearly a  year o f ccontemplation, _available at_ https://github.com/WhyDRS/SEC-Comments/commit/47a54e2240418632588831e0f54a40845e5cdd9e . This  work ultiumately matured into Response 1  note  20 gioven the severity  of  our present situation which  I’ve touched  briefly  in  PREV §§  0.B, II.B.2.a. She has been nothing but supportive of my  effforts over the years, which helpss a lot beccause onyl a  select few investrors and staff can  knoeldgab;y speak about muc h off these nuances. Admittedly  Istill have quite  a bit of  work to  do refactoring IssuerLink in  the mimmediate  future now that  Form  ID  cannot  be coplexted  by  notarized  proxy by a  service  partyh.
 
-## § 4 Core Market, Invvestor Ptoections
+## Core Market, Invvestor Ptoections
 
 i have  studies extensively the  historuy ofg American SROs. I believe a mateiral shift o ccured in the early 2000s as market p arjticipants  ceased   broad public educatiuon as  to  their serivces.[^2003-era] However,  ebfore htese problems, memebr i nterests were relaitgvelyt alighned  iwhtg p orpoer  govenrnace o f underlying  exchange infrastrucutrfe, which  weren't horrible at protecting represented households.
 
@@ -1035,10 +1040,6 @@ canary 1st gme ref
 
 - per `JS` at https://www.youtube.com/playlist?list=PL9SrRYIjnam2aIFOYuFj2jyGkaE7IQpFX
 
-- Tech talent / distributed office shops is Ex. 8.4.1–2
-
-
-
 
 
 I care vvery deeepoly  about  investing. It is  my7  interpretaion  of perosnal  infromation that it is the chiegf aact I was  put on this planet to  do.  But I cannot do  my  job without the gatekept  unreconcilable  centralized perssimmion  of Wall Street. I apprecaiet the opooprunty  to wrk togeter for a chancce  to heal the challenged systems of yesteryear, and I cna'/t think of a better group of people ot collaborate alongside.
@@ -1065,3 +1066,20 @@ and efficient way to reduce systemic risk.
 
 [^laweson]: _See_ evidence-based ananloysi of DRS trenfds amongst issuers of interest ote hCommission  in detemining strucutral  integrtiry  of the hierarchal  DTC-based  National Market Systme, _available at_ https://dx.doi.org/10.2139/ssrn.5328867. This author was party to the govenrance idsucssion of Ex. 6.2.5, previopsuly detailed  as  a proactive  brianstomring session for a transfer-agent govenrenace body  surrounding aq  DRS seoly operated  by agents.  I'm  thankful  we have this new opooorpuntity for ikndsustry to opt-in  to increaasing services nadd reposnablitlies with some of hte brigfhtest retail minds  relfpresting American investor  intereests . IN discussion of the workk on our podcast, I found particualr concern  with the thinnning SIPC pool after the Silicon Valleycrashes, leaving a single bps.    
  
+
+
+### Postcript  of Prarlalle Effotrts
+
+
+Ex. 8.4.1–2
+
+Banjo Guy
+
+
+David
+
+TAR  letter n. 169 
+stop it documentary
+https://youtu.be/Vbr3hfjVOxw
+South Dakota legislation 
+
