@@ -187,24 +187,12 @@ If they ask about the differetn WK assets, we have a basiss from the `2022_pegge
 
 * Nonprofit DDAO governing  remediations
 
---- 
-**TODOs** 
----
-
-
 
 
 
 # we went to get into the FAC based on a direct webb supplement (intro)
 
 
-
-  lets have  a supplement  for the physicalAddress interface_** 
-
-
----
-
----
 
 
 ## Master Securityholder File Maintenance
@@ -218,19 +206,18 @@ i nee to get across the lac o centraal contros over balance mmaintence/records
 During  out second meeting, staff kindly reminded me of the acccurate  debit a nd ctredit update requirements[^ad10-1] ewith agent-bnased turnaround times.[^ad10-2]
 
 
-
 Mozooz src to
 
 https://github.com/WhyDRS/SEC-Comments/issues/10#issuecomment-2467020278
 
-as differnet  parts  of szad10
+as different parts of szad10
 
+[^ad10-1]: _See_ 17 CFR § 240.17Ad-10(a). The findings cite subpart (1), which has the specific diction between different rifle records explored _infra_ § {{SUBSEC for the subsidiary file}}. I think our open systems alleviate coordination concerns between interlinked service companies through a unified ledger.  
+^  
+See if we can get a citation on this TODO.
 
-[^ad10-1]: _See_ 17 CFR § 240.17Ad-10(a). tHE FINDINGS CITE SUBPART (1)  which  has the specific diction between  differnt rifile records explored  _infra_ § {{SUBSEC for the subsidiary file}}.  I trhink our open systems alleviate coordination  concerrns between  interlinked service companiesd through a unidfied ledger.
-^
-see if we can get a citation on this TODO
+[^ad10-2]: _Id._ at subpart (2). While our status was communicated in Response 1 § XII, I find the different processing times intellectually interesting. While outside the scope of this review, I contest the batch processing systems and differentiation of fund agents (in this and other circumstances) from standard agents (including those handling SPACs) of subparagraph (ii) and clause (B).
 
-[^ad10-2]: _Id._ at subpart (2). WHile our status was communivated  in Response 1 § XII, I find  the  idffernet processing  times intellectuazlly  interesting. Whikle outside the scope of this review, IU contest the batch  procesting systems  systems  and differntiation of fund agents (in  this an  d other cirucmstances) froim standard agents (including those handling SPACs) of subparagrph (ii) and clause (B).
 
 
 
@@ -320,9 +307,6 @@ titling nad buldup as needed, akin  to earlier _supras_
 
 
 
-
-
-# Findings
 
 
 ## MSF Items
