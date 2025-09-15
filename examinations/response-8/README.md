@@ -129,31 +129,22 @@ Our sgignature gaurnees[^fna] aim to automate as much shareholder interaiotn  as
 
 This meanss minimal human involvement  outside oversight  functions like issues origined by staff,  courts with jurisdcition, or issuerf onabording. [^pendingle] During  out second meeting, staff kindly reminded me of the acccurate  debit a nd ctredit update requirements[^ad10-1] ewith agent-bnased turnaround times.[^ad10-2]
 
+Admittedly, i have overliooked this steremalining requirment in dfefernece to bonafide speedy execution. I  see now that the systems need to be configured to make auotmatic posting the default or embedded in operating procedures. EW discussed this more in the commuity becuase of interst in the buy-in privsions and their relation to Cede, _available at_ https://github.com/WhyDRS/SEC-Comments/issues/10#issuecomment-2467020278.
 
-
-
-
-then we can come in and save hte solution with new decentralizedd asttestations
+THankfully none of my msitakes resutled in a challenge akin to this or an aged record differnece, given the deminimus amount of mistakes and lack of secondary markets for Laylor. I believe ccontinuing decentralizedd asttestations in the coropate singer sdcheme wil lremove these chalelnges as we implmenet IssuerLink with  increasing efforts  discussed and documented. I appraccie tthat the rule applies equally to all agents  while prviding the flexbility of additional information Rule 17Ad-9(a)(8).
 
 
 
 
 
-Mozooz src to
+[^fna]: Respoinse 1 § XIV.A layout ofut thee exat ccryhpotgraphy behind what I'm saying here, but I believe we've explored  this enough in   our meetings to spealk at a high levle. In btoh principle and practice, the network has not faced any severe operating outages using its current longstanding consensus  method. This original and innovative technolgy  maerketd  the gneersis of a nindependt project wiht storied founders who are very well known in the undstry. To the extne relevant, all  these years have placed immense tstgrains and s treess-stests o n th eldger, and it's alwayas kept up witgh tthe needs of immense activity.
 
-https://github.com/WhyDRS/SEC-Comments/issues/10#issuecomment-2467020278
-
-as different parts of szad10
+[^pendingle]: For clairty in finding  1 bekoiwm,  I have removed the PENDIGN flag from the legacy databsae. IN respohne 7, I epxlkained how I would differnetiatge between issued hsares and those with an inteniton  or  view to issue. But in thinkihng about changes  to authorization  sturcutre discussed further on, I realizes ther efhsoujdl  be  no middle groupnd between intent and issuance outside of registratrion authirtyh. Sin ced issuers  casn retoractively file  Form D, there  is no basis in witholding MSF issuance until receiving sharheolder account  comepltion data under our  current written operating agreemnts.
 
 
+[^ad10-1]: _See_ 17 CFR § 240.17Ad-10(a). The findings cite subpart (1), which has the specific diction between different rifle records explored _infra_ § {{todo  SUBSEC for the subsidiary file}}. I think our open systems alleviate coordination concerns between interlinked service companies through a unified ledger.  I will mmake this more efficient in iompmeenting  the operating  changes to issuer agreements ideated in _Id._ 
 
-
-I appraccie tthat the rule applies equally to all agents  while prviding the flexbility of additional information 17Ad-9(a)(8)
-
-17 CFR § 240.17Ad-9
-
-
-
+[^ad10-2]: _Id._ at subpart (2). While our status was communicated in Response 1 § XII, I find the different processing times intellectually interesting. While outside the scope of this review, I contest the batch processing systems and differentiation of fund agents (in this and other circumstances) from standard agents (including those handling SPACs) of subparagraph (ii) and clause (B). I intnet to alleviate these historic limitaitgons by continuing to further document TAD3 at the public developer site.
 
 
 
@@ -1155,11 +1146,4 @@ Users didn't expect the pace infer IDs because they have basically always away s
 
 
 
-[^fna]: Respoinse 1 § XIV.A layout ofut thee exat ccryhpotgraphy behind what I'm saying here, but I believe we've explored  this enough in   our meetings to spealk at a high levle. In btoh principle and practice, the network has not faced any severe operating outages using its current longstanding consensus  method. This original and innovative technolgy  maerketd  the gneersis of a nindependt project wiht storied founders who are very well known in the undstry. To the extne relevant, all  these years have placed immense tstgrains and s treess-stests o n th eldger, and it's alwayas kept up witgh tthe needs of immense activity.
 
-[^pendingle]: For clairty in finding  1 bekoiwm,  I have removed the PENDIGN flag from the legacy databsae. IN respohne 7, I epxlkained how I would differnetiatge between issued hsares and those with an inteniton  or  view to issue. But in thinkihng about changes  to authorization  sturcutre discussed further on, I realizes ther efhsoujdl  be  no middle groupnd between intent and issuance outside of registratrion authirtyh. Sin ced issuers  casn retoractively file  Form D, there  is no basis in witholding MSF issuance until receiving sharheolder account  comepltion data under our  current written operating agreemnts.
-
-
-[^ad10-1]: _See_ 17 CFR § 240.17Ad-10(a). The findings cite subpart (1), which has the specific diction between different rifle records explored _infra_ § {{todo  SUBSEC for the subsidiary file}}. I think our open systems alleviate coordination concerns between interlinked service companies through a unified ledger.  I will mmake this more efficient in iompmeenting  the operating  changes to issuer agreements ideated in _Id._ 
-
-[^ad10-2]: _Id._ at subpart (2). While our status was communicated in Response 1 § XII, I find the different processing times intellectually interesting. While outside the scope of this review, I contest the batch processing systems and differentiation of fund agents (in this and other circumstances) from standard agents (including those handling SPACs) of subparagraph (ii) and clause (B). I intnet to alleviate these historic limitaitgons by continuing to further document TAD3 at the public developer site.
