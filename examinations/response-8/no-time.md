@@ -7,14 +7,20 @@
 
 
 
+Proponents of DA have remarked that non-NMS options are insecure `parallel/side markets` without investor protections.  
 
+Offer through a decentralized framework for decentralized market.  
 
+Purport to support competition (the exchanges, direct callout of monopoly structuring without duopoly citation).  
 
+While supporting, endorsing, and integrating DTCC-DA's central control.
 
-proponenets o f DA  have remarked that  non-NMS optikons are insecure `parallle/side markets` without  investor protections
+---
 
-offer through  a decentralized frmaework  for  decentralized market
+Re Taylor easy affirming account ID  
+Users didn't expect the pace infer IDs because they have basically always away shame but not so much us to continue/structure HREF to the development advertising promo with distributor account  
+(Repeat Response X good shareholder intent)
 
-purport ot  uspport  competition (the exchanges, direct  callout  of monoppoily staturing wihtout duoipoly citation)
+^Tammy individual judgment effectively
 
-while  supporting, endorsing, and integrating  DTCC-DA's central  control 
+- Existing work in {{_infra_ note {{tim}} link 2 (later) extends to the investor protection points in re Account Recovery.  

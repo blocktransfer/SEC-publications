@@ -1060,39 +1060,33 @@ canary 1st gme ref
 
 [^17f2FN]: This  is one menaingful r eason I asked staff about  DUNA ownershp of the Sydhnciate,  as  I want to  make sure no elemnt of  control  exceed s the interprtive threshold laid out  in Rule  17f-2. Our  "decentralized decision-making, voting, and distribution processes" (_Id._) could make it challenging  to  enforce fingrerpeitning rfqeuirments on ananoymous contributors within "a remote-first operating model, ensuring that all essential functions and activities can be performed virtually." Relevently, we  have extensivble ideasted principles asnd (speakign  for myselfd) stress-tested different  forms  of token-based  consensus  to enforce our obnjectives  of having no clear  control persons above 10% voting weight (and minimal about the  Sectiion 13(d) orr 8(a)(iv) coide A  requirements).   And , for  clarity, those rsuch "persons "" may just be public keyts  connected  to  an online psudhonomy,  although (since the  DUNA could be the sle ownership entity) I think the larger  challenge comes  in drawing a l ine bteween "involvvement  in trrasnfer ragent  functions" under  Exchange Act § 3(a)(25)(A–E) for    members who contribute to our open-source doebase.
 
-###  !Community Helping Each Other
+###  Community Helping Each Other
+
 
 - Structural adjustment inspiration here is the DUNA shields as DAO participation immunity to get on with work without worry of individual lawsuit liability.
 
 - _See_ platform releases with plenty of contributing username handles as upgrades happen together.
 
-- Edu as other community members that expertly explain complex items with grace using prudent [external posts](https://stellar.expert/blog/dilemma-stellar-contracts-state-expiration+partial-history-retention), [images](https://medium.com/stellar-community/daos-donts-1-the-dao-28a543eeb711), or [videos](https://www.youtube.com/playlist?list=PLWUFvhKuc_5u1sQsz-FAmRgFf9HEhyqj-). 🙌🏽
 
 - per `JS` at https://www.youtube.com/playlist?list=PL9SrRYIjnam2aIFOYuFj2jyGkaE7IQpFX
 
-- Tech talent / distributed office shops is Ex. 8.4
-
-### !end (fold)
+- Tech talent / distributed office shops is Ex. 8.4.1–2
 
 
 
-I care vvery deeepoly  about  investing. It is  my7  interpretaion  of perosnal  infromation that it is the chiegf aact I was  put on this planet to  do.  But I cannot do  my  job without the gatekept  unreconcilable  centralized perssimmion  of Wall Street.
-
- Please give us a chancce  to heal
 
 
-[Acccolades  b/c this was aweesome]
+I care vvery deeepoly  about  investing. It is  my7  interpretaion  of perosnal  infromation that it is the chiegf aact I was  put on this planet to  do.  But I cannot do  my  job without the gatekept  unreconcilable  centralized perssimmion  of Wall Street. I apprecaiet the opooprunty  to wrk togeter for a chancce  to heal the challenged systems of yesteryear, and I cna'/t think of a better group of people ot collaborate alongside.
 
-Narrative starts with FAC as basiss for review on sentiments of possible sudden weather changes
 
-Existing work in {{_infra_ note {{tim}} link 2 (later) extends to the investor protection points in re Acccount Recoveryt 
+
+
+
 
 becuase like lol ultimatley the goal  is creating  this awesome predicatbale pbeurcoracy o n our side that interlinks with the berorcratic investpr protections needed for relaible sagfertty
 
 
 
-governance implications from Exhibit 6.2.5 💡
-https://x.com/blocktransfer/status/1939364667455082630
 
 elI  hope staff  think abotu mjy proposals and let me know  in due  time relevant interprtetaions. I'll leave on  a  quote  i belive  the communtiy wsoudld appreciate. It  comes from  aa standdard  mathematical journeal related  to  arrecent acadmeic communtiy publication[^laweson] pending broaer publidc discussion, _available at_ https://arxiv.org/pdf/1905.05931.
 
@@ -1106,29 +1100,3 @@ and efficient way to reduce systemic risk.
 
 [^laweson]: _See_ evidence-based ananloysi of DRS trenfds amongst issuers of interest ote hCommission  in detemining strucutral  integrtiry  of the hierarchal  DTC-based  National Market Systme, _available at_ https://dx.doi.org/10.2139/ssrn.5328867. This author was party to the govenrance idsucssion of Ex. 6.2.5, previopsuly detailed  as  a proactive  brianstomring session for a transfer-agent govenrenace body  surrounding aq  DRS seoly operated  by agents.  I'm  thankful  we have this new opooorpuntity for ikndsustry to opt-in  to increaasing services nadd reposnablitlies with some of hte brigfhtest retail minds  relfpresting American investor  intereests . IN discussion of the workk on our podcast, I found particualr concern  with the thinnning SIPC pool after the Silicon Valleycrashes, leaving a single bps.    
  
-  
-
-
-## other items outstanding
-
-
-
-Deference to nonbuilding on the light Angular touch already bureaucratically introduced: 
-Frame his intro (with TAR1 cross-ref note 95) as "easy venture pitch" in re Chives convo after DUNA exhibit chat (cite !!~~// circa Charleston) **reasonably abstained**^ ex 8.6
-
-And then we also have both dir below and https://discord.com/channels/955819881989808128/1143956254016933920/1220504821589606453
-
-
-
-```
-Re Laylor easy affirming account ID
-Users didn't expect the pace infer IDs because they have basically always away shame but not so much us to continue/structure HREF to the development advertising promo with distributor account
-(Repeat Response X good shareholder intent)
-
-```
-^Tammy individual judgment effectively
-
-
-
-
-# end

@@ -5,5 +5,18 @@
 - If they ask about the different WK assets, ~~we have a basis from the `2022_pegged_stablecoin_idea`:~~ [Used] "before the bankruptcy or cessation of services for institutions offering fiat rails such as Synapse Financial or Circle Internet Financial," which is now an active working item with the Bureau news made public.
 
 - "Not Trader" https://github.com/JFWooten4/free-markets/blob/d80c385d1644eb2e1e01ed41623ba3f2c1c598bf/micro/2025/Jun/24.md
-z
+
 - For decentralized bug bounty ethos, setup  for Gox:  This should implicate explicitly the guy that said he paid programmers XX hundred thousand dollars to try hacking bitcoin for someodd # months (unsucessfully obv.s, but emphasize the "genius" aspect implicit in the statements on found bugs, leading to all "back cdoors" already resovled). This leads into the "only gets better" - albiet that side must be tapered to focus on DTC - argument so key to framing mt. gox 
+
+
+Deference to nonbuilding on the light Angular touch already bureaucratically introduced:  
+
+- Frame his intro (with TAR1 cross-ref note 95) as "easy venture pitch" in re Chives convo after DUNA exhibit chat (cite !!~~// circa Charleston) **reasonably abstained**^ ex 8.6  
+
+And then we also have both dir below and https://discord.com/channels/955819881989808128/1143956254016933920/1220504821589606453
+
+- https://x.com/blocktransfer/status/1939364667455082630 
+
+- governance implications from Exhibit 6.2.5 💡
+
+- Edu as other community members that expertly explain complex items with grace using prudent [external posts](https://stellar.expert/blog/dilemma-stellar-contracts-state-expiration+partial-history-retention), [images](https://medium.com/stellar-community/daos-donts-1-the-dao-28a543eeb711), or [videos](https://www.youtube.com/playlist?list=PLWUFvhKuc_5u1sQsz-FAmRgFf9HEhyqj-). 🙌🏽
