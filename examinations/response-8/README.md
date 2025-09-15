@@ -1121,9 +1121,17 @@ canary 1st gme ref
 
 [^17f2FN]: This  is one menaingful r eason I asked staff about  DUNA ownershp of the Sydhnciate,  as  I want to  make sure no elemnt of  control  exceed s the interprtive threshold laid out  in Rule  17f-2. Our  "decentralized decision-making, voting, and distribution processes" (_Id._) could make it challenging  to  enforce fingrerpeitning rfqeuirments on ananoymous contributors within "a remote-first operating model, ensuring that all essential functions and activities can be performed virtually." Relevently, we  have extensivble ideasted principles asnd (speakign  for myselfd) stress-tested different  forms  of token-based  consensus  to enforce our obnjectives  of having no clear  control persons above 10% voting weight (and minimal about the  Sectiion 13(d) orr 8(a)(iv) coide A  requirements).   And , for  clarity, those rsuch "persons "" may just be public keyts  connected  to  an online psudhonomy,  although (since the  DUNA could be the sle ownership entity) I think the larger  challenge comes  in drawing a l ine bteween "involvvement  in trrasnfer ragent  functions" under  Exchange Act § 3(a)(25)(A–E) for    members who contribute to our open-source doebase.
 
-###  REQ  splacehodler
+###  Community Helping Each Other
 
-Tech talent / distributed office shops is Ex. 8.4
+- Structural adjustment inspiration here is the DUNA shields as DAO participation immunity to get on with work without worry of individual lawsuit liability.
+
+- _See_ platform releases with plenty of contributing username handles as upgrades happen together.
+
+- Edu as other community members that expertly explain complex items with grace using prudent [external posts](https://stellar.expert/blog/dilemma-stellar-contracts-state-expiration+partial-history-retention), [images](https://medium.com/stellar-community/daos-donts-1-the-dao-28a543eeb711), or [videos](https://www.youtube.com/playlist?list=PLWUFvhKuc_5u1sQsz-FAmRgFf9HEhyqj-). 🙌🏽
+
+- per `JS` at https://www.youtube.com/playlist?list=PL9SrRYIjnam2aIFOYuFj2jyGkaE7IQpFX
+
+- Tech talent / distributed office shops is Ex. 8.4
 
 ### end (fold)
 
@@ -1138,13 +1146,14 @@ I care vvery deeepoly  about  investing. It is  my7  interpretaion  of perosnal 
 
 Narrative starts with FAC as basiss for review on sentiments of possible sudden weather changes
 
-Existing work in 723 (later) extends to the investor protection points in re Acccount Recoveryt 
+Existing work in {{_infra_ note {{tim}} link 2 (later) extends to the investor protection points in re Acccount Recoveryt 
 
 becuase like lol ultimatley the goal  is creating  this awesome predicatbale pbeurcoracy o n our side that interlinks with the berorcratic investpr protections needed for relaible sagfertty
 
 
 
-
+governance implications from Exhibit 6.2.5 💡
+https://x.com/blocktransfer/status/1939364667455082630
 
 elI  hope staff  think abotu mjy proposals and let me know  in due  time relevant interprtetaions. I'll leave on  a  quote  i belive  the communtiy wsoudld appreciate. It  comes from  aa standdard  mathematical journeal related  to  arrecent acadmeic communtiy publication[^laweson] pending broaer publidc discussion, _available at_ https://arxiv.org/pdf/1905.05931.
 
@@ -1153,7 +1162,6 @@ elI  hope staff  think abotu mjy proposals and let me know  in due  time relevan
 > 
 > Policies that explicitly account for the network structure of financial markets are a necessary
 and efficient way to reduce systemic risk.
-
 
 
 
@@ -1188,6 +1196,7 @@ Critically this was the introduction of the in IHS via "ownership of securities 
 
 ## other items outstanding
 
+- For decentralized bug bounty ethos, setup  for Gox:  This should implicate explicitly the guy that said he paid programmers XX hundred thousand dollars to try hacking bitcoin for someodd # months (unsucessfully obv.s, but emphasize the "genius" aspect implicit in the statements on found bugs, leading to all "back cdoors" already resovled). This leads into the "only gets better" - albiet that side must be tapered to focus on DTC - argument so key to framing mt. gox 
 
 https://github.com/JFWooten4/agenda/issues/15#issuecomment-3024711494
 https://github.com/JFWooten4/agenda/issues/7#issuecomment-2989720732
