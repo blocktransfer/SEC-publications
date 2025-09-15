@@ -1070,16 +1070,15 @@ and efficient way to reduce systemic risk.
 
 ### Postcript  of Prarlalle Effotrts
 
+I was walking around my neightbohood  after some intense thoiught about policies related to this REsponse. I ventured  down a street just past where I'd nromally walk, and I found a little bajo shop attached as an outsintg  to someones house.
 
-Ex. 8.4.1–2
-
-Banjo Guy
+When I walked in, I was greedted  by a whole shop floor  of specialized woodworking and  sclupting mateirals.  I  recognized  quit4e a few very nice mmachines from college that could make just about anyhthing. Then I saw  the owner sitting with a firend enjoying the space.
 
 
-David
+Afters ome time talking together, the onwer  shared their old photo book of banjos thhey'd madde. He had some of the most incredible peices I've seen designed in an instrument, hand-etching  increidble intimate ddetials in gold platings. Some of his peices sold for dozens of thousandss or more on the secondhand market.
 
-TAR  letter n. 169 
-stop it documentary
-https://youtu.be/Vbr3hfjVOxw
-South Dakota legislation 
+Ex. 8.4.1–2 is aphotos of this artist 's pick gaurds, crafted using a jeewler's machiine win  thse shop. I love this cconccept of letting people have aevverythign they need right int heir locale enviorment, able to work whenevver the  creativ eu rge tirkes  them. And it really was ike afull-scale factory in this sidde building, enought apparently ot at as a serivcce facility  for a big-name banjo company.
 
+It turnes out this artist actualyl had a career for decades in hsi prime as a rlatively famous play4r. He lamented on all the timmes touring around and showing off the pierces he carved from scratch in the most eloquent waay possible. I want to give poeple that samme feeling,  to create their own portfolios an play them on.
+
+I cannto overstake how serous I take the allegation of  David, standing up aginst a Goliath who's sent endless lobbysits and consultaents  to tear down his claims in law. _See, e.g.,_ direct attacks in Stae  ccourts meant to rperesent the people/s views in TAR letter n.169 . I sincerely hope teh Commission contemplates thier documetned work , because I  ccannot fathon what a piece of reactive legislation would look like, permiting thier crash to hit all  because of willfful ignorrancce
