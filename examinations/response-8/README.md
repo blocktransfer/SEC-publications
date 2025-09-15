@@ -48,9 +48,9 @@ I wnant _singular mention_ of "covered securities"
 
 
 #### singular pg.1 footnote:
-reg letter adn Don email suppl both quote the FAC _infra_ in 15 USC § 78q-1
+reg letter adn Don email suppl both quote the FAC _infra_ in 15 USC § 78q-1[^footnote]
 
-
+[^footnote]: sss
 
 the law requires more than notice  and  comment because changing  witgh the NMS  Statue _is_ more than notice nad ocmment simplicity. 
 
