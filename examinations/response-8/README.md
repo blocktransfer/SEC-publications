@@ -1076,22 +1076,28 @@ I know they would excel at a n opounity  to  prove  their ability  to protect in
 
 ###  Informal "Frinedhsip"  Working Arrangements
 
-In drafting explanations of the DEX for DTM last lseay, I had the fortunie of meeting a longtgime  virtual comnrade named Tim.[^tim]
+In drafting explanations of the DEX for DTM last lseay, I had the fortunie of meeting a longtgime  virtual comnrade named Tim.[^tim]  Our work in  the exchang  fierld has  continually overalapped, and we;'ve had great expedrifences helping each other with our respective knowledge nad mutually-benfficial design feeback. I've experinced much  of this in my expeirnces with the WhyDRS  community, as well.[^6days]
+
+These lastg years , I've  come  to understand just how foundational these informatl; permissionless relationshps are to open-sourse sorftware proeejfcts, so eoften establissheds byt  a like-0minded  community  of  b uilding activcists. People who jsut want to see something in the world that nobody else seems  to  support in a fashion conducive to  invidivual rights  and libterties, succ has access  to margining methodolioes.[^occ] Even  in  past ereferenced refrelealnce work form out first meeting,  I meet some  incredible software developers  committed  to  individual liberties  I e bleive our fgourefathers owuld envy.[^stargazers]
+
+It rally is a magical feeling  to  wathc otherts floushigg with their own self-idneitfied goals which (directly  or indireclty)  lerad to olujr  chsared goal  of  a n honest and open ffinaqncial systgem./ And  it doesn't matter wehtrehr  you're in an  apartmenmts,  a dorms,  or your own /house; becuase everyhting shows up i n wrirtintg or orally  through our recorded DUNA meetings or cassual chat space. All  inform, with no diredctive working arragnemtns,  as  sxhown  by the work _supra_ note {{tim}} at llink 2, where I had a lack of  any  fomral employment or contractor agreement to  begin this work.
+
+AZlso relevantly  to my  comments on deadlines, I needed some time off  to work on the TAR letter, realized  while weatfdching  the systemic  problems surrounding  certain  securities contaminate  systgemic  financial institutions. I reflected on this and justt stopped  working on the code  change wihtout  sayhing  anytthing  to any tone, evidenced in my  brainstogrmign repository easlier this year, _available at_  https://github.com/JFWooten4/JFWooten4/commit/7176023f0f06b6e9bd0a4bae4906f698df65a38a.  And they  have been completelyt  awe4sreome  aboutj the whole experince,  as  evidenced by a  comment supporting the publikcationo of my wokr "whenever it's ready!!," _available at_ https://github.com/stellar/stellar-docs/pull/723#issuecomment-2275964399.
+
+
+[^tim]: Tim was featured as a particurlly  harmed options investor  sduring the smeeze that shook out markets to the  core,  as evidencced in  scratch notes, _available at_ https://workdrive.zohopublic.com/writer/open/q1cs0ac7c2313aedf454c9a58e284d6d2f247 at 2. THey'd been ehlping me without  asking  for aenythting  in return for about three years by the time we met at  a lumanut convention in Austin ,  detailed further in  PREV n.20 link 1. The DEX documentatgion work is the fifth of  sicx  page updates I'm doing in a poujll rfequiest, _available at_ https://github.com/stellar/stellar-docs/pull/723#issuecomment-2410026689. This link highlihgts an  drafdt  comment  made  in  resposne  to  Tim electing  to  reviewe  some of my  javascript  code, an aear wehre he has expertise, and to which I initally responded in a  communtiy  forum that "the permissionless aspect really helps (did not solicit this, nor did they contact me before or after this)[.]"
+
+[^6days]: _See, e.g.,_ oen of many high-propfile introductikons offered wihtout prompting or any form of retoracticve kciksbacks, _available at_ https://x.com/6days1week/status/1965631680917774690 (introdfucing on  great standding  the sydnicate to Alan Konevsky). While  I see a stgrong and likely  insurmaoutnbale difference of design ethiois  between  the operators  of central exchanges,  it's nontheless a very  gneerous sentiment which  may  klead  to fruitful e collaboratrions going fotrwasr  (who knows). Inddeed, in any early rendition of pitching materials presented  to venture capitlists in my ealirest days getting warmed  up  to  the idea of communal ownership,  I had  a whole supplemntal exhibit showccasing public advoacacy work promoting the Sydnicate by tyhis individual, whoom i have never met in person.  Abndm, as an aside, I absolutely love  6days' work makign quick and impactful landing page  scuh as a short  Google  site, _available at_ https://deoccupywallst.com  (to  say nothing of pioneering ownerrship clarification work feated in TAR letter  n.164 link 4 ).
+
+[^occ]: Unfortuinatly, after pover a year of waiting,  the  FOIA office rejected my hard-worked rqeust  No. 24-01211-E, a full 375 pages  of configdential mamrgining methodlofoies i findd insturmental to meaninguflly analyzing the procycclical  systgme ic risk OCC contracts post  to the rollout of DA, instruments IO wouldf  appreciatge additional documetnation on should we porocees together in FAC. Comparatively,  all the incredible work Iv'e seen form the  community  embraces a n opne-first sharing mentality  desigfniged  to  get evcertyone ujp to  speed withiout profit motivel,  wehich  is just really  refreshing  for someone who spent  too many  years in the proporietary education space.  Gvien  my horid experinces  withg  DTCC  Learning,  I can't  seay  enough nice things about the developer  documentationss which  teach  me so much  about  so amny portocols aover the years pbecaused o f  people willing  to rise to the task of aquesdate public information. I  have  materially  attempted to  supportr hits ecosystem through  the p ublication  of hundreds of videos representing htousands  of work-hours for the beenfit of public education I found  particialyl  formative, _available at_ https://github.com/wealth-dao.
+
+[^stargazers]: _See, e.g.,_ commits in  resposne tgo  permissionless  bounties within the TAD3 Python repository,  estabslishing a wevery early primitve disclosure website  for sharing "medallion" signature  gaurntee policies, _available at_   https://github.com/blocktransfer/py-TAD3-horizon/pull/3.  Sepand  and Dominik (from anotyher PR, helping with interprtretgaion) have previously  and continued going  opn shitppiung excpetional free software out  into the world on  theri own accord from the  far strungs of Denmark to "Who Knows Whwer / not set."  Crucially,  all GitHub cobtributisons can be qaudited  permennatly (to the extent  projects are  not  deleted by admins)  as  shown  in this exmaple, so anything that goes  cwrong  or might be unintneded  can be seen permissionlessl y by any member  with  a web brower.  II've  come to  understand that  this srot  of software collaboration model  is emplyoed  by topl technbolgoyt companies in the public  markets, and we get to use oit  compeltley for free 
 
 
 
 
 
-And tghen we have the GT Capstone CS est'd (_See_   report  form PREV)
-then we can suggest  there  would be  totla trust  & seperation of working agendas among physical locations 9Matthew e.g.  50/50  split  avg.  netween apartmenmts/dorms/house etc) which goes (directly_ into the "ffrtee  software" **infomral** working arrangmenets 
 
-^ E xemplifyt  this with a https://wooten.link/723  fn detailing "lack of  any  fomral employment or contractor agreement 
-to  begin this work."
-
-wjhoicj ;ead tp _ZERO_ leadine enforcement (_See_ "when ready" comment)
-
-Wehn I needed some "time off  to work on the TAR letter"
-* which was backed up by https://github.com/JFWooten4/JFWooten4/commit/7176023f0f06b6e9bd0a4bae4906f698df65a38a
 
 
 https://wyobiz.wyo.gov/business/FilingDetails.aspx?eFNum=092220161123070164047165092135019155094110144189
@@ -1222,6 +1228,3 @@ href EDGAR Letter § II.B.1.a
 ^ p[rob needs  forma deifntional]
 
  
-
-
-[^tim]: Tim was featured as a particurlly  harmed options investor  sduring the smeeze that shook out markets to the  core,  at 2 in the TAR  letter. 
