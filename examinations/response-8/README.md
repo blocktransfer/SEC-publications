@@ -319,9 +319,11 @@ IN thinking on this  point the Distirbut accoutn  acts  a lot liek Cede & Co., a
 This is precisely  what happened in our  subdisiary file of Legacy holdings, and  I  wil l file for  Chapter 11  before I repeat the mistakes of Tthe Depostryu  Trust  COmpany.[^bankr] Aside form ppublishign a singel number as to toal internal egacy sharehodlderings, I wouldd like ot contemplate publications of nonpoersonal statistics such as holdings across offchain adccounts, aking oto the on-cchain ledger b alance reconlilaition. [^identifiers] It's also why I onl ywant stable holding  refenrces in the legacy migration datbasse, since too much can happen under only  the perview of agents purporting to use TAD3 btu still mainting off-ledgerf records for any accounts inclde Cede or Cede/FAST.
 
 I have not at all contemplated  reconciling beenfial ownership information liek done _supra_ note {{pbuco}} because  i  do  not think it is o out place as recorkdeeping agnet to track the owners of an  issuer. Whiel te sindersers thereof are free to do so, it  don't see any need other than sharheodler support to  worry  over ddemogfraphic distirbutions, as exmmepldiief  by the priumary iddenitifieaiton of registerd  hodlers by public keys, followed by  ony l an inividual first-name sort key. wihtih n legacy records.[^middlename]
-todo sentnecce, 
 
-todo pg
+todo sentnecce, Szzz
+
+
+We saaw this as a problem laso _infra_ note § {{Deleted Certificate Detail,  Backups todo}}, where  a  singel  central trecord needs mateiral backup efforts. Given the nature of  its sole atuhritatrive state and unialteral control by modifier functions
 
 
 
@@ -826,23 +828,13 @@ s  hadnlign o f  shares in  the  Futch  East  India  company  over its tenured  
 
 
 
-#### !!MSF!!Deleted Certificate Detail,  backups
+#### !!MSF!!Deleted Certificate Detail,  Backups
 
-
-Securities  Cancellation Dates\
-This information is required as part of the minimum certificate detail pursuant to Rule 17Ad-9(a) under the Exchange Act. 
-
-
-However, for those securityholders without Stellar Accounts whose shares are held in the "Distribution Account", there is no clear audit trail that records the number of shares cancelled by securityholder or the date of cancellation. 
-have to review several sources
-
-
-As a result, BlockTrans does not maintain or have readily accessible the cancellation dates or share amounts for cancelled securities of securityholders allocating to the Distribution Account.
+Securities  cancellation dates\are required as part of the minimum certificate detail pursuant to Rule 17Ad-9(a) under the Exchange Act.  However, for those securityholders without Stellar Accounts whose shares are held in the "Distribution Account", there is no clear audit trail that records the number of shares cancelled by securityholder or the date of cancellation, reuqiring  review iof several sources. As a result, BlockTrans does not maintain or have readily accessible the cancellation dates or share amounts for cancelled securities of securityholders allocating to the Distribution Account.
 
 
 
-
-CRON and pen
+https://github.com/blocktransfer/CRON-jobs
 
 
 For those securityholders who don’t maintain Stellar ccounts, the Registrant will manually delete certificate detail for cancelled securities. At present, deleted certificate detail for these securityholders would be reflected in backup files maintained by BlockTrans. However, the Registrant does not have a process to back-up and maintain the certificate detail for these securityholders which resides in the Legacy Database.
