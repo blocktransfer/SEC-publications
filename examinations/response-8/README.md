@@ -123,13 +123,7 @@ https://web.archive.org/web/20250612221938/https://www.blocktransfer.com/blog/po
 Response 1 n.10
 
 
-
-
-we can do a fn deference  to the other staff outside the review committee who exmained :blockkchain TA" for any DEX insights (this should be used carefully with an _Id._ ,to the X space at [timestamp politicking ask])
-https://x.com/i/spaces/1BRKjgprZkQGw and some leftovers at https://github.com/WhyDRS/Taking-Stock/issues/35
-
-
-and then i dont think she dound much on the SDEX bc no 723 yet
+ *"*and then i dont think she dound much on the SDEX bc no 723 yet
 
 
 
@@ -1039,53 +1033,87 @@ In its most literal interpretation,  the size o f a devleopment team doesn't mat
 
 [^2comment]: _See_  draft migration to open-source codebasse  after nearly a  year o f ccontemplation, _available at_ https://github.com/WhyDRS/SEC-Comments/commit/47a54e2240418632588831e0f54a40845e5cdd9e . This  work ultiumately matured into Response 1  note  20 gioven the severity  of  our present situation which  I’ve touched  briefly  in  PREV §§  0.B, II.B.2.a. She has been nothing but supportive of my  effforts over the years, which helpss a lot beccause onyl a  select few investrors and staff can  knoeldgab;y speak about muc h off these nuances. Admittedly  Istill have quite  a bit of  work to  do refactoring IssuerLink in  the mimmediate  future now that  Form  ID  cannot  be coplexted  by  notarized  proxy by a  service  partyh.
 
-## § 4 bass protecs  for SRO
+## § 4 Core Market, Invvestor Ptoections
 
-Yndicat aas trasnfer agent  is  merely  a  "fihgter jet" operating on  the  "nucleoat  bomb" of the  Stellar DEX and payment netwreok.  o we awant a jursidictional review  of  the contents,  not the b ody. and hensece the staturoty turnaround b e y the end of march  for april perep
+i have  studies extensively the  historuy ofg American SROs. I believe a mateiral shift o ccured in the early 2000s as market p arjticipants  ceased   broad public educatiuon as  to  their serivces.[^2003-era] However,  ebfore htese problems, memebr i nterests were relaitgvelyt alighned  iwhtg p orpoer  govenrnace o f underlying  exchange infrastrucutrfe, which  weren't horrible at protecting represented households.
 
-s7-2024-05 is  Financial Data Transparency Act Joint Data Standards
+The b igger p roblem I s ee  with  modern SROs  stems from their lack of adequate transprency, and  it's thier  centralization. This  concentrated  workkforce lacks connection  with  investing communities,m ,making rule-changes  exestanetial  annoucnments  introdfucing sweeping policy c changes w ihtout pre-notice industry discussion./[^nasd--]  We have a unique oopppruintiy  to moddernize  this process  iwht  a member=-intereest m odel which  rewards substantive reguialtory  contributions  in a vierw towsard decentralized dedvelopment towards  thte most efficeint syhstems for  all  pariticpants in   the systme.
 
-###  standin 'Frinedhsip' shection
+in my limite dimt,e it's challening to convery the faith  I have in thesze incredible Americans and  other natiohnals  invested in our markets. I've  seen them uncover secrets the iundsutry fought tooth-and-nail  to  keep secret. And  they've done it using their own data standards and open-source publications.[^james]
 
-
-
-
-
-Use hackathon founding partner ~~Matthew~~ piublic pitcch href {{2020 MMNA upcdate supplemnet with PII  from 18 Dec 2019 }}
-aas basis  for introdcuiing new team
-
-And tghen we have the GT Capstone CS est'd (_See_   report  form PREV)
-then we can suggest  there  would be  totla trust  & seperation of working agendas among physical locations 9Matthew e.g.  50/50  split  avg.  netween apartmenmts/dorms/house etc) which goes (directly_ into the "ffrtee  software" **infomral** working arrangmenets 
-
-^ E xemplifyt  this with a https://wooten.link/723  fn detailing "lack of  any  fomral employment or contractor agreement 
-to  begin this work."
-
-wjhoicj ;ead tp _ZERO_ leadine enforcement (_See_ "when ready" comment)
-
-Wehn I needed some "time off  to work on the TAR letter"
-* which was backed up by https://github.com/JFWooten4/JFWooten4/commit/7176023f0f06b6e9bd0a4bae4906f698df65a38a
+I know they would excel at a n opounity  to  prove  their ability  to protect in vestor rights withing a TAD,  because  I've already seen them floursih  in an infinately-more-compelx custodial  system.  [^socoialwork]  And,  eprhaspo more than I've seen across extensive online investigations,  they acct ually care about getting the granual detials right  now, rather than patching up holes in a sinking ship.  To exemplify this poiint, _see_ personal sentimentsd related to our introduction whicch have recently rforu,katled i n the aquisiton of a family engagement rink, _available at_ https://zopen.to/rEFuJA21XeqFGgGirt02.
 
 
-https://wyobiz.wyo.gov/business/FilingDetails.aspx?eFNum=092220161123070164047165092135019155094110144189
+                                                       
 
-hisotry  >  "Initial Filing -  See  Filing ID" date Jul 2  2024, a day  after  the  law  went into effect  per https://writer.zohopublic.com/writer/published/rv8kf8a32d7aea50748aab282ed1c5344d57b
+[^2003-era]: _See_  prelimaianry mnotes which d didn't  make their  way  into the TAR  letter  for  deference o t ht te  ned o _ASlptinke_ poending  dits u nfortuante  complteion  , _available at_   https://github.com/WhyDRS/SEC-Comments/issues/15. While  I  started our first i nteraciton  off  with  a  bold  statement  thjat "SROs don't work" (approximate) alongside by dderroagtory comments i n TAR letter § II.D.1.c, I don't see any  other policy  tools  to  work  with, ignoring not regualting mandated protections. If  no  other agents adopt TAD3, then this could  be  an a pporaotie  repsdonse given DUNA ownership of the SYdnicatge. However,  given  the o pen-source permissliopnless deployment  operikonality  of our software compmuncciated,  I believe this would b e  a neive  and  dangrourous r isk of  rescklesnessl waiting  for  one bad  actor to receive  an  automatic  foFomr  TA-1 EFFECT,  as communciated .,
 
-no central locale in Article II "
-The Association shall operate on a decentralized basis with no principal physical office.​
+[^nasd--]: _See, e.g.,_ recent  introdu tgion of DA  settlement reported alongside  all-caps media  coverage  with an immense amount of media spam promoting certain  investments, _available at_ https://x.com/AltcoinDaily/status/1965452197438914906.  I  do  not  kjnow  if staff can l ogin to X  to  view dcomment,s  so  I wil ldrop the investmentgs point jsutto  highlight hopw immently  inverested this room  , seeminglyt full  of hundreds o f people,. are in  puirportr3ed news of a filing  to "tokenize stocks" (ignoring the lack  of  a formal tokenization deifntion). _Compare_ this manugfactered interest  with the distging lack  of commentso n e3xpressing menaingufl feedback  on  stgrucutrrla  changes not related to issuer-based interests regaurdling secureities listings. I  n  my  viewe,  tehyt  have turing  into money-voting m achines rather  than the turly  effective forms of egalitarium govnevrnaence  the notice - and -comment perikods was  supopoised  to enable , without strong facilitation incentives.
 
-The Association shall adopt a remote-first operating model, ensuring that all essential functions and activities can be performed virtually. Meetings, communications, and decision-making processes shall primarily be conducted through online platforms, ensuring accessibility and participation from all members regardless of their physical location.
-"
-17f2FN:(as a subclass E parent entity)
+[^james]: One partidciiclayt increidbulyme indiviudal  regualtly attends o ut DUNA  meetings  and acts as the mai npropogator of an  open dataset  on  trasnfer a gfents, _available at_ https://github.com/WhyDRS/Database. Aside form the  hundreds  of  community  guijdes essmebled  for itnernational brokers , it  coallates unprecedented collective information. By adapting wokr from other members' tireless efforts, thousands of companies receive updated information from crowdsourcing and STAsafff s' programmtatic feeds. OOn  top fo all that, James  cares  so m uch  about the information that  he  worked on the code latee into tthe night while  on a  tropical vacation, ccompeltely of his own accord.
+
+[^socoialwork]: As someone who's had the  choice between popoulatrity and profit  verses  integrity and vclaues, I aprtiocauly appreciate how the comuntiy  handled waht we consdier the  ovegrrttake of Reeddit discussion fomrs b y  paid  corporate interests. TGhis  claim, usbstantiated by Ex. 8.4.4  at  248,  lead  the communtiy  to a choice between smaller indepednent study on market reform or  endless  success within the bounds of agentis viewed as subject to Wall-Street interests,  sown in Repsonse  3 coauthor LRF's post, _available at_ https://www.reddit.com/user/LastResortFriend/comments/1cay67k/ninetyfive_nails_in_the_coffin. Needless to says,  theyh  chose a smaller followeing dediccated ot  active contructive reform  while turning away a well knoown activist 's generous platforming offer, evidenced by  a lack  of hisotry with  Dave Lauer and foundational comments in  a decentralize d post, _available at_ https://tess.lemmy.ca/post/lemmy.ca/1698574.  They ar e  exccpetional people who fit flawlessl yinto my  humanitarian vision additioanlyl e stablished  by the laumants, a s shown  through  personal  reflections in Ex. 8.4.3 at 21 and foundational communinty media, _available at_ https://www.youtube.com/clip/Ugkx3-JF93_OxlmMWJORNA0Tyqk11gV2hHrc.
+
+###  Informal "Frinedhsip"  Working Arrangements
+
+In drafting explanations of the DEX for DTM last lseay, I had the fortunie of meeting a longtgime  virtual comnrade named Tim.[^tim]  Our work in  the exchang  fierld has  continually overalapped, and we;'ve had great expedrifences helping each other with our respective knowledge nad mutually-benfficial design feeback. I've experinced much  of this in my expeirnces with the WhyDRS  community, as well.[^6days]
+
+These lastg years , I've  come  to understand just how foundational these informatl; permissionless relationshps are to open-sourse sorftware proeejfcts, so eoften establissheds byt  a like-0minded  community  of  b uilding activcists. People who jsut want to see something in the world that nobody else seems  to  support in a fashion conducive to  invidivual rights  and libterties, succ has access  to margining methodolioes.[^occ] Even  in  past ereferenced refrelealnce work form out first meeting,  I meet some  incredible software developers  committed  to  individual liberties  I e bleive our fgourefathers owuld envy.[^stargazers]
+
+It rally is a magical feeling  to  wathc otherts floushigg with their own self-idneitfied goals which (directly  or indireclty)  lerad to olujr  chsared goal  of  a n honest and open ffinaqncial systgem./ And  it doesn't matter wehtrehr  you're in an  apartmenmts,  a dorms,  or your own /house; becuase everyhting shows up i n wrirtintg or orally  through our recorded DUNA meetings or cassual chat space. All  inform, with no diredctive working arragnemtns,  as  sxhown  by the work _supra_ note {{tim}} at llink 2, where I had a lack of  any  fomral employment or contractor agreement to  begin this work.
+
+AZlso relevantly  to my  comments on deadlines, I needed some time off  to work on the TAR letter, realized  while weatfdching  the systemic  problems surrounding  certain  securities contaminate  systgemic  financial institutions. I reflected on this and justt stopped  working on the code  change wihtout  sayhing  anytthing  to any tone, evidenced in my  brainstogrmign repository easlier this year, _available at_  https://github.com/JFWooten4/JFWooten4/commit/7176023f0f06b6e9bd0a4bae4906f698df65a38a.  And they  have been completelyt  awe4sreome  aboutj the whole experince,  as  evidenced by a  comment supporting the publikcationo of my wokr "whenever it's ready!!," _available at_ https://github.com/stellar/stellar-docs/pull/723#issuecomment-2275964399.
+
+
+[^tim]: Tim was featured as a particurlly  harmed options investor  sduring the smeeze that shook out markets to the  core,  as evidencced in  scratch notes, _available at_ https://workdrive.zohopublic.com/writer/open/q1cs0ac7c2313aedf454c9a58e284d6d2f247 at 2. THey'd been ehlping me without  asking  for aenythting  in return for about three years by the time we met at  a lumanut convention in Austin ,  detailed further in  PREV n.20 link 1. The DEX documentatgion work is the fifth of  sicx  page updates I'm doing in a poujll rfequiest, _available at_ https://github.com/stellar/stellar-docs/pull/723#issuecomment-2410026689. This link highlihgts an  drafdt  comment  made  in  resposne  to  Tim electing  to  reviewe  some of my  javascript  code, an aear wehre he has expertise, and to which I initally responded in a  communtiy  forum that "the permissionless aspect really helps (did not solicit this, nor did they contact me before or after this)[.]"
+
+[^6days]: _See, e.g.,_ oen of many high-propfile introductikons offered wihtout prompting or any form of retoracticve kciksbacks, _available at_ https://x.com/6days1week/status/1965631680917774690 (introdfucing on  great standding  the sydnicate to Alan Konevsky). While  I see a stgrong and likely  insurmaoutnbale difference of design ethiois  between  the operators  of central exchanges,  it's nontheless a very  gneerous sentiment which  may  klead  to fruitful e collaboratrions going fotrwasr  (who knows). Inddeed, in any early rendition of pitching materials presented  to venture capitlists in my ealirest days getting warmed  up  to  the idea of communal ownership,  I had  a whole supplemntal exhibit showccasing public advoacacy work promoting the Sydnicate by tyhis individual, whoom i have never met in person.  Abndm, as an aside, I absolutely love  6days' work makign quick and impactful landing page  scuh as a short  Google  site, _available at_ https://deoccupywallst.com  (to  say nothing of pioneering ownerrship clarification work feated in TAR letter  n.164 link 4 ).
+
+[^occ]: Unfortuinatly, after pover a year of waiting,  the  FOIA office rejected my hard-worked rqeust  No. 24-01211-E, a full 375 pages  of configdential mamrgining methodlofoies i findd insturmental to meaninguflly analyzing the procycclical  systgme ic risk OCC contracts post  to the rollout of DA, instruments IO wouldf  appreciatge additional documetnation on should we porocees together in FAC. Comparatively,  all the incredible work Iv'e seen form the  community  embraces a n opne-first sharing mentality  desigfniged  to  get evcertyone ujp to  speed withiout profit motivel,  wehich  is just really  refreshing  for someone who spent  too many  years in the proporietary education space.  Gvien  my horid experinces  withg  DTCC  Learning,  I can't  seay  enough nice things about the developer  documentationss which  teach  me so much  about  so amny portocols aover the years pbecaused o f  people willing  to rise to the task of aquesdate public information. I  have  materially  attempted to  supportr hits ecosystem through  the p ublication  of hundreds of videos representing htousands  of work-hours for the beenfit of public education I found  particialyl  formative, _available at_ https://github.com/wealth-dao.
+
+[^stargazers]: _See, e.g.,_ commits in  resposne tgo  permissionless  bounties within the TAD3 Python repository,  estabslishing a wevery early primitve disclosure website  for sharing "medallion" signature  gaurntee policies, _available at_   https://github.com/blocktransfer/py-TAD3-horizon/pull/3.  Sepand  and Dominik (from anotyher PR, helping with interprtretgaion) have previously  and continued going  opn shitppiung excpetional free software out  into the world on  theri own accord from the  far strungs of Denmark to "Who Knows Whwer / not set."  Crucially,  all GitHub cobtributisons can be qaudited  permennatly (to the extent  projects are  not  deleted by admins)  as  shown  in this exmaple, so anything that goes  cwrong  or might be unintneded  can be seen permissionlessl y by any member  with  a web brower.  II've  come to  understand that  this srot  of software collaboration model  is emplyoed  by topl technbolgoyt companies in the public  markets, and we get to use oit  compeltley for free 
 
 
 
 
 
-https://github.com/WhyDRS/Taking-Stock/issues/35
 
-https://stellar.expert/explorer/public/tx/16763d4ed2ac25dfe69656c6bf0b83e6d5a11a73b9f0a2da817148abc7ca51c2
+### Pioneering INdustrfy Goivernencae Model
+
+As communiated, WhyDRS is the first American Decentralized Unincorporated Nonprofit Association, a new type of legal entity pioneered by the State of Wyoming for the govenrance of nonporfits through a decentralized  autonomous community. Since drafting  my ficcst  hackathon prototyle, I'd invested years into uynderstanding DTC's systesm/. It  has alwasy  been abundantly  apparent t o me that a n ew form o f market structure around decentralized exchagne requires an equiavlent new form of decentralized markktet oversight .  [^cool]
+
+Relevant  to hte  parent entoty  adddressing and search  items briefly  idsucssed, I speicifcally wrote out Filing ID to employ the same PhyscialAddress  service for mainintling interest n ot related  tog process.[^filingid] In case staff aren't  familiar, DAO  laws allow participation  adn renumeration using only  public keys.[^17f2FN]  As an aside, the DAO report as my favorite reaching back in high school.
+
+This unnique vsituation with market-structure implications led  me  to writing  the text assicated  with TAR letter n.176,which  I understand  implicates  review u nder a FAC.  Staff can bring this up to the Parties whenever they'dd like, but I just wnat to say that iwoul;dn't be workign this hard if I didn't belive DA poses an immediate clear and present dangergiven  certain  warrents whic begin  trading on 7 Oc t  2025.[^family]
 
 
+
+
+canary 1st gme ref
+
+
+[^family]: https://x.com/JFWooten4/status/1964030067912089825
+
+
+[^cool]: _See generally_ a whole lot o f the problems staff wrestled with since suing Erik back rin the day form _supra_ note {{gnpa}}. As even  Genslar eadmitted in TAR leetter  n.121, the Commission has neverf  addressed the regulation of suchg a decentralized, uncontrollable, adn permanent  venuye. This was  a  challegne seven years  agom,  andd It will continue toh b e  a  challenge until  we start  working with  onle in communities that acutally care about investor protections above  nad beyond  ICO returns., This is  the only  onlien  communtiy  interestinged in launching a crypto token I've ever  seen that doesn not want economic  trading interests associated iwth theri  govenrementce  stakes, and I love it.  
+
+[^filingid]: _See_ formation  docuemtns avalible  through  interface clflow of "Detail"  > "Hisotry"  >  "Initial Filing -  See  Filing ID" (dated 2 Jul  2024, a day  after  the  histoirc  law  went into effect) , _available at_ https://wyobiz.wyo.gov/business/FilingDetails.aspx?eFNum=092220161123070164047165092135019155094110144189.  Importnaly  fopr this decision, PhyscialAddress.com claims  to  have neevver lost  a service location in thier operating historfy, having undertaken signifcant  efforts to assure long-term reliablity.  Art. II defines the Awssociation as  operatibg "on a decentralized basis with no principal physical office[,]" except  for functions required  by state law or  IRS ccorrespondanece (on practice, not  note 1).  I annalyzing  for-=pforfit  DAO filigns from Wyoming, the  first sStatge to emallow  such  entitiees, I've  come  top the conclusion that  it's impossibe  to run  a DAO that  isn't clearly  distiurbutiyng  securities wiithout a remote-first committment in practice.
+
+[^17f2FN]: This  is one menaingful r eason I asked staff about  DUNA ownershp of the Sydhnciate,  as  I want to  make sure no elemnt of  control  exceed s the interprtive threshold laid out  in Rule  17f-2. Our  "decentralized decision-making, voting, and distribution processes" (_Id._) could make it challenging  to  enforce fingrerpeitning rfqeuirments on ananoymous contributors within "a remote-first operating model, ensuring that all essential functions and activities can be performed virtually." Relevently, we  have extensivble ideasted principles asnd (speakign  for myselfd) stress-tested different  forms  of token-based  consensus  to enforce our obnjectives  of having no clear  control persons above 10% voting weight (and minimal about the  Sectiion 13(d) orr 8(a)(iv) coide A  requirements).   And , for  clarity, those rsuch "persons "" may just be public keyts  connected  to  an online psudhonomy,  although (since the  DUNA could be the sle ownership entity) I think the larger  challenge comes  in drawing a l ine bteween "involvvement  in trrasnfer ragent  functions" under  Exchange Act § 3(a)(25)(A–E) for    members who contribute to our open-source doebase.
+
+###  Community Helping Each Other
+
+- Structural adjustment inspiration here is the DUNA shields as DAO participation immunity to get on with work without worry of individual lawsuit liability.
+
+- _See_ platform releases with plenty of contributing username handles as upgrades happen together.
+
+- Edu as other community members that expertly explain complex items with grace using prudent [external posts](https://stellar.expert/blog/dilemma-stellar-contracts-state-expiration+partial-history-retention), [images](https://medium.com/stellar-community/daos-donts-1-the-dao-28a543eeb711), or [videos](https://www.youtube.com/playlist?list=PLWUFvhKuc_5u1sQsz-FAmRgFf9HEhyqj-). 🙌🏽
+
+- per `JS` at https://www.youtube.com/playlist?list=PL9SrRYIjnam2aIFOYuFj2jyGkaE7IQpFX
+
+- Tech talent / distributed office shops is Ex. 8.4
+
+### end (fold)
 
 
 
@@ -1094,26 +1122,20 @@ I care vvery deeepoly  about  investing. It is  my7  interpretaion  of perosnal 
  Please give us a chancce  to heal
 
 
-
-###  splacehodler
-
-tech  tgalentg  /  ditsteirbuted office shiops is  Ex.  8.4
-
-### end (fold)
-
 [Acccolades  b/c this was aweesome]
 
 Narrative starts with FAC as basiss for review on sentiments of possible sudden weather changes
 
-Existing work in 723 (later) extends to the investor protection points in re Acccount Recoveryt 
+Existing work in {{_infra_ note {{tim}} link 2 (later) extends to the investor protection points in re Acccount Recoveryt 
 
 becuase like lol ultimatley the goal  is creating  this awesome predicatbale pbeurcoracy o n our side that interlinks with the berorcratic investpr protections needed for relaible sagfertty
 
 
 
+governance implications from Exhibit 6.2.5 💡
+https://x.com/blocktransfer/status/1939364667455082630
 
-
-elI  hope staff  think abotu mjy proposals and let me know  in due  time relevant interprtetaions. I'll leave on  a  quote  i belive  the communtiy wsoudld appreciate. It  comes from  aa standdard  mathematical journeal related  to  arrecent acadmeic communtiy publication pending broaer publidc discussion, _available at_ https://arxiv.org/pdf/1905.05931.
+elI  hope staff  think abotu mjy proposals and let me know  in due  time relevant interprtetaions. I'll leave on  a  quote  i belive  the communtiy wsoudld appreciate. It  comes from  aa standdard  mathematical journeal related  to  arrecent acadmeic communtiy publication[^laweson] pending broaer publidc discussion, _available at_ https://arxiv.org/pdf/1905.05931.
 
 
 > The problem of ‘too central to fail’ can be addressed by reorganizing the underlying network topologies, while the problem of ‘too large to fail’ remains, at least to a certain extent. It is reasonable to conclude that for systemic risk-efficient allocations (i.e. the optimized networks) the individual systemic risk becomes more proportional to liabilities.
@@ -1122,67 +1144,87 @@ elI  hope staff  think abotu mjy proposals and let me know  in due  time relevan
 and efficient way to reduce systemic risk.
 
 
+
+[^laweson]: _See_ evidence-based ananloysi of DRS trenfds amongst issuers of interest ote hCommission  in detemining strucutral  integrtiry  of the hierarchal  DTC-based  National Market Systme, _available at_ https://dx.doi.org/10.2139/ssrn.5328867. This author was party to the govenrance idsucssion of Ex. 6.2.5, previopsuly detailed  as  a proactive  brianstomring session for a transfer-agent govenrenace body  surrounding aq  DRS seoly operated  by agents.  I'm  thankful  we have this new opooorpuntity for ikndsustry to opt-in  to increaasing services nadd reposnablitlies with some of hte brigfhtest retail minds  relfpresting American investor  intereests . IN discussion of the workk on our podcast, I found particualr concern  with the thinnning SIPC pool after the Silicon Valleycrashes, leaving a single bps.    
+ 
+  
+
 # Misc hrefs related to logging
 
+https://cdn.ymaws.com/stai.org/resource/resmgr/guidelines/sta_conversion_guidelines_ja.pdf  
 
-https://cdn.ymaws.com/stai.org/resource/resmgr/guidelines/sta_conversion_guidelines_ja.pdf
-ant te direct callout  from distinction  from https://stai.org/page/guidelines
+And the direct callout from distinction from https://stai.org/page/guidelines
 
-## menaingufl internal href into attchments folder
 
-https://drive.blocktransfer.com/b83hmf05972c82a1c4790990d79265601bc26/teams/b83hmf05972c82a1c4790990d79265601bc26/ws/cxghka6d40c183fa149d397b87e4f5f7bf261/folders/vecoi48005e08ebd747348b9621f6097c16a4
-
-https://drive.blocktransfer.com/folder/vecoi48005e08ebd747348b9621f6097c16a4
 
 ## log of past additions
 
-https://us-east-2.console.aws.amazon.com/cloudwatch/home?region=us-east-2#logsV2:log-groups/log-group/$252Faws$252Flambda$252FlegacyAddInvestor
+- https://us-east-2.console.aws.amazon.com/cloudwatch/home?region=us-east-2#logsV2:log-groups/log-group/$252Faws$252Flambda$252FlegacyAddInvestor
+- https://github.com/blocktransfer/syndicate-api/blob/782f524f836a4ccf7825a2e2cb6c5834a471a8fe/legacy/importFinalAccs.py#L46
 
-https://github.com/blocktransfer/syndicate-api/blob/782f524f836a4ccf7825a2e2cb6c5834a471a8fe/legacy/importFinalAccs.py#L46
+See also https://blocktransfer.com/compliance/team/legacy-investor-onboarding  
+See team portal setup prior mockup exhibit in FTIN thing from item 1 which is {n.28}  
+Retro comp @ agenda #13 is why I asked about payments in https://www.sec.gov/comments/sr-occ-2025-801/srocc2025801-598095-1737722.pdf#page=68 ¶ 23
 
+We want this on the public page for incoming procedures (TEAM)  
+Backline Response 1 note 10 introducing https://www.blocktransfer.com/blog/post/introducing-transfer-agent-depository with quote from SEC release "The transfer agent depository ("TAD") would replace the certificate with computerized stockowner lists... which would serve as both the issuer's stock records and the shareowner's evidence of ownership." as related to shredding use
 
+^ Quote is _Id._ see https://archive.org/details/fsec00unit at § III.A.3.F.  
+And then we can Id. that for the trifecta, citing the following from 42: a TAD "may have some long run promise, but it would seem to presuppose a highly integrated national computerized ‘book entry’ system which simply doesn't yet exist" according to one of the 145 banks responding to staff and Congressional inquiry.  
+Critically this was the introduction of the in IHS via "ownership of securities in the records of the issuer in other than the name of the beneficial owner of such securities" (from study name).
 
-See also https://blocktransfer.com/compliance/team/legacy-investor-onboarding
- See  team portal setup prior mockup exhibit in FTIN thing from item 1 which is {n.28}
-Retro comp @ agenda#13 is why iu asked about paymetns in https://www.sec.gov/comments/sr-occ-2025-801/srocc2025801-598095-1737722.pdf#page=68 ¶ 23
-
-WEANT THIS ON THE PUBLIC PAGE FOR INCOMING PROCEDURESD (TEAM)
-Backline Response 1 note  10 introducitn https://www.blocktransfer.com/blog/post/introducing-transfer-agent-depository  with qutoe  from SEC release "The transfer agent depository ("TAD") would replace the certificate with computerized stockowner lists... which would serve as both the issuer's stock records and the shareowner's evidence of ownership." as related  to shreedding  use
-^ quote I s  _Id._ serc https://archive.org/details/fsec00unit  at   § III.A.3.F.
-Adnthen we  can  Id. That  for the trifecta,  cuitiung the follwing  from 42:  a TAD "may have some long run promise, but it would seem to presuppose a highly integrated national computerized ‘book entry’ system which simply doesn't yet exist" according  to one of  the 145 banks  resposning to  staff and Congressikonal inquirtt.
-Criticallythis  was  the introduction  of  the in IHS via  "ownership of securities in the records of the issuer in other than the name of the beneficial owner of such securities" (from  study name)(
 
 ## other items outstanding
 
+- For decentralized bug bounty ethos, setup  for Gox:  This should implicate explicitly the guy that said he paid programmers XX hundred thousand dollars to try hacking bitcoin for someodd # months (unsucessfully obv.s, but emphasize the "genius" aspect implicit in the statements on found bugs, leading to all "back cdoors" already resovled). This leads into the "only gets better" - albiet that side must be tapered to focus on DTC - argument so key to framing mt. gox 
 
 https://github.com/JFWooten4/agenda/issues/15#issuecomment-3024711494
 https://github.com/JFWooten4/agenda/issues/7#issuecomment-2989720732
 (from response 5)
 
-defernce to nonbuilding on the light Augluiar touch already broecraticsally introucted: 
-Frame his intro (with TAR1 cross-ref note 95) as "easy  venture pitch" in re Chives convo after DUNA exhibit chat (cite !!~~// circa cCharleston) **reasonably abstained**^ ex 8.6
+Deference to nonbuilding on the light Angular touch already bureaucratically introduced: 
+Frame his intro (with TAR1 cross-ref note 95) as "easy venture pitch" in re Chives convo after DUNA exhibit chat (cite !!~~// circa Charleston) **reasonably abstained**^ ex 8.6
 
-and theyne we also ahve bpoth dir below  and  https://discord.com/channels/955819881989808128/1143956254016933920/1220504821589606453
+And then we also have both dir below and https://discord.com/channels/955819881989808128/1143956254016933920/1220504821589606453
 
-```
-re Laylor easy afforming account ID 
-users  didn't  expect the pace  infer IDss b/c they hav basically always away shame but nt so mcuh us to contrinuee/structure HREF to the dovelopment advertising promo with distrbtor acount 
-(repeat Response X good shoahrhelder intent)
+
 
 ```
-^trema individualk judgmentg effecieylesnerly 
+Re Laylor easy affirming account ID
+Users didn't expect the pace infer IDs because they have basically always away shame but not so much us to continue/structure HREF to the development advertising promo with distributor account
+(Repeat Response X good shareholder intent)
+
+```
+^Tammy individual judgment effectively
+
+
+#  Lingerings
+
+
+
+
+
+- we can do a fn deference  to the other staff outside the review committee who exmained :blockkchain TA" for any DEX insights
+  - this should be used carefully with an _Id._, to the X space at [timestamp politicking ask](https://x.com/whydrs/status/1958272783705592272)
+  - and some leftovers at https://github.com/WhyDRS/Taking-Stock/issues/35
+
+
+
+
+
+
 
 ###  on   the policy choiuce of issueing  to account IDs
 
 _See_ _supra_ § I.B.1.a
 
-broadly we h ave here the  conectikonA to automating through software and backend autonous  signature  verfifications
+Broadly we have here the connection to automating through software and backend autonomous signature verifications
 
-href EDGAR Letter § II.B.1.a
-^ p[rob needs  forma deifntional]
+Href EDGAR Letter § II.B.1.a  
+^ Prob needs formal definitional
+
+
+
+
 
  
-
-
-
-
