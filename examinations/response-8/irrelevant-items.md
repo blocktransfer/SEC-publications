@@ -28,4 +28,4 @@ And then we also have both dir below and https://discord.com/channels/9558198819
 
 - expansion of lost investor searching small biz implication on third call
 
-- 
+- STA migration crap
