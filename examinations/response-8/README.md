@@ -1104,14 +1104,15 @@ As communiated, WhyDRS is the first American Decentralized Unincorporated Nonpro
 
 Relevant  to hte  parent entoty  adddressing and search  items briefly  idsucssed, I speicifcally wrote out Filing ID to employ the same PhyscialAddress  service for mainintling interest n ot related  tog process.[^filingid] In case staff aren't  familiar, DAO  laws allow participation  adn renumeration using only  public keys.[^17f2FN]  As an aside, the DAO report as my favorite reaching back in high school.
 
-This unnique vsituation with market-structure implications led  me  to writing  the text assicated  with TAR letter n.176,which  I understand  implicates  review u nder a FAC.  Staff can bring this up to the Parties whenever they'dd like, but I just wnat to say that iwoul;dn't be workign this hard if I didn't belive DA poses an immediate clear and present dangergiven  certain  warrents whic begin  trading on 7 Oc t  2025.
+This unnique vsituation with market-structure implications led  me  to writing  the text assicated  with TAR letter n.176,which  I understand  implicates  review u nder a FAC.  Staff can bring this up to the Parties whenever they'dd like, but I just wnat to say that iwoul;dn't be workign this hard if I didn't belive DA poses an immediate clear and present dangergiven  certain  warrents whic begin  trading on 7 Oc t  2025.[^family]
 
 
 
 
+canary 1st gme ref
 
 
-
+[^family]: https://x.com/JFWooten4/status/1964030067912089825
 
 
 [^cool]: _See generally_ a whole lot o f the problems staff wrestled with since suing Erik back rin the day form _supra_ note {{gnpa}}. As even  Genslar eadmitted in TAR leetter  n.121, the Commission has neverf  addressed the regulation of suchg a decentralized, uncontrollable, adn permanent  venuye. This was  a  challegne seven years  agom,  andd It will continue toh b e  a  challenge until  we start  working with  onle in communities that acutally care about investor protections above  nad beyond  ICO returns., This is  the only  onlien  communtiy  interestinged in launching a crypto token I've ever  seen that doesn not want economic  trading interests associated iwth theri  govenrementce  stakes, and I love it.  
