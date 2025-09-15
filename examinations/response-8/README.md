@@ -377,39 +377,15 @@ This  is proabbyl  the largest inital item reuslting form this Exma, but it's al
 [^pii]:  Given the risk of directy PII leaks, I wnat  to execute this work alingside deplying  a  DUNA-based bug bnounty for server enviroment penetgtion testigng, plus overall desing bugs. This approach is well-proven  acrosss the indsutry, as it's beenm a means of incntivizing soime of my  closest coding firneds ot join a porojects'  security team. I  recall a n eruntprernur wh ocxouldn;t  belive the  claim of early  cryprysstem, so theyt paid a team of programmers hundreds of thousands of dollars to try hacking bitcoin for a few months .  Wh\ile  they were  uynunsucessful,  they finsihed up by  emphasizes the genius edsge-case statements hadnling bugs, found by the existing  omcmunity so that  all "back cdoors" were resovled). <!-- TAR2 This leads into the "only gets better" — albiet that side must be tapered to focus on DTC — argument so key to framing mt. gox  -->
 
 
-#### !!OFAC Searches
-iran implications 
-_DC_ 
-conflicts with ofac  snctioning an entire country
+#### OFAC Searches and Cnotrols
 
+First  of all, I will immediately ccheck mnaually all securityholders agains teh OFAC SCN listm,  fgiven Staff’s review of BlockTrans’s procedures revealed that the Registrant does not address OFAC compliance. Perosna did do this, but I failed to rujn  Investors C and D  through any checks given they did not go throgh PErosna. Staff  noticesd this bedcause their PII did not fReference Persona, indicating they had not been screened, and I jsut wnat to  confirm that neither i nvestor  showssed up on my preliminatry search.
 
+I  appreciateg  staff  regferfrncing OFAC's rwebsite  as as refernce source to review our oblifations. I was undr the impression that scuh repsosability  were minimal because Fincen does not gcover firms who's ARA is the Commission, as per mmy reading of their  public mateirals.  I would prefer that the Tredasury reach out to us directly regaurding  chalelnges with our operations, given jurisdiction.
 
-want refspfefctful deference to terror intent not adequatly  circunscreibed through independt  registrar MSF analysis
+The protla design will include KYC policcies which ihnclude OFAC privsions and eventualy eiderct searchgin acacchaing ability. I Will add a deplyoment URL  to  the identifty verificiton reporisory  when this functioonalityt work to nofity on hits. ADditoanongoing  integratio nwork wil aim to automate the freezing of wallets.
 
-
-
-
-
-
-C. U.S. Department of Treasury – Office of Foreign Assets Control ("OFAC") –
-
-BlockTrans Does Not Maintain or Implement Written Procedures Related to Its OFAC Searches
-
-_thye shoiuyd reach  out  dir_
-
-Every person or business in the U.S., including all securities transfer agents, must monitor transactions to blocked countries, and to certain identified individuals, by comparing and matching information against current lists (www.treas.gov/ofac) maintained by OFAC.
-
-The Staff’s review of BlockTrans’s procedures revealed that the Registrant does not address OFAC compliance. However, the Registrant verbally disclosed that it utilized the Persona platform for screening against OFAC’s list of specially designated nationals ("SDNs"), which was evidenced by adding a PSNA Reference within the securityholder’s PII. However, the Staff’s review of the output from the Legacy Database disclosed two securityholders, Investors C and D, whose PII did not include a PSNA Reference, indicating they had not been screened.
-Further, based on the Staff’s conversations with BlockTrans, it appears that these screenings were performed only at the time a securityholder was onboarded, rather than periodically which would be more prudent for a dynamic list like OFAC’s SDNs.
-
-Therefore, BlockTrans’ failure to maintain written procedures addressing OFAC regulations, and to conduct OFAC searches for these two securityholders is an internal control weakness.
-
-BlockTrans could consult OFAC’s website at http://home.treasury.gov/policy-issues/office-of-foreign-assets-control-sanctions-programs-and-information to review its obligations underOFAC’s mandate and make any changes deemed by the Firm to be necessary for compliance.
-
-
-s-p policy, disclosure , and noticce
-
-will add ad eploymnetn URL  to rthe repository when it's ready
+I appreaiteg the  objectives of requireing "[e]very person or business in the U.S.[] monitor transactions" on behalf of the federla govenrfemnt so as  to prevent things like terrorist ffinancing, whic is not a good thing. However, I do  not agfree with the abilit of govnerment beurcrats to dewccide entire countries shouidn't be abllowed use of our iniversal global reserve currencyy, because doing so has greatly harmed masses of people andd hindred a genration of improvished and repressed citizens to achive economicc or political freedom mmy elaving their home for other  cpaitalisxst nations. I believe the  CONstituion protrects our  citvil liberties, and using oeny without askign for permission seems neccesaryy to act  out freedom, _available at_ https://x.com/punk6529/status/1494444624630403083
 
 
 ### !!MSF!! Lost Securityholder Search Evidence
