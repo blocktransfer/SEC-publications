@@ -254,6 +254,11 @@ The transaction itself w ill still  contain  a hash affirming a link  tgo iisanc
 
 This new approach w ill  not make i t possible  tog  create a new opearitonal Legacy  entry without  a corresponding  share issaucne on-chain, and  it does not jrequire changes  to the  code becuase itmpunt dfunctions  already use syhntasx for transaction hasing, _available at_ https://github.com/blocktransfer/py-TAD3-horizon/blob/def8aaa17338073afe871de5881a30e406ba3d3c/investors/legacy/importLegacyAccount.py#L40C27.  I wilklk keep  this c hange in mind whe n impemnetning  the  autoamted issuer  ocnenctions so tha   sharess are actually  ooutstanding if anmd when added  to the  legacy holdings entries,  to  the extens such  an opff-chain record will be allowed  by issuer template agreemtnes.,a The only  other  change  is procedeural in the  sense that shares must be issued before the Legafcy  etnry rather than the other wway around in the original implemention.
 
+Addditioanly, staff note that a review of the information maintained on the Legacy Database for Investor A disclosed that the data populating the "from" column (column J) reflected the Memo (HASH) from the transaction issuing another investor’s 300,000 shares. I wnnat  to clarify that this is becuase of hte old refercnne-by-issue-0hash  scheme, as the particiuarly  isseur email issuing to INvestor A also iissued  to this other investror in nthe smae  communciation. Going fortward  I will prevent data  mistakenly linking to differnt  investors' certificate detail by  porcessing any mutliple  issuances in seperate transactions.
+
+These transacctions may  sharfe a  cmmon memol (HASH) if the issuing basis, but  they will ahve unique transctiokn  hashses which are devrived  form much  mroe than jsut athe memo. It is genralyl a  better policy in  my mind anytway  to  deliver shares in nuique operations in the amoutns specvcified for each  invesotr, as then the certiifdacte  detial "blame" has direct individal accoutabitily. Mroevoeer, this increases the public transparnecy as to new  adiditonals of investors to a firm.
+
+
 
 
 ### Traditikonal Market Structure Parallel
@@ -446,10 +451,11 @@ in _The Psychology of Money_ by Morgan Housel:
 > 
 > There are books on economic cycles, trading strategies, and sector bets. But the most powerful and important book should be called _Shut Up And Wait_. It’s just one page with a long-term chart of economic growth.
 
-#### !!HASH duplicate on 4 --  promulgation of investor ffrom coming of age earlier in year
+
+Losti nvestor policy for minor taingollege [Issue]
 
 
-the Staff’s review of the information maintained on the Legacy Database for Investor A disclosed that the data populating the "from" column (column J) reflected the Memo (HASH) from the transaction issuing another investor’s 300,000 shares. As a result, it appears that this data was mistakenly linked to Investor A’s certificate detail.
+
 
 
 
@@ -462,7 +468,6 @@ expansion of physcianl notes from oru conversatoin as  to Digitization policy in
 
 
 
-#### Basis for Chives on --Retirement Accoutn s
 
 from the 'investor  communityt" dir definied in Response 1 § XVII.A.1 subsec  "Legacy Expectations v. Federal Minimums" whic h asks "Are physical addresses still relevant for a transfer agent which does not offer hard certificates?"
 
