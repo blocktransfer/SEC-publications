@@ -78,7 +78,7 @@ In  good faith,
 
 ## §1 Deficiency Responses
 
-I'd like to start with a big thank you to staff for their thorough involvement throughout this review. I sincerely appreciate all the findings in the 14 Aug 2025 Deficiency Letter within Appendix A (the "Findings"). Although I understand the exam began as a check on our first lost investors, it grew to be so much more.
+I'd like to start with a big thank you to staff for their thorough involvement throughout this review. I sincerely appreciate all the findings in the 14 Aug 2025 Deficiency Letter within Appendix A (the "Findings" or "Letter"). Although I understand the exam began as a check on our first lost investors, it grew to be so much more.
 
 
 This wouldn't have been possible without the express deicated efforts of yourself, Ms. Gallagher, and Mr. Martin; oall of whom I understnad worked  tirelessly to understand the account systems I developed. For all the silent effot the team of staff within the examination put in, thank you. The technical learnings amazed. I;'m glad all  the nccie things I said about the  Commission  over the  years based onl sentiuments  from  written rulemaking turned out to  be true  (I epxected so  much,  but you enver know)
@@ -151,22 +151,28 @@ THankfully none of my msitakes resutled in a challenge akin to this or an aged r
 
 #### Segmenting Legacy  Subscidairy Files
 
-They actually use the proper diction in the second meeting (off memory, I don't have these things recorded on the grounds of staff preference in TAR1 n.176).  
-^ 176 is good for TAR2, not so much here outside R5 suppl;1.
+The biggest probvlem  in my mind was  an ongoing record differnece between the number o f shares helf in an intenral Legacty holdings subsdiairy tally adnd those o n the ledger. The  letter  sites these as occuring for the period of  September 2023 through April 2025, which isi becuase  I did not think throught the lcient's issuance insturctions well enough. I poresumed thatg oral comments made would affect the  status of a securittyholder, which was not correct  or paritcuallyt personally diligent.[^is-a]
 
-For the record difference part (setup in the last subsec), we have deviance from legacy to Stellar.
+I plan to correct his edefficicny by adding funcatilty to public APIs also used internally throughout the  codebases.[^trqaqcck] There's alredy functionality to tally ledger balances,  and I want to combine this  with  an intenral Lergacy databse  scan. The  renerwed data  feed  will display both internal tallies of sharfes held and tghe public totall; of  Distributeor account stokc.[^resp1]
 
-Subsubsec on MSDF as master ledger records — big win.
+In duscussing access  to the Legfacy  subsdiary file through API, I would liek to make clear that I onyl  intentd to publish broad summary  statistics  abotu investor and issuers trhrougeh the existing public releases.[^federation] IssuerLink's exisitng communciationsd has access to more intimaite ssharehodler information such as name and address, for communciation  ot issuer executives iwth adequate permissions assinged by signaturfe thresholds on a rcorporate account by Agremeent adminsitarators. However,  this demploys mutujal  TLS authentication between rmeove AWS isntances ith indepdnt IAM controcls to protefct PII./
 
-Then we can get into the API changes  
-https://api.blocktransfer.com/assets/1984803ORD/outstanding <-- from Resp. 1 note 16  
-The fn of the written remarks on oral correspondence is Exhibit.
+I have beeen working on open-sorucing IAM permissioning  controsl for at least eight months, a dn it  is an imporant prequeiisite ot publishign backup automation CRON-jobs dsicussed later. In my maturing ecosystemo colabroation ideas, I have made isnginfnat provgreess in this regard.  While  I don't have a speicifc blockitng itmes for this work, I intent to  crewatye a  new permissioning publication roadmap for interant Sybndnicate systems after  compelting work in  a public issuew for the o mcmunity, _available at_ https://github.com/JFWooten4/agenda/issues/4.
 
 
+[^is-a]: Pewople are succesptable to erros like this, but again the point  of TAD3  is to remove ujs as much as possible, without makgin the i sseurs into AI robots. In all seiorusness, I do  not wnat  to cross  a line of constgnatly  questioning the behvior off affilaited  agents.  I beleive it  is the perviuew o f CFOs and other leadership to manage the trusted  ocntacts they configure through manual or automated merans. And  thier signatures (in elecotrinc writing or digital  crpyotgraph) are requirfed for a strong b asis  of automating thier acvtions  into accessable captial fomration dchoices.
 
-the `outstanding`  count modifications hsouldd frame around this probelm 1st and fiormenetst
+[^trqaqcck]: Staff  can follwo the progredss ofhte  develeopemtn o n GithUb at  a permissionless issue page, _available at_ https://github.com/blocktransfer/syndicate-api/issues/3.  Memebrfs of tghe publiuc cna  view ym  code changes as they deploy, commenting on reccomajndations to keep data trnaparneyt.  Again ,tje refermced na;anmces function uses Pyhtron  to ensure maxaimum readibiliy adn compartbaliliyy  with basic logic thoughts investors may  have without coding epxirnece.  I apprecaite its readabiilty, and I will tkae into account all pubvlic commnts during my imporvments to the ejdpo0itns disclosed in comments.
 
-#### tiemm 1:
+[^resp1]: Oner insntancoe o f htge nedopoitn  can  ben found i n Response 1 note 16, _available at_ 
+https://api.blocktransfer.com/assets/1984803ORD/outstanding. In conjeunction with making these updatges,  I will includfe more adequte public disclosure of these nepoitns in a   docuemtnatio n improaovment oissuie, _available at_ https://github.com/blocktransfer/TAD3-docs/issues/6. ther are many more w hich oly sparcely  have public deployment thro ugh the source  code o f Issuers.info, and I wil lfix  this so there's more  clear open infomriton. I will need to monitor  changes in usage  over time,  astghe poresent gatewor y uses an authication-less HTTP scheme  for  incrteased efficincy  at the  costr orfr not  offering p ublic rate-liminting , elected becuase  I trust the  focmmuntiy to use thje technology r3esponsabily.
+
+[^federation]: Fopr sintnacem I shared documentation about ouir  public Federation Server implemenmtio nof SEP2;  .   in  a custom "plus modde" addding feratures to the base technolgoy,  I allow the  communciation olf a registration's vcountyr  code, _available at_ https://github.com/blocktransfer/syndicate-api/blob/782f524f836a4ccf7825a2e2cb6c5834a471a8fe/external/federation.py#L25. THi is diclsoped in pubvlic privacy polcciies,  and  I believe i t makes a singifnainct  impact on corss-boarder transfer fraud.  Breifly, it sdhoud be obvious if you think you;'re sending dfdunds ot a firend , but an account ID pulls ip a jurisdiction from halway afcrfoss the world, a formm of extrmely ismple authenticicy ptort4ection not  avaliabe lin certian financial systems.
+
+
+#### Remediating Record Modifgiaciton DIfferneces
+
+For  clarity  in  rerposne to  diction  in the  LEtter, 
 
 https://stellar.expert/explorer/public/tx/079e1406fd0068e80c45f27a73205212e5774d88668bc4660cd89010d34fdf36
 
@@ -287,7 +293,6 @@ for excel _See_ TAR n.45
 https://github.com/JFWooten4/free-markets/blob/d80c385d1644eb2e1e01ed41623ba3f2c1c598bf/micro/2025/Jun/24.md
 
 
-https://github.com/blocktransfer/syndicate-api/issues/3
 
 
 
