@@ -125,19 +125,13 @@ These functions, and the ownerwship of arbitrary securtiies asssets within, ar e
 
 ####  Prompt Certificate Detial Posting
 
-[^fna]
+Our sgignature gaurnees[^fna] aim to automate as much shareholder interaiotn  as possible.  Itr rleaies o n  the  seucritry and integrity of the ledger, without  us as  a central recordkeepper with actice  control over balance maintience. While we do have oversight functions communciated to  control records , TAD3's desinged o trequire minimal unoivmeent outside corporatge  acitons.
 
-i nee to get across the lac o centraal contros over balance mmaintence/records
-
-
-
-
-During  out second meeting, staff kindly reminded me of the acccurate  debit a nd ctredit update requirements[^ad10-1] ewith agent-bnased turnaround times.[^ad10-2]
+This meanss minimal human involvement  outside oversight  functions like issues origined by staff,  courts with jurisdcition, or issuerf onabording. [^pendingle] During  out second meeting, staff kindly reminded me of the acccurate  debit a nd ctredit update requirements[^ad10-1] ewith agent-bnased turnaround times.[^ad10-2]
 
 
 
 
-      (I have also removed teh `PENDING ` flag in re "digging a deeper hole" senitments form Meeting 2)
 
 then we can come in and save hte solution with new decentralizedd asttestations
 
@@ -151,21 +145,12 @@ https://github.com/WhyDRS/SEC-Comments/issues/10#issuecomment-2467020278
 
 as different parts of szad10
 
-[^ad10-1]: _See_ 17 CFR § 240.17Ad-10(a). The findings cite subpart (1), which has the specific diction between different rifle records explored _infra_ § {{SUBSEC for the subsidiary file}}. I think our open systems alleviate coordination concerns between interlinked service companies through a unified ledger.  
-^  
-See if we can get a citation on this TODO.
-
-[^ad10-2]: _Id._ at subpart (2). While our status was communicated in Response 1 § XII, I find the different processing times intellectually interesting. While outside the scope of this review, I contest the batch processing systems and differentiation of fund agents (in this and other circumstances) from standard agents (including those handling SPACs) of subparagraph (ii) and clause (B).
-
 
 
 
 I appraccie tthat the rule applies equally to all agents  while prviding the flexbility of additional information 17Ad-9(a)(8)
 
 17 CFR § 240.17Ad-9
-^ should have a fn forthhis as static ref
-https://www.law.cornell.edu/cfr/text/17/240.17Ad-9
-
 
 
 
@@ -1170,4 +1155,11 @@ Users didn't expect the pace infer IDs because they have basically always away s
 
 
 
-[^fna]: Respoinse 1 § XIV.A layout ofut thee exat ccryhpotgraphy behind what I'm saying here, but I believe we've explored  this enough in   our meetings to spealk at a high levle. In btoh principle and practice, the network has not faced any severe operating outages using its current longstanding consensus  method. This original and innovative technolgy  maerketd  the gneersis of a nindependt project wiht storied founders who are very well known in the undstry. To the extne relevant, all  these years have placed immense tstgrains and s treess-stests o n th eldger, and it's alwayas kept up witgh tthe needs of immense activity, as shown by rteal-wrold useage and transaction thoughptut which is presently expadnig, _available at_ 
+[^fna]: Respoinse 1 § XIV.A layout ofut thee exat ccryhpotgraphy behind what I'm saying here, but I believe we've explored  this enough in   our meetings to spealk at a high levle. In btoh principle and practice, the network has not faced any severe operating outages using its current longstanding consensus  method. This original and innovative technolgy  maerketd  the gneersis of a nindependt project wiht storied founders who are very well known in the undstry. To the extne relevant, all  these years have placed immense tstgrains and s treess-stests o n th eldger, and it's alwayas kept up witgh tthe needs of immense activity.
+
+[^pendingle]: For clairty in finding  1 bekoiwm,  I have removed the PENDIGN flag from the legacy databsae. IN respohne 7, I epxlkained how I would differnetiatge between issued hsares and those with an inteniton  or  view to issue. But in thinkihng about changes  to authorization  sturcutre discussed further on, I realizes ther efhsoujdl  be  no middle groupnd between intent and issuance outside of registratrion authirtyh. Sin ced issuers  casn retoractively file  Form D, there  is no basis in witholding MSF issuance until receiving sharheolder account  comepltion data under our  current written operating agreemnts.
+
+
+[^ad10-1]: _See_ 17 CFR § 240.17Ad-10(a). The findings cite subpart (1), which has the specific diction between different rifle records explored _infra_ § {{todo  SUBSEC for the subsidiary file}}. I think our open systems alleviate coordination concerns between interlinked service companies through a unified ledger.  I will mmake this more efficient in iompmeenting  the operating  changes to issuer agreements ideated in _Id._ 
+
+[^ad10-2]: _Id._ at subpart (2). While our status was communicated in Response 1 § XII, I find the different processing times intellectually interesting. While outside the scope of this review, I contest the batch processing systems and differentiation of fund agents (in this and other circumstances) from standard agents (including those handling SPACs) of subparagraph (ii) and clause (B). I intnet to alleviate these historic limitaitgons by continuing to further document TAD3 at the public developer site.
