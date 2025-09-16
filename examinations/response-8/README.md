@@ -391,7 +391,7 @@ The reform agenda changes dropped rulemaking proposing new cybersecurity oversig
 
 I share this quote from Jerry[^aadversarial] because I believe wholeheartedly that we can achieve the due and necessary increased cyber protections Americans need more efficiently with the open-source principles shared regarding an investor identity verification software. I have adopted these working principles in all that I do, as shown, for example, by the crafting of this entire response on GitHub, _available at_ https://github.com/blocktransfer/SEC-publications. Might a recognition of this differentiated working path help us prevent catastrophes like the eight-figure Russian MNPI hack from EDGAR letter § II.B.1.a?
 
-<img width="600" alt="exchange-types" src="imgs/software-license.png">
+<p align="center"><img width="600" alt="exchange-types" src="imgs/software-license.png"></p>
 
 What I'm getting at has been deeply intertwined with my Examination responses since citing community sentiments in Response 3 note 11. It's a decision to decentralize control and economic benefit from a select corporation or association of intermediaries, in favor of investor quality. We face a paramount decision as to the Commission's immediate response to DA's "tokenized securities," framed within our circles[^bob-meme] as very distinct paths for investors and the future of law.
 
@@ -448,7 +448,7 @@ This drive led me to begin all this work because I just don't stand the clear fl
 
 I just disagree with large swaths of their business practices, and so I decided to find technologies that let the market obviate their roles. Gensler jokes about how you'd need to re-engineer the whole market system to truly implement blockchain, in his first MIT OpenCourseWare class. I've referenced that so many times in DUNA discussions because I heard those words and just spent years looking into the "why not" side.
 
-<img width="560" alt="test-rigging" src="imgs/first-release.png">
+<p align="center"><img width="560" alt="test-rigging" src="imgs/first-release.png"></p>
 
 I just don't see a good reason the world needs to run everything on their antiquated railroad, so to speak. And that's why I laid out these primitive controls for a machine I will endeavor to its limits while growing towards my core objective to facilitate decentralized exchange in PREV § II.B.2. It will take much practice to get steering the different aspects down perfect, which is why I appreciate your help.
 
@@ -522,7 +522,7 @@ Rule 78q(f)(1)(A) clearly refers to all securities, which include any uncertific
 
 As cited _supra_ note 65, 37,347,572 shares of Bed Bath & Beyond, Inc. had no basis in lawful issuance on the corporate register, but they appeared in Cede & Co.'s account resulting in voided claims when reconciled. Moreover, customer accounts and circulated in DTC's system held 12,370,657 shares of Dole Food Company, Inc. in excess of authorized shares outstanding, which were treated as counterfeit equivalents in a class action. _See also_ TAR letter n.19 where the treasuries from Lehman customers were effectively stolen as their property was diverted to satisfy secured creditors, even though the beneficial owners thought they still controlled those securities; again, not reported.
 
-<img width="600" alt="f111-story" src="imgs/fighter-pilots.png">
+<p align="center"><img width="600" alt="f111-story" src="imgs/fighter-pilots.png"></p>
 
 I've sincerely appreciated "navigating e" efforts from the staff and my Dad over the years, helping me see the fraud of DTCC for what it is.[^cede] Behind us in this photo is an F-111, the plane my grandpa from PREV spent most of his time flying in the Strategic Air Command. He trained and practiced for years on years to fly the main nuclear bomb carriage in the fuselage directly into the heart of Russia's CPSU.
 
@@ -576,7 +576,7 @@ Part of this whole concept is that there is no addressable "principal office whe
 
 Notwithstanding this and additional comments, discussions with the Registrant revealed that the 99 Wall Street address is the location of a virtual business address service that receives/handles mail for clients, and BlockTrans does not maintain any personnel here. This is true, and I have changed the line-3 physical location of the Firm as requested.[^ta-upodt] Reflectively, there is nothing special about my person as an operator of most ledgered balances maintained in TAD3, given particularly that the Syndicate does not maintain any validator infrastructure based on the work needed to affirm independent exchange protocol order submissions communicated in our last meeting.
 
-<img width="450" alt="street-shot" src="imgs/new-york.png">
+<p align="center"><img width="550" alt="street-shot" src="imgs/new-york.png"></p>
 
 Anyone can self-elect to become a member of the DUNA parent, just as anyone can use the public infrastructure in front of the mail processing facility to capture its stoney exterior. But there is a very stark difference between the insides of mail rooms and distributed ledgering and communication tools based on collaborative immutable tracking.[^apopendonly] I can best exemplify this principle with the split riptrack rail in _supra_ § II.C.1.b. <!-- response 9 backref for bessemer explorations from transfer table -->
 
