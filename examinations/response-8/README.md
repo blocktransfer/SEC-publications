@@ -1,18 +1,16 @@
 ```
-extends: Response #6 <-- actually important for the cross-ref refferal to backlink, even if a placeholder we need to establihs and communitye te URL SCheme
+extends: Response #6
 publish: 15 Sep 2025
 announcements:
   - findings: https://x.com/blocktransfer/status/1956349988889366676
   - completion: 
 ```
 
-# [compile](https://writer.zoho.com/writer/open/a1vvyeef50b7575f84f1d846559dc867d2845)
-
 # Introduction
 
 ## Letterhead
 
-Our Document Request Response #6 ("PREV") incorporated by reference in toto.
+Our Document Request [Response #6](https://workdrive.zohoexternal.com/writer/open/ipnmaa99a9d4240f34ead8ee5ef4e74166627) ("PREV") incorporated by reference in toto.
 
 ## Addresee
 
@@ -32,32 +30,19 @@ New York, NY 10004-2616
 
 Dear Mr. Vitulano,
 
-CANNOT BUDGE  ON THIS JOHN
+This letter responds to the findings of our first Commission examination. This has been an exceptional experience, surrounded with clearly competent staff. Thank you for the support.
 
-Ex. 8.2,  a exhange with webb🤝
-nebulous
+At the start of the exam, I finished my third comment letter, which meant a lot to me. These last years I’ve worked with two exceptional industry advocates fighting tooth and nail for investor protections against settlement failures. I believe covered securities are far too contaminated.
 
-FAC statutory basis
-15 USC § 78q-1 (the "NMS Statute")
-subsection (f)
+Fails to settle are a plague that has hardened into a deadly sludge ready to freeze our American economy. I believe we need a root canal to remedy the nebulous offenders. Ex. 8.2 is an email
+exchange with Don Grande and David Rodgers Webb detailing the imminent inflection point.
 
-Federal Advisory  Committee ("FAC")
- which  ma y be at any "such times[] as the Commission may determine"  in (f)(4)
-
-I wnant _singular mention_ of "covered securities"
-
-
-#### singular pg.1 footnote:
-reg letter adn Don email suppl both quote the FAC _infra_ in 15 USC § 78q-1[^footnote]
-
-[^footnote]: sss
-
-the law requires more than notice  and  comment because changing  witgh the NMS  Statue _is_ more than notice nad ocmment simplicity. 
-
-
+Could a smart group of regulators get to the bottom of DTCC's new offering? The law requires more than notice and comment because a monopoly overhauling central clearing in the NMS _is_ more than notice-and-comment simplicity. As the agency changes, I hope it is a _bright_ new day.
 
 In  good faith,
 /s/John  Wooten
+
+[^footnote]: The Commission has a statutory basis to call a Federal Advisory Committee ("FAC") at "such times[] as the Commission may determine" in ¶ (f)(4) of 15 USC § 78q-1 (the "NMS Statute").
 
 # TOC
 
