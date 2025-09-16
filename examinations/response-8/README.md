@@ -3,7 +3,9 @@ extends: Response #6
 publish: 15 Sep 2025
 announcements:
   - findings: https://x.com/blocktransfer/status/1956349988889366676
-  - completion: 
+  - completion: https://x.com/JFWooten4/status/1967938734323613790
+  - discussion: https://x.com/whydrs/status/1958272783705592272
+PDF: https://wooten.link/response-8
 ```
 
 # Introduction
