@@ -13,7 +13,7 @@
 - [] Distributor comparison endpoint math [[Issue](https://github.com/blocktransfer/syndicate-api/issues/3)]
 - [] Public API gateway documentation [[Issue](https://github.com/blocktransfer/TAD3-docs/issues/6)]
 - [] Change Legacy reference to tx hash
-- [] Run OFAC check on all investors as immediate check (did the 2)
+- [x] Run OFAC check on all investors as immediate check (did the 2)
 - [] Lost investor policy for minor tailing college [[Issue](https://github.com/blocktransfer/website/issues/10)]
 
 # Medium
