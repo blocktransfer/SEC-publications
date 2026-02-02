@@ -1,6 +1,6 @@
 # Small
 
-- [] Continuing Laylor work
+- [x] Continuing Laylor work
   - Instruct Laylor to not have investors sent certs anymore
   - And direct any new investors to me by email (for onboarding)
     - User manual scheme laid out in ex. 3 if needed
