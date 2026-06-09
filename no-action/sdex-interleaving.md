@@ -1,12 +1,11 @@
-###  [src](https://discord.com/channels/897514728459468821/907476473739354153/1385106113287946274)
+### [src](https://discord.com/channels/897514728459468821/907476473739354153/1385106113287946274)
 
-most credit in thanks there to aJohan
+Most credit in thanks there to Johan
 
-s---- 
+---
 
+I think we can do a DRS poll on who wants to be in an SEC letter. Then we can have a fellow name to state publicly, with an anonymous redirect via payment path?
 
-I think we dacan do a DRS pol l on whe wantns to be in as  SEC letter. THen we can havve a pfelluu name to stateu pububllilyi ccc(with an anynmomnyse rerecceriercct [via path ppayimnet]?)
+I can footnote their name and say the background as to our acquaintance and their disposition as someone who is not a terrorist. But the important point we make is that they do not have a BT account, and I haven't seen their ID, etc.
 
-i acn footonte their name and say the backrofugnd as to our oaqunotiaunitnec and theri disposition as someneuo who is not a terrernist. but the impratntnt pantit twe make is the y do SOT haveu a BT account and i dhawenvt neseen thoir ID etc 
-
-so they triy thei inetrim rountig (we are going to need to beuld ion 144 form a LOT of the PREW fns to  get them awawy from thinknig im  propurisncg this in Sorobran)
+So they try the interim routing. We are going to need to build in 144 form a lot of the PREW FNs to get them away from thinking I'm proposing this in Sarbanes.
