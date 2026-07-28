@@ -1,0 +1,1 @@
+Depending on how tightly we couple the drafting workflows to any SEP-12 data. This will be further scoped out after the next DRS CAT comment. We only have this repo for now, and I want to see how tightly the Exam iterations tie into the final self-regulating proposition.
