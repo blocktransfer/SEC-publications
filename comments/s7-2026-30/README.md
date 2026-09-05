@@ -34,10 +34,10 @@ investigation of the practice of record
 ing the ownership of securities in the
 records of the issuer in other than the
 name of the beneficial owner of such
-securities" at 40 FR 48741 AA https://www.govinfo.gov/content/pkg/FR-1975-10-17/pdf/FR-1975-10-17.pdf#page=79
+securities" at [^start-TA-reg] 40 FR 48741 AA https://www.govinfo.gov/content/pkg/FR-1975-10-17/pdf/FR-1975-10-17.pdf#page=79
 
 and then CR is defined in PRe V
 
-
+[^start-TA-1977]: https://www.sec.gov/rules-regulations/1977/06/regulation-transfer-agents
 
 maaayyybbeb we ref the Prop as a "PR" [GOOD]
