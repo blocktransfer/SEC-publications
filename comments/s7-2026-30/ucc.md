@@ -10,6 +10,10 @@ Buffett gives the advice while describing Berkshire's 1981 shareholder-designate
 
 After formal IRS clarification, Buffett explains that a property law "did not cover participation by shareholders whose stock was registered in the name of nominees, such as brokers, and additionally required that the owners" certify ownership of their own assets.
 
+## 1975 Amendments — primary source
+
+Use the Statutes at Large text of the Securities Acts Amendments of 1975 as the primary reference: *Securities Acts Amendments of 1975*, Pub. L. No. 94-29, 89 Stat. 97 (1975), https://www.congress.gov/94/statute/STATUTE-89/STATUTE-89-Pg97.pdf.
+
 ---
 
 we can start the intr with th ebuffet queti dir src 81 lettre at startd of streent-name miriogn (setup the BASCI compare only doc to  Congress) and how he had th especigic prebolm of unrlaible voter identifificatn whirck still eisistl today
