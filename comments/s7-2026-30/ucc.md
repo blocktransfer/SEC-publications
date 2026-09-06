@@ -14,6 +14,10 @@ After formal IRS clarification, Buffett explains that a property law "did not co
 
 Use the Statutes at Large text of the Securities Acts Amendments of 1975 as the primary reference: *Securities Acts Amendments of 1975*, Pub. L. No. 94-29, 89 Stat. 97 (1975), https://www.congress.gov/94/statute/STATUTE-89/STATUTE-89-Pg97.pdf.
 
+### Sticky note
+
+Clean Federal Register link: https://www.govinfo.gov/content/pkg/FR-1977-01-21/pdf/FR-1977-01-21.pdf
+
 ---
 
 we can start the intr with th ebuffet queti dir src 81 lettre at startd of streent-name miriogn (setup the BASCI compare only doc to  Congress) and how he had th especigic prebolm of unrlaible voter identifificatn whirck still eisistl today
