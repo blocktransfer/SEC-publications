@@ -18,6 +18,10 @@ Use the Statutes at Large text of the Securities Acts Amendments of 1975 as the 
 
 Clean Federal Register link: https://www.govinfo.gov/content/pkg/FR-1977-01-21/pdf/FR-1977-01-21.pdf
 
+### Sticky note
+
+Connect the TA-1 principal office issue to C2.11.
+
 ---
 
 we can start the intr with th ebuffet queti dir src 81 lettre at startd of streent-name miriogn (setup the BASCI compare only doc to  Congress) and how he had th especigic prebolm of unrlaible voter identifificatn whirck still eisistl today
