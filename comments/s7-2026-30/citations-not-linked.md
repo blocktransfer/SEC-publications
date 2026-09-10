@@ -1,6 +1,11 @@
 # Citations which are not linked
 
-## Boni - Strategic fails
+## Boni - Strategic fails 
+
+final ver at least
+
+
+
 
 ## _Democratization of the Private Market_
 
@@ -13,3 +18,8 @@ She gets one direct citation and up to 3 Ibids as supra qjure diff rels.
 AA PREV n.147
 
 He gets a SINGLE ONE FOOTNOTE.
+
+
+## Mark Faulk
+
+he desereves and has prececedn in supra note [^GME-LI]
