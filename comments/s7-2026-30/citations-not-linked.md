@@ -5,6 +5,9 @@
 final ver at least
 
 
+The canonical reference URL is:
+https://doi.org/10.1016/j.finmar.2005.11.001
+
 
 
 ## _Democratization of the Private Market_
@@ -23,3 +26,5 @@ He gets a SINGLE ONE FOOTNOTE.
 ## Mark Faulk
 
 he desereves and has prececedn in supra note [^GME-LI]
+
+https://www.google.com/books/edition/The_Naked_Truth/ptxVznqimeQC
