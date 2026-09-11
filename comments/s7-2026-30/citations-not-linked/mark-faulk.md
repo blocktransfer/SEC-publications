@@ -1,29 +1,3 @@
-# Citations which are not linked
-
-## Boni - Strategic fails 
-
-final ver at least
-
-
-The canonical reference URL is:
-https://doi.org/10.1016/j.finmar.2005.11.001
-
-cite as supra https://www.sec.gov/files/rules/petitions/2025/4865-petn-001.pdf n.6 link 1
-
-
-## _Democratization of the Private Market_
-
-AA https://www.google.com/books/edition/The_Democratization_of_the_Private_Marke/E7u0zgEACAAJ
-
-She gets one direct citation and up to 3 Ibids as supra qjure diff rels.
-
-## _The Depository Trust Company_
-
-AA PREV n.147
-
-He gets a SINGLE ONE FOOTNOTE.
-
-
 ## Mark Faulk
 
 he desereves and has prececedn in supra note [^GME-LI]
@@ -71,4 +45,4 @@ https://www.google.com/books/edition/The_Naked_Truth/ptxVznqimeQC
 | **351**      |      372 | Faulk summarizes TAs as earning fees for tracking shares and issuing certificates as part of the penny-stock ecosystem.                                                                                                                                 | Possible economic-incentives point, but secondary commentary rather than proof.                                                                                                                            |
 | **392–393**  |  413–414 | Appendix H reproduces a Dvorak opinion saying a TA should issue **4 billion unrestricted shares** based on a purported 4 million-share purchase adjusted for a forward split.                                                                           | Very useful documentary example of the **attorney → issuer → transfer-agent issuance instruction chain**.                                                                                                  |
 | **395–396**  |  416–417 | Appendix I reproduces the Glenn letter to Helen Bagley/1st Global covering **55.5 billion shares**, concluding that the certificates need bear no restrictive legend.                                                                                   | **Extremely good exhibit** for discussing TA processing of legal opinions and legend removal.                                                                                                              |
-| **398**      |      419 | A chronology says the CMKX TA was “gagged” at management’s direction amid outstanding-share controversy.                                                                                                                                                | Another historical lead for the policy question of **issuer-controlled suppression of TA share-structure information**.                                                                                    |
+| **398**      |      419 | A chronology says the CMKX TA was “gagged” at management’s direction amid outstanding-share controversy.                                                                                | Another historical lead for the policy question of **issuer-controlled suppression of TA share-structure information**.                                                                                    |
