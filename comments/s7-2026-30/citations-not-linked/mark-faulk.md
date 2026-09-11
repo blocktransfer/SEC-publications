@@ -23,7 +23,9 @@ https://www.google.com/books/edition/The_Naked_Truth/ptxVznqimeQC
     - Relevant to **controls over legal opinions and issuance instructions**.                                                                                                                                    
 --
 
-and then the cert pull needs its own section bc that is our basis for 17 CFR 240.17Ad-20, adopted in 2004 at https://www.sec.gov/rules-regulations/2004/12/issuer-restrictions-or-prohibitions-ownership-securities-intermediaries
+## Ad-20
+
+and then the cert pull needs its own section bc that is our basis for 2004 at https://www.sec.gov/rules-regulations/2004/12/issuer-restrictions-or-prohibitions-ownership-securities-intermediaries
 
 ### ancils
 
