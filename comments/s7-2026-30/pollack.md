@@ -41,5 +41,3 @@ techinally over 14% of revwiewd B/Ds had "financial problems due to short-sale a
 ¶ 6
 
 17 calls short sales a position "with indefinite maturity"
-
-fn 33 "The Securities Markets , Twentieth Century Fund , Inc. , New York , New York , 1935 , p . 357" looks like a fun citaiton https://scispace.com/papers/the-security-markets-findings-and-recommendations-of-a-5ddcsrj48p //ancil
