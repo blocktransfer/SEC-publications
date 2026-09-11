@@ -12,7 +12,7 @@ which is google books at 270
  at 273 Reccomandatn s ¶ 3:
  > 3. A borrowing requirement for delivery in broker - dealer pro- prietary transactions should be adopted.
 
-at 275 ( which is the 6th page of the repot -- which is XXXX pages):
+at 275 ( which is the 6th page of the repot -- which is XXXX-270 pages):
 > While the CNS system, by settling net with brokers on a continuous basis, has substantially increased the efficiency of the clearing process, the unlimited mark-to-the-market procedures also permit brokers to postpone delivery indefinitely, unless the purchasing broker initiates buy-in procedures. In the case of long sales of securities, there is a strong incentive to deliver, in that the customer is seeking payment and use of the funds and, under normal circumstances, there is no additional cost associated with prompt delivery. Similarly, when stock is available, stock loan rebates provide an incentive for delivery and settlement in short-sale transactions. However, when extensive short selling occurs, stock is not readily available and sometimes cannot be borrowed at all. In these cases, the incentive to deliver securities is substantially less, and there may be an incentive to avoid or postpone delivery. The seller must incur a borrowing cost if the securities are available. The purchasing broker, who is holding customer funds in the form of a fail to receive, has no strong incentive to demand delivery. Moreover, with the securities balance owed to the receiving broker by the clearing corporation counted as the equivalent of a fail to receive less than 30 days old, SEC Rule 15c3-3 — the customer protection rule — does not require a buy-in after 30 days.
 (the Rule 15c3-3(d)(2) 30-day clock)
 
@@ -40,3 +40,6 @@ techinally over 14% of revwiewd B/Ds had "financial problems due to short-sale a
 > Only one of the seven broker - dealers reviewed showed evidence of any financial problems due to short-sale activities.
 ¶ 6
 
+17 calls short sales a position "with indefinite maturity"
+
+fn 33 "The Securities Markets , Twentieth Century Fund , Inc. , New York , New York , 1935 , p . 357" looks like a fun citaiton https://scispace.com/papers/the-security-markets-findings-and-recommendations-of-a-5ddcsrj48p //ancil
