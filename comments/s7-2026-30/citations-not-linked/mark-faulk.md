@@ -21,7 +21,7 @@ https://www.google.com/books/edition/The_Naked_Truth/ptxVznqimeQC
 staff investement basiss ishoewn in teh inintal alj judemente which led to deregistraitn 
 https://www.sec.gov/files/litigation/aljdec/id291bpm.pdf
 
-shoeld ref the PR At https://web.archive.org/web/20040605215150/http://www.casavantmining.com/news.html which instros Glenn:
+shoeld ref the PR At https://web.archive.org/web/20040605215150/http://www.casavantmining.com/news.html which instros Glenn: (needed as basisi te extraple law firm and connects to SEC EXxamniner)
 By the time **D. Roger (Donald Roger) Glenn** became involved with CMKM in 2004, his verifiable credentials were substantial:
 * **Partner at Edwards & Angell LLP**, a large corporate law firm, working from its New York office. CMKM itself announced him as its **lead securities counsel**. ([AR15.com][1])
 * **More than 20 years of experience working with public companies** by June 2004, according to the contemporaneous CMKM announcement referencing his Edwards & Angell biography. ([AR15.com][1])
@@ -49,6 +49,18 @@ teh preblem is you can alwas find a lawer willing ot asy wheretewer, nad then it
 
 Edwards & Angell LLP was not named as a defendant in either the SEC’s CMKM civil case or the related criminal indictment
 
+they go on to say that
+> We have examined such certificates, certified
+copies of organizational and governance documents, certificates of good standing, certifications
+of factual matters, company resolutions and other records, pertinent documents and instruments,
+and have investigated such other matters of law and fact, as we have deemod necessary for the
+purpose of rendering the opinions set forth herein. We have assumed that (i) all signatures are
+genuine, (ii) all documents submitted to us as originals arc authentic, (iii) all documents
+submitted to us as copies conform with the originals of those documents, (iv) all documents
+examined by us are accurate and complete, (v) all public records 2nd documents have been
+properly filed and indexed and are complete and accurate, and (vi) all laws, ordinances and
+regulations have been duly and validly issued.
+same page
 
 and here's the kicker:
 
