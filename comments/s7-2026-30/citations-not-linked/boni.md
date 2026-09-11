@@ -8,6 +8,7 @@ https://doi.org/10.1016/j.finmar.2005.11.001
 
 cite as supra https://www.sec.gov/files/rules/petitions/2025/4865-petn-001.pdf n.6 link 1
 
+---
 
 there is a worknig apopr https://www.buyins.com/news/FailsPaperNov2004.pdf bit 
 
