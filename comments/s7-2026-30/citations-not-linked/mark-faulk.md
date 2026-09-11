@@ -19,7 +19,8 @@ https://www.google.com/books/edition/The_Naked_Truth/ptxVznqimeQC
 # Very important - Ad-31
 
 staff investement basiss ishoewn in teh inintal alj judemente which led to deregistraitn 
-https://www.sec.gov/enforcement-litigation/administrative-law-judges-decisions/291
+https://www.sec.gov/files/litigation/aljdec/id291bpm.pdf
+
 shoeld ref the PR At https://web.archive.org/web/20040605215150/http://www.casavantmining.com/news.html which instros Glenn:
 By the time **D. Roger (Donald Roger) Glenn** became involved with CMKM in 2004, his verifiable credentials were substantial:
 * **Partner at Edwards & Angell LLP**, a large corporate law firm, working from its New York office. CMKM itself announced him as its **lead securities counsel**. ([AR15.com][1])
