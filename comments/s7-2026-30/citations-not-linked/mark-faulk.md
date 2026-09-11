@@ -71,3 +71,6 @@ the opininon lotter staets that the CEO's borcher in law "should be issued 4 Bil
 then there is sec2 at https://www.sec.gov/files/litigation/admin/2012/34-66157.pdf romeving Bagley/1st as TA registiran (they were the Dvorak agent) the problem here is th ey use the USDC of Nevadad as basis rathr than having their own authiry cited. Atsotengrer 31 with TA review of Opinoino would give a dierct means to ensue such admininstive preoodenigs independly
 
 after sec1 is summary judgumnt at https://www.courtlistener.com/docket/4316445/181/securities-and-exchange-commission-v-cmkm-diamonds-inc (I LOVE this formatting and will use this instead of thearhive.org links for all courtliner docs)
+"Dovrak, an attorney retained by defendant CMKM, wrote approximately 440
+opinion letters to stock transfer agents justifying the issuance of unrestricted CMKM stock by
+falsely claiming that the stocks were subject to a statutory exemption."
