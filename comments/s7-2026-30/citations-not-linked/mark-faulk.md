@@ -53,11 +53,11 @@ they go on to say that
 > We have examined such certificates, certified
 copies of organizational and governance documents, certificates of good standing, certifications
 of factual matters, company resolutions and other records, pertinent documents and instruments,
-and have investigated such other matters of law and fact, as we have deemod necessary for the
+and have investigated such other matters of law and fact, as we have deemed necessary for the
 purpose of rendering the opinions set forth herein. We have assumed that (i) all signatures are
-genuine, (ii) all documents submitted to us as originals arc authentic, (iii) all documents
+genuine, (ii) all documents submitted to us as originals are authentic, (iii) all documents
 submitted to us as copies conform with the originals of those documents, (iv) all documents
-examined by us are accurate and complete, (v) all public records 2nd documents have been
+examined by us are accurate and complete, (v) all public records and documents have been
 properly filed and indexed and are complete and accurate, and (vi) all laws, ordinances and
 regulations have been duly and validly issued.
 same page
