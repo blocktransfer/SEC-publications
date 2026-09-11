@@ -1,0 +1,1 @@
+Pollack sets up insider trading in https://test.sechistorical.org/collection/oral-histories/20020116_Pollack_Irving_T.pdf#page=21 (SEC v. Texas Gulf Sulphur ~@https://demo.sechistorical.org/collection/papers/2000/2002_0925_enforcementHistory.pdf)
