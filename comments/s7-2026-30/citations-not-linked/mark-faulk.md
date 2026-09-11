@@ -17,6 +17,8 @@ https://www.google.com/books/edition/The_Naked_Truth/ptxVznqimeQC
     - Extremely relevant: TA records determined the **shareholder-of-record count affecting Exchange Act reporting status**.                                                                                     |
 
 
+and then the cert pull needs its own section bc that is our basis for 17 CFR 240.17Ad-20, adopted in 2004 at https://www.sec.gov/rules-regulations/2004/12/issuer-restrictions-or-prohibitions-ownership-securities-intermediaries
+
 -*-*-*-*-
 -*-*-*-*-
 
