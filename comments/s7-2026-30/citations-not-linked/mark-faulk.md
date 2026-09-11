@@ -18,6 +18,8 @@ https://www.google.com/books/edition/The_Naked_Truth/ptxVznqimeQC
 
 # Very important - Ad-31
 
+staff investement basiss ishoewn in teh inintal alj judemente which led to deregistraitn 
+
 - **280** / 301
   - Faulk says a Dvorak opinion-letter calculation caused billions of extra shares to be issued and that Bagley/1st Global did not catch the error.
     - Relevant to **controls over legal opinions and issuance instructions**.                                                                                                                                    
@@ -25,6 +27,24 @@ https://www.google.com/books/edition/The_Naked_Truth/ptxVznqimeQC
   - SEC allegations say 1st Global and Bagley issued stacks of certificates without restrictive legends based on faulty written authorizations/opinion letters.
     - Excellent primary-source lead for **TA gatekeeper duties and reliance on legal opinions**.                                                                                                                 
 - 326 (below) continues this and it woeld baiscally need 
+
+- 395–396 (416–417)
+  - Appendix I reproduces the Glenn letter to Helen Bagley/1st Global covering **55.5 billion shares**, concluding that the certificates need bear no restrictive legend.
+
+^^
+this is a secord indepnened law firm which at 396:
+> We have also relied upon the Company's representation that none of the Shareholders is an affiliate of the Company or has been an affiliate at any time during the preceding 90 days. 
+
+teh preblem is you can alwas find a lawer willing ot asy wheretewer, nad then it comes down to basically what the c-suite says. soo why not just engage the csuiet in the firnst place
+
+Edwards & Angell LLP was not named as a defendant in either the SEC’s CMKM civil case or the related criminal indictment
+
+
+and here's the kicker:
+
+“In June 2004, Bagley requested that Dvorak’s opinions be confirmed by Edwards & Angelí LLP... because she was not comfortable with Dvorak’s letters.”
+ — https://www.courtlistener.com/opinion/1040325/securities-exchange-commission-v-cmkm-diamonds-inc at n.4's accompanying texkt
+
 
 ## Ad-20
 
@@ -63,7 +83,6 @@ that sets up the worthless security RH form as 'rpermissison for TA procedure' (
 | **348**      |      369 | Faulk notes that PCBM and CMKX shared the same TA, Helen Bagley/1st Global.                                                                                                                                                                             | Relevant to **repeat gatekeepers / affiliated fraud networks**, but this is the author's inference.                                                                                                        |
 | **351**      |      372 | Faulk summarizes TAs as earning fees for tracking shares and issuing certificates as part of the penny-stock ecosystem.                                                                                                                                 | Possible economic-incentives point, but secondary commentary rather than proof.                                                                                                                            |
 | **392–393**  |  413–414 | Appendix H reproduces a Dvorak opinion saying a TA should issue **4 billion unrestricted shares** based on a purported 4 million-share purchase adjusted for a forward split.                                                                           | Very useful documentary example of the **attorney → issuer → transfer-agent issuance instruction chain**.                                                                                                  |
-| **395–396**  |  416–417 | Appendix I reproduces the Glenn letter to Helen Bagley/1st Global covering **55.5 billion shares**, concluding that the certificates need bear no restrictive legend.                                                                                   | **Extremely good exhibit** for discussing TA processing of legal opinions and legend removal.                                                                                                              |
 | **398**      |      419 | A chronology says the CMKX TA was “gagged” at management’s direction amid outstanding-share controversy.                                                                                                                                                | Another historical lead for the policy question of **issuer-controlled suppression of TA share-structure information**.                                                                                    |
 
 the opininon lotter staets that the CEO's borcher in law "should be issued 4 Billion shares without restrictive legend, as fully paid and non-assessable" based on a backdated and pmilrporly-pureporleted issue (cite https://www.sec.gov/files/litigation/complaints/2008/comp20519.pdf) this went to the agent who ignarred the faically-invalud 1000X math
