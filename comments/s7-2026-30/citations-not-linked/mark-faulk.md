@@ -19,6 +19,17 @@ https://www.google.com/books/edition/The_Naked_Truth/ptxVznqimeQC
 # Very important - Ad-31
 
 staff investement basiss ishoewn in teh inintal alj judemente which led to deregistraitn 
+https://www.sec.gov/enforcement-litigation/administrative-law-judges-decisions/291
+shoeld ref the PR At https://web.archive.org/web/20040605215150/http://www.casavantmining.com/news.html which instros Glenn:
+By the time **D. Roger (Donald Roger) Glenn** became involved with CMKM in 2004, his verifiable credentials were substantial:
+* **Partner at Edwards & Angell LLP**, a large corporate law firm, working from its New York office. CMKM itself announced him as its **lead securities counsel**. ([AR15.com][1])
+* **More than 20 years of experience working with public companies** by June 2004, according to the contemporaneous CMKM announcement referencing his Edwards & Angell biography. ([AR15.com][1])
+* **Former SEC attorney.** Contemporary descriptions state that Glenn **began his legal career at the Securities and Exchange Commission**. That is particularly relevant because his later private practice centered on public-company/securities work. ([AR15.com][1])
+* **Public-company securities counsel.** SEC filings independently show him acting as Edwards & Angell counsel for reporting companies—for example, he was named counsel in Wellman, Inc.'s 2004 Form S-8, where Edwards & Angell supplied the securities-law opinion filed as Exhibit 5. https://www.sec.gov/Archives/edgar/data/812708/000095013504003347/b51022wisv8.htm / https://www.sec.gov/Archives/edgar/data/812708/000095013504003347/b51022wiexv5.txt
+* His work included **SEC reporting and registration matters**. CMKM specifically retained him to prepare the SEC reports necessary to try to return the company to OTC Bulletin Board quotation. 
+* He was a **New York attorney**; the New York State Bar Association's records later list Donald Roger Glenn among New York attorneys. ([New York State Bar Association - NYSBA][2])
+* He later practiced under **Glenn & Glenn**; as late as 2014, SEC correspondence was being copied to “D. Roger Glenn, Esq., Glenn & Glenn.” ([SEC][3])
+
 
 - **280** / 301
   - Faulk says a Dvorak opinion-letter calculation caused billions of extra shares to be issued and that Bagley/1st Global did not catch the error.
@@ -44,7 +55,9 @@ and here's the kicker:
 
 “In June 2004, Bagley requested that Dvorak’s opinions be confirmed by Edwards & Angelí LLP... because she was not comfortable with Dvorak’s letters.”
  — https://www.courtlistener.com/opinion/1040325/securities-exchange-commission-v-cmkm-diamonds-inc at n.4's accompanying texkt
+729 F.3d 1248, 1253–54 (9th Cir. 2013) opinion  (8th cir relied on)
 
+he was then operating https://web.archive.org/web/20040924051042/http://www.144opinionletters.com
 
 ## Ad-20
 
