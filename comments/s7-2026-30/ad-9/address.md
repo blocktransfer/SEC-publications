@@ -5,3 +5,5 @@ in a loose readnig tehy already are, even thoegh thoes conpects came docades aft
 
 SEC proposed Rule 17Ad-9 on October 15, 1982, in Exchange Act Release No. 34-19142, published at 47 FR 47289 (Oct. 25, 1982). The proposal described the required certificate detail as including the registered owner’s “name and address”—with no “physical,” “mailing,” or “residential” qualifier
 https://www.sec.gov/files/rules/final/1983/34-19860.pdf
+
+in its 2015 transfer-agent proposal, the Commission retrospectively described the old requirement as the registered owner’s address “which also appears on the face of the certificate
