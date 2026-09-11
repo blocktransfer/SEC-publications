@@ -70,6 +70,11 @@ and here's the kicker:
 
 he was then operating https://web.archive.org/web/20040924051042/http://www.144opinionletters.com
 
+finalyly, the 2010 indedtment sebstiaties th e hiding shares and hence neednig O/S pub'd
+1st Global has the records → CMKM announces move to Pacific → Pacific publicly gives out ~400B O/S → company IR attacks that number → Pacific is immediately removed → 1st Global is rehired → share structure remains undisclosed
+at https://www.sec.gov/divisions/enforce/claims/cmkmsupersedingindictment.pdf#page=27 line 21
+(this is waht  6days has been gottnig at)
+
 ## Ad-20
 
 and then the cert pull needs its own section bc that is our basis for 2004 at https://www.sec.gov/rules-regulations/2004/12/issuer-restrictions-or-prohibitions-ownership-securities-intermediaries
