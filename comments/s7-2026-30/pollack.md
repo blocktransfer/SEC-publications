@@ -41,3 +41,5 @@ techinally over 14% of revwiewd B/Ds had "financial problems due to short-sale a
 ¶ 6
 
 17 calls short sales a position "with indefinite maturity"
+
+"the SEC was re- quired to review all rules and regulations of exchanges for the purpose of elim- inating anti - competitive rules and regulations that were found not necessary " at 22 (291)
