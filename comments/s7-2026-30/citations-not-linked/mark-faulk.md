@@ -74,3 +74,4 @@ after sec1 is summary judgumnt at https://www.courtlistener.com/docket/4316445/1
 "Dovrak, an attorney retained by defendant CMKM, wrote approximately 440
 opinion letters to stock transfer agents justifying the issuance of unrestricted CMKM stock by
 falsely claiming that the stocks were subject to a statutory exemption."
+at 4
