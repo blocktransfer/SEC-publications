@@ -21,13 +21,16 @@ https://www.google.com/books/edition/The_Naked_Truth/ptxVznqimeQC
 - **280** / 301
   - Faulk says a Dvorak opinion-letter calculation caused billions of extra shares to be issued and that Bagley/1st Global did not catch the error.
     - Relevant to **controls over legal opinions and issuance instructions**.                                                                                                                                    
-- | **325** / 346
+   **325** / 346
   - SEC allegations say 1st Global and Bagley issued stacks of certificates without restrictive legends based on faulty written authorizations/opinion letters.
     - Excellent primary-source lead for **TA gatekeeper duties and reliance on legal opinions**.                                                                                                                 
+- 326 (below) continues this and it woeld baiscally need 
 
 ## Ad-20
 
 and then the cert pull needs its own section bc that is our basis for 2004 at https://www.sec.gov/rules-regulations/2004/12/issuer-restrictions-or-prohibitions-ownership-securities-intermediaries
+
+that sets up the worthless security RH form as 'rpermissison for TA procedure' (which if strongr would obviate)
 
 ### ancils
 
