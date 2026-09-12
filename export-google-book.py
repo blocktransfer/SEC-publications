@@ -19,11 +19,10 @@ MAX_PAGES = 500
 WRITE_WORKERS = 4
 
 # Navigation is intentionally simple: this reader reliably advances with
-# ArrowRight. Retry the same known-good action instead of guessing at buttons,
-# page fields, or alternate shortcuts.
-NAV_CHANGE_TIMEOUT = 8.0
-NAV_RETRIES = 5
-RENDER_SETTLE_SECONDS = 0.7
+# ArrowRight. Send exactly one keypress per captured page and observe the
+# fixed visible page rectangle before doing anything else.
+NAV_CHANGE_TIMEOUT = 30.0
+RENDER_SETTLE_SECONDS = 1.2
 
 OUT_DIR.mkdir(exist_ok=True)
 
@@ -266,34 +265,94 @@ def capture_page(page, verbose=False):
     return png, digest, tag, box
 
 
-def wait_for_page_change(page, old_digest, timeout=NAV_CHANGE_TIMEOUT):
-    """
-    Wait only until the rendered page differs from old_digest.
+def _clamp_clip_to_viewport(page, box):
+    """Clamp a page bounding box to the visible top-level viewport."""
+    if not box:
+        return None
 
-    The previous version demanded several identical screenshots after the page
-    changed. That made every page appear to be read repeatedly and slowed
-    navigation considerably.
+    viewport = page.viewport_size or {"width": 1800, "height": 2200}
+    vw = float(viewport["width"])
+    vh = float(viewport["height"])
+
+    x = max(0.0, float(box["x"]))
+    y = max(0.0, float(box["y"]))
+    right = min(vw, float(box["x"]) + float(box["width"]))
+    bottom = min(vh, float(box["y"]) + float(box["height"]))
+
+    width = right - x
+    height = bottom - y
+
+    if width < 50 or height < 50:
+        return None
+
+    # Stay a pixel inside the viewport to avoid Playwright clip rounding errors.
+    return {
+        "x": x,
+        "y": y,
+        "width": max(1.0, width - 1.0),
+        "height": max(1.0, height - 1.0),
+    }
+
+
+def visible_page_digest(page, box):
+    """Hash the pixels visibly occupying the current page rectangle.
+
+    This intentionally screenshots a FIXED viewport rectangle instead of
+    re-running find_page_element(). Google may briefly leave the old page in the
+    DOM during a turn, which made the old detector follow a stale element even
+    though the reader visibly advanced.
+    """
+    clip = _clamp_clip_to_viewport(page, box)
+    if clip is None:
+        return None
+
+    png = page.screenshot(
+        type="png",
+        clip=clip,
+        animations="disabled",
+        caret="hide",
+    )
+    return hashlib.sha256(png).hexdigest()
+
+
+def wait_for_visible_page_change(
+    page,
+    box,
+    old_visual_digest,
+    timeout=NAV_CHANGE_TIMEOUT,
+):
+    """Wait for the pixels in the old page rectangle to visibly change.
+
+    No navigation keys are sent here. Once ArrowRight has been pressed, this
+    function only observes. That prevents a delayed render from causing a
+    second keypress and a two-page skip.
     """
     deadline = time.monotonic() + timeout
 
     while time.monotonic() < deadline:
         try:
-            _, digest, _, _ = capture_page(page, verbose=False)
+            digest = visible_page_digest(page, box)
         except Exception:
             time.sleep(0.20)
             continue
 
-        if digest != old_digest:
+        if digest is not None and digest != old_visual_digest:
+            # The visible pixels have changed. Give Google's page renderer a
+            # little time to finish its transition before the next capture.
             time.sleep(RENDER_SETTLE_SECONDS)
             return True
 
-        time.sleep(0.35)
+        time.sleep(0.25)
 
     return False
 
 
-def focus_reader(page):
-    """Remove focus from text fields and click the rendered page."""
+def blur_reader_focus(page):
+    """Blur text fields without clicking the book page.
+
+    Clicking the page just to focus it can itself interact with the reader.
+    Playwright's keyboard event is enough once text-entry controls are blurred.
+    """
     for frame in page.frames:
         try:
             frame.evaluate(
@@ -305,43 +364,35 @@ def focus_reader(page):
         except Exception:
             pass
 
-    locator, _ = find_page_element(page)
-    if locator is not None:
-        try:
-            locator.click(position={"x": 20, "y": 20}, force=True)
-        except Exception:
-            pass
 
+def advance_page(page, old_box):
+    """Advance exactly one page with exactly one ArrowRight keypress."""
+    old_visual_digest = visible_page_digest(page, old_box)
+    if old_visual_digest is None:
+        print("    could not establish the visible page rectangle")
+        return False
 
-def advance_page(page, old_digest):
-    """Advance exactly one page using ArrowRight.
+    blur_reader_focus(page)
 
-    ArrowRight is the known-good control for this Google Play Books reader.
-    If Google drops focus or is still loading, refocus the rendered page and
-    retry the same key instead of switching to unrelated shortcuts.
-    """
-    for attempt in range(1, NAV_RETRIES + 1):
-        focus_reader(page)
+    try:
+        page.keyboard.press("ArrowRight")
+    except Exception as exc:
+        print(f"    ArrowRight failed to send: {exc}")
+        return False
 
-        try:
-            page.keyboard.press("ArrowRight")
-        except Exception as exc:
-            print(f"    ArrowRight failed to send: {exc}")
-            time.sleep(0.5)
-            continue
+    if wait_for_visible_page_change(
+        page,
+        old_box,
+        old_visual_digest,
+        timeout=NAV_CHANGE_TIMEOUT,
+    ):
+        print("    advanced with ArrowRight")
+        return True
 
-        if wait_for_page_change(
-            page, old_digest, timeout=NAV_CHANGE_TIMEOUT
-        ):
-            print(f"    advanced with ArrowRight (attempt {attempt})")
-            return True
-
-        print(
-            f"    no page change after ArrowRight "
-            f"(attempt {attempt}/{NAV_RETRIES})"
-        )
-        time.sleep(0.75)
-
+    print(
+        "    no visible page change detected after one ArrowRight; "
+        "stopping rather than sending another key and risking a skipped page"
+    )
     return False
 
 
@@ -465,7 +516,7 @@ def main():
                         f"{n:04d}: current reader page was already captured; "
                         "advancing without consuming an output number."
                     )
-                    if not advance_page(page, digest):
+                    if not advance_page(page, box):
                         print()
                         print(
                             "Could not advance past the duplicate page. "
@@ -489,7 +540,7 @@ def main():
                 else:
                     print(f"{n:04d}: → {filename}")
 
-                if not advance_page(page, digest):
+                if not advance_page(page, box):
                     print()
                     print(
                         f"Could not advance after capture {n}. "
