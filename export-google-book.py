@@ -1,24 +1,32 @@
 #!/usr/bin/env python3
 
 from pathlib import Path
+from concurrent.futures import ThreadPoolExecutor
+import argparse
 import hashlib
 import time
+
 import img2pdf
 from playwright.sync_api import sync_playwright
 
-URL = "https://play.google.com/books/reader?id=DaJvZJZP0ncC"
 
+URL = "https://play.google.com/books/reader?id=DaJvZJZP0ncC"
 OUT_DIR = Path("disclosure-corporate-ownership-pages")
 OUT_PDF = Path("Disclosure_of_Corporate_Ownership.pdf")
 PROFILE = Path(".google-books-browser")
 
 MAX_PAGES = 500
+WRITE_WORKERS = 4
+
+# Navigation is intentionally simple: this reader reliably advances with
+# ArrowRight. Retry the same known-good action instead of guessing at buttons,
+# page fields, or alternate shortcuts.
+NAV_CHANGE_TIMEOUT = 8.0
+NAV_RETRIES = 5
+RENDER_SETTLE_SECONDS = 0.7
 
 OUT_DIR.mkdir(exist_ok=True)
 
-# Google Play Books may render an Original Pages scan inside a nested frame
-# and may compose one page from multiple image/canvas/background-image tiles.
-# Search every frame and select the most page-like rendered surface.
 
 FIND_PAGE_CANDIDATE = r"""
 () => {
@@ -198,21 +206,13 @@ FIND_PAGE_CANDIDATE = r"""
 
 
 def find_page_element(page):
-    """
-    Search the main document AND every nested iframe for the
-    most page-like rendered element.
-    """
-
+    """Return the best page-like element from any frame."""
     best = None
 
     for frame_number, frame in enumerate(page.frames):
         try:
-            candidate = frame.evaluate(
-                FIND_PAGE_CANDIDATE
-            )
+            candidate = frame.evaluate(FIND_PAGE_CANDIDATE)
         except Exception:
-            # Cross-origin frames are normally accessible through
-            # Playwright, but ignore any frame that cannot execute.
             continue
 
         if not candidate:
@@ -221,143 +221,204 @@ def find_page_element(page):
         candidate["frame_number"] = frame_number
         candidate["frame_url"] = frame.url
 
-        if (
-            best is None or
-            candidate["score"] > best["info"]["score"]
-        ):
-            best = {
-                "frame": frame,
-                "info": candidate,
-            }
+        if best is None or candidate["score"] > best["info"]["score"]:
+            best = {"frame": frame, "info": candidate}
 
     if best is None:
         return None, None
 
     token = best["info"]["token"]
-
     locator = best["frame"].locator(
         f'[data-gbook-capture-target="{token}"]'
     )
-
     return locator, best["info"]
 
 
-def capture_page(page):
+def capture_page(page, verbose=False):
+    """Capture the currently rendered page element and return its PNG + digest."""
     locator, info = find_page_element(page)
 
     if locator is None:
-        print()
-        print("Frames visible to Playwright:")
-
+        print("\nFrames visible to Playwright:")
         for i, frame in enumerate(page.frames):
-            print(
-                f"  [{i}] "
-                f"{frame.url or '(no URL)'}"
-            )
-
+            print(f"  [{i}] {frame.url or '(no URL)'}")
         raise RuntimeError(
-            "Could not locate the rendered Google Books page "
-            "in any frame."
+            "Could not locate the rendered Google Books page in any frame."
         )
 
-    try:
-        locator.wait_for(
-            state="visible",
-            timeout=5000,
-        )
-
-        box = locator.bounding_box()
-
-        png = locator.screenshot(
-            type="png",
-            animations="disabled",
-            caret="hide",
-        )
-
-        tag = locator.evaluate(
-            "(el) => el.tagName"
-        )
-
-    except Exception as exc:
-        raise RuntimeError(
-            f"Found a candidate page but could not capture it: {exc}"
-        )
-
+    locator.wait_for(state="visible", timeout=5000)
+    box = locator.bounding_box()
+    png = locator.screenshot(
+        type="png",
+        animations="disabled",
+        caret="hide",
+    )
+    tag = locator.evaluate("(el) => el.tagName")
     digest = hashlib.sha256(png).hexdigest()
 
-    # Useful while we're figuring out Google's renderer.
-    print(
-        "    detected "
-        f"{tag} "
-        f"{info['width']:.0f}×{info['height']:.0f} "
-        f"in frame {info['frame_number']}"
-    )
+    if verbose:
+        print(
+            "    detected "
+            f"{tag} {info['width']:.0f}×{info['height']:.0f} "
+            f"in frame {info['frame_number']}"
+        )
 
     return png, digest, tag, box
 
 
-def wait_for_next_page(page, old_digest, timeout=15):
+def wait_for_page_change(page, old_digest, timeout=NAV_CHANGE_TIMEOUT):
     """
-    Wait until:
-      1. the rendered page changes; and
-      2. the new page remains identical across successive captures.
+    Wait only until the rendered page differs from old_digest.
 
-    This avoids saving an intermediate page-turn/loading frame.
+    The previous version demanded several identical screenshots after the page
+    changed. That made every page appear to be read repeatedly and slowed
+    navigation considerably.
     """
+    deadline = time.monotonic() + timeout
 
-    deadline = time.time() + timeout
-    changed = False
-    previous = None
-    stable_count = 0
-
-    while time.time() < deadline:
+    while time.monotonic() < deadline:
         try:
-            png, digest, tag, box = capture_page(page)
+            _, digest, _, _ = capture_page(page, verbose=False)
         except Exception:
-            time.sleep(0.25)
+            time.sleep(0.20)
             continue
 
         if digest != old_digest:
-            changed = True
+            time.sleep(RENDER_SETTLE_SECONDS)
+            return True
 
-        if changed:
-            if digest == previous:
-                stable_count += 1
-            else:
-                previous = digest
-                stable_count = 0
-
-            if stable_count >= 2:
-                return True
-
-        time.sleep(0.3)
+        time.sleep(0.35)
 
     return False
 
 
+def focus_reader(page):
+    """Remove focus from text fields and click the rendered page."""
+    for frame in page.frames:
+        try:
+            frame.evaluate(
+                """() => {
+                    const el = document.activeElement;
+                    if (el && el.blur) el.blur();
+                }"""
+            )
+        except Exception:
+            pass
+
+    locator, _ = find_page_element(page)
+    if locator is not None:
+        try:
+            locator.click(position={"x": 20, "y": 20}, force=True)
+        except Exception:
+            pass
+
+
+def advance_page(page, old_digest):
+    """Advance exactly one page using ArrowRight.
+
+    ArrowRight is the known-good control for this Google Play Books reader.
+    If Google drops focus or is still loading, refocus the rendered page and
+    retry the same key instead of switching to unrelated shortcuts.
+    """
+    for attempt in range(1, NAV_RETRIES + 1):
+        focus_reader(page)
+
+        try:
+            page.keyboard.press("ArrowRight")
+        except Exception as exc:
+            print(f"    ArrowRight failed to send: {exc}")
+            time.sleep(0.5)
+            continue
+
+        if wait_for_page_change(
+            page, old_digest, timeout=NAV_CHANGE_TIMEOUT
+        ):
+            print(f"    advanced with ArrowRight (attempt {attempt})")
+            return True
+
+        print(
+            f"    no page change after ArrowRight "
+            f"(attempt {attempt}/{NAV_RETRIES})"
+        )
+        time.sleep(0.75)
+
+    return False
+
+
+def write_png(path, data):
+    path.write_bytes(data)
+    return path
+
+
+def existing_page_images():
+    """Return existing PNGs in filename order.
+
+    Resume numbering deliberately uses the *count* of PNG files, matching the
+    original script's logic: len(existing) + 1.
+    """
+    return sorted(OUT_DIR.glob("*.png"))
+
+
+def numbered_existing_pages():
+    """Return numeric PNG filenames in numeric order for PDF assembly."""
+    pages = []
+    for path in OUT_DIR.glob("*.png"):
+        try:
+            number = int(path.stem)
+        except ValueError:
+            continue
+        pages.append((number, path))
+    return sorted(pages)
+
+
+def parse_args():
+    parser = argparse.ArgumentParser(
+        description="Capture accessible Google Play Books pages into a PDF."
+    )
+    parser.add_argument(
+        "--start",
+        type=int,
+        default=None,
+        help=(
+            "Output/capture number to start at. If omitted, use the original "
+            "resume logic: number of existing PNGs + 1."
+        ),
+    )
+    parser.add_argument(
+        "--max-pages",
+        type=int,
+        default=MAX_PAGES,
+        help="Highest output page number to capture.",
+    )
+    parser.add_argument(
+        "--workers",
+        type=int,
+        default=WRITE_WORKERS,
+        help="Background image-write threads (browser automation stays serial).",
+    )
+    return parser.parse_args()
+
+
 def main():
-    files = []
-    existing = sorted(OUT_DIR.glob("*.png"))
+    args = parse_args()
+    existing = existing_page_images()
+
+    if args.start is not None:
+        start_number = max(1, args.start)
+    else:
+        start_number = len(existing) + 1
 
     if existing:
-        files.extend(existing)
-        start_number = len(existing) + 1
-        print(f"Resuming at page {start_number}")
-    else:
-        start_number = 1
+        print(
+            f"Found {len(existing)} existing PNG(s) in {OUT_DIR}; "
+            f"capture numbering starts at {start_number}."
+        )
 
     with sync_playwright() as p:
         context = p.chromium.launch_persistent_context(
             str(PROFILE),
             headless=False,
-
-            # Large virtual viewport makes Google request/render
-            # a relatively high-resolution page.
-            viewport={
-                "width": 1800,
-                "height": 2200,
-            },
-
+            viewport={"width": 1800, "height": 2200},
             device_scale_factor=2,
         )
 
@@ -370,33 +431,53 @@ def main():
             timeout=60000,
         )
 
+        time.sleep(2)
+
         print()
         print("Google Play Books is open.")
-        print()
-        print("Before continuing:")
-        print("  1. Put the reader in SINGLE-PAGE mode.")
-        print("  2. Go to the very first page/cover.")
-        print("  3. Make sure no menu is covering the page.")
-        print()
-
-        input("Press Enter here when ready... ")
+        print("Use SINGLE-PAGE mode and make sure no menu covers the page.")
+        print(
+            f"The first captured file will be "
+            f"{OUT_DIR / f'{start_number:04d}.png'}"
+        )
+        input("Press Enter when the reader is on the correct starting page... ")
 
         seen = set()
+        # Include existing hashes so a resumed run can detect accidental overlap.
+        for path in existing:
+            try:
+                seen.add(hashlib.sha256(path.read_bytes()).hexdigest())
+            except Exception:
+                pass
 
-        for n in range(start_number, MAX_PAGES + 1):
-            png, digest, tag, box = capture_page(page)
+        pending_writes = []
 
-            # Avoid accidentally writing duplicate pages.
-            if digest in seen:
-                print(
-                    f"Duplicate image encountered at {n}; "
-                    "trying to advance..."
-                )
-            else:
+        with ThreadPoolExecutor(
+            max_workers=max(1, args.workers),
+            thread_name_prefix="page-writer",
+        ) as pool:
+            n = start_number
+            while n <= args.max_pages:
+                png, digest, tag, box = capture_page(page, verbose=False)
+
+                if digest in seen:
+                    print(
+                        f"{n:04d}: current reader page was already captured; "
+                        "advancing without consuming an output number."
+                    )
+                    if not advance_page(page, digest):
+                        print()
+                        print(
+                            "Could not advance past the duplicate page. "
+                            "Stopping without renumbering later pages."
+                        )
+                        break
+                    continue
+
                 filename = OUT_DIR / f"{n:04d}.png"
-                filename.write_bytes(png)
-
-                files.append(filename)
+                pending_writes.append(
+                    pool.submit(write_png, filename, png)
+                )
                 seen.add(digest)
 
                 if box:
@@ -408,109 +489,32 @@ def main():
                 else:
                     print(f"{n:04d}: → {filename}")
 
-            # Remove focus from any page-number/search field.
-            page.evaluate("""
-                () => {
-                    if (document.activeElement) {
-                        document.activeElement.blur();
-                    }
-                }
-            """)
+                if not advance_page(page, digest):
+                    print()
+                    print(
+                        f"Could not advance after capture {n}. "
+                        "Stopping without assuming that this is the book's end."
+                    )
+                    break
 
-            def advance_page(page, old_digest):
-                """
-                Advance Google Play Books by focusing the actual reader first.
-                Try Google's supported shortcuts, then its visible next button.
-                """
+                n += 1
 
-                # First focus the actual rendered book page, including if it lives
-                # inside an iframe.
-                locator, info = find_page_element(page)
+            # Surface any background disk-write exception before PDF creation.
+            for future in pending_writes:
+                future.result()
 
-                if locator is not None:
-                    try:
-                        locator.focus()
-                    except Exception:
-                        try:
-                            locator.click(
-                                position={"x": 10, "y": 10},
-                                force=True,
-                            )
-                        except Exception:
-                            pass
-
-                # Google documents all four of these as "next page".
-                for key in ("n", "j", "ArrowRight"):
-                    try:
-                        page.keyboard.press(key)
-
-                        if wait_for_next_page(
-                            page,
-                            old_digest,
-                        ):
-                            print(f"    advanced with {key}")
-                            return True
-
-                    except Exception:
-                        pass
-
-                # If keyboard navigation doesn't reach the reader,
-                # find Google's visible next-page control in any frame.
-                selectors = [
-                    '[aria-label*="Next" i]',
-                    '[aria-label*="next page" i]',
-                    '[title*="Next" i]',
-                    '[title*="next page" i]',
-                ]
-
-                for frame in page.frames:
-                    for selector in selectors:
-                        try:
-                            buttons = frame.locator(selector)
-
-                            for i in range(buttons.count()):
-                                button = buttons.nth(i)
-
-                                if not button.is_visible():
-                                    continue
-
-                                button.click(force=True)
-
-                                if wait_for_next_page(
-                                    page,
-                                    old_digest,
-                                ):
-                                    print(
-                                        "    advanced with next-page button"
-                                    )
-                                    return True
-
-                        except Exception:
-                            continue
-
-                return False
-            if not advance_page(page, digest):
-                print()
-                print("Could not advance to the next page.")
-                break
         context.close()
 
-    if not files:
+    all_pages = [p for _, p in numbered_existing_pages()]
+    if not all_pages:
         raise RuntimeError("No page images were saved.")
 
-    print()
-    print(f"Combining {len(files)} pages...")
-
+    print(f"\nCombining {len(all_pages)} pages...")
     with OUT_PDF.open("wb") as f:
-        f.write(
-            img2pdf.convert(
-                [str(x) for x in files]
-            )
-        )
+        f.write(img2pdf.convert([str(x) for x in all_pages]))
 
-    print()
     print(f"Created: {OUT_PDF}")
-    print(f"Pages:   {len(files)}")
+    print(f"Pages:   {len(all_pages)}")
 
 
 if __name__ == "__main__":
