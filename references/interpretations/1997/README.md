@@ -1,4 +1,5 @@
 These docmentos are from https://www.sec.gov/interps/telephone.shtml
+(originally developed for staff training and discussion, then made public)
 
 There are also these 5 pages:
 
