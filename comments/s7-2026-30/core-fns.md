@@ -4,3 +4,9 @@
 video of just Dan)
 
 [dan-note]: https://notes.wooten.link/2026/5/6
+
+[peirce-ta-proposal-statement]: https://www.sec.gov/newsroom/speeches-statements/peirce-transfer-agent-rules-090126-time-transfer-statement-proposed-transfer-agent-rules
+
+[uyeda-ta-proposal-statement]: https://www.sec.gov/newsroom/speeches-statements/uyeda-statement-transfer-agent-rules-090126-statement-proposed-amendments-secs-transfer-agent-rules
+
+[aguilar-gallagher-ta-modernization]: https://www.sec.gov/news/statement/modernize-sec-transfer-agent-rules.html
