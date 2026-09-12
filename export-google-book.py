@@ -21,8 +21,11 @@ WRITE_WORKERS = 4
 # Navigation is intentionally simple: this reader reliably advances with
 # ArrowRight. Send exactly one keypress per captured page and observe the
 # fixed visible page rectangle before doing anything else.
-NAV_CHANGE_TIMEOUT = 30.0
+NAV_CHANGE_TIMEOUT = 12.0
+NAV_OBSERVE_ROUNDS = 5
+NAV_KEY_ATTEMPTS = 4
 RENDER_SETTLE_SECONDS = 1.2
+START_JUMP_ATTEMPTS = 6
 
 OUT_DIR.mkdir(exist_ok=True)
 
@@ -315,44 +318,166 @@ def visible_page_digest(page, box):
     return hashlib.sha256(png).hexdigest()
 
 
-def wait_for_visible_page_change(
-    page,
-    box,
-    old_visual_digest,
-    timeout=NAV_CHANGE_TIMEOUT,
-):
-    """Wait for the pixels in the old page rectangle to visibly change.
+def _parse_int(text):
+    if text is None:
+        return None
+    text = str(text).strip().replace(",", "")
+    if text.isdigit():
+        return int(text)
+    return None
 
-    No navigation keys are sent here. Once ArrowRight has been pressed, this
-    function only observes. That prevents a delayed render from causing a
-    second keypress and a two-page skip.
-    """
-    deadline = time.monotonic() + timeout
 
-    while time.monotonic() < deadline:
+def page_number_controls(page):
+    """Yield visible controls that look like Google Books page-number inputs."""
+    selectors = [
+        'input[aria-label*="page" i]',
+        'input[title*="page" i]',
+        'input[placeholder*="page" i]',
+        '[contenteditable="true"][aria-label*="page" i]',
+        '[contenteditable="true"][title*="page" i]',
+    ]
+
+    seen = set()
+    for frame in page.frames:
+        for selector in selectors:
+            try:
+                loc = frame.locator(selector)
+                count = loc.count()
+            except Exception:
+                continue
+
+            for i in range(count):
+                item = loc.nth(i)
+                try:
+                    if not item.is_visible():
+                        continue
+                    key = (frame.url, selector, i)
+                    if key in seen:
+                        continue
+                    seen.add(key)
+                    yield item
+                except Exception:
+                    continue
+
+
+def read_reader_page_number(page):
+    """Best-effort read of the visible reader page-number control."""
+    for control in page_number_controls(page):
         try:
-            digest = visible_page_digest(page, box)
+            tag = control.evaluate('(el) => el.tagName')
+            if tag == 'INPUT':
+                value = control.input_value()
+            else:
+                value = control.text_content()
+            number = _parse_int(value)
+            if number is not None:
+                return number
         except Exception:
-            time.sleep(0.20)
+            continue
+    return None
+
+
+def jump_to_reader_page(page, target, attempts=START_JUMP_ATTEMPTS):
+    """Automatically move Google Play Books to a requested reader page.
+
+    This only uses a visible page-number control. It does not guess by firing a
+    large number of ArrowRight events, so restarting cannot accidentally skip
+    through the book.
+    """
+    if target < 1:
+        raise ValueError("Reader page must be positive")
+    if read_reader_page_number(page) == target:
+        return True
+
+    for attempt in range(1, attempts + 1):
+        controls = list(page_number_controls(page))
+        if not controls:
+            print(f"    restart jump attempt {attempt}/{attempts}: page box not found")
+            time.sleep(1.0)
             continue
 
-        if digest is not None and digest != old_visual_digest:
-            # The visible pixels have changed. Give Google's page renderer a
-            # little time to finish its transition before the next capture.
-            time.sleep(RENDER_SETTLE_SECONDS)
-            return True
+        for control in controls:
+            try:
+                _, old_digest, _, old_box = capture_page(page)
+                old_visual = visible_page_digest(page, old_box)
+                control.click(force=True)
 
-        time.sleep(0.25)
+                control.fill(str(target))
+
+                control.press('Enter')
+                print(
+                    f"    restart jump attempt {attempt}/{attempts}: "
+                    f"requested reader page {target}"
+                )
+
+                # A typed value is not confirmation: require a settled page
+                # image as well as the requested reader number after submission.
+                changed, _ = wait_for_page_change_once(
+                    page, old_box, old_visual, old_digest, None,
+                    timeout=NAV_CHANGE_TIMEOUT,
+                )
+                if changed and read_reader_page_number(page) == target:
+                    blur_reader_focus(page)
+                    return True
+
+            except Exception:
+                continue
+
+        time.sleep(1.0)
 
     return False
 
 
-def blur_reader_focus(page):
-    """Blur text fields without clicking the book page.
+def wait_for_page_change_once(
+    page,
+    old_box,
+    old_visual_digest,
+    old_page_digest,
+    old_reader_number,
+    timeout=NAV_CHANGE_TIMEOUT,
+):
+    """Wait for changed page pixels to remain stable through rendering.
 
-    Clicking the page just to focus it can itself interact with the reader.
-    Playwright's keyboard event is enough once text-entry controls are blurred.
+    A counter can update before the image. It is supporting evidence only;
+    capturing immediately on a counter change can save the previous page.
     """
+    deadline = time.monotonic() + timeout
+    stable_digest = None
+    stable_since = None
+
+    while time.monotonic() < deadline:
+        try:
+            visual = visible_page_digest(page, old_box)
+            _, digest, _, _ = capture_page(page, verbose=False)
+            current = read_reader_page_number(page)
+            changed = (
+                digest != old_page_digest
+                and visual is not None
+                and (old_visual_digest is None or visual != old_visual_digest)
+            )
+            counter_ready = (
+                old_reader_number is None
+                or current is None
+                or current != old_reader_number
+            )
+            if changed and counter_ready:
+                if digest != stable_digest:
+                    stable_digest = digest
+                    stable_since = time.monotonic()
+                elif time.monotonic() - stable_since >= RENDER_SETTLE_SECONDS:
+                    return True, "settled page image"
+            else:
+                stable_digest = stable_since = None
+        except Exception:
+            stable_digest = stable_since = None
+
+        time.sleep(0.30)
+
+    return False, None
+
+
+def blur_reader_focus(page):
+    """Blur text-entry controls so ArrowRight reaches the reader."""
     for frame in page.frames:
         try:
             frame.evaluate(
@@ -365,36 +490,91 @@ def blur_reader_focus(page):
             pass
 
 
-def advance_page(page, old_box):
-    """Advance exactly one page with exactly one ArrowRight keypress."""
+def advance_page(page, old_box, old_page_digest):
+    """Advance one page, with many checks but no blind double-skip retries.
+
+    The first ArrowRight is always sent. We then run several observation rounds.
+    Another ArrowRight is sent only if a readable page-number field positively
+    confirms that the reader is STILL on the old page.
+    """
+    blur_reader_focus(page)
     old_visual_digest = visible_page_digest(page, old_box)
     if old_visual_digest is None:
         print("    could not establish the visible page rectangle")
         return False
 
-    blur_reader_focus(page)
+    old_reader_number = read_reader_page_number(page)
 
-    try:
-        page.keyboard.press("ArrowRight")
-    except Exception as exc:
-        print(f"    ArrowRight failed to send: {exc}")
-        return False
+    for key_attempt in range(1, NAV_KEY_ATTEMPTS + 1):
+        blur_reader_focus(page)
 
-    if wait_for_visible_page_change(
-        page,
-        old_box,
-        old_visual_digest,
-        timeout=NAV_CHANGE_TIMEOUT,
-    ):
-        print("    advanced with ArrowRight")
-        return True
+        try:
+            page.keyboard.press("ArrowRight")
+        except Exception as exc:
+            print(f"    ArrowRight failed to send: {exc}")
+            return False
+
+        print(
+            f"    ArrowRight attempt {key_attempt}/{NAV_KEY_ATTEMPTS}; "
+            f"checking for the new page..."
+        )
+
+        for observe_round in range(1, NAV_OBSERVE_ROUNDS + 1):
+            changed, reason = wait_for_page_change_once(
+                page,
+                old_box,
+                old_visual_digest,
+                old_page_digest,
+                old_reader_number,
+                timeout=NAV_CHANGE_TIMEOUT,
+            )
+            if changed:
+                print(
+                    f"    advanced with ArrowRight "
+                    f"(confirmed by {reason}, check {observe_round}/{NAV_OBSERVE_ROUNDS})"
+                )
+                return True
+
+            print(
+                f"    no change confirmed yet "
+                f"(check {observe_round}/{NAV_OBSERVE_ROUNDS})"
+            )
+
+        # Never blindly press ArrowRight again. Only retry the key if Google's
+        # own readable page counter proves that we are still on the same page.
+        if old_reader_number is None:
+            print(
+                "    could not safely verify the reader stayed on the old page; "
+                "not sending another ArrowRight"
+            )
+            return False
+
+        current = read_reader_page_number(page)
+        if current is None:
+            print(
+                "    page counter became unreadable; not sending another "
+                "ArrowRight because that could skip a page"
+            )
+            return False
+
+        if current != old_reader_number:
+            print(
+                f"    reader counter moved from {old_reader_number} to {current}; "
+                "but the new image did not settle; stopping capture"
+            )
+            return False
+
+        if key_attempt < NAV_KEY_ATTEMPTS:
+            print(
+                f"    reader counter still says {current}; safe to retry ArrowRight"
+            )
+            time.sleep(0.75)
 
     print(
-        "    no visible page change detected after one ArrowRight; "
-        "stopping rather than sending another key and risking a skipped page"
+        f"    reader counter stayed at {old_reader_number} after "
+        f"{NAV_KEY_ATTEMPTS} ArrowRight attempts"
     )
     return False
-
 
 def write_png(path, data):
     path.write_bytes(data)
@@ -433,6 +613,15 @@ def parse_args():
         help=(
             "Output/capture number to start at. If omitted, use the original "
             "resume logic: number of existing PNGs + 1."
+        ),
+    )
+    parser.add_argument(
+        "--reader-page",
+        type=int,
+        default=None,
+        help=(
+            "Google Play Books reader page to jump to on startup. If omitted, "
+            "use the same number as the resume/output start page."
         ),
     )
     parser.add_argument(
@@ -484,6 +673,12 @@ def main():
 
         time.sleep(2)
 
+        reader_page = (
+            max(1, args.reader_page)
+            if args.reader_page is not None
+            else start_number
+        )
+
         print()
         print("Google Play Books is open.")
         print("Use SINGLE-PAGE mode and make sure no menu covers the page.")
@@ -491,7 +686,18 @@ def main():
             f"The first captured file will be "
             f"{OUT_DIR / f'{start_number:04d}.png'}"
         )
-        input("Press Enter when the reader is on the correct starting page... ")
+
+        if reader_page >= 1:
+            print(f"Automatically jumping to reader page {reader_page}...")
+            if jump_to_reader_page(page, reader_page):
+                print(f"Reader positioned at page {reader_page}.")
+            else:
+                print(
+                    f"Could not automatically confirm reader page {reader_page}. "
+                    "Position it manually before continuing."
+                )
+
+        input("Press Enter when ready to start capture... ")
 
         seen = set()
         # Include existing hashes so a resumed run can detect accidental overlap.
@@ -516,7 +722,7 @@ def main():
                         f"{n:04d}: current reader page was already captured; "
                         "advancing without consuming an output number."
                     )
-                    if not advance_page(page, box):
+                    if not advance_page(page, box, digest):
                         print()
                         print(
                             "Could not advance past the duplicate page. "
@@ -540,7 +746,10 @@ def main():
                 else:
                     print(f"{n:04d}: → {filename}")
 
-                if not advance_page(page, box):
+                if n >= args.max_pages:
+                    break
+
+                if not advance_page(page, box, digest):
                     print()
                     print(
                         f"Could not advance after capture {n}. "
