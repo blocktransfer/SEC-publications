@@ -1,1 +1,303 @@
 .DS_Store
+.google-books-browser/BrowserMetrics-spare.pma
+.google-books-browser/ChromeFeatureState
+.google-books-browser/first_party_sets.db
+.google-books-browser/first_party_sets.db-journal
+.google-books-browser/Last Version
+.google-books-browser/Local State
+.google-books-browser/Variations
+.google-books-browser/Default/Account Web Data
+.google-books-browser/Default/Account Web Data-journal
+.google-books-browser/Default/Affiliation Database
+.google-books-browser/Default/Affiliation Database-journal
+.google-books-browser/Default/BookmarkMergedSurfaceOrdering
+.google-books-browser/Default/Cookies
+.google-books-browser/Default/Cookies-journal
+.google-books-browser/Default/declarative_performance_observer.db
+.google-books-browser/Default/declarative_performance_observer.db-journal
+.google-books-browser/Default/DIPS
+.google-books-browser/Default/engine_allowlist.bf
+.google-books-browser/Default/Favicons
+.google-books-browser/Default/Favicons-journal
+.google-books-browser/Default/heavy_ad_intervention_opt_out.db
+.google-books-browser/Default/heavy_ad_intervention_opt_out.db-journal
+.google-books-browser/Default/History
+.google-books-browser/Default/History-journal
+.google-books-browser/Default/LOCK
+.google-books-browser/Default/LOG
+.google-books-browser/Default/LOG.old
+.google-books-browser/Default/Login Data
+.google-books-browser/Default/Login Data For Account
+.google-books-browser/Default/Login Data For Account-journal
+.google-books-browser/Default/Login Data-journal
+.google-books-browser/Default/Network Action Predictor
+.google-books-browser/Default/Network Action Predictor-journal
+.google-books-browser/Default/Network Persistent State
+.google-books-browser/Default/Preferences
+.google-books-browser/Default/PreferredApps
+.google-books-browser/Default/README
+.google-books-browser/Default/Reporting and NEL
+.google-books-browser/Default/Reporting and NEL-journal
+.google-books-browser/Default/SCT Auditing Pending Reports
+.google-books-browser/Default/Secure Preferences
+.google-books-browser/Default/ServerCertificate
+.google-books-browser/Default/ServerCertificate-journal
+.google-books-browser/Default/SharedStorage
+.google-books-browser/Default/Shortcuts
+.google-books-browser/Default/Shortcuts-journal
+.google-books-browser/Default/Top Sites
+.google-books-browser/Default/Top Sites-journal
+.google-books-browser/Default/TransportSecurity
+.google-books-browser/Default/Trust Tokens
+.google-books-browser/Default/Trust Tokens-journal
+.google-books-browser/Default/trusted_vault.pb
+.google-books-browser/Default/Web Data
+.google-books-browser/Default/Web Data-journal
+.google-books-browser/Default/AutofillAiModelCache/LOCK
+.google-books-browser/Default/AutofillAiModelCache/LOG
+.google-books-browser/Default/AutofillAiModelCache/LOG.old
+.google-books-browser/Default/AutofillStrikeDatabase/LOCK
+.google-books-browser/Default/AutofillStrikeDatabase/LOG
+.google-books-browser/Default/AutofillStrikeDatabase/LOG.old
+.google-books-browser/Default/BudgetDatabase/LOCK
+.google-books-browser/Default/BudgetDatabase/LOG
+.google-books-browser/Default/BudgetDatabase/LOG.old
+.google-books-browser/Default/Cache/Cache_Data/0e7a9dcfb7411316_0
+.google-books-browser/Default/Cache/Cache_Data/0ee1dc2bd0957d73_0
+.google-books-browser/Default/Cache/Cache_Data/0fdf3b81133d6ad6_0
+.google-books-browser/Default/Cache/Cache_Data/1b7c04192fd196a0_0
+.google-books-browser/Default/Cache/Cache_Data/1d28e8c1bab763b5_0
+.google-books-browser/Default/Cache/Cache_Data/2ac52b1e95c8b967_0
+.google-books-browser/Default/Cache/Cache_Data/3fe851f303d28e45_0
+.google-books-browser/Default/Cache/Cache_Data/4c28c091dea267af_0
+.google-books-browser/Default/Cache/Cache_Data/4e3b727f02baccdf_0
+.google-books-browser/Default/Cache/Cache_Data/4ffb2c6b46b0092a_0
+.google-books-browser/Default/Cache/Cache_Data/6ac7351ba931e3d4_0
+.google-books-browser/Default/Cache/Cache_Data/6f1752bfc67d3218_0
+.google-books-browser/Default/Cache/Cache_Data/7a1b97b74fb88191_0
+.google-books-browser/Default/Cache/Cache_Data/7db20a35619c3ac1_0
+.google-books-browser/Default/Cache/Cache_Data/8b27dacbf7458021_0
+.google-books-browser/Default/Cache/Cache_Data/008d94babd40df89_0
+.google-books-browser/Default/Cache/Cache_Data/9b3ad8823b6ad559_0
+.google-books-browser/Default/Cache/Cache_Data/9ce14871488547ff_0
+.google-books-browser/Default/Cache/Cache_Data/9d1b2baaf74d0514_0
+.google-books-browser/Default/Cache/Cache_Data/9e0a9efc69b65c41_0
+.google-books-browser/Default/Cache/Cache_Data/9e62d535daffef43_0
+.google-books-browser/Default/Cache/Cache_Data/9f84532b6870d935_0
+.google-books-browser/Default/Cache/Cache_Data/021be40cbd5388c1_0
+.google-books-browser/Default/Cache/Cache_Data/25b75f1461870b3b_0
+.google-books-browser/Default/Cache/Cache_Data/29f4534228b30468_0
+.google-books-browser/Default/Cache/Cache_Data/31d87a8920b02432_0
+.google-books-browser/Default/Cache/Cache_Data/48fdfe6519ac839c_0
+.google-books-browser/Default/Cache/Cache_Data/58c95417c0c531b1_0
+.google-books-browser/Default/Cache/Cache_Data/64f8d5c53f288d96_0
+.google-books-browser/Default/Cache/Cache_Data/66a8810d14203bc5_0
+.google-books-browser/Default/Cache/Cache_Data/69d51544552bf5a1_0
+.google-books-browser/Default/Cache/Cache_Data/75c27fab1423e9f6_0
+.google-books-browser/Default/Cache/Cache_Data/80de0f4654f65279_0
+.google-books-browser/Default/Cache/Cache_Data/145ec7cef8a2fca6_0
+.google-books-browser/Default/Cache/Cache_Data/168e73d47f38ab00_0
+.google-books-browser/Default/Cache/Cache_Data/314df42cfefc5650_0
+.google-books-browser/Default/Cache/Cache_Data/393da9459267c812_0
+.google-books-browser/Default/Cache/Cache_Data/409fa95cc834efa9_0
+.google-books-browser/Default/Cache/Cache_Data/433a52ee9e79b0bc_0
+.google-books-browser/Default/Cache/Cache_Data/455b69726888f9df_0
+.google-books-browser/Default/Cache/Cache_Data/511a64e285cd696a_0
+.google-books-browser/Default/Cache/Cache_Data/579e3e4c9b9e092f_0
+.google-books-browser/Default/Cache/Cache_Data/644b3337f0cfae04_0
+.google-books-browser/Default/Cache/Cache_Data/819fcc77b2bd6eb4_0
+.google-books-browser/Default/Cache/Cache_Data/1301ad2171f92039_0
+.google-books-browser/Default/Cache/Cache_Data/1354e56420449785_0
+.google-books-browser/Default/Cache/Cache_Data/5708e1813d9f24cd_0
+.google-books-browser/Default/Cache/Cache_Data/7874beda62ba6f83_0
+.google-books-browser/Default/Cache/Cache_Data/68491d61b04b7bc0_0
+.google-books-browser/Default/Cache/Cache_Data/68507aad85dca3e4_0
+.google-books-browser/Default/Cache/Cache_Data/78476cd9ac9f3ec7_0
+.google-books-browser/Default/Cache/Cache_Data/55164878e36f18c6_0
+.google-books-browser/Default/Cache/Cache_Data/1551875610dfb4c7_0
+.google-books-browser/Default/Cache/Cache_Data/a42f1e1fe65c00db_0
+.google-books-browser/Default/Cache/Cache_Data/a3375eacae678f00_0
+.google-books-browser/Default/Cache/Cache_Data/a68722f1412a41cf_0
+.google-books-browser/Default/Cache/Cache_Data/a7781038837e4f07_0
+.google-books-browser/Default/Cache/Cache_Data/b3bd9184f7ef2617_0
+.google-books-browser/Default/Cache/Cache_Data/b8d614593d447dac_0
+.google-books-browser/Default/Cache/Cache_Data/b41a03e884d2ce24_0
+.google-books-browser/Default/Cache/Cache_Data/b071636dbe347ed8_0
+.google-books-browser/Default/Cache/Cache_Data/c0bd5192ee4746a1_0
+.google-books-browser/Default/Cache/Cache_Data/c7dc172524c34800_0
+.google-books-browser/Default/Cache/Cache_Data/c8d10ece69b1f289_0
+.google-books-browser/Default/Cache/Cache_Data/c18ae09d2d13b614_0
+.google-books-browser/Default/Cache/Cache_Data/c285ba160af8c0f2_0
+.google-books-browser/Default/Cache/Cache_Data/c946df0b87513320_0
+.google-books-browser/Default/Cache/Cache_Data/c4132edefd59ff70_0
+.google-books-browser/Default/Cache/Cache_Data/c96667227f2b1763_0
+.google-books-browser/Default/Cache/Cache_Data/cd52043b2cb1a4c8_0
+.google-books-browser/Default/Cache/Cache_Data/d1dfdb08bb3a4d69_0
+.google-books-browser/Default/Cache/Cache_Data/d2c0a381201b9c02_0
+.google-books-browser/Default/Cache/Cache_Data/d3ec44b07fa70104_0
+.google-books-browser/Default/Cache/Cache_Data/d1928aefdc991e4c_0
+.google-books-browser/Default/Cache/Cache_Data/d38509b04e71b281_0
+.google-books-browser/Default/Cache/Cache_Data/db61370cde7cf862_0
+.google-books-browser/Default/Cache/Cache_Data/de1ecd70c7fbc25e_0
+.google-books-browser/Default/Cache/Cache_Data/ded493c80a578aa8_0
+.google-books-browser/Default/Cache/Cache_Data/e926de251c76135a_0
+.google-books-browser/Default/Cache/Cache_Data/e5543afa8340eb45_0
+.google-books-browser/Default/Cache/Cache_Data/e068284c066e7a24_0
+.google-books-browser/Default/Cache/Cache_Data/e18639870d225422_0
+.google-books-browser/Default/Cache/Cache_Data/ec460c467391aebd_0
+.google-books-browser/Default/Cache/Cache_Data/ef37bf284526ff43_0
+.google-books-browser/Default/Cache/Cache_Data/efb3f9730f102e16_0
+.google-books-browser/Default/Cache/Cache_Data/f03ebe683fc3f426_0
+.google-books-browser/Default/Cache/Cache_Data/f4d87729609b6f95_0
+.google-books-browser/Default/Cache/Cache_Data/f8e0afea1dafec88_0
+.google-books-browser/Default/Cache/Cache_Data/f116bcd02fe1954f_0
+.google-books-browser/Default/Cache/Cache_Data/f546c223e2abbf07_0
+.google-books-browser/Default/Cache/Cache_Data/fc16705a722f47eb_0
+.google-books-browser/Default/Cache/Cache_Data/index
+.google-books-browser/Default/Cache/Cache_Data/index-dir/the-real-index
+.google-books-browser/Default/Cache/No_Vary_Search/journal.baj
+.google-books-browser/Default/Cache/No_Vary_Search/snapshot.baf
+.google-books-browser/Default/ClientCertificates/LOCK
+.google-books-browser/Default/ClientCertificates/LOG
+.google-books-browser/Default/ClientCertificates/LOG.old
+.google-books-browser/Default/Code Cache/js/1da47062b7d0a448_0
+.google-books-browser/Default/Code Cache/js/7b41434f49e208c9_0
+.google-books-browser/Default/Code Cache/js/8afec3ace8beaf10_0
+.google-books-browser/Default/Code Cache/js/9e84abd223b5fba0_0
+.google-books-browser/Default/Code Cache/js/50fcd70a40dbdc7e_0
+.google-books-browser/Default/Code Cache/js/89e5fa1fcd492669_0
+.google-books-browser/Default/Code Cache/js/157ac5dc69855318_0
+.google-books-browser/Default/Code Cache/js/1439e2c5de5c8ae2_0
+.google-books-browser/Default/Code Cache/js/8945bd1b5b57fda1_0
+.google-books-browser/Default/Code Cache/js/9069a772c4294899_0
+.google-books-browser/Default/Code Cache/js/763352586f18fd1a_0
+.google-books-browser/Default/Code Cache/js/c11bdda9d61cb303_0
+.google-books-browser/Default/Code Cache/js/d71807ee9b0029e4_0
+.google-books-browser/Default/Code Cache/js/ec24b1911df8c0ef_0
+.google-books-browser/Default/Code Cache/js/index
+.google-books-browser/Default/Code Cache/js/index-dir/the-real-index
+.google-books-browser/Default/Code Cache/wasm/index
+.google-books-browser/Default/Code Cache/wasm/index-dir/the-real-index
+.google-books-browser/Default/DawnGraphiteCache/data_0
+.google-books-browser/Default/DawnGraphiteCache/data_1
+.google-books-browser/Default/DawnGraphiteCache/data_2
+.google-books-browser/Default/DawnGraphiteCache/data_3
+.google-books-browser/Default/DawnGraphiteCache/index
+.google-books-browser/Default/DawnWebGPUCache/data_0
+.google-books-browser/Default/DawnWebGPUCache/data_1
+.google-books-browser/Default/DawnWebGPUCache/data_2
+.google-books-browser/Default/DawnWebGPUCache/data_3
+.google-books-browser/Default/DawnWebGPUCache/index
+.google-books-browser/Default/Extension Rules/000003.log
+.google-books-browser/Default/Extension Rules/CURRENT
+.google-books-browser/Default/Extension Rules/LOCK
+.google-books-browser/Default/Extension Rules/LOG
+.google-books-browser/Default/Extension Rules/MANIFEST-000001
+.google-books-browser/Default/Extension Scripts/000003.log
+.google-books-browser/Default/Extension Scripts/CURRENT
+.google-books-browser/Default/Extension Scripts/LOCK
+.google-books-browser/Default/Extension Scripts/LOG
+.google-books-browser/Default/Extension Scripts/MANIFEST-000001
+.google-books-browser/Default/Extension State/000003.log
+.google-books-browser/Default/Extension State/CURRENT
+.google-books-browser/Default/Extension State/LOCK
+.google-books-browser/Default/Extension State/LOG
+.google-books-browser/Default/Extension State/LOG.old
+.google-books-browser/Default/Extension State/MANIFEST-000001
+.google-books-browser/Default/GCM Store/000003.log
+.google-books-browser/Default/GCM Store/CURRENT
+.google-books-browser/Default/GCM Store/LOCK
+.google-books-browser/Default/GCM Store/LOG
+.google-books-browser/Default/GCM Store/LOG.old
+.google-books-browser/Default/GCM Store/MANIFEST-000001
+.google-books-browser/Default/GPUCache/data_0
+.google-books-browser/Default/GPUCache/data_1
+.google-books-browser/Default/GPUCache/data_2
+.google-books-browser/Default/GPUCache/data_3
+.google-books-browser/Default/GPUCache/index
+.google-books-browser/Default/Local Storage/leveldb/000003.log
+.google-books-browser/Default/Local Storage/leveldb/CURRENT
+.google-books-browser/Default/Local Storage/leveldb/LOCK
+.google-books-browser/Default/Local Storage/leveldb/LOG
+.google-books-browser/Default/Local Storage/leveldb/LOG.old
+.google-books-browser/Default/Local Storage/leveldb/MANIFEST-000001
+.google-books-browser/Default/PersistentOriginTrials/LOCK
+.google-books-browser/Default/PersistentOriginTrials/LOG
+.google-books-browser/Default/PersistentOriginTrials/LOG.old
+.google-books-browser/Default/Segmentation Platform/SegmentInfoDB/LOCK
+.google-books-browser/Default/Segmentation Platform/SegmentInfoDB/LOG
+.google-books-browser/Default/Segmentation Platform/SegmentInfoDB/LOG.old
+.google-books-browser/Default/Segmentation Platform/SignalDB/LOCK
+.google-books-browser/Default/Segmentation Platform/SignalDB/LOG
+.google-books-browser/Default/Segmentation Platform/SignalDB/LOG.old
+.google-books-browser/Default/Segmentation Platform/SignalStorageConfigDB/LOCK
+.google-books-browser/Default/Segmentation Platform/SignalStorageConfigDB/LOG
+.google-books-browser/Default/Segmentation Platform/SignalStorageConfigDB/LOG.old
+.google-books-browser/Default/Session Storage/000003.log
+.google-books-browser/Default/Session Storage/CURRENT
+.google-books-browser/Default/Session Storage/LOCK
+.google-books-browser/Default/Session Storage/LOG
+.google-books-browser/Default/Session Storage/MANIFEST-000001
+.google-books-browser/Default/Sessions/Session_13433687184698423
+.google-books-browser/Default/Sessions/Session_13433687497621283
+.google-books-browser/Default/Sessions/Tabs_13433687184858526
+.google-books-browser/Default/Sessions/Tabs_13433687497774930
+.google-books-browser/Default/Shared Dictionary/db
+.google-books-browser/Default/Shared Dictionary/db-journal
+.google-books-browser/Default/Shared Dictionary/cache/index
+.google-books-browser/Default/Shared Dictionary/cache/index-dir/the-real-index
+.google-books-browser/Default/Site Characteristics Database/000003.log
+.google-books-browser/Default/Site Characteristics Database/CURRENT
+.google-books-browser/Default/Site Characteristics Database/LOCK
+.google-books-browser/Default/Site Characteristics Database/LOG
+.google-books-browser/Default/Site Characteristics Database/LOG.old
+.google-books-browser/Default/Site Characteristics Database/MANIFEST-000001
+.google-books-browser/Default/Sync Data/LevelDB/000003.log
+.google-books-browser/Default/Sync Data/LevelDB/CURRENT
+.google-books-browser/Default/Sync Data/LevelDB/LOCK
+.google-books-browser/Default/Sync Data/LevelDB/LOG
+.google-books-browser/Default/Sync Data/LevelDB/LOG.old
+.google-books-browser/Default/Sync Data/LevelDB/MANIFEST-000001
+.google-books-browser/Default/WebStorage/QuotaManager
+.google-books-browser/Default/WebStorage/QuotaManager-journal
+.google-books-browser/Default/chrome_cart_db/LOCK
+.google-books-browser/Default/chrome_cart_db/LOG
+.google-books-browser/Default/chrome_cart_db/LOG.old
+.google-books-browser/Default/commerce_subscription_db/LOCK
+.google-books-browser/Default/commerce_subscription_db/LOG
+.google-books-browser/Default/commerce_subscription_db/LOG.old
+.google-books-browser/Default/discount_infos_db/LOCK
+.google-books-browser/Default/discount_infos_db/LOG
+.google-books-browser/Default/discount_infos_db/LOG.old
+.google-books-browser/Default/discounts_db/LOCK
+.google-books-browser/Default/discounts_db/LOG
+.google-books-browser/Default/discounts_db/LOG.old
+.google-books-browser/Default/parcel_tracking_db/LOCK
+.google-books-browser/Default/parcel_tracking_db/LOG
+.google-books-browser/Default/parcel_tracking_db/LOG.old
+.google-books-browser/Default/shared_proto_db/000003.log
+.google-books-browser/Default/shared_proto_db/CURRENT
+.google-books-browser/Default/shared_proto_db/LOCK
+.google-books-browser/Default/shared_proto_db/LOG
+.google-books-browser/Default/shared_proto_db/LOG.old
+.google-books-browser/Default/shared_proto_db/MANIFEST-000001
+.google-books-browser/Default/shared_proto_db/metadata/000003.log
+.google-books-browser/Default/shared_proto_db/metadata/CURRENT
+.google-books-browser/Default/shared_proto_db/metadata/LOCK
+.google-books-browser/Default/shared_proto_db/metadata/LOG
+.google-books-browser/Default/shared_proto_db/metadata/LOG.old
+.google-books-browser/Default/shared_proto_db/metadata/MANIFEST-000001
+.google-books-browser/GPUPersistentCache/GPUCache/74YTS4RRWWOYPEOQLI7OY4AWHR2XL643/cache.db
+.google-books-browser/GPUPersistentCache/GPUCache/74YTS4RRWWOYPEOQLI7OY4AWHR2XL643/cache.db-wal
+.google-books-browser/GPUPersistentCache/GPUCache/74YTS4RRWWOYPEOQLI7OY4AWHR2XL643/cache.journal
+.google-books-browser/GraphiteDawnCache/data_0
+.google-books-browser/GraphiteDawnCache/data_1
+.google-books-browser/GraphiteDawnCache/data_2
+.google-books-browser/GraphiteDawnCache/data_3
+.google-books-browser/GraphiteDawnCache/f_000001
+.google-books-browser/GraphiteDawnCache/f_000002
+.google-books-browser/GraphiteDawnCache/f_000003
+.google-books-browser/GraphiteDawnCache/index
+.google-books-browser/component_crx_cache/metadata.json
+.google-books-browser/extensions_crx_cache/metadata.json
+.google-books-browser/segmentation_platform/ukm_db
