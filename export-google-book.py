@@ -439,7 +439,7 @@ def main():
                         if wait_for_next_page(
                             page,
                             old_digest,
-                            timeout=3,
+                            timeout=30,
                         ):
                             print(f"    advanced with {key}")
                             return True
