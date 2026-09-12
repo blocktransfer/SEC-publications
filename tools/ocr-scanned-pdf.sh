@@ -102,7 +102,9 @@ tagged_output="$tagging_dir/tagged.pdf"
 "$tagger_python" "$tagger" \
     "$output" \
     "$tagged_output" \
-    --report "$tagging_report"
+    --report "$tagging_report" \
+    --reported-input "$input" \
+    --reported-output "$output"
 
 # The untagged file was created by this invocation and is replaced only after
 # the complete tagged sibling has been written and structurally checked.
