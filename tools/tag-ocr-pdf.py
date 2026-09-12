@@ -10,6 +10,7 @@ and builds the PDF structure and parent trees needed for real tagged content.
 from __future__ import annotations
 
 import argparse
+from collections import Counter
 import json
 import re
 import statistics
@@ -22,10 +23,13 @@ import pikepdf
 from pikepdf import Array, Dictionary, Name, Operator, String
 
 
-HEADING_PREFIX = re.compile(
-    r"^(?:chapter|part|section|appendix|title)\b", re.IGNORECASE
+MAJOR_HEADING = re.compile(
+    r"^(?:chapter\s+[ivxlcdm0-9]+|part\s+[ivxlcdm0-9]+|"
+    r"appendix\s+[a-z0-9]+|section\s+[a-z0-9]+)"
+    r"(?:\s*[-—:]\s*[^,.]{1,80})?$",
+    re.IGNORECASE,
 )
-LETTERED_HEADING = re.compile(r"^[A-Z0-9]{1,4}[.)]\s+[A-Z]")
+LETTERED_HEADING = re.compile(r"^[A-Z]{1,4}[.)]\s+[A-Z]")
 PAGE_NUMBER = re.compile(r"^(?:[ivxlcdm]+|\d+[a-z]?)$", re.IGNORECASE)
 GOOGLE_FOOTER = re.compile(r"^digitized\s+by\s+google$", re.IGNORECASE)
 WORD_END = re.compile(r"[.!?][\"'’”)]*$")
@@ -218,21 +222,46 @@ def letter_stats(text: str) -> tuple[int, float]:
 def classify_lines(lines: list[OcrLine], page_width: float) -> None:
     ordinary_sizes = [line.size for line in lines if 8 <= line.size <= 30]
     median_size = statistics.median(ordinary_sizes) if ordinary_sizes else 12.0
+    normalized = [re.sub(r"\s+", " ", line.text.strip().upper()) for line in lines]
+    repeated_labels = Counter(text for text in normalized if 2 <= len(text.split()) <= 5)
+    table_markers = [
+        index
+        for index, text in enumerate(normalized)
+        if text.startswith("TABLE ")
+        or text.startswith("APPENDIX TABLE ")
+        or " STOCKHOLDER RANK" in text
+        or "TRUST DEPARTMENT RANK" in text
+    ]
+    numeric_lines = sum(
+        line.text.count(".") >= 4
+        or sum(character.isdigit() for character in line.text)
+        > max(5, sum(character.isalpha() for character in line.text) // 2)
+        for line in lines
+    )
+    table_heavy = (
+        bool(table_markers)
+        or numeric_lines >= max(6, len(lines) // 6)
+        or max(repeated_labels.values(), default=0) >= 3
+    )
+    table_start = min(table_markers) if table_markers else 0
 
     for index, line in enumerate(lines):
         stripped = line.text.strip()
         letters, uppercase_ratio = letter_stats(stripped)
         words = stripped.split()
+        unique_letters = {character.upper() for character in stripped if character.isalpha()}
+        noise_like = letters > 20 and len(unique_letters) / letters < 0.11
         if (
             GOOGLE_FOOTER.fullmatch(stripped)
             or PAGE_NUMBER.fullmatch(stripped)
             or letters < 2
+            or noise_like
             or (len(stripped) <= 5 and sum(char.isalnum() for char in stripped) <= 2)
         ):
             line.artifact = True
             continue
 
-        strong_prefix = bool(HEADING_PREFIX.match(stripped))
+        strong_prefix = bool(MAJOR_HEADING.fullmatch(stripped))
         lettered = bool(LETTERED_HEADING.match(stripped)) and uppercase_ratio >= 0.72
         previous_is_table_title = index > 0 and lines[index - 1].text.lower().startswith(
             "table "
@@ -248,17 +277,11 @@ def classify_lines(lines: list[OcrLine], page_width: float) -> None:
             and uppercase_ratio >= 0.90
             and not WORD_END.search(stripped)
             and not previous_is_table_title
-        )
-        visually_prominent = (
-            line.size >= median_size * 1.32
-            and len(words) <= 10
-            and len(stripped) <= 100
-            and uppercase_ratio >= 0.72
+            and not (table_heavy and index >= table_start)
         )
 
-        if not table_like and (strong_prefix or lettered or all_caps or visually_prominent):
-            centered = abs(line.x - page_width * 0.25) < page_width * 0.24
-            if strong_prefix or (centered and line.size >= median_size * 1.45):
+        if not table_like and (strong_prefix or lettered or all_caps):
+            if strong_prefix:
                 line.heading = "H1"
             else:
                 line.heading = "H2"
@@ -333,11 +356,14 @@ def build_blocks(lines: list[OcrLine]) -> list[LogicalBlock]:
             active.append(line)
             continue
         previous = active[-1]
-        category_changed = (
-            line.artifact != previous.artifact
-            or line.heading != previous.heading
-            or line.heading is not None
-        )
+        category_changed = line.artifact != previous.artifact or line.heading != previous.heading
+        if line.heading is not None and previous.heading == line.heading:
+            vertical_gap = previous.y - line.y
+            if (
+                line.y > previous.y + gap
+                or vertical_gap > gap * 1.30
+            ):
+                category_changed = True
         if category_changed or (
             not line.artifact
             and line.heading is None
