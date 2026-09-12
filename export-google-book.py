@@ -336,6 +336,7 @@ def wait_for_next_page(page, old_digest, timeout=15):
 
 
 def main():
+    files = []
     existing = sorted(OUT_DIR.glob("*.png"))
 
     if existing:
