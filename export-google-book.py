@@ -18,9 +18,8 @@ PROFILE = Path(".google-books-browser")
 MAX_PAGES = 500
 WRITE_WORKERS = 4
 
-# Navigation is intentionally simple: this reader reliably advances with
-# ArrowRight. Send exactly one keypress per captured page and observe the
-# fixed visible page rectangle before doing anything else.
+# Prefer the reader iframe navigation controls; use ArrowRight as a fallback.
+# Observe the rendered page before capturing or issuing another navigation.
 NAV_CHANGE_TIMEOUT = 12.0
 NAV_OBSERVE_ROUNDS = 5
 NAV_KEY_ATTEMPTS = 4
@@ -330,6 +329,7 @@ def _parse_int(text):
 def page_number_controls(page):
     """Yield visible controls that look like Google Books page-number inputs."""
     selectors = [
+        'input[type="range"][aria-valuetext*="page" i]',
         'input[aria-label*="page" i]',
         'input[title*="page" i]',
         'input[placeholder*="page" i]',
@@ -371,6 +371,8 @@ def read_reader_page_number(page):
                 value = control.text_content()
             number = _parse_int(value)
             if number is not None:
+                if control.get_attribute("type") == "range":
+                    return number - int(control.get_attribute("min") or 0) + 1
                 return number
         except Exception:
             continue
@@ -380,7 +382,7 @@ def read_reader_page_number(page):
 def jump_to_reader_page(page, target, attempts=START_JUMP_ATTEMPTS):
     """Automatically move Google Play Books to a requested reader page.
 
-    This only uses a visible page-number control. It does not guess by firing a
+    This uses a visible page slider or page-number control. It does not guess by firing a
     large number of ArrowRight events, so restarting cannot accidentally skip
     through the book.
     """
@@ -400,11 +402,23 @@ def jump_to_reader_page(page, target, attempts=START_JUMP_ATTEMPTS):
             try:
                 _, old_digest, _, old_box = capture_page(page)
                 old_visual = visible_page_digest(page, old_box)
-                control.click(force=True)
-
-                control.fill(str(target))
-
-                control.press('Enter')
+                if control.get_attribute("type") == "range":
+                    minimum = int(control.get_attribute("min") or 0)
+                    value = minimum + target - 1
+                    maximum = control.get_attribute("max")
+                    if maximum is not None and value > int(maximum):
+                        return False
+                    control.evaluate(
+                        """(el, value) => {
+                            el.value = String(value);
+                            el.dispatchEvent(new Event('input', {bubbles: true}));
+                            el.dispatchEvent(new Event('change', {bubbles: true}));
+                        }""",
+                        value,
+                    )
+                else:
+                    control.fill(str(target))
+                    control.press('Enter')
                 print(
                     f"    restart jump attempt {attempt}/{attempts}: "
                     f"requested reader page {target}"
@@ -490,11 +504,24 @@ def blur_reader_focus(page):
             pass
 
 
+def send_next_page(page):
+    """Use the actual reader button without relying on top-level key focus."""
+    for frame in page.frames:
+        button = frame.get_by_role("button", name="Next Page", exact=True)
+        if button.count() and button.first.is_visible():
+            if not button.first.is_enabled():
+                return None
+            button.first.click()
+            return "Next Page button"
+    page.keyboard.press("ArrowRight")
+    return "ArrowRight"
+
+
 def advance_page(page, old_box, old_page_digest):
     """Advance one page, with many checks but no blind double-skip retries.
 
-    The first ArrowRight is always sent. We then run several observation rounds.
-    Another ArrowRight is sent only if a readable page-number field positively
+    Send one navigation action, then run several observation rounds.
+    Another action is sent only if a readable page-number control positively
     confirms that the reader is STILL on the old page.
     """
     blur_reader_focus(page)
@@ -509,13 +536,16 @@ def advance_page(page, old_box, old_page_digest):
         blur_reader_focus(page)
 
         try:
-            page.keyboard.press("ArrowRight")
+            action = send_next_page(page)
+            if action is None:
+                print("    Next Page button is disabled")
+                return False
         except Exception as exc:
-            print(f"    ArrowRight failed to send: {exc}")
+            print(f"    Next-page navigation failed: {exc}")
             return False
 
         print(
-            f"    ArrowRight attempt {key_attempt}/{NAV_KEY_ATTEMPTS}; "
+            f"    {action} attempt {key_attempt}/{NAV_KEY_ATTEMPTS}; "
             f"checking for the new page..."
         )
 
@@ -530,7 +560,7 @@ def advance_page(page, old_box, old_page_digest):
             )
             if changed:
                 print(
-                    f"    advanced with ArrowRight "
+                    f"    advanced with {action} "
                     f"(confirmed by {reason}, check {observe_round}/{NAV_OBSERVE_ROUNDS})"
                 )
                 return True
@@ -545,15 +575,14 @@ def advance_page(page, old_box, old_page_digest):
         if old_reader_number is None:
             print(
                 "    could not safely verify the reader stayed on the old page; "
-                "not sending another ArrowRight"
+                "not sending another navigation action"
             )
             return False
 
         current = read_reader_page_number(page)
         if current is None:
             print(
-                "    page counter became unreadable; not sending another "
-                "ArrowRight because that could skip a page"
+                "    page counter became unreadable; stopping to avoid skipping a page"
             )
             return False
 
@@ -566,13 +595,13 @@ def advance_page(page, old_box, old_page_digest):
 
         if key_attempt < NAV_KEY_ATTEMPTS:
             print(
-                f"    reader counter still says {current}; safe to retry ArrowRight"
+                f"    reader counter still says {current}; retrying next-page navigation"
             )
             time.sleep(0.75)
 
     print(
         f"    reader counter stayed at {old_reader_number} after "
-        f"{NAV_KEY_ATTEMPTS} ArrowRight attempts"
+        f"{NAV_KEY_ATTEMPTS} navigation attempts"
     )
     return False
 
@@ -620,7 +649,7 @@ def parse_args():
         type=int,
         default=None,
         help=(
-            "Google Play Books reader page to jump to on startup. If omitted, "
+            "One-based scan position (including front matter) to jump to on startup. If omitted, "
             "use the same number as the resume/output start page."
         ),
     )

@@ -94,6 +94,33 @@ class ReaderNavigationTests(unittest.TestCase):
         self.assertEqual(self.page.evaluate('window.turns'), 1)
         self.assertNotEqual(exporter.capture_page(self.page)[1], digest)
 
+    def test_iframe_slider_jump_and_next_button(self):
+        self.page.set_content('<iframe style="width:600px;height:650px"></iframe>')
+        frame = self.page.frames[1]
+        frame.set_content('''<canvas width="400" height="500"></canvas>
+            <input type="range" min="0" max="442" value="45"
+                   aria-valuetext="Page 30">
+            <button aria-label="Next Page">Next</button>
+            <script>
+            const slider = document.querySelector('input');
+            const ctx = document.querySelector('canvas').getContext('2d');
+            function render() {
+                ctx.fillStyle = Number(slider.value) % 2 ? 'maroon' : 'navy';
+                ctx.fillRect(0, 0, 400, 500);
+            }
+            render();
+            slider.onchange = () => setTimeout(render, 100);
+            document.querySelector('button').onclick = () => {
+                slider.value = Number(slider.value) + 1;
+                setTimeout(render, 100);
+            };
+            </script>''')
+        self.assertEqual(exporter.read_reader_page_number(self.page), 46)
+        self.assertTrue(exporter.jump_to_reader_page(self.page, 47, attempts=1))
+        _, digest, _, box = exporter.capture_page(self.page)
+        self.assertTrue(exporter.advance_page(self.page, box, digest))
+        self.assertEqual(exporter.read_reader_page_number(self.page), 48)
+
 
 if __name__ == '__main__':
     unittest.main()
