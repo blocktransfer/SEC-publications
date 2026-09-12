@@ -1,4 +1,4 @@
-this is the secord refefnce in the yellowpaper
+this is the secord refefnce in https://blocktransfer.com/.well-known/yellowpaper.pdf ()
 
 https://play.google.com/store/books/details?id=DaJvZJZP0ncC
 
