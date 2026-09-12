@@ -440,14 +440,13 @@ def main():
                             pass
 
                 # Google documents all four of these as "next page".
-                for key in ("n", "j", "ArrowRight", "PageUp"):
+                for key in ("n", "j", "ArrowRight"):
                     try:
                         page.keyboard.press(key)
 
                         if wait_for_next_page(
                             page,
                             old_digest,
-                            timeout=30,
                         ):
                             print(f"    advanced with {key}")
                             return True
@@ -480,7 +479,6 @@ def main():
                                 if wait_for_next_page(
                                     page,
                                     old_digest,
-                                    timeout=5,
                                 ):
                                     print(
                                         "    advanced with next-page button"
