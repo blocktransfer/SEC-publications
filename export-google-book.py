@@ -336,7 +336,14 @@ def wait_for_next_page(page, old_digest, timeout=15):
 
 
 def main():
-    files = []
+    existing = sorted(OUT_DIR.glob("*.png"))
+
+    if existing:
+        files.extend(existing)
+        start_number = len(existing) + 1
+        print(f"Resuming at page {start_number}")
+    else:
+        start_number = 1
 
     with sync_playwright() as p:
         context = p.chromium.launch_persistent_context(
@@ -375,7 +382,7 @@ def main():
 
         seen = set()
 
-        for n in range(1, MAX_PAGES + 1):
+        for n in range(start_number, MAX_PAGES + 1):
             png, digest, tag, box = capture_page(page)
 
             # Avoid accidentally writing duplicate pages.
