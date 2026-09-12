@@ -59,6 +59,7 @@ def ollama_chat(
 ) -> str:
     payload = {
         "model": model,
+        "think": False,
         "messages": [
             {
                 "role": "user",
@@ -71,6 +72,7 @@ def ollama_chat(
         "options": {
             "temperature": 0,
             "num_ctx": 8192 if model.startswith("deepseek-ocr") else 32768,
+            "num_predict": 8192 if model.startswith("deepseek-ocr") else 16384,
         },
     }
     if schema:
@@ -119,7 +121,8 @@ def extract_visual_text(
         "Do not modernize spelling and do not infer obscured characters. Mark an "
         "unreadable character with [?]. Return plain text only."
     )
-    return ollama_chat(args.endpoint, args.extract_model, prompt, image, "")
+    result = ollama_chat(args.endpoint, args.extract_model, prompt, image, "")
+    return re.sub(r"<\|[^>]+\|>", "", result).strip()
 
 
 def decision_schema(block_ids: list[str]) -> dict[str, object]:
@@ -128,6 +131,8 @@ def decision_schema(block_ids: list[str]) -> dict[str, object]:
         "properties": {
             "decisions": {
                 "type": "array",
+                "minItems": len(block_ids),
+                "maxItems": len(block_ids),
                 "items": {
                     "type": "object",
                     "properties": {
@@ -207,18 +212,39 @@ Specialist visual transcript (may also contain errors):
 Blocks:
 {json.dumps(compact_blocks, ensure_ascii=False, separators=(',', ':'))}
 """
-    raw = ollama_chat(
-        args.endpoint,
-        args.review_model,
-        prompt,
-        image,
-        decision_schema([str(block["id"]) for block in blocks]),
-    )
-    result = json.loads(raw)
     expected = [str(block["id"]) for block in blocks]
-    received = [decision.get("id") for decision in result.get("decisions", [])]
-    if received != expected:
-        raise ValueError(f"page {page}: model returned incomplete or reordered block IDs")
+    schema = decision_schema(expected)
+    result: dict[str, object] | None = None
+    for attempt in range(2):
+        attempt_prompt = prompt
+        if attempt:
+            attempt_prompt += (
+                "\nYour previous response omitted or duplicated block IDs. Return each "
+                "listed ID exactly once."
+            )
+        raw = ollama_chat(
+            args.endpoint,
+            args.review_model,
+            attempt_prompt,
+            image,
+            schema,
+        )
+        try:
+            candidate = json.loads(raw)
+        except json.JSONDecodeError:
+            if attempt == 0:
+                continue
+            raise ValueError(f"page {page}: model returned malformed JSON twice")
+        received = [
+            decision.get("id") for decision in candidate.get("decisions", [])
+        ]
+        if len(received) == len(expected) and set(received) == set(expected):
+            by_id = {decision["id"]: decision for decision in candidate["decisions"]}
+            candidate["decisions"] = [by_id[block_id] for block_id in expected]
+            result = candidate
+            break
+    if result is None:
+        raise ValueError(f"page {page}: model returned incomplete or duplicate block IDs")
     return {
         "page": page,
         "extract_model": None if args.skip_extractor else args.extract_model,

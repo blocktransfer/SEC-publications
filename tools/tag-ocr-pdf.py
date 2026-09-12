@@ -567,6 +567,7 @@ def tag_pdf(
         "input": str(reported_input or input_path),
         "output": str(reported_output or output_path),
         "pages": 0,
+        "tagged_pages": 0,
         "paragraphs": 0,
         "headings": [],
         "artifact_blocks": 0,
@@ -583,6 +584,7 @@ def tag_pdf(
     }
 
     with pikepdf.open(input_path) as pdf:
+        report["pages"] = len(pdf.pages)
         structure_root = pdf.make_indirect(Dictionary(Type=Name("/StructTreeRoot")))
         document = pdf.make_indirect(
             Dictionary(Type=Name("/StructElem"), S=Name("/Document"), P=structure_root)
@@ -662,7 +664,7 @@ def tag_pdf(
             parent_numbers.extend([parent_key, pdf.make_indirect(parents)])
             parent_key += 1
             page.obj["/Tabs"] = Name("/S")
-            report["pages"] = int(report["pages"]) + 1
+            report["tagged_pages"] = int(report["tagged_pages"]) + 1
 
         parent_tree = pdf.make_indirect(Dictionary(Nums=parent_numbers))
         structure_root["/ParentTree"] = parent_tree
@@ -715,7 +717,7 @@ def main() -> int:
 
     print(f"Created tagged PDF: {args.output}")
     print(f"Created tagging report: {report_path}")
-    print(f"Tagged OCR pages: {report['pages']}")
+    print(f"Tagged OCR pages: {report['tagged_pages']}/{report['pages']}")
     print(f"Paragraphs: {report['paragraphs']}")
     print(f"Headings: {len(report['headings'])}")
     print("Heading detection is heuristic; review the JSON report against the scan.")
