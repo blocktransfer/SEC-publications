@@ -128,6 +128,7 @@ class CommandLineTests(unittest.TestCase):
         output_dir, output_pdf = exporter.output_paths(args.book_id)
 
         self.assertEqual(args.book_id, "ctmJB8IRXQcC")
+        self.assertIsNone(args.max_pages)
         self.assertEqual(output_dir, Path("ctmJB8IRXQcC-pages"))
         self.assertEqual(output_pdf, Path("ctmJB8IRXQcC.pdf"))
         self.assertEqual(
@@ -140,8 +141,10 @@ class CommandLineTests(unittest.TestCase):
             "ctmJB8IRXQcC",
             "--output-dir", "captures/book",
             "--output-pdf", "captures/book.pdf",
+            "--max-pages", "860",
         ])
 
+        self.assertEqual(args.max_pages, 860)
         self.assertEqual(
             exporter.output_paths(
                 args.book_id, args.output_dir, args.output_pdf,

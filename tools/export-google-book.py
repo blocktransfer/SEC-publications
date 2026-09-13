@@ -16,7 +16,6 @@ READER_URL = "https://play.google.com/books/reader"
 BOOK_ID_PATTERN = re.compile(r"^[A-Za-z0-9_-]+$")
 PROFILE = Path(".google-books-browser")
 
-MAX_PAGES = 500
 WRITE_WORKERS = 4
 
 # Prefer the reader iframe navigation controls; use ArrowRight as a fallback.
@@ -715,8 +714,8 @@ def parse_args(argv=None):
     parser.add_argument(
         "--max-pages",
         type=int,
-        default=MAX_PAGES,
-        help="Highest output page number to capture.",
+        default=None,
+        help="Optional highest output page number to capture (default: no limit).",
     )
     parser.add_argument(
         "--workers",
@@ -800,7 +799,7 @@ def main():
             thread_name_prefix="page-writer",
         ) as pool:
             n = start_number
-            while n <= args.max_pages:
+            while args.max_pages is None or n <= args.max_pages:
                 png, digest, tag, box = capture_page(page, verbose=False)
 
                 if digest in seen:
@@ -832,7 +831,7 @@ def main():
                 else:
                     print(f"{n:04d}: → {filename}")
 
-                if n >= args.max_pages:
+                if args.max_pages is not None and n >= args.max_pages:
                     break
 
                 if not advance_page(page, box, digest):
