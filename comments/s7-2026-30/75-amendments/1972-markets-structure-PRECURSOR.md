@@ -1,3 +1,11 @@
+
+
+the big ref here is teh cus eof commissions as consiodatn for othr serveices -- and tat wasnt benig handes by nasd
+
+
+
+
+
 # 1972 — Future Structure of Securities Markets
 
 SEC general statement of policy, published at **37 FR 5286–5293 (Mar. 14, 1972)** and dated February 2, 1972. It is an early Commission blueprint for tying formerly separate exchange and OTC markets into a central market system.
