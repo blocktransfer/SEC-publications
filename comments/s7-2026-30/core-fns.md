@@ -3,6 +3,8 @@
 [da-dtcc-ts]: https://lnns.co/O8NUZfc1KGe (I think there was passing ref to title of https://genfinity.io/2025/04/30/dtcc-on-chain-patent-global-finance-takeover/ - which includes a 30sec X
 video of just Dan)
 
+[12m-report]: q
+
 [dan-note]: https://notes.wooten.link/2026/5/6
 
 [peirce-ta-proposal-statement]: https://www.sec.gov/newsroom/speeches-statements/peirce-transfer-agent-rules-090126-time-transfer-statement-proposed-transfer-agent-rules
