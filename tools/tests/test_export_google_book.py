@@ -122,5 +122,37 @@ class ReaderNavigationTests(unittest.TestCase):
         self.assertEqual(exporter.read_reader_page_number(self.page), 48)
 
 
+class CommandLineTests(unittest.TestCase):
+    def test_book_id_selects_isolated_default_outputs(self):
+        args = exporter.parse_args(["ctmJB8IRXQcC"])
+        output_dir, output_pdf = exporter.output_paths(args.book_id)
+
+        self.assertEqual(args.book_id, "ctmJB8IRXQcC")
+        self.assertEqual(output_dir, Path("ctmJB8IRXQcC-pages"))
+        self.assertEqual(output_pdf, Path("ctmJB8IRXQcC.pdf"))
+        self.assertEqual(
+            exporter.reader_url(args.book_id),
+            "https://play.google.com/books/reader?id=ctmJB8IRXQcC",
+        )
+
+    def test_custom_output_paths_are_preserved(self):
+        args = exporter.parse_args([
+            "ctmJB8IRXQcC",
+            "--output-dir", "captures/book",
+            "--output-pdf", "captures/book.pdf",
+        ])
+
+        self.assertEqual(
+            exporter.output_paths(
+                args.book_id, args.output_dir, args.output_pdf,
+            ),
+            (Path("captures/book"), Path("captures/book.pdf")),
+        )
+
+    def test_path_like_book_id_is_rejected(self):
+        with self.assertRaises(exporter.argparse.ArgumentTypeError):
+            exporter.book_id("../another-book")
+
+
 if __name__ == '__main__':
     unittest.main()

@@ -4,15 +4,16 @@ from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor
 import argparse
 import hashlib
+import re
 import time
+from urllib.parse import urlencode
 
 import img2pdf
 from playwright.sync_api import sync_playwright
 
 
-URL = "https://play.google.com/books/reader?id=DaJvZJZP0ncC"
-OUT_DIR = Path("disclosure-corporate-ownership-pages")
-OUT_PDF = Path("Disclosure_of_Corporate_Ownership.pdf")
+READER_URL = "https://play.google.com/books/reader"
+BOOK_ID_PATTERN = re.compile(r"^[A-Za-z0-9_-]+$")
 PROFILE = Path(".google-books-browser")
 
 MAX_PAGES = 500
@@ -25,9 +26,6 @@ NAV_OBSERVE_ROUNDS = 5
 NAV_KEY_ATTEMPTS = 4
 RENDER_SETTLE_SECONDS = 1.2
 START_JUMP_ATTEMPTS = 6
-
-OUT_DIR.mkdir(exist_ok=True)
-
 
 FIND_PAGE_CANDIDATE = r"""
 () => {
@@ -610,19 +608,19 @@ def write_png(path, data):
     return path
 
 
-def existing_page_images():
+def existing_page_images(output_dir):
     """Return existing PNGs in filename order.
 
     Resume numbering deliberately uses the *count* of PNG files, matching the
     original script's logic: len(existing) + 1.
     """
-    return sorted(OUT_DIR.glob("*.png"))
+    return sorted(output_dir.glob("*.png"))
 
 
-def numbered_existing_pages():
+def numbered_existing_pages(output_dir):
     """Return numeric PNG filenames in numeric order for PDF assembly."""
     pages = []
-    for path in OUT_DIR.glob("*.png"):
+    for path in output_dir.glob("*.png"):
         try:
             number = int(path.stem)
         except ValueError:
@@ -631,9 +629,52 @@ def numbered_existing_pages():
     return sorted(pages)
 
 
-def parse_args():
+def book_id(value):
+    """Validate a Google Books volume ID for use in URLs and output names."""
+    value = value.strip()
+    if not BOOK_ID_PATTERN.fullmatch(value):
+        raise argparse.ArgumentTypeError(
+            "book ID must contain only letters, numbers, underscores, or hyphens"
+        )
+    return value
+
+
+def reader_url(book):
+    """Build the Google Play Books reader URL for a volume ID."""
+    return f"{READER_URL}?{urlencode({'id': book})}"
+
+
+def output_paths(book, output_dir=None, output_pdf=None):
+    """Return isolated default output paths for a book capture."""
+    return (
+        output_dir or Path(f"{book}-pages"),
+        output_pdf or Path(f"{book}.pdf"),
+    )
+
+
+def parse_args(argv=None):
     parser = argparse.ArgumentParser(
-        description="Capture accessible Google Play Books pages into a PDF."
+        description="Capture accessible Google Play Books pages into a PDF.",
+        epilog=(
+            "Example: %(prog)s ctmJB8IRXQcC --max-pages 50"
+        ),
+    )
+    parser.add_argument(
+        "book_id",
+        type=book_id,
+        help="Google Books volume ID, such as ctmJB8IRXQcC.",
+    )
+    parser.add_argument(
+        "--output-dir",
+        type=Path,
+        default=None,
+        help="PNG directory (default: <book-id>-pages).",
+    )
+    parser.add_argument(
+        "--output-pdf",
+        type=Path,
+        default=None,
+        help="PDF path (default: <book-id>.pdf).",
     )
     parser.add_argument(
         "--start",
@@ -665,12 +706,19 @@ def parse_args():
         default=WRITE_WORKERS,
         help="Background image-write threads (browser automation stays serial).",
     )
-    return parser.parse_args()
+    return parser.parse_args(argv)
 
 
 def main():
     args = parse_args()
-    existing = existing_page_images()
+    output_dir, output_pdf = output_paths(
+        args.book_id,
+        args.output_dir,
+        args.output_pdf,
+    )
+    output_dir.mkdir(parents=True, exist_ok=True)
+    output_pdf.parent.mkdir(parents=True, exist_ok=True)
+    existing = existing_page_images(output_dir)
 
     if args.start is not None:
         start_number = max(1, args.start)
@@ -679,7 +727,7 @@ def main():
 
     if existing:
         print(
-            f"Found {len(existing)} existing PNG(s) in {OUT_DIR}; "
+            f"Found {len(existing)} existing PNG(s) in {output_dir}; "
             f"capture numbering starts at {start_number}."
         )
 
@@ -695,7 +743,7 @@ def main():
         page = pages[0] if pages else context.new_page()
 
         page.goto(
-            URL,
+            reader_url(args.book_id),
             wait_until="domcontentloaded",
             timeout=60000,
         )
@@ -710,10 +758,11 @@ def main():
 
         print()
         print("Google Play Books is open.")
+        print(f"Book ID: {args.book_id}")
         print("Use SINGLE-PAGE mode and make sure no menu covers the page.")
         print(
             f"The first captured file will be "
-            f"{OUT_DIR / f'{start_number:04d}.png'}"
+            f"{output_dir / f'{start_number:04d}.png'}"
         )
 
         if reader_page >= 1:
@@ -760,7 +809,7 @@ def main():
                         break
                     continue
 
-                filename = OUT_DIR / f"{n:04d}.png"
+                filename = output_dir / f"{n:04d}.png"
                 pending_writes.append(
                     pool.submit(write_png, filename, png)
                 )
@@ -794,15 +843,15 @@ def main():
 
         context.close()
 
-    all_pages = [p for _, p in numbered_existing_pages()]
+    all_pages = [p for _, p in numbered_existing_pages(output_dir)]
     if not all_pages:
         raise RuntimeError("No page images were saved.")
 
     print(f"\nCombining {len(all_pages)} pages...")
-    with OUT_PDF.open("wb") as f:
+    with output_pdf.open("wb") as f:
         f.write(img2pdf.convert([str(x) for x in all_pages]))
 
-    print(f"Created: {OUT_PDF}")
+    print(f"Created: {output_pdf}")
     print(f"Pages:   {len(all_pages)}")
 
 
