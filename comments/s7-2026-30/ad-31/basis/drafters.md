@@ -3,11 +3,11 @@ compleixft re the edgar-comment at 23
 https://storage.courtlistener.com/harvard_pdf/303985.pdf
 
 # Casey - 71
-https://www.govinfo.gov/content/pkg/FR-1970-10-03/pdf/FR-1970-10-03.pdf?utm_source=chatgpt.com
+https://www.govinfo.gov/content/pkg/FR-1970-10-03/pdf/FR-1970-10-03.pdf
 1. Seller “deemed not to be engaged in a distribution and therefore not to be an underwriter”
 
 # Budge - 70
-https://www.govinfo.gov/content/pkg/FR-1971-09-17/pdf/FR-1971-09-17.pdf?utm_source=chatgpt.com
+https://www.govinfo.gov/content/pkg/FR-1971-09-17/pdf/FR-1971-09-17.pdf
 1. Seller “presumed not to be an underwriter”
 
 ## other
