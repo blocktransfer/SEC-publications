@@ -628,6 +628,26 @@ def numbered_existing_pages(output_dir):
     return sorted(pages)
 
 
+def prompt_to_remove_last_page(output_dir, prompt=input):
+    """Offer to discard a trailing reader-completion screen."""
+    pages = numbered_existing_pages(output_dir)
+    if not pages:
+        return False
+
+    last_page = pages[-1][1]
+    answer = prompt(
+        f"Is {last_page.name} a reading-complete screen rather than a book "
+        "page? Remove it? [y/N]: "
+    ).strip().lower()
+    if answer not in {"y", "yes"}:
+        print(f"Kept final capture: {last_page}")
+        return False
+
+    last_page.unlink()
+    print(f"Removed final capture: {last_page}")
+    return True
+
+
 def book_id(value):
     """Validate a Google Books volume ID for use in URLs and output names."""
     value = value.strip()
@@ -848,6 +868,8 @@ def main():
             for future in pending_writes:
                 future.result()
 
+        print()
+        prompt_to_remove_last_page(output_dir)
         context.close()
 
     all_pages = [p for _, p in numbered_existing_pages(output_dir)]
