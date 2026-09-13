@@ -37,7 +37,7 @@ Source: [Federal Register, March 14, 1972, 37 FR 5286–5293](https://www.govinf
 
 # Owens and BAnkrutpy
 
-he was teh guy who dssened and was a past achair 
+he was teh guy who dssened at 21 and was a past achair 
 
 he was a subsattive figue at the sipc 
 https://www.sipc.org/media/annual-reports/1990-annual-report.pdf
