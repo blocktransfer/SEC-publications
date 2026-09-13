@@ -25,11 +25,19 @@ from pikepdf import Array, Dictionary, Name, Operator, String
 
 MAJOR_HEADING = re.compile(
     r"^(?:chapter\s+[ivxlcdm0-9]+|part\s+[ivxlcdm0-9]+|"
-    r"appendix\s+[a-z0-9]+|section\s+[a-z0-9]+)"
+    r"appendix\s+[a-z0-9]+)"
     r"(?:\s*[-—:]\s*[^,.]{1,80})?$",
     re.IGNORECASE,
 )
-LETTERED_HEADING = re.compile(r"^[A-Z]{1,4}[.)]\s+[A-Z]")
+SECTION_HEADING = re.compile(
+    r"^section\s+[a-z0-9]+(?:\s*[-—:]\s*[^,.]{1,80})?$", re.IGNORECASE
+)
+DEEP_HEADING_PATTERNS = (
+    ("H6", re.compile(r"^\([ivxlcdm]{1,8}\)\s+[A-Z]")),
+    ("H5", re.compile(r"^(?:[a-z][.)]|\([a-z]\))\s+[A-Z]")),
+    ("H4", re.compile(r"^(?:\d{1,3}[.)]|\(\d{1,3}\))\s+[A-Z]")),
+    ("H3", re.compile(r"^[A-Z]{1,4}[.)]\s+[A-Z]")),
+)
 PAGE_NUMBER = re.compile(r"^(?:[ivxlcdm]+|\d+[a-z]?)$", re.IGNORECASE)
 GOOGLE_FOOTER = re.compile(r"^digitized\s+by\s+google$", re.IGNORECASE)
 WORD_END = re.compile(r"[.!?][\"'’”)]*$")
@@ -253,7 +261,27 @@ def letter_stats(text: str) -> tuple[int, float]:
     return len(letters), uppercase / len(letters)
 
 
-def classify_lines(lines: list[OcrLine], _page_width: float) -> None:
+def deep_heading_level(text: str) -> str | None:
+    letters, uppercase_ratio = letter_stats(text)
+    words = text.split()
+    if (
+        not 5 <= letters <= 85
+        or not 2 <= len(words) <= 11
+        or uppercase_ratio < 0.72
+        or WORD_END.search(text)
+    ):
+        return None
+    for level, pattern in DEEP_HEADING_PATTERNS:
+        if pattern.match(text):
+            return level
+    return None
+
+
+def classify_lines(
+    lines: list[OcrLine],
+    _page_width: float,
+    enabled_deep_headings: set[str] | None = None,
+) -> None:
     normalized = [re.sub(r"\s+", " ", line.text.strip().upper()) for line in lines]
     repeated_labels = Counter(text for text in normalized if 2 <= len(text.split()) <= 5)
     table_markers = [
@@ -294,7 +322,10 @@ def classify_lines(lines: list[OcrLine], _page_width: float) -> None:
             continue
 
         strong_prefix = bool(MAJOR_HEADING.fullmatch(stripped))
-        lettered = bool(LETTERED_HEADING.match(stripped)) and uppercase_ratio >= 0.72
+        section_prefix = bool(SECTION_HEADING.fullmatch(stripped))
+        deep_level = deep_heading_level(stripped)
+        if deep_level not in (enabled_deep_headings or set()):
+            deep_level = None
         previous_is_table_title = index > 0 and lines[index - 1].text.lower().startswith(
             "table "
         )
@@ -313,9 +344,11 @@ def classify_lines(lines: list[OcrLine], _page_width: float) -> None:
             and not (table_heavy and index >= table_start)
         )
 
-        if not table_like and (strong_prefix or lettered or all_caps):
+        if not table_like and (strong_prefix or section_prefix or deep_level or all_caps):
             if strong_prefix:
                 line.heading = "H1"
+            elif deep_level:
+                line.heading = deep_level
             else:
                 line.heading = "H2"
             line.table = False
@@ -371,6 +404,10 @@ def apply_review(
         "body": "P",
         "heading1": "H1",
         "heading2": "H2",
+        "heading3": "H3",
+        "heading4": "H4",
+        "heading5": "H5",
+        "heading6": "H6",
         "table": "Div",
         "artifact": None,
     }
@@ -430,7 +467,14 @@ def build_blocks(lines: list[OcrLine]) -> list[LogicalBlock]:
             kind = "artifact"
         elif active[0].heading:
             tag = active[0].heading
-            kind = "heading1" if tag == "H1" else "heading2"
+            kind = {
+                "H1": "heading1",
+                "H2": "heading2",
+                "H3": "heading3",
+                "H4": "heading4",
+                "H5": "heading5",
+                "H6": "heading6",
+            }[tag]
         elif active[0].table:
             tag = "Div"
             kind = "table"
@@ -575,16 +619,41 @@ def tag_pdf(
             "body": 0,
             "heading1": 0,
             "heading2": 0,
+            "heading3": 0,
+            "heading4": 0,
+            "heading5": 0,
+            "heading6": 0,
             "table": 0,
             "artifact": 0,
         },
         "blocks": [],
         "reviewed_blocks": 0,
         "review_warnings": [],
+        "deep_heading_profile": {},
     }
 
     with pikepdf.open(input_path) as pdf:
         report["pages"] = len(pdf.pages)
+        deep_heading_pages = {level: set() for level in ("H3", "H4", "H5", "H6")}
+        for page_number, page in enumerate(pdf.pages, start=1):
+            form = find_ocr_form(page)
+            if form is None:
+                continue
+            instructions = list(pikepdf.parse_content_stream(form))
+            for line in extract_lines(form, instructions):
+                level = deep_heading_level(line.text)
+                if level:
+                    deep_heading_pages[level].add(page_number)
+        enabled_deep_headings = {
+            level for level, pages in deep_heading_pages.items() if len(pages) >= 2
+        }
+        report["deep_heading_profile"] = {
+            level: {
+                "pages": len(deep_heading_pages[level]),
+                "enabled": level in enabled_deep_headings,
+            }
+            for level in ("H3", "H4", "H5", "H6")
+        }
         structure_root = pdf.make_indirect(Dictionary(Type=Name("/StructTreeRoot")))
         document = pdf.make_indirect(
             Dictionary(Type=Name("/StructElem"), S=Name("/Document"), P=structure_root)
@@ -603,7 +672,7 @@ def tag_pdf(
             lines = extract_lines(form, instructions)
             bbox = form.get("/BBox", Array([0, 0, 1, 1]))
             page_width = float(bbox[2]) - float(bbox[0])
-            classify_lines(lines, page_width)
+            classify_lines(lines, page_width, enabled_deep_headings)
             blocks = build_blocks(lines)
 
             for block_number, block in enumerate(blocks, start=1):
@@ -649,13 +718,13 @@ def tag_pdf(
                         K=content_reference,
                     )
                 )
-                if block.tag in {"H1", "H2"}:
+                if block.tag in {"H1", "H2", "H3", "H4", "H5", "H6"}:
                     element["/T"] = String(block.text)
                 document["/K"].append(element)
                 parents.append(element)
                 if block.tag == "P":
                     report["paragraphs"] = int(report["paragraphs"]) + 1
-                elif block.tag in {"H1", "H2"}:
+                elif block.tag in {"H1", "H2", "H3", "H4", "H5", "H6"}:
                     report["headings"].append(
                         {"page": page_number, "level": block.tag, "text": block.text}
                     )

@@ -2,15 +2,14 @@
 
 set -euo pipefail
 
-if [[ $# -lt 2 || $# -gt 4 ]]; then
-    printf 'Usage: tools/compress-and-tag-ocr-pdf.sh INPUT.pdf OUTPUT.pdf [JPEG_QUALITY] [REVIEW.jsonl]\n' >&2
+if [[ $# -lt 2 || $# -gt 3 ]]; then
+    printf 'Usage: tools/compress-and-tag-ocr-pdf.sh INPUT.pdf OUTPUT.pdf [REVIEW.jsonl]\n' >&2
     exit 2
 fi
 
 input=$1
 output=$2
-quality=${3:-45}
-review=${4:-}
+review=${3:-}
 output_stem=${output%.*}
 compression_report="$output_stem.compression.json"
 tagging_report="$output_stem.tagging.json"
@@ -53,7 +52,6 @@ compressed="$work_dir/compressed.pdf"
 
 "$tagger_python" "$script_dir/compress-pdf-images.py" \
     "$input" "$compressed" \
-    --quality "$quality" \
     --report "$compression_report" \
     --reported-output "$output"
 tagger_args=(

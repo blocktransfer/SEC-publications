@@ -143,6 +143,10 @@ def decision_schema(block_ids: list[str]) -> dict[str, object]:
                                 "body",
                                 "heading1",
                                 "heading2",
+                                "heading3",
+                                "heading4",
+                                "heading5",
+                                "heading6",
                                 "table",
                                 "artifact",
                             ],
@@ -187,7 +191,7 @@ def review_page(
     prompt = f"""You are reviewing page {page} of a low-resolution 1974 government scan.
 
 Return exactly one decision for every supplied block ID, in the same order.
-Classify each block as body, heading1, heading2, table, or artifact.
+Classify each block as body, heading1 through heading6, table, or artifact.
 
 Rules:
 - The page image is authoritative. Existing OCR and the specialist transcript are clues.
@@ -201,9 +205,11 @@ Rules:
   quantities, dollar amounts, percentages, and table values are protected evidence.
   Never normalize or guess them. If any protected token changes, confidence must be at
   least 0.98 and sensitive_change_evidence must briefly state what is visibly legible.
-- Use heading1 only for document parts, chapters, and appendices. Use heading2 for actual
-  section headings. Running headers, page numbers, scan marks, and Google footers are
-  artifacts.
+- Use heading1 only for document parts, chapters, and appendices. Use heading2 for
+  primary sections, heading3 for lettered subsections, heading4 for numbered
+  subsections, heading5 for lowercase clauses, and heading6 for parenthesized Roman
+  subclauses. Assign a deep level only when the hierarchy is consistent in the
+  document. Running headers, page numbers, scan marks, and Google footers are artifacts.
 - If uncertain, retain the supplied text and explain the uncertainty in notes.
 
 Specialist visual transcript (may also contain errors):
