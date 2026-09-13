@@ -5,9 +5,7 @@ was a past achair
 he was a subsattive figue at the sipc 
 https://www.sipc.org/media/annual-reports/1990-annual-report.pdf
 
-## Dissent Text 
-
-### COMMISSIONER OWENS DISSENTING IN PART
+## Dissent Text
 
 I concur in all respects with the stand of my colleagues in the “Statement on the future structure of the securities markets” except that I cannot agree with their conclusions regarding institutional membership and the related issues of institutional management and brokerage.
 
