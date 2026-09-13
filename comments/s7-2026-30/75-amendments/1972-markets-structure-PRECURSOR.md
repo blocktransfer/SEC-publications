@@ -3,6 +3,11 @@
 the big ref here is teh cus eof commissions as consiodatn for othr serveices -- and tat wasnt benig handes by nasd
 
 
+the cite src annoecement is https://www.sec.gov/news/digest/1972/dig020472.pdf
+
+> we visualize the role that this industry has performed in our economy broadening to all the free economies of the world. In reaching our conclusions we tried to preserve that which is good to provide a foundation for improvement in the future.
+
+as an aside, its' intereesting hom much they tired toactially agree with one atheuorthr bath then instead of teoday's ruthless dissents
 
 
 
@@ -27,3 +32,5 @@ SEC general statement of policy, published at **37 FR 5286–5293 (Mar. 14, 1972
 Useful as a pre-1975 statement of the policy architecture that Congress later developed into the national market system: interconnected markets, consolidated market information, competition among market makers, broad market access, investor-protection obligations, and modernization of clearance and securities transfer.
 
 Source: [Federal Register, March 14, 1972, 37 FR 5286–5293](https://www.govinfo.gov/content/pkg/FR-1972-03-14/pdf/FR-1972-03-14.pdf#page=33)
+^ the headliner is "competing but separate markets" no longer now that there  is one competing but separate markets. this gets tstaerght to the atkins nms dissent
+> “a shift in the historic position of the Commission … [which] tended to favor competing but separate markets.”
