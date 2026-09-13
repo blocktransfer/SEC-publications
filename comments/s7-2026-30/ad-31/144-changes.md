@@ -1,6 +1,8 @@
-we hav e adircet emali. see Aguiliar
+## law aoutread for th eresales
 
-theer is anoethr law aoutread for th eresales
+we hav e adircet emali. see Aguiliar resp 8 ex:
+
+> I am curious as to how the NMS prevents the purchaser of control securities from acquiring restricted securities as mandated under the affiliate classification of Rule 144(a)(3)(i). I believe this is a crucial aspect to consider in potential private sales of restricted securities on the Stellar Decentralized Exchange.
 
 - purchaser of restircited sucitriitos is subsjuct ot the holding period
 
