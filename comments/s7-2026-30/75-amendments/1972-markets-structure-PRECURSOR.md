@@ -3,14 +3,6 @@
 the big ref here is teh cus eof commissions as consiodatn for othr serveices -- and tat wasnt benig handes by nasd
 
 
-the cite src annoecement is https://www.sec.gov/news/digest/1972/dig020472.pdf
-
-> we visualize the role that this industry has performed in our economy broadening to all the free economies of the world. In reaching our conclusions we tried to preserve that which is good to provide a foundation for improvement in the future.
-
-as an aside, its' intereesting hom much they tired toactially agree with one atheuorthr bath then instead of teoday's ruthless dissents
-
-
-
 # 1972 — Future Structure of Securities Markets
 
 SEC general statement of policy, published at **37 FR 5286–5293 (Mar. 14, 1972)** and dated February 2, 1972. It is an early Commission blueprint for tying formerly separate exchange and OTC markets into a central market system.
@@ -26,10 +18,3 @@ SEC general statement of policy, published at **37 FR 5286–5293 (Mar. 14, 1972
 - The statement links lower transaction costs to modernization of securities transfer and clearance. It says competitive rates and a “modernized nationwide securities transfer system” could lower transaction costs, and separately points to efforts to streamline clearance “especially through reduction of the movement of paper in the stock transfer process.”
 - The Commission sought to terminate reciprocal portfolio brokerage used to reward sales of investment-company shares and to restrict exchange membership arrangements whose primary purpose was rebating or recapturing commissions.
 - On institutional membership, the Commission favored requiring exchange members to conduct a bona fide public brokerage business, with a predominant portion of brokerage commission business done for nonaffiliated persons. Commissioner Owens dissented in part and would have imposed a stricter separation between institutionally affiliated broker-dealers and their parent institutions.
-
-## Relevance
-
-Useful as a pre-1975 statement of the policy architecture that Congress later developed into the national market system: interconnected markets, consolidated market information, competition among market makers, broad market access, investor-protection obligations, and modernization of clearance and securities transfer.
-
-Source: [Federal Register, March 14, 1972, 37 FR 5286–5293](https://www.govinfo.gov/content/pkg/FR-1972-03-14/pdf/FR-1972-03-14.pdf#page=33)
-^ 
