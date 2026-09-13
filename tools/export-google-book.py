@@ -652,6 +652,24 @@ def output_paths(book, output_dir=None, output_pdf=None):
     )
 
 
+def prepare_reader_for_capture(page, target, prompt=input):
+    """Position and verify the first page, prompting only for manual recovery."""
+    print(f"Automatically jumping to reader page {target}...")
+    if jump_to_reader_page(page, target):
+        try:
+            capture_page(page, verbose=False)
+        except Exception as exc:
+            print(f"Could not verify the rendered page: {exc}")
+        else:
+            print(f"Reader positioned and verified at page {target}.")
+            return
+    else:
+        print(f"Could not automatically confirm reader page {target}.")
+
+    print("Position it manually before continuing.")
+    prompt("Press Enter when ready to start capture... ")
+
+
 def parse_args(argv=None):
     parser = argparse.ArgumentParser(
         description="Capture accessible Google Play Books pages into a PDF.",
@@ -765,17 +783,7 @@ def main():
             f"{output_dir / f'{start_number:04d}.png'}"
         )
 
-        if reader_page >= 1:
-            print(f"Automatically jumping to reader page {reader_page}...")
-            if jump_to_reader_page(page, reader_page):
-                print(f"Reader positioned at page {reader_page}.")
-            else:
-                print(
-                    f"Could not automatically confirm reader page {reader_page}. "
-                    "Position it manually before continuing."
-                )
-
-        input("Press Enter when ready to start capture... ")
+        prepare_reader_for_capture(page, reader_page)
 
         seen = set()
         # Include existing hashes so a resumed run can detect accidental overlap.

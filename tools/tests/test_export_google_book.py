@@ -2,7 +2,7 @@
 import importlib.util
 from pathlib import Path
 import unittest
-from unittest.mock import patch
+from unittest.mock import Mock, patch
 
 from playwright.sync_api import sync_playwright
 
@@ -152,6 +152,23 @@ class CommandLineTests(unittest.TestCase):
     def test_path_like_book_id_is_rejected(self):
         with self.assertRaises(exporter.argparse.ArgumentTypeError):
             exporter.book_id("../another-book")
+
+    def test_verified_initial_page_skips_prompt(self):
+        prompt = Mock()
+        with (
+            patch.object(exporter, "jump_to_reader_page", return_value=True),
+            patch.object(exporter, "capture_page", return_value=(b"png", "hash", "CANVAS", {})),
+        ):
+            exporter.prepare_reader_for_capture(Mock(), 1, prompt=prompt)
+
+        prompt.assert_not_called()
+
+    def test_unverified_initial_page_retains_manual_prompt(self):
+        prompt = Mock()
+        with patch.object(exporter, "jump_to_reader_page", return_value=False):
+            exporter.prepare_reader_for_capture(Mock(), 1, prompt=prompt)
+
+        prompt.assert_called_once_with("Press Enter when ready to start capture... ")
 
 
 if __name__ == '__main__':
