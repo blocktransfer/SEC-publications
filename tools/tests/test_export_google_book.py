@@ -1,8 +1,9 @@
 """Browser regressions; run with .venv/bin/python -m unittest discover -s tests."""
 import importlib.util
 from pathlib import Path
+from tempfile import TemporaryDirectory
 import unittest
-from unittest.mock import patch
+from unittest.mock import Mock, patch
 
 from playwright.sync_api import sync_playwright
 
@@ -120,6 +121,79 @@ class ReaderNavigationTests(unittest.TestCase):
         _, digest, _, box = exporter.capture_page(self.page)
         self.assertTrue(exporter.advance_page(self.page, box, digest))
         self.assertEqual(exporter.read_reader_page_number(self.page), 48)
+
+
+class CommandLineTests(unittest.TestCase):
+    def test_book_id_selects_isolated_default_outputs(self):
+        args = exporter.parse_args(["ctmJB8IRXQcC"])
+        output_dir, output_pdf = exporter.output_paths(args.book_id)
+
+        self.assertEqual(args.book_id, "ctmJB8IRXQcC")
+        self.assertIsNone(args.max_pages)
+        self.assertEqual(output_dir, Path("ctmJB8IRXQcC-pages"))
+        self.assertEqual(output_pdf, Path("ctmJB8IRXQcC.pdf"))
+        self.assertEqual(
+            exporter.reader_url(args.book_id),
+            "https://play.google.com/books/reader?id=ctmJB8IRXQcC",
+        )
+
+    def test_custom_output_paths_are_preserved(self):
+        args = exporter.parse_args([
+            "ctmJB8IRXQcC",
+            "--output-dir", "captures/book",
+            "--output-pdf", "captures/book.pdf",
+            "--max-pages", "860",
+        ])
+
+        self.assertEqual(args.max_pages, 860)
+        self.assertEqual(
+            exporter.output_paths(
+                args.book_id, args.output_dir, args.output_pdf,
+            ),
+            (Path("captures/book"), Path("captures/book.pdf")),
+        )
+
+    def test_path_like_book_id_is_rejected(self):
+        with self.assertRaises(exporter.argparse.ArgumentTypeError):
+            exporter.book_id("../another-book")
+
+    def test_verified_initial_page_skips_prompt(self):
+        prompt = Mock()
+        with (
+            patch.object(exporter, "jump_to_reader_page", return_value=True),
+            patch.object(exporter, "capture_page", return_value=(b"png", "hash", "CANVAS", {})),
+        ):
+            exporter.prepare_reader_for_capture(Mock(), 1, prompt=prompt)
+
+        prompt.assert_not_called()
+
+    def test_unverified_initial_page_retains_manual_prompt(self):
+        prompt = Mock()
+        with patch.object(exporter, "jump_to_reader_page", return_value=False):
+            exporter.prepare_reader_for_capture(Mock(), 1, prompt=prompt)
+
+        prompt.assert_called_once_with("Press Enter when ready to start capture... ")
+
+    def test_final_capture_is_removed_automatically(self):
+        with TemporaryDirectory() as directory:
+            output_dir = Path(directory)
+            first = output_dir / "0001.png"
+            last = output_dir / "0002.png"
+            first.write_bytes(b"book page")
+            last.write_bytes(b"reading complete")
+
+            removed = exporter.remove_last_page(output_dir)
+
+            self.assertTrue(removed)
+            self.assertTrue(first.exists())
+            self.assertFalse(last.exists())
+
+    def test_no_final_capture_is_a_no_op(self):
+        with TemporaryDirectory() as directory:
+            output_dir = Path(directory)
+            removed = exporter.remove_last_page(output_dir)
+
+            self.assertFalse(removed)
 
 
 if __name__ == '__main__':

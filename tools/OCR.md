@@ -14,21 +14,29 @@ tools/ocr-scanned-pdf.sh SOURCE.pdf NEW-OCR.pdf
 
 The command refuses to overwrite files. It writes a searchable PDF, a text
 sidecar, and a JSON report containing every classified block. Body paragraphs
-use `P`, document parts/chapters/appendices use `H1`, sections use `H2`, and
-table-like regions use `Div` so table labels are not promoted to headings.
+use `P`; document parts/chapters/appendices use `H1`; primary sections use `H2`;
+lettered, numbered, lowercase, and parenthesized Roman levels may use `H3` through
+`H6`; and table-like regions use `Div` so table labels are not promoted to
+headings. A deeper prefix style is enabled only when it recurs on at least two
+pages, preventing one-off list items from inventing a document hierarchy.
 
 ## Create a much smaller derivative
 
-Create a new grayscale JPEG derivative at the tested quality of 45, then apply
-the same structure tags:
+Create a new losslessly optimized derivative, then apply the same structure
+tags:
 
 ```sh
-tools/compress-and-tag-ocr-pdf.sh EXISTING-OCR.pdf NEW-COMPACT.pdf 45
+tools/compress-and-tag-ocr-pdf.sh EXISTING-OCR.pdf NEW-COMPACT.pdf
 ```
 
 The source is never edited. A compression report records byte counts and the
-tagging report records block decisions. Lower JPEG quality is smaller but makes
-the scan less useful as visual evidence.
+tagging report records block decisions. Compression recompresses the existing
+predicted Flate streams at zlib level 9 and generates object streams. It does not
+convert color, resample images, or use JPEG. Every decoded image is SHA-256
+checked before and after optimization, and the command fails if any image
+differs. This scan is already losslessly compressed, so the remaining strict
+lossless reduction is limited; materially smaller derivatives require lossy
+image encoding.
 
 ## Set up and run the local AI review
 
@@ -60,7 +68,6 @@ Apply the review while creating another new compressed version:
 tools/compress-and-tag-ocr-pdf.sh \
   EXISTING-UNTAGGED-OCR.pdf \
   NEW-AI-REVIEWED-COMPACT.pdf \
-  45 \
   REVIEW-v1.jsonl
 ```
 
