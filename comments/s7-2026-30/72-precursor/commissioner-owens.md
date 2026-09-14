@@ -30,3 +30,9 @@ The difficulty in regard to implementing this prohibition, however, is that the 
 ¹ For the purpose of this discussion, institutions will be defined as banks, pension and other trust funds, insurance companies and investment companies.
 
 ## Lehman BAnkrutpy
+
+
+
+
+
+
