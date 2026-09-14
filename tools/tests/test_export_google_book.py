@@ -174,7 +174,7 @@ class CommandLineTests(unittest.TestCase):
 
         prompt.assert_called_once_with("Press Enter when ready to start capture... ")
 
-    def test_final_capture_is_removed_when_confirmed(self):
+    def test_final_capture_is_removed_automatically(self):
         with TemporaryDirectory() as directory:
             output_dir = Path(directory)
             first = output_dir / "0001.png"
@@ -182,26 +182,18 @@ class CommandLineTests(unittest.TestCase):
             first.write_bytes(b"book page")
             last.write_bytes(b"reading complete")
 
-            removed = exporter.prompt_to_remove_last_page(
-                output_dir, prompt=Mock(return_value="yes")
-            )
+            removed = exporter.remove_last_page(output_dir)
 
             self.assertTrue(removed)
             self.assertTrue(first.exists())
             self.assertFalse(last.exists())
 
-    def test_final_capture_is_kept_by_default(self):
+    def test_no_final_capture_is_a_no_op(self):
         with TemporaryDirectory() as directory:
             output_dir = Path(directory)
-            last = output_dir / "0001.png"
-            last.write_bytes(b"book page")
-
-            removed = exporter.prompt_to_remove_last_page(
-                output_dir, prompt=Mock(return_value="")
-            )
+            removed = exporter.remove_last_page(output_dir)
 
             self.assertFalse(removed)
-            self.assertTrue(last.exists())
 
 
 if __name__ == '__main__':
