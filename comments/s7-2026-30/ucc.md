@@ -1,3 +1,18 @@
+
+
+# Main THeseis
+
+
+“an entitlement holder whose pro rata property interest is subordinate to a controlling secured creditor under UCC § 8-511(b), or, in the case of a clearing corporation, subordinate under § 8-511(c).”
+
+
+thu whle o commont will be written as "clearing agen.." v. "tranfer afints"
+
+
+
+
+# Supprotnig EVidence
+
 ## 1981 Buffett — stock in your own name
 
 Warren E. Buffett, *Chairman's Letter — 1981*, Berkshire Hathaway Inc. (Feb. 26, 1982), https://www.berkshirehathaway.com/letters/1981.html.
