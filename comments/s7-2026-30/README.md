@@ -1,6 +1,6 @@
 ---
 title: In re S7-2026-30 (Transfer Agent Rules)
-heading: Building a Transparent and Decentralized Transfer Agent Depository
+heading: Connecting a Transparent and Decentralized Transfer Agent Depository
 ---
 
 ```
