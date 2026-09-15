@@ -14,7 +14,14 @@
 
 # Supprotnig EVidence
 
-## 1981 Buffett — stock in your own name
+These are the mest improtant footonotes in the Comment
+
+## 1. 1975 Amendments — primary source
+
+Use the Statutes at Large text of the Securities Acts Amendments of 1975 as the primary reference: *Securities Acts Amendments of 1975*, Pub. L. No. 94-29, 89 Stat. 97 (1975)
+https://www.congress.gov/bill/94th-congress/senate-bill/249/text
+
+## 2. 1981 Buffett — stock in your own name
 
 Warren E. Buffett, *Chairman's Letter — 1981*, Berkshire Hathaway Inc. (Feb. 26, 1982), https://www.berkshirehathaway.com/letters/1981.html.
 
@@ -26,9 +33,6 @@ Buffett gives the advice while describing Berkshire's 1981 shareholder-designate
 
 After formal IRS clarification, Buffett explains that a property law "did not cover participation by shareholders whose stock was registered in the name of nominees, such as brokers, and additionally required that the owners" certify ownership of their own assets.
 
-## 1975 Amendments — primary source
-
-Use the Statutes at Large text of the Securities Acts Amendments of 1975 as the primary reference: *Securities Acts Amendments of 1975*, Pub. L. No. 94-29, 89 Stat. 97 (1975), https://www.congress.gov/94/statute/STATUTE-89/STATUTE-89-Pg97.pdf.
 
 ### Sticky note
 
