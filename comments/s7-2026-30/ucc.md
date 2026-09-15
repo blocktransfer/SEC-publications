@@ -6,8 +6,9 @@
 “an entitlement holder whose pro rata property interest is subordinate to a controlling secured creditor under UCC § 8-511(b), or, in the case of a clearing corporation, subordinate under § 8-511(c).”
 
 
-thu whle o commont will be written as "clearing agen.." v. "tranfer afints"
-
+- thu whle o commont will be written as "clearing corporations" v. "tranfer afints"
+- we need to hard on the non-FED stafardived memebr corpantn
+- cite some soch of wl raw exposure of https://github.com/WhyDRS/documents/blob/29447b740666d3f7a5fb355100d08492a271adfd/DTCC%20Articles%20Amendment%20Certified.pdf (and new FOIL)
 
 
 
