@@ -1,3 +1,12 @@
+
+
+Metcalf is the on e who ininteadtes and heads disclosure-corp-ownership/primary-cite.md 339
+
+THIS SETS UP THE SUPRA TO BASIS OF SRO NONDEFERENCE
+
+
+
+
 i suppose the thing is that they were orgitally expected to make the NMS all on tehir own sorta kinda
 its a tight line here
 
