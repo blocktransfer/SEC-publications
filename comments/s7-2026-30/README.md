@@ -1,6 +1,7 @@
 ---
 title: In re S7-2026-30 (Transfer Agent Rules)
-heading: something SomoEthing sometihng Transeofr Afenth Deplosetiery
+heading: Bulidng a Tratnsacpant and Dececnetalized 
+ Transeofr Afenth Deplosetiery
 ---
 
 ```
