@@ -41,4 +41,3 @@ Clean Federal Register link: https://www.govinfo.gov/content/pkg/FR-1977-01-21/p
 ---
 
 we can start the intr with th ebuffet queti dir src 81 lettre at startd of streent-name miriogn (setup the BASCI compare only doc to  Congress) and how he had th especigic prebolm of unrlaible voter identifificatn whirck still eisistl today
-
