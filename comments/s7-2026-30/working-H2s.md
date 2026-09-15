@@ -20,3 +20,5 @@ Ends (possibly in a different subsection) with 2006-6.
 
 
 ## Dececnatilevd Exchnage REqures Dececastelied Govereneance
+
+examle is meeting 2 -- stataemnet that it wasth efirst itme i woke up with an alalrm in 2 years
