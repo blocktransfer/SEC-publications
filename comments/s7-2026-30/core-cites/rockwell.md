@@ -1,4 +1,4 @@
-CONECPR REL AA https://www.sec.gov/files/rules/concept/2015/34-76743.pdf
+CONECPR REL AA https://www.govinfo.gov/content/pkg/FR-2015-12-31/pdf/2015-32755.pdf
 
 * SEC footnote 19 identifies the report as **North American Rockwell Information Systems Company, *Securities Industry Overview, Final Report to the American Stock Exchange* (1969)**.
 * SEC footnote 52 cites Rockwell pages **3, 9, 14, 31, 39, 43, 77, and 98** for the TAD proposal.
@@ -6,4 +6,4 @@ CONECPR REL AA https://www.sec.gov/files/rules/concept/2015/34-76743.pdf
 * The SEC separately cites Rockwell page **101** when discussing combining transfer-agent and registrar functions while preserving the registrar’s audit and shareholder-protection role.
 
 The SEC explains that Rockwell proposed “a decentralized network of individual transfer agent depositories.” Under that design, depositing securities with the issuer's transfer agent would make “each transfer agent an independent depository for its respective issuers.”
-CP at 22
+CP at 22 (which is 81953)
