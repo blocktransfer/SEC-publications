@@ -1,4 +1,4 @@
-CONECPR REL
+CONECPR REL AA https://www.sec.gov/files/rules/concept/2015/34-76743.pdf
 
 * SEC footnote 19 identifies the report as **North American Rockwell Information Systems Company, *Securities Industry Overview, Final Report to the American Stock Exchange* (1969)**.
 * SEC footnote 52 cites Rockwell pages **3, 9, 14, 31, 39, 43, 77, and 98** for the TAD proposal.
