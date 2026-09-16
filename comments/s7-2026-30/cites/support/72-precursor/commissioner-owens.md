@@ -94,6 +94,13 @@ That Edward Redington name becomes important below.
 SIPC's later 50th-anniversary history confirms the progression: task force created in 1973; proposals submitted to Congress in 1974; eventual comprehensive amendments enacted in 1978.
 https://www.sipc.org/media/sipc-50th-report.pdf
 
+
+
+so tho bottom line is NOT cash but YES DRS and back tehn it coeld still be heldb by broker as custian for netting
+
+
+
+
 ### Then Congress fundamentally changed what it meant to “own” identifiable securities in a SIPA liquidation
 
 The original **1970 SIPA** used the concept of **“specifically identifiable property.”** That was broader.
@@ -106,7 +113,12 @@ The 1978 law defined these as securities held for a customer which, on the filin
 
 registered in that customer's name, **or in the process of being registered in that customer's name**, and **not in negotiable form**.
 
-That's Public Law 95-283, 92 Stat. 249, 272. You can see the enacted definition on the actual Statutes at Large page. 
+That's Public Law 95-283, 92 Stat. 249, 272 [24]a. You can see the enacted definition on the actual Statutes at Large page. 
+
+AA https://www.govinfo.gov/content/pkg/STATUTE-92/pdf/STATUTE-92-Pg249.pdf
+should have a concerss page
+
+
 
 **2. “Customer property.”**
 
@@ -128,6 +140,8 @@ Everything else goes through the pool.
 
 That distinction is what makes Owens's word **“bailee”** so important. He was explaining why these particular registered, nonnegotiable securities were exceptional: for SIPA purposes, the failed broker was treated almost as though it was merely **holding somebody else's identifiable thing for safekeeping**, rather than owning an asset that fell into a common pool.
 
+
+
 ### The 1986 *Bevill* case already understood Owens's point
 
 Long before Madoff, Judge Dickinson Debevoise in ***First Federal Savings & Loan Ass'n of Lincoln v. Bevill, Bresler & Schulman, Inc.*, 59 B.R. 353 (D.N.J. 1986)** dealt directly with this history.
@@ -140,7 +154,7 @@ More importantly, the court worked through the legislative history and quoted es
 
 > customer-name securities are treated as property “merely held by the debtor as bailee.”
 
-The *Bevill* court concluded that the 1978 amendments had **dramatically narrowed the category of securities that a customer could simply reclaim**. ([Justia Law][3])
+The *Bevill* court concluded that the 1978 amendments had **dramatically narrowed the category of securities that a customer could simply reclaim**.
 
 And *Bevill* explains *why* Congress did that.
 
@@ -150,13 +164,52 @@ Under a broad “specifically identifiable property” rule, A could potentially
 
 Congress considered that inequitable.
 
+
+https://law.justia.com/cases/federal/district-courts/BR/59/353/1805114
+
+
+
+
+
+# first ref
+
+
+
 The 1978 system instead says, in substance: unless it is the narrow **customer-name-security** category, put customer assets into the statutory customer-property pool and let customers share according to their net equities.
 
-*Bevill* therefore says something fairly striking: customers who leave securities with the broker in **street name or negotiable form do not retain full property ownership of those particular securities for purposes of a SIPA liquidation**. They instead receive the statutory rights of SIPA customers against customer property. ([Justia Law][3])
+*Bevill* therefore says something fairly striking: customers who leave securities with the broker in **street name or negotiable form do not retain full property ownership of those particular securities for purposes of a SIPA liquidation**. They instead receive the statutory rights of SIPA customers against customer property. 
+(brogeht supra)
 
-[Bevill, 59 B.R. 353 — CourtListener primary opinion](https://www.courtlistener.com/opinion/1805114/first-federal-savings-loan-assn-of-lincoln-v-bevill-bresler/?utm_source=chatgpt.com)
+AGAIN
+
+> Customers … who left securities with a broker in street name or in negotiable form do not retain full property ownership of the securities
+
+—_First Federal Savings & Loan Ass’n of Lincoln v. Bevill, Bresler & Schulman_, Inc., 59 B.R. 353, 374 (D.N.J. 1986),
+
+[[[under the 1978 SIPA amendments, only customers whose securities were registered in their own names (or being registered) “retain full property ownership” and can reclaim those securities]]]
+
+
+[Bevill, 59 B.R. 353 — CourtListener primary opinion]
+https://www.courtlistener.com/opinion/1805114/first-federal-savings-loan-assn-of-lincoln-v-bevill-bresler
 
 That is a really important securities-entitlement / intermediary-property point.
+
+
+## INTRODUCING CONTROL
+
+this frames in Donny
+
+
+A customer could tell the broker, in effect: “Register the shares in my name, but keep the certificate for me.” The transfer agent would issue a certificate naming the customer as the registered owner, but instead of mailing that certificate out to the customer, it could remain in the broker’s custody for safekeeping. SIPC still describes “customer name securities” this way: certificated securities registered directly to the customer but held in custody at the brokerage firm.
+
+Historically, there were practical reasons to do that. The customer might not want to keep valuable paper certificates at home; the broker could provide safekeeping, collect dividends or handle corporate actions, and have the certificate readily available if the customer later wanted to sell. But because the certificate was registered to the customer and not endorsed into negotiable form, the broker generally could not simply deliver it to someone else as though it were the broker's own street-name certificate. That is precisely why SIPA treats this narrow category specially.
+
+this is literally DRS
+
+src:
+
+
+
 
 ### Now here's where the story gets weird: *Redington*
 
@@ -346,7 +399,6 @@ Here are the source documents directly:
 
 The thing I would chase next is the **full April 25, 1978 Owens testimony and section-by-section explanation**, because *Bevill* also cites essentially identical language at **“1977 S. Hearings at 189–90,”** whereas the 2013 Second Circuit and JPMorgan cite Owens's **1978 hearing at 41–42**. That suggests this language was carried through multiple iterations of the SIPA amendments, and I want to pin down **when Owens/SIPC first formulated the “debtor as bailee” concept and whether it came from Owens, Focht, the Task Force, or congressional staff**. That may take us back into the 1974 Task Force Report itself.
 
-[3]: https://law.justia.com/cases/federal/district-courts/BR/59/353/1805114/?utm_source=chatgpt.com "Matter of Bevill, Bresler & Schulman, Inc., 59 B.R. 353 (D.N.J. 1986) :: Justia"
 [4]: https://law.counselstack.com/opinion/picard-v-jpmorgan-chase-co-ca2-2013?utm_source=chatgpt.com "Picard v. JPMorgan Chase & Co., 721 F.3d 54 (2013) — Counsel Stack"
 
 
