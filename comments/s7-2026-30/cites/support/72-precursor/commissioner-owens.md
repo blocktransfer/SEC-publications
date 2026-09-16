@@ -207,9 +207,16 @@ Historically, there were practical reasons to do that. The customer might not wa
 this is literally DRS
 
 src:
+	https://www.sec.gov/Archives/edgar/data/782842/000078284208000019/exhibit10-58.htm
+Whenever Ridge acts as custodian of securities in any Account or holds securities in “safekeeping”, Ridge may hold the securities in the Customer’s name (“Customer Name Securities”), or may cause such securities to be registered in the name of Ridge or its nominee or in the names or nominees of any depository used by Ridge (“Nominee Name”)
 
 
+15 USC § 78lll(3)
+Customer name securities
+https://www.law.cornell.edu/uscode/text/15/78lll
 
+§ 78lll(2)(A) (_Id._ )
+> securities received, acquired, or held by the debtor in the ordinary course of its business as a broker or dealer from or for the securities accounts of such person for safekeeping,
 
 ### Now here's where the story gets weird: *Redington*
 
