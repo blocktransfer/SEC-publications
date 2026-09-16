@@ -14,3 +14,5 @@ video of just Dan)
 [uyeda-ta-proposal-statement]: https://www.sec.gov/newsroom/speeches-statements/uyeda-statement-transfer-agent-rules-090126-statement-proposed-amendments-secs-transfer-agent-rules
 
 [aguilar-gallagher-ta-modernization]: https://www.sec.gov/news/statement/modernize-sec-transfer-agent-rules.html
+
+[yale-path-monopoly]: PREV n.175
