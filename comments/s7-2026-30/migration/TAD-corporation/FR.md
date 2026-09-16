@@ -44,7 +44,7 @@ Proposed TAD **Pledged Securities Service**, allowing securities held at TAD to 
 
 **SEC release / file:** **34-13163**, File **600-15**
 
-NSCC registration order. Important to TAD because the SEC required NSCC to establish appropriate **links with TAD** and BSECC. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1977-01-21/pdf/FR-1977-01-21.pdf))
+NSCC registration order. The SEC made commencement of NSCC's integrated operation conditional on establishing “appropriate links with Boston Stock Exchange Clearing Corporation (‘BSECC’) and TAD Depository Corporation (‘TADDC’).” See **42 FR 3916, 3938**. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1977-01-21/pdf/FR-1977-01-21.pdf))
 
 ## May 27, 1977 — 42 FR 27361
 
