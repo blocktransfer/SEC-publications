@@ -6,6 +6,15 @@ nominees, or their outsourced service provider, “typically charge the maximum 
 
 we can cross cite thi pr on this as bassi for intorudenig Braedadinge 
 
+
+there were 2013 changes werer The old “Incentive Fee” became the Preference Management Fee; managed accounts got reduced rates; very small managed-account positions were exempted; and notice-and-access fees were formally incorporated into the schedule.
+
+And crucially, the SEC considered the Broadridge-to-broker payments again in 2013 and allowed the system to continue. It expressly said it had been concerned about:
+
+“the practice by Broadridge of rebating a portion of the fees paid by issuers for proxy processing to its larger broker-dealer clients”
+
+2010 SEC Concept Release itself says Broadridge reported handling more than 98% of the U.S. market for proxy-vote processing
+
 ---
 
 ai:
