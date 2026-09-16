@@ -60,6 +60,21 @@ date will be treated , in short , as though they are not part of the debtor's es
 Here, “bailee” means someone who possesses property belonging to another person without owning it.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 The Second Circuit cites it in **footnote 22 of *Picard v. JPMorgan Chase & Co.*, 721 F.3d 54, 73 n.22 (2d Cir. 2013)**. 
 https://www.courtlistener.com/opinion/903751/picard-v-jpmorgan-chase-co-in-re-bernard-l-madoff-investment
 
