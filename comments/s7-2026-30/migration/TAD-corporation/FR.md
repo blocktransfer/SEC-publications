@@ -4,25 +4,25 @@ Yes. For the **TAD Depository Corporation lifecycle**, I’d keep this citation 
 
 **SEC release / file:** Releases **34-11587, 34-11588, 34-11589**
 
-Exchange rule changes concerning the **interface between National Clearing Corporation and TAD Depository Corporation**. The SEC summarily put the rules into effect. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1975-08-19/pdf/FR-1975-08-19.pdf?utm_source=chatgpt.com))
+Exchange rule changes concerning the **interface between National Clearing Corporation and TAD Depository Corporation**. The SEC summarily put the rules into effect. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1975-08-19/pdf/FR-1975-08-19.pdf))
 
 ## December 2, 1975 — 40 FR 55910
 
 **SEC release / file:** **34-11875**, File **600-13**
 
-TAD's clearing-agency registration proceeding. This is the key source for its **temporary registration effective Dec. 1, 1975**, initially for 18 months. ([Federal Register Archives](https://archives.federalregister.gov/issue_slice/1975/12/2/55909-55912.pdf?utm_source=chatgpt.com))
+TAD's clearing-agency registration proceeding. This is the key source for its **temporary registration effective Dec. 1, 1975**, initially for 18 months. ([Federal Register Archives](https://archives.federalregister.gov/issue_slice/1975/12/2/55909-55912.pdf))
 
 ## March 22, 1976 — 41 FR 11904
 
 **SEC release / file:** **34-12199**, **SR-TAD-76-1**
 
-TAD proposed changes to its **deposit, withdrawal, custody and book-entry delivery fees**. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1976-03-22/pdf/FR-1976-03-22.pdf?utm_source=chatgpt.com))
+TAD proposed changes to its **deposit, withdrawal, custody and book-entry delivery fees**. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1976-03-22/pdf/FR-1976-03-22.pdf))
 
 ## September 13, 1976 — 41 FR 38841
 
 **SEC release / file:** **34-12759**, File **600-13**
 
-**Institution of proceedings to determine whether to grant or deny registration.** This is the one we were just discussing—not an approval order. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1976-09-13/pdf/FR-1976-09-13.pdf?utm_source=chatgpt.com))
+**Institution of proceedings to determine whether to grant or deny registration.** This is the one we were just discussing—not an approval order. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1976-09-13/pdf/FR-1976-09-13.pdf))
 
 https://www.govinfo.gov/content/pkg/FR-1976-09-13/pdf/FR-1976-09-13.pdf#page=97
 
@@ -32,13 +32,13 @@ https://www.govinfo.gov/content/pkg/FR-1976-09-13/pdf/FR-1976-09-13.pdf#page=97
 
 **SEC release / file:** **34-12822**, **SR-TAD-76-2**
 
-Proposed TAD **Pledged Securities Service**, allowing securities held at TAD to be pledged as collateral. ([Library of Congress](https://tile.loc.gov/storage-services/service/ll/fedreg/fr041/fr041192/fr041192.pdf?utm_source=chatgpt.com))
+Proposed TAD **Pledged Securities Service**, allowing securities held at TAD to be pledged as collateral. ([Library of Congress](https://tile.loc.gov/storage-services/service/ll/fedreg/fr041/fr041192/fr041192.pdf))
 
 ## November 15, 1976 — 41 FR 50366
 
 **SEC release / file:** **34-12961**, **SR-TAD-76-2**
 
-**Approved** that Pledged Securities Service. ([Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/4/4e/Federal_Register_1976-11-15-_Vol_41_Iss_221_%28IA_sim_federal-register-find_1976-11-15_41_221%29.pdf?utm_source=chatgpt.com))
+**Approved** that Pledged Securities Service. ([Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/4/4e/Federal_Register_1976-11-15-_Vol_41_Iss_221_%28IA_sim_federal-register-find_1976-11-15_41_221%29.pdf))
 
 ## January 21, 1977 — 42 FR 3916
 
@@ -50,51 +50,51 @@ NSCC registration order. The SEC made commencement of NSCC's integrated operatio
 
 **SEC release / file:** **34-13553**, **SR-TAD-77-1**
 
-Proposed a direct **TAD–DTC interface account**, permitting book-entry transfers between participants of the two depositories. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1977-05-27/pdf/FR-1977-05-27.pdf?utm_source=chatgpt.com))
+Proposed a direct **TAD–DTC interface account**, permitting book-entry transfers between participants of the two depositories. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1977-05-27/pdf/FR-1977-05-27.pdf))
 
 ## June 10, 1977 — 42 FR 30065–66
 
 **SEC release / file:** **34-13584**
 
-Extended TAD's temporary clearing-agency registration, along with the other temporary registrants, to **Sept. 1, 1977**. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1977-06-10/pdf/FR-1977-06-10.pdf?utm_source=chatgpt.com))
+Extended TAD's temporary clearing-agency registration, along with the other temporary registrants, to **Sept. 1, 1977**. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1977-06-10/pdf/FR-1977-06-10.pdf))
 
 ## June 30, 1977 — 42 FR 33394
 
 **SEC release / file:** **34-13664**
 
-Further general clearing-agency registration/proceeding action that included TAD. The SEC later expressly lists it in the history of the temporary registrations. ([Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/b/b0/Federal_Register_1980-06-23-_Vol_45_Iss_122_%28IA_sim_federal-register-find_1980-06-23_45_122%29.pdf?utm_source=chatgpt.com))
+Further general clearing-agency registration/proceeding action that included TAD. The SEC later expressly lists it in the history of the temporary registrations. ([Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/b/b0/Federal_Register_1980-06-23-_Vol_45_Iss_122_%28IA_sim_federal-register-find_1980-06-23_45_122%29.pdf))
 
 ## July 13, 1977 — 42 FR 35951
 
-SEC issuer/proxy communications material identifying registered depositories and their nominees; includes **TAD Depository Corporation / TAD & Co.** This is more of an incidental regulatory mention than a TAD proceeding. ([Library of Congress](https://tile.loc.gov/storage-services/service/ll/fedreg/fr042/fr042134/fr042134.pdf?utm_source=chatgpt.com))
+SEC issuer/proxy communications material identifying registered depositories and their nominees; includes **TAD Depository Corporation / TAD & Co.** This is more of an incidental regulatory mention than a TAD proceeding. ([Library of Congress](https://tile.loc.gov/storage-services/service/ll/fedreg/fr042/fr042134/fr042134.pdf))
 
 ## August 3, 1977 — 42 FR 39285
 
 **SEC release / file:** **34-13714**, **SR-TAD-77-1**
 
-**Approved the TAD–DTC interface** proposed at 42 FR 27361. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1977-08-03/pdf/FR-1977-08-03.pdf?utm_source=chatgpt.com))
+**Approved the TAD–DTC interface** proposed at 42 FR 27361. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1977-08-03/pdf/FR-1977-08-03.pdf))
 
 ## August 15, 1977 — 42 FR 41204
 
 **SEC release / file:** **34-13845**, **SR-TAD-77-2**
 
-Proposed allowing TAD to release certificates registered in **TAD & Co.** to participants; explicitly connected to facilitating interfaces with DTC and NSCC. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1977-08-15/pdf/FR-1977-08-15.pdf?utm_source=chatgpt.com))
+Proposed allowing TAD to release certificates registered in **TAD & Co.** to participants; explicitly connected to facilitating interfaces with DTC and NSCC. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1977-08-15/pdf/FR-1977-08-15.pdf))
 
 ## August 31, 1977 — Release 34-13911
 
-Extended TAD's registration again, this time through **Mar. 1, 1978**. The SEC's later Federal Register history cites the release but notably does **not give an FR page**, and a 2012 SEC order cites it as **1977 WL 190688**. So I would *not* confidently write “42 FR 45331” without the original issue in hand. ([SEC](https://www.sec.gov/news/digest/1977/dig090277.pdf?utm_source=chatgpt.com))
+Extended TAD's registration again, this time through **Mar. 1, 1978**. The SEC's later Federal Register history cites the release but notably does **not give an FR page**, and a 2012 SEC order cites it as **1977 WL 190688**. So I would *not* confidently write “42 FR 45331” without the original issue in hand. ([SEC](https://www.sec.gov/news/digest/1977/dig090277.pdf))
 
 ## September 28, 1977 — 42 FR 49854
 
 **SEC release / file:** **34-13977**, **SR-TAD-77-2**
 
-**Approved** TAD's change permitting release of TAD & Co. nominee certificates. ([Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/e/ea/Federal_Register_1977-09-_Vol_42_Index_%28IA_sim_federal-register-find_1977-09_42_index%29.pdf?utm_source=chatgpt.com))
+**Approved** TAD's change permitting release of TAD & Co. nominee certificates. ([Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/e/ea/Federal_Register_1977-09-_Vol_42_Index_%28IA_sim_federal-register-find_1977-09_42_index%29.pdf))
 
 ## March 10, 1978 — 43 FR 10288
 
 **SEC release / file:** **34-14531**
 
-Further extension/proceeding concerning the temporarily registered clearing agencies, including TAD. ([Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/b/b0/Federal_Register_1980-06-23-_Vol_45_Iss_122_%28IA_sim_federal-register-find_1980-06-23_45_122%29.pdf?utm_source=chatgpt.com))
+Further extension/proceeding concerning the temporarily registered clearing agencies, including TAD. ([Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/b/b0/Federal_Register_1980-06-23-_Vol_45_Iss_122_%28IA_sim_federal-register-find_1980-06-23_45_122%29.pdf))
 
 ## March 28, 1978 — 43 FR 12979
 
@@ -106,13 +106,13 @@ Further extension/proceeding concerning the temporarily registered clearing agen
 
 **SEC release / file:** **34-16900**
 
-SEC clearing-agency registration standards. TAD is expressly listed among the temporarily registered clearing agencies even though its operations had already ceased. The release also reconstructs the registration-extension history. ([Federal Register Archives](https://archives.federalregister.gov/issue_slice/1980/6/23/41913-41933.pdf?utm_source=chatgpt.com))
+SEC clearing-agency registration standards. TAD is expressly listed among the temporarily registered clearing agencies even though its operations had already ceased. The release also reconstructs the registration-extension history. ([Federal Register Archives](https://archives.federalregister.gov/issue_slice/1980/6/23/41913-41933.pdf))
 
 ## March 29, 1982 — 47 FR 13262
 
 **SEC release / file:** **34-18583**, Files **600-2, 600-13**
 
-**Final TAD termination order.** SEC granted withdrawal requests and terminated the registrations of Bradford Securities Processing Services and TAD. TAD had been inactive since Apr. 1, 1978; its registration was cancelled effective **May 31, 1982**. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1982-03-29/pdf/FR-1982-03-29.pdf?utm_source=chatgpt.com))
+**Final TAD termination order.** SEC granted withdrawal requests and terminated the registrations of Bradford Securities Processing Services and TAD. TAD had been inactive since Apr. 1, 1978; its registration was cancelled effective **May 31, 1982**. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1982-03-29/pdf/FR-1982-03-29.pdf))
 
 ## October 3, 1983 — 48 FR 45167–68
 
@@ -124,7 +124,7 @@ Later permanent clearing-agency-registration action that retrospectively discuss
 
 **SEC release / file:** Transfer Agent Regulations concept release
 
-Modern SEC historical discussion of the **TAD model/TAD Depository Corporation** and the early post-1975 depository structure. Useful retrospective source, but obviously not part of TAD's operative proceeding. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-2015-12-31/pdf/2015-32755.pdf?utm_source=chatgpt.com))
+Modern SEC historical discussion of the **TAD model/TAD Depository Corporation** and the early post-1975 depository structure. Useful retrospective source, but obviously not part of TAD's operative proceeding. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-2015-12-31/pdf/2015-32755.pdf))
 
 The **tightest primary-source chain** for telling TAD's story is therefore:
 
