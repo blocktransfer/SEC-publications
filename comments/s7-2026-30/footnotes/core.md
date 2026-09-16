@@ -5,7 +5,9 @@ video of just Dan)
 
 [12m-report]: i want to cross-ref anyone who cited https://babel.hathitrust.org/cgi/pt?id=mdp.39015078703017 and then end thin on 3 with a quesiton
 
-[donny]: https://notes.wooten.link/2026/5/6
+[doney-prev]: See statament, PREV n.65.
+
+[doney]: https://notes.wooten.link/2026/5/6
 
 [peirce-ta-proposal-statement]: https://www.sec.gov/newsroom/speeches-statements/peirce-transfer-agent-rules-090126-time-transfer-statement-proposed-transfer-agent-rules
 
