@@ -1,4 +1,10 @@
-This has ben outleaded
+S7-2026-25 has ben outleaded
+
+notwithosatngi the ceor Reg E-Delivery proposal describes the present baseline under NYSE Rule 451 and FINRA Rule 2251 and says:
+
+nominees, or their outsourced service provider, “typically charge the maximum allowable rates”
+
+we can cross cite thi pr on this as bassi for intorudenig Braedadinge 
 
 ---
 
