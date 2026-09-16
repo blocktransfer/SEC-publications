@@ -100,7 +100,7 @@ Further extension/proceeding concerning the temporarily registered clearing agen
 
 **SEC release / file:** **34-14587**, **SR-TAD-78-1**
 
-**The big shutdown filing.** TAD proposed suspending depository operations effective **Apr. 1, 1978**. It explained that its attempts to establish the necessary interfaces had been frustrated and that it could not develop into the contemplated full-service depository. ([Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/8/87/Federal_Register_1978-03-28-_Vol_43_Iss_60_%28IA_sim_federal-register-find_1978-03-28_43_60%29.pdf?utm_source=chatgpt.com))
+**The big shutdown filing.** TAD proposed suspending depository operations effective **Apr. 1, 1978**. TAD stated that there were “severe impediments to the perfection of a national system” and that its “repeated efforts” to establish DTC and NSCC interfaces had “been and are being frustrated,” preventing expansion into a “full service securities depository” capable of competing with other clearing agencies. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1978-03-28/pdf/FR-1978-03-28.pdf))
 
 ## June 23, 1980 — 45 FR 41920
 
