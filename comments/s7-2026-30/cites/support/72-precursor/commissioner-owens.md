@@ -218,11 +218,12 @@ https://www.law.cornell.edu/uscode/text/15/78lll
 § 78lll(2)(A) (_Id._ )
 > securities received, acquired, or held by the debtor in the ordinary course of its business as a broker or dealer from or for the securities accounts of such person for safekeeping,
 
-### Now here's where the story gets weird: *Redington*
 
-Remember **Edward S. Redington**, the Weis Securities trustee who sat on Owens's SIPA task force?
 
-He is also the Redington in one of the most important cases in this whole chain.
+
+# ancilary legal stuff not super related
+
+## *Redington*
 
 Weis Securities collapsed in 1973. Redington became its SIPA trustee. He and SIPC sued the firm's accountants, **Touche Ross**, alleging that deficient audits and reports contributed to customer losses.
 
@@ -234,13 +235,13 @@ The reasoning was essentially: the trustee is responsible for marshaling and ret
 
 The court held that the trustee as bailee was an appropriate real party in interest under Federal Rule of Civil Procedure 17(a). That's the old doctrinal foundation Picard later tried to resurrect in Madoff.
 
-I verified the full 1978 *Redington* opinion in CourtListener. [Redington v. Touche Ross, 592 F.2d 617 — CourtListener](https://www.courtlistener.com/opinion/363590/redington-v-touche-ross-co/?utm_source=chatgpt.com)
+I verified the full 1978 *Redington* opinion in CourtListener. [Redington v. Touche Ross, 592 F.2d 617 — CourtListener](https://www.courtlistener.com/opinion/363590/redington-v-touche-ross-co)
 
 Then the Supreme Court blew up the foundation.
 
 In ***Touche Ross & Co. v. Redington*, 442 U.S. 560 (1979)**, the Supreme Court held that Exchange Act § 17(a)—the broker recordkeeping provision—**did not create the implied private cause of action** the Second Circuit had found.
 
-Because there was no underlying § 17(a) private action, the Supreme Court said it was unnecessary to decide the Second Circuit's other holdings, including its bailee-standing theory. The Court itself records that the lower court had treated the trustee as bailee of unreturned customer property. [Touche Ross v. Redington, 442 U.S. 560 — CourtListener](https://www.courtlistener.com/opinion/110112/touche-ross-co-v-redington/?utm_source=chatgpt.com)
+Because there was no underlying § 17(a) private action, the Supreme Court said it was unnecessary to decide the Second Circuit's other holdings, including its bailee-standing theory. The Court itself records that the lower court had treated the trustee as bailee of unreturned customer property. [Touche Ross v. Redington, 442 U.S. 560 — CourtListener](https://www.courtlistener.com/opinion/110112/touche-ross-co-v-redington)
 
 On remand, the Second Circuit vacated its earlier judgment and ultimately dismissed. So the attractive old proposition—
 
@@ -248,7 +249,7 @@ On remand, the Second Circuit vacated its earlier judgment and ultimately dismis
 
 —lost its precedential foundation.
 
-### Fast-forward to Madoff
+## Fast-forward to Madoff
 
 Irving Picard was appointed SIPA trustee for Bernard L. Madoff Investment Securities.
 
@@ -275,10 +276,11 @@ Judge Colleen McMahon rejected Picard's argument in ***Picard v. JPMorgan Chase 
 She reasoned that Picard wasn't in possession of the customer property when JPMorgan supposedly injured it. The trustee only arrived afterward.
 
 Her analogy was essentially: a parking garage operator who receives your damaged car **after the accident** doesn't thereby gain standing to sue whoever crashed it.
+_Picard v. JPMorgan Chase & Co._, 460 B.R. 84, 104–05 (S.D.N.Y. 2011).
+> “If I park my car in a city garage and another customer scratches it while it’s parked there, the garage may have standing as my bailee…”
 
 Her conclusion was that SIPA itself didn't create the broad bailment Picard needed.
-
-I checked the district-court opinion through CourtListener. [Picard v. JPMorgan, 460 B.R. 84 — CourtListener](https://www.courtlistener.com/opinion/2194317/picard-v-jpmorgan-chase-co/?utm_source=chatgpt.com)
+[Picard v. JPMorgan, 460 B.R. 84 — CourtListener](https://www.courtlistener.com/opinion/2194317/picard-v-jpmorgan-chase-co)
 
 ### Then JPMorgan found Owens
 
@@ -286,9 +288,7 @@ On appeal, JPMorgan devoted an entire section of its brief to:
 
 **“THE DISTRICT COURT CORRECTLY REJECTED THE TRUSTEE'S BAILEE STANDING THEORY.”**
 
-Its brief first attacks the idea that **SEC Rule 15c3-3** itself creates a bailment. JPMorgan pointed out that Rule 15c3-3 contemplates certain commingling and that the reserve need not consist of the identical dollars customers deposited. ([The Ponzi Book][1])
-
-Then comes the historical knife.
+Its brief first attacks the idea that **SEC Rule 15c3-3** itself creates a bailment. JPMorgan pointed out that Rule 15c3-3 contemplates certain commingling and that the reserve need not consist of the identical dollars customers deposited. 
 
 JPMorgan says that **SIPC itself had already admitted to Congress that ordinary customer property was not held as a bailment**, and it quotes Owens's 1978 statement.
 
@@ -298,7 +298,7 @@ Owens said **customer-name securities** receive this special bailee-like treatme
 
 Therefore, if *all* customer property were already held in bailment, Owens's distinction would make very little sense.
 
-The brief then expressly contrasts those customer-name securities with **ordinary property, including cash**. ([The Ponzi Book][1])
+The brief then expressly contrasts those customer-name securities with **ordinary property, including cash**.
 
 That is **CA2 Document 110, filed April 5, 2012**. CourtListener's docket identifies it as the brief for JPMorgan Chase & Co., JPMorgan Chase Bank NA, JP Morgan Securities LLC, and JP Morgan Securities Ltd.
 
@@ -328,33 +328,13 @@ That's at roughly **721 F.3d 73**.
 
 The court therefore affirmed dismissal of Picard's third-party common-law claims.
 
-### The historical irony is fantastic
-
-There are actually **two Owens-era threads colliding in the Madoff decision**.
-
-Owens creates his SIPC reform task force.
-
-**Edward Redington**, the Weis trustee, sits on it.
-
-Redington then litigates a case that gives a SIPA trustee a broad **bailee theory** in the Second Circuit.
-
-The Supreme Court knocks out the underlying federal claim in *Touche Ross*.
-
-Meanwhile Congress enacts Owens-era SIPA reforms in 1978 and creates the much narrower **customer-name-securities** category.
-
-Owens tells Congress those particular securities are effectively held merely as a **bailee**.
-
-Thirty-four years later, Picard tries to resurrect the broad *Redington* conception of a SIPA trustee as bailee for customer property.
-
-**JPMorgan responds with Owens's own words.**
-
-And the Second Circuit says, essentially: Owens's statement proves too much **against** Picard. Congress knew how to create a property relationship resembling bailment, and it did so for the unusually narrow case of customer-name securities—not the general pool Picard was suing over.
-
 ### And it goes even deeper than just bailment
 
 The same 2013 Second Circuit opinion also relies on **Owens's 1974 Task Force Report** on Picard's alternative argument that SIPC could transfer broad third-party claims to him through **subrogation**.
 
-The task force's Recommendation II.A.9 treated SIPC's subrogation claims as claims against the **general estate**, except where specifically provided otherwise. The Second Circuit reads that history as further evidence that neither Congress nor the SIPC reformers intended to give SIPC/trustees a sweeping right to litigate customers' independent causes of action against every third-party wrongdoer. ([Counsel Stack Legal Research][4])
+The task force's Recommendation II.A.9 treated SIPC's subrogation claims as claims against the **general estate**, except where specifically provided otherwise. The Second Circuit reads that history as further evidence that neither Congress nor the SIPC reformers intended to give SIPC/trustees a sweeping right to litigate customers' independent causes of action against every third-party wrongdoer.
+
+https://law.counselstack.com/opinion/picard-v-jpmorgan-chase-co-ca2-2013
 
 So the Second Circuit used **Owens-era legislative history twice** against Picard:
 
@@ -383,31 +363,3 @@ Instead:
 
 **customer property shortfall**
 → customers share ratably according to their statutory net equities, plus the applicable SIPC advance.
-
-That distinction is very close to the heart of the question you've been researching about **intermediated securities ownership versus direct ownership**. Congress consciously chose to prevent a customer from jumping ahead of otherwise similarly situated customers merely because *their particular street-name certificate happened still to be sitting in the broker's vault on the filing date*. *Bevill* describes that as one of the inequities the 1978 amendment was designed to eliminate. ([Justia Law][3])
-
-And note how narrow the direct-return category is: current **15 USC § 78lll(3)** still requires that the securities actually be **registered in the customer's name or in the process of being so registered**, and excludes them if an endorsement or otherwise makes them negotiable. 
-
-### The primary-source packet
-
-The five documents I'd save together for this are: **SIPC's 1974 Annual Report / Special Task Force discussion; the April 25, 1978 Owens Senate hearing at pp. 41–42; Public Law 95-283, especially 92 Stat. 261 and 272; JPMorgan's April 5, 2012 CA2 brief, Doc. 110, pp. 34–35; and the Second Circuit's *Picard*, 721 F.3d 54, especially pp. 71–74 & nn.22–25.** Add ***Bevill*, 59 B.R. 353, 359–70** because it gives probably the best judicial reconstruction of *why* Congress drew the 1978 property distinction.
-
-Here are the source documents directly:
-
-[1978 Senate hearing — April 25, 1978 (HathiTrust catalog/page images)](https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=United+States.+Congress.+Senate.+Committee+on+Banking%2C+Housing%2C+and+Urban+Affairs.+Subcommittee+on+Securities&utm_source=chatgpt.com)
-
-[Public Law 95-283 — actual Statutes at Large PDF](https://www.govinfo.gov/content/pkg/STATUTE-92/pdf/STATUTE-92-Pg249.pdf?utm_source=chatgpt.com)
-
-[SIPC 1974 Annual Report — Owens Task Force discussion](https://www.sipc.org/media/annual-reports/1974-annual-report.PDF?utm_source=chatgpt.com)
-
-[JPMorgan's CA2 appellee brief — Document 110](https://www.theponzibook.com/Picard_v_JPMorgan_Appellee_Brief_2d_Cir.pdf?utm_source=chatgpt.com)
-
-[Picard v. JPMorgan, 721 F.3d 54 — CourtListener](https://www.courtlistener.com/opinion/903751/picard-v-jpmorgan-chase-co-in-re-bernard-l-madoff-investment/?utm_source=chatgpt.com)
-
-The thing I would chase next is the **full April 25, 1978 Owens testimony and section-by-section explanation**, because *Bevill* also cites essentially identical language at **“1977 S. Hearings at 189–90,”** whereas the 2013 Second Circuit and JPMorgan cite Owens's **1978 hearing at 41–42**. That suggests this language was carried through multiple iterations of the SIPA amendments, and I want to pin down **when Owens/SIPC first formulated the “debtor as bailee” concept and whether it came from Owens, Focht, the Task Force, or congressional staff**. That may take us back into the 1974 Task Force Report itself.
-
-[4]: https://law.counselstack.com/opinion/picard-v-jpmorgan-chase-co-ca2-2013?utm_source=chatgpt.com "Picard v. JPMorgan Chase & Co., 721 F.3d 54 (2013) — Counsel Stack"
-
-
-
-
