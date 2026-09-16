@@ -31,6 +31,8 @@ The difficulty in regard to implementing this prohibition, however, is that the 
 
 ## Madoff
 
+SUPA is 70 (init) to 74 (prop) to 78 (cong)
+
 ### The core discovery
 
 In **2013**, the Second Circuit used a statement made by **Hugh F. Owens, then chairman of SIPC**, to Congress in 1978 to draw a sharp legal distinction between two kinds of customer assets at a failed broker:
@@ -101,6 +103,8 @@ After leaving the SEC and becoming SIPC chairman, Owens **created a Special Task
 * Kenneth I. Rosenblum — Midwest Stock Exchange
 * James W. Walker Jr. — American Stock Exchange
 * Frank J. Wilson — NASD
+https://www.sipc.org/media/annual-reports/1974-annual-report.pdf?https://www.sipc.org/media/annual-reports/1974-annual-report.pdf
+has supp src
 
 It also consulted **stock-transfer-agent associations**, major New York banks, the FDIC, SEC personnel, SIPA trustees, and their counsel. 
 
