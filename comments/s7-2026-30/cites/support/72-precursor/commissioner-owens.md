@@ -45,14 +45,32 @@ The Owens language the court seized on was:
 
 That is from *Securities Investor Protection Act Amendments: Hearing on H.R. 8331*, Senate Subcommittee on Securities, **April 25, 1978, pp. 41–42**, statement of Hugh F. Owens, Chairman of SIPC.
 
+AA https://www.google.com/books/edition/Securities_Investor_Protection_Act_Amend/X6hb55JjP5sC
+
+** ** UCC8-501 IN ACTION ** **
+
+> §16 (4) of the Act-- " Customer name securities " takes the place of
+" specifically identifiable property " as the category of securities which will
+be returned to individual customers outside the normal procedure for
+allocating and distributing customer property . Securities registered in the
+names of customers or in the process of being so registered on the filing
+date will be treated , in short , as though they are not part of the debtor's estate , but merely held by the debtor as bailee . 
+
+
+Here, “bailee” means someone who possesses property belonging to another person without owning it.
+
+
 The Second Circuit cites it in **footnote 22 of *Picard v. JPMorgan Chase & Co.*, 721 F.3d 54, 73 n.22 (2d Cir. 2013)**. 
-https://www.courtlistener.com/opinion/903751/picard-v-jpmorgan-chase-co-in-re-bernard-l-madoff-investment/
+https://www.courtlistener.com/opinion/903751/picard-v-jpmorgan-chase-co-in-re-bernard-l-madoff-investment
 
-And there is a particularly neat docket-level detail: **JPMorgan itself put Owens's 1978 statement before the Second Circuit**. Its April 5, 2012 appellee brief, **CA2 No. 11-5044, Document 110**, reproduced the passage and argued that SIPC's own historical position defeated Picard's broad bailment theory. The CourtListener docket identifies that filing as Document 110; the archived brief shows it at brief pp. 34–35 / PDF pp. 47–48. ([The Ponzi Book][1])
+> See 15 U.S.C. § 78lll (4) (excluding "customer name securities delivered to the customer” from definition of customer property); see also In re New Times Sec. Servs., Inc., 371 F.3d 68, 72-73 (2d Cir.2004). This contrast, and its ramifications, are illuminated by SIPC’s own statements to Congress regarding the passage of the 1978 amendments to SIPA. SIPC's then-Chairman, Hugh F. Owens, explained that customer name securities "will be treated, in short, as though they are not part of the debtor’s estate, but merely held by the debtor as bailee” — implying that most other commingled property, such as cash, would simply become part of the debtor’s estate. SIPA Amendments: Hearings on H.R. 8331 Before the Subcomm. on Sec., Comm, on Banking, Hons, and Urban Affairs, 95th Cong. 41-42 (1978) (Statement by Hugh F. Owens, Chairman of SIPC).
 
-So the chain is literally:
+And there is a particularly neat docket-level detail: **JPMorgan itself put Owens's 1978 statement before the Second Circuit**. Its April 5, 2012 appellee brief, **CA2 No. 11-5044, Document 110**, reproduced the passage and argued that SIPC's own historical position defeated Picard's broad bailment theory. The CourtListener docket identifies that filing as Document 110; the archived brief shows it at brief pp. 34–35 / PDF pp. 47–48.
 
-**Owens → Congress in 1978 → JPMorgan's 2012 appellate brief → Second Circuit's 2013 Madoff opinion.**
+
+https://www.theponzibook.com/Picard_v_JPMorgan_Appellee_Brief_2d_Cir.pdf (partial and irrelsv cite)
+(Redington at 36 [49])
+
 
 ### Where this really starts: Owens's SIPC reform project
 
@@ -73,9 +91,8 @@ It also consulted **stock-transfer-agent associations**, major New York banks, t
 
 That Edward Redington name becomes important below.
 
-Owens wrote in the same 1974 report that the Board had taken the task force recommendations and submitted legislation to Congress. SIPC described the objectives as faster liquidation, lower costs, higher protection limits, and—in language that matters enormously here—making it possible to deliver customer accounts substantially as they existed when the broker failed. 
-
-SIPC's later 50th-anniversary history confirms the progression: task force created in 1973; proposals submitted to Congress in 1974; eventual comprehensive amendments enacted in 1978. ([SIPC][2])
+SIPC's later 50th-anniversary history confirms the progression: task force created in 1973; proposals submitted to Congress in 1974; eventual comprehensive amendments enacted in 1978.
+https://www.sipc.org/media/sipc-50th-report.pdf
 
 ### Then Congress fundamentally changed what it meant to “own” identifiable securities in a SIPA liquidation
 
@@ -329,8 +346,6 @@ Here are the source documents directly:
 
 The thing I would chase next is the **full April 25, 1978 Owens testimony and section-by-section explanation**, because *Bevill* also cites essentially identical language at **“1977 S. Hearings at 189–90,”** whereas the 2013 Second Circuit and JPMorgan cite Owens's **1978 hearing at 41–42**. That suggests this language was carried through multiple iterations of the SIPA amendments, and I want to pin down **when Owens/SIPC first formulated the “debtor as bailee” concept and whether it came from Owens, Focht, the Task Force, or congressional staff**. That may take us back into the 1974 Task Force Report itself.
 
-[1]: https://www.theponzibook.com/Picard_v_JPMorgan_Appellee_Brief_2d_Cir.pdf "Microsoft Word - 1924515_27.DOC"
-[2]: https://www.sipc.org/media/sipc-50th-report.pdf?utm_source=chatgpt.com "\"[SIPA] of 1970 was an innovative and exemplary piece of remedial legislation, evolved principally through the cooperative efforts of the Congress, the [SEC], and the securities industry itself. In general it has worked well, and thousands upon thousands of securities investors have been greatly benefited. However, as with any new legislation, only experience can demonstrate its precise efficacy and suggest areas of possible improvement. Now that SIPC has had experience in the liquidation of 94 firms over a three-year period, it is appropriate for it to join with other interested and knowledgeable parties in a common effort to improve this program of customer protection.\" — Remarks of Hugh F. Owens, Chairman of SIPC, in announcing the formation of the 1973 Task Force."
 [3]: https://law.justia.com/cases/federal/district-courts/BR/59/353/1805114/?utm_source=chatgpt.com "Matter of Bevill, Bresler & Schulman, Inc., 59 B.R. 353 (D.N.J. 1986) :: Justia"
 [4]: https://law.counselstack.com/opinion/picard-v-jpmorgan-chase-co-ca2-2013?utm_source=chatgpt.com "Picard v. JPMorgan Chase & Co., 721 F.3d 54 (2013) — Counsel Stack"
 
