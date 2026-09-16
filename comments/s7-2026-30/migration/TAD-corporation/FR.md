@@ -1,36 +1,130 @@
-## PReceedings alongside DTC -- start of 75 Act
+Yes. For the **TAD Depository Corporation lifecycle**, I’d keep this citation chain. I separated TAD’s own filings/orders from broader clearing-agency proceedings that included TAD.
+
+## August 19, 1975 — 40 FR 36179
+
+**SEC release / file:** Releases **34-11587, 34-11588, 34-11589**
+
+Exchange rule changes concerning the **interface between National Clearing Corporation and TAD Depository Corporation**. The SEC summarily put the rules into effect. ([GovInfo][1])
+
+## December 2, 1975 — 40 FR 55910
+
+**SEC release / file:** **34-11875**, File **600-13**
+
+TAD's clearing-agency registration proceeding. This is the key source for its **temporary registration effective Dec. 1, 1975**, initially for 18 months. ([Federal Register Archives][2])
+
+## March 22, 1976 — 41 FR 11904
+
+**SEC release / file:** **34-12199**, **SR-TAD-76-1**
+
+TAD proposed changes to its **deposit, withdrawal, custody and book-entry delivery fees**. ([GovInfo][3])
+
+## September 13, 1976 — 41 FR 38841
+
+**SEC release / file:** **34-12759**, File **600-13**
+
+**Institution of proceedings to determine whether to grant or deny registration.** This is the one we were just discussing—not an approval order. ([GovInfo][4])
 
 https://www.govinfo.gov/content/pkg/FR-1976-09-13/pdf/FR-1976-09-13.pdf#page=97
 
 > TAD, which is 80% owned jointly by Philadelphia, MSE and BSE and 20% owned by the Bradford Trust Company,
 
+## October 1, 1976 — 41 FR 43483
 
+**SEC release / file:** **34-12822**, **SR-TAD-76-2**
 
-Yes. For the **TAD Depository Corporation lifecycle**, I’d keep this citation chain. I separated TAD’s own filings/orders from broader clearing-agency proceedings that included TAD.
+Proposed TAD **Pledged Securities Service**, allowing securities held at TAD to be pledged as collateral. ([Library of Congress][5])
 
-| Federal Register cite                | SEC release / file                         | What it did                                                                                                                                                                                                                                                                                                                       |
-| ------------------------------------ | ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **40 FR 36179 (Aug. 19, 1975)**      | Releases **34-11587, 34-11588, 34-11589**  | Exchange rule changes concerning the **interface between National Clearing Corporation and TAD Depository Corporation**. The SEC summarily put the rules into effect. ([GovInfo][1])                                                                                                                                              |
-| **40 FR 55910 (Dec. 2, 1975)**       | **34-11875**, File **600-13**              | TAD's clearing-agency registration proceeding. This is the key source for its **temporary registration effective Dec. 1, 1975**, initially for 18 months. ([Federal Register Archives][2])                                                                                                                                        |
-| **41 FR 11904 (Mar. 22, 1976)**      | **34-12199**, **SR-TAD-76-1**              | TAD proposed changes to its **deposit, withdrawal, custody and book-entry delivery fees**. ([GovInfo][3])                                                                                                                                                                                                                         |
-| **41 FR 38841 (Sept. 13, 1976)**     | **34-12759**, File **600-13**              | **Institution of proceedings to determine whether to grant or deny registration.** This is the one we were just discussing—not an approval order. ([GovInfo][4])                                                                                                                                                                  |
-| **41 FR 43483 (Oct. 1, 1976)**       | **34-12822**, **SR-TAD-76-2**              | Proposed TAD **Pledged Securities Service**, allowing securities held at TAD to be pledged as collateral. ([Library of Congress][5])                                                                                                                                                                                              |
-| **41 FR 50366 (Nov. 15, 1976)**      | **34-12961**, **SR-TAD-76-2**              | **Approved** that Pledged Securities Service. ([Wikimedia Commons][6])                                                                                                                                                                                                                                                            |
-| **42 FR 3916 (Jan. 21, 1977)**       | **34-13163**, File **600-15**              | NSCC registration order. Important to TAD because the SEC required NSCC to establish appropriate **links with TAD** and BSECC. ([Wikimedia Commons][7])                                                                                                                                                                           |
-| **42 FR 27361 (May 27, 1977)**       | **34-13553**, **SR-TAD-77-1**              | Proposed a direct **TAD–DTC interface account**, permitting book-entry transfers between participants of the two depositories. ([GovInfo][8])                                                                                                                                                                                     |
-| **42 FR 30065–66 (June 10, 1977)**   | **34-13584**                               | Extended TAD's temporary clearing-agency registration, along with the other temporary registrants, to **Sept. 1, 1977**. ([GovInfo][9])                                                                                                                                                                                           |
-| **42 FR 33394 (June 30, 1977)**      | **34-13664**                               | Further general clearing-agency registration/proceeding action that included TAD. The SEC later expressly lists it in the history of the temporary registrations. ([Wikimedia Commons][10])                                                                                                                                       |
-| **42 FR 35951 (July 13, 1977)**      | —                                          | SEC issuer/proxy communications material identifying registered depositories and their nominees; includes **TAD Depository Corporation / TAD & Co.** This is more of an incidental regulatory mention than a TAD proceeding. ([Library of Congress][11])                                                                          |
-| **42 FR 39285 (Aug. 3, 1977)**       | **34-13714**, **SR-TAD-77-1**              | **Approved the TAD–DTC interface** proposed at 42 FR 27361. ([GovInfo][12])                                                                                                                                                                                                                                                       |
-| **42 FR 41204 (Aug. 15, 1977)**      | **34-13845**, **SR-TAD-77-2**              | Proposed allowing TAD to release certificates registered in **TAD & Co.** to participants; explicitly connected to facilitating interfaces with DTC and NSCC. ([GovInfo][13])                                                                                                                                                     |
-| **Release 34-13911 (Aug. 31, 1977)** | —                                          | Extended TAD's registration again, this time through **Mar. 1, 1978**. The SEC's later Federal Register history cites the release but notably does **not give an FR page**, and a 2012 SEC order cites it as **1977 WL 190688**. So I would *not* confidently write “42 FR 45331” without the original issue in hand. ([SEC][14]) |
-| **42 FR 49854 (Sept. 28, 1977)**     | **34-13977**, **SR-TAD-77-2**              | **Approved** TAD's change permitting release of TAD & Co. nominee certificates. ([Wikimedia Commons][15])                                                                                                                                                                                                                         |
-| **43 FR 10288 (Mar. 10, 1978)**      | **34-14531**                               | Further extension/proceeding concerning the temporarily registered clearing agencies, including TAD. ([Wikimedia Commons][10])                                                                                                                                                                                                    |
-| **43 FR 12979 (Mar. 28, 1978)**      | **34-14587**, **SR-TAD-78-1**              | **The big shutdown filing.** TAD proposed suspending depository operations effective **Apr. 1, 1978**. It explained that its attempts to establish the necessary interfaces had been frustrated and that it could not develop into the contemplated full-service depository. ([Wikimedia Commons][16])                            |
-| **45 FR 41920 (June 23, 1980)**      | **34-16900**                               | SEC clearing-agency registration standards. TAD is expressly listed among the temporarily registered clearing agencies even though its operations had already ceased. The release also reconstructs the registration-extension history. ([Federal Register Archives][17])                                                         |
-| **47 FR 13262 (Mar. 29, 1982)**      | **34-18583**, Files **600-2, 600-13**      | **Final TAD termination order.** SEC granted withdrawal requests and terminated the registrations of Bradford Securities Processing Services and TAD. TAD had been inactive since Apr. 1, 1978; its registration was cancelled effective **May 31, 1982**. ([GovInfo][18])                                                        |
-| **48 FR 45167–68 (Oct. 3, 1983)**    | **34-20221**                               | Later permanent clearing-agency-registration action that retrospectively discusses TAD's temporary-registration history and termination.                                                                                                                                                                                          |
-| **80 FR 81955 (Dec. 31, 2015)**      | Transfer Agent Regulations concept release | Modern SEC historical discussion of the **TAD model/TAD Depository Corporation** and the early post-1975 depository structure. Useful retrospective source, but obviously not part of TAD's operative proceeding. ([GovInfo][19])                                                                                                 |
+## November 15, 1976 — 41 FR 50366
+
+**SEC release / file:** **34-12961**, **SR-TAD-76-2**
+
+**Approved** that Pledged Securities Service. ([Wikimedia Commons][6])
+
+## January 21, 1977 — 42 FR 3916
+
+**SEC release / file:** **34-13163**, File **600-15**
+
+NSCC registration order. Important to TAD because the SEC required NSCC to establish appropriate **links with TAD** and BSECC. ([Wikimedia Commons][7])
+
+## May 27, 1977 — 42 FR 27361
+
+**SEC release / file:** **34-13553**, **SR-TAD-77-1**
+
+Proposed a direct **TAD–DTC interface account**, permitting book-entry transfers between participants of the two depositories. ([GovInfo][8])
+
+## June 10, 1977 — 42 FR 30065–66
+
+**SEC release / file:** **34-13584**
+
+Extended TAD's temporary clearing-agency registration, along with the other temporary registrants, to **Sept. 1, 1977**. ([GovInfo][9])
+
+## June 30, 1977 — 42 FR 33394
+
+**SEC release / file:** **34-13664**
+
+Further general clearing-agency registration/proceeding action that included TAD. The SEC later expressly lists it in the history of the temporary registrations. ([Wikimedia Commons][10])
+
+## July 13, 1977 — 42 FR 35951
+
+SEC issuer/proxy communications material identifying registered depositories and their nominees; includes **TAD Depository Corporation / TAD & Co.** This is more of an incidental regulatory mention than a TAD proceeding. ([Library of Congress][11])
+
+## August 3, 1977 — 42 FR 39285
+
+**SEC release / file:** **34-13714**, **SR-TAD-77-1**
+
+**Approved the TAD–DTC interface** proposed at 42 FR 27361. ([GovInfo][12])
+
+## August 15, 1977 — 42 FR 41204
+
+**SEC release / file:** **34-13845**, **SR-TAD-77-2**
+
+Proposed allowing TAD to release certificates registered in **TAD & Co.** to participants; explicitly connected to facilitating interfaces with DTC and NSCC. ([GovInfo][13])
+
+## August 31, 1977 — Release 34-13911
+
+Extended TAD's registration again, this time through **Mar. 1, 1978**. The SEC's later Federal Register history cites the release but notably does **not give an FR page**, and a 2012 SEC order cites it as **1977 WL 190688**. So I would *not* confidently write “42 FR 45331” without the original issue in hand. ([SEC][14])
+
+## September 28, 1977 — 42 FR 49854
+
+**SEC release / file:** **34-13977**, **SR-TAD-77-2**
+
+**Approved** TAD's change permitting release of TAD & Co. nominee certificates. ([Wikimedia Commons][15])
+
+## March 10, 1978 — 43 FR 10288
+
+**SEC release / file:** **34-14531**
+
+Further extension/proceeding concerning the temporarily registered clearing agencies, including TAD. ([Wikimedia Commons][10])
+
+## March 28, 1978 — 43 FR 12979
+
+**SEC release / file:** **34-14587**, **SR-TAD-78-1**
+
+**The big shutdown filing.** TAD proposed suspending depository operations effective **Apr. 1, 1978**. It explained that its attempts to establish the necessary interfaces had been frustrated and that it could not develop into the contemplated full-service depository. ([Wikimedia Commons][16])
+
+## June 23, 1980 — 45 FR 41920
+
+**SEC release / file:** **34-16900**
+
+SEC clearing-agency registration standards. TAD is expressly listed among the temporarily registered clearing agencies even though its operations had already ceased. The release also reconstructs the registration-extension history. ([Federal Register Archives][17])
+
+## March 29, 1982 — 47 FR 13262
+
+**SEC release / file:** **34-18583**, Files **600-2, 600-13**
+
+**Final TAD termination order.** SEC granted withdrawal requests and terminated the registrations of Bradford Securities Processing Services and TAD. TAD had been inactive since Apr. 1, 1978; its registration was cancelled effective **May 31, 1982**. ([GovInfo][18])
+
+## October 3, 1983 — 48 FR 45167–68
+
+**SEC release / file:** **34-20221**
+
+Later permanent clearing-agency-registration action that retrospectively discusses TAD's temporary-registration history and termination.
+
+## December 31, 2015 — 80 FR 81955
+
+**SEC release / file:** Transfer Agent Regulations concept release
+
+Modern SEC historical discussion of the **TAD model/TAD Depository Corporation** and the early post-1975 depository structure. Useful retrospective source, but obviously not part of TAD's operative proceeding. ([GovInfo][19])
 
 The **tightest primary-source chain** for telling TAD's story is therefore:
 
@@ -51,7 +145,7 @@ IT IS FURTHER ORDERED that an Admi"
 [3]: https://www.govinfo.gov/content/pkg/FR-1976-03-22/pdf/FR-1976-03-22.pdf?utm_source=chatgpt.com "Vol.41— No.56"
 [4]: https://www.govinfo.gov/content/pkg/FR-1976-09-13/pdf/FR-1976-09-13.pdf?utm_source=chatgpt.com "NOTICES
 
-\[Release No. 34-12759]
+\[Release No. 34-12759\]
 
 Notice of Institu"
 [5]: https://tile.loc.gov/storage-services/service/ll/fedreg/fr041/fr041192/fr041192.pdf?utm_source=chatgpt.com "Federal Register: 41 Fed. Reg. 43381 (Oct. 1, 1976)."
@@ -79,3 +173,11 @@ Bureau of La"
 [17]: https://archives.federalregister.gov/issue_slice/1980/6/23/41913-41933.pdf?utm_source=chatgpt.com "Federal Register / Vol. 45, No. 122 / Monday, June 23, 1980 / Rules and Regulations"
 [18]: https://www.govinfo.gov/content/pkg/FR-1982-03-29/pdf/FR-1982-03-29.pdf?utm_source=chatgpt.com "Federal Register / Vol. 47, No. 60 / Monday, March 29, 1982 / Notices"
 [19]: https://www.govinfo.gov/content/pkg/FR-2015-12-31/pdf/2015-32755.pdf?utm_source=chatgpt.com "Federal Register / Vol. 80, No. 251 / Thursday, December 31, 2015 / Proposed Rules 81955"
+
+## NSCC–TAD link condition — 42 FR 3938
+
+**SEC release / file:** **34-13163**, File **600-15**
+
+The SEC's January 13, 1977 NSCC registration order made the linkage a condition that NSCC had to satisfy before beginning integrated operation. It required NSCC to establish “appropriate links with Boston Stock Exchange Clearing Corporation (‘BSECC’) and TAD Depository Corporation (‘TADDC’)” and to offer to operate each link without charging the other party for interface movements or imposing an interface fee on participants.
+
+Source: **42 FR 3916, 3938 (Jan. 21, 1977)** — https://www.govinfo.gov/content/pkg/FR-1977-01-21/pdf/FR-1977-01-21.pdf
