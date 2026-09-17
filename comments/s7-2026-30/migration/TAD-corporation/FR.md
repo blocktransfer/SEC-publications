@@ -1,9 +1,4 @@
-The TAD Depository Corporation
-( “ TADDC” ), a securities depository
-which ultimately intends to serve as the
-bridge for the implementation of the
-transfer agent depository ( “ TA D ” ) con
-cept,
+TAD Depository Corporation (“TADDC”) was a securities depository intended to serve as the bridge for implementation of the transfer agent depository (“TAD”) concept.
 
 ## August 19, 1975 — 40 FR 36179
 
