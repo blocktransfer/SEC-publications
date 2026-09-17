@@ -15,6 +15,8 @@ And crucially, the SEC considered the Broadridge-to-broker payments again in 201
 
 2010 SEC Concept Release itself says Broadridge reported handling more than 98% of the U.S. market for proxy-vote processing
 
+reallly good img ref of centarl DTC At https://www.sec.gov/files/rules/concept/2010/34-62495fr.pdf#page=6
+
 ---
 
 ai:
