@@ -1,8 +1,33 @@
 TAD Depository Corporation (“TADDC”) was a securities depository intended to serve as the bridge for implementation of the transfer agent depository (“TAD”) concept.
 
+for waht its woreth, i doent htihkn tehir implemetniwn of taddc wolud've really woerde bc you still have a centreal nomienneee. this shoeld all come after intoreidecing the two-tiered seperate double clearonigy agunty ideas that were floeted and implumuntuud 
+
 ## August 19, 1975 — 40 FR 36179
 
 Exchange rule changes concerning the **interface between National Clearing Corporation and TAD Depository Corporation**. The SEC summarily put the rules into effect. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1975-08-19/pdf/FR-1975-08-19.pdf))
+
+at 94 is were ethe y realyl start oging into the tad nad say thot :
+
+> NCC and the Depository Trust Com
+pany currently have a fully operational
+depository interface which has increased
+significantly the safety and efficiency of
+clearing and settlement for securities
+transactions processed through NCC.
+Based on the performance of this inter
+face and on its review of the proposed
+NCC-TAD interface, the Commission has
+determined that implementation of the
+NCC-TAD interface will increase signifi
+cantly the safety and efficiency of clear
+ing and settlement for securities trans
+actions settled through NCC. Accord
+ingly, it appears to the Commission that
+immediate implementation of the NCC-
+TAD interface is necessary for the pro
+tection of investors and for the safe
+guarding of securities and funds.
+
 
 ## December 2, 1975 — 40 FR 55910
 
@@ -105,3 +130,8 @@ I’m reasonably confident this captures the **substantive TAD Federal Register 
 The SEC's January 13, 1977 NSCC registration order made the linkage a condition that NSCC had to satisfy before beginning integrated operation. It required NSCC to establish “appropriate links with Boston Stock Exchange Clearing Corporation (‘BSECC’) and TAD Depository Corporation (‘TADDC’)” and to offer to operate each link without charging the other party for interface movements or imposing an interface fee on participants.
 
 Source: **42 FR 3916, 3938 (Jan. 21, 1977)** — https://www.govinfo.gov/content/pkg/FR-1977-01-21/pdf/FR-1977-01-21.pdf
+
+
+## See Also: _Bradford National Clearing Corp. v. SEC_, 590 F.2d 1085 (D.C. Cir. 1978)
+
+https://www.courtlistener.com/opinion/7891682/bradford-national-clearing-corp-v-securities-exchange-commission
