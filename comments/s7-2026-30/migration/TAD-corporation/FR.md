@@ -1,4 +1,9 @@
-Yes. For the **TAD Depository Corporation lifecycle**, I’d keep this citation chain. I separated TAD’s own filings/orders from broader clearing-agency proceedings that included TAD.
+The TAD Depository Corporation
+( “ TADDC” ), a securities depository
+which ultimately intends to serve as the
+bridge for the implementation of the
+transfer agent depository ( “ TA D ” ) con
+cept,
 
 ## August 19, 1975 — 40 FR 36179
 
