@@ -83,6 +83,41 @@ complex
 
 NSCC registration order. The SEC made commencement of NSCC's integrated operation conditional on establishing “appropriate links with Boston Stock Exchange Clearing Corporation (‘BSECC’) and TADDC.” See **42 FR 3916, 3938**. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1977-01-21/pdf/FR-1977-01-21.pdf))
 
+## NSCC–TAD link condition — 42 FR 3938
+
+The SEC's January 13, 1977 NSCC registration order made the linkage a condition that NSCC had to satisfy before beginning integrated operation. It required NSCC to establish “appropriate links with Boston Stock Exchange Clearing Corporation (‘BSECC’) and TADDC” and to offer to operate each link without charging the other party for interface movements or imposing an interface fee on participants.
+
+Source: **42 FR 3916, 3938 (Jan. 21, 1977)** — https://www.govinfo.gov/content/pkg/FR-1977-01-21/pdf/FR-1977-01-21.pdf
+
+^This doc cite then gits into the DOJ DC-cir remarks.
+at 116:
+> A number of NSCC’s potential clearing
+corporation competitors and the United
+States Department of Justice expressed
+the view th at NSCC’s activities should be
+restricted to New York City, either in
+definitely or for a fixed period, in order
+to protect clearing corporations operat
+ing outside New York City from the dan
+gers of competition with NSCC.
+
+"dangers of competition with NSCC" in 1977 shows juts how much wall st might was alrceday coenectarted
+
+3926 cites the 600-15 transcritp at n.104
+
+### Competition Among Clearing Agencies at 3931
+
+> During the proceedings opponents of
+NSCC’s registration and the United
+States Department of Justice maintained
+th at the Management Agreement was
+anticompetitive and recommended that
+any grant of registration to NSCC be
+conditioned on exposure of NSCC’s fa
+cilities management contract to competi
+tive bidding.
+3936
+
 ## May 18, 1977 — 42 FR 25568
 
 NSCC consolidation-plan notice. Discusses implementation of the consolidation of NSCC's three operating divisions and states that NSCC had met with **TAD Depository Corporation** to develop a proposed method of linking the organizations.
@@ -202,6 +237,13 @@ https://www.govinfo.gov/content/pkg/FR-1983-05-04/pdf/FR-1983-05-04.pdf
 
 Later permanent clearing-agency-registration action that retrospectively discusses TAD's temporary-registration history and termination.
 
+## TH e yale papre at n.187 cites 48 FR 55655
+
+
+https://www.govinfo.gov/content/pkg/FR-1983-12-14/pdf/FR-1983-12-14.pdf
+
+ex of link and interface explained
+
 ## December 31, 2015 — 80 FR 81955
 
 Modern SEC historical discussion of the **TAD model/TADDC** and the early post-1975 depository structure. Useful retrospective source, but obviously not part of TAD's operative proceeding. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-2015-12-31/pdf/2015-32755.pdf))
@@ -215,48 +257,3 @@ That sequence is actually quite revealing: **pre-registration interfaces → tem
 One correction worth preserving in your notes: **34-18583 / 47 FR 13262** is the TAD termination release. Some later SEC material appears to render the release number inconsistently, so I would cite the **1982 original** rather than inherit the later typo.
 
 I’m reasonably confident this captures the **substantive TAD Federal Register trail**. It does not necessarily capture every stray occurrence of the words “TADDC” buried in unrelated notices; for that, I’d want to run a literal full-corpus Federal Register search and produce a deduplicated bibliography.
-
-## NSCC–TAD link condition — 42 FR 3938
-
-The SEC's January 13, 1977 NSCC registration order made the linkage a condition that NSCC had to satisfy before beginning integrated operation. It required NSCC to establish “appropriate links with Boston Stock Exchange Clearing Corporation (‘BSECC’) and TADDC” and to offer to operate each link without charging the other party for interface movements or imposing an interface fee on participants.
-
-Source: **42 FR 3916, 3938 (Jan. 21, 1977)** — https://www.govinfo.gov/content/pkg/FR-1977-01-21/pdf/FR-1977-01-21.pdf
-
-^This doc cite then gits into the DOJ DC-cir remarks.
-at 116:
-> A number of NSCC’s potential clearing
-corporation competitors and the United
-States Department of Justice expressed
-the view th at NSCC’s activities should be
-restricted to New York City, either in
-definitely or for a fixed period, in order
-to protect clearing corporations operat
-ing outside New York City from the dan
-gers of competition with NSCC.
-
-"dangers of competition with NSCC" in 1977 shows juts how much wall st might was alrceday coenectarted
-
-3926 cites the 600-15 transcritp at n.104
-
-### Competition Among Clearing Agencies at 3931
-
-> During the proceedings opponents of
-NSCC’s registration and the United
-States Department of Justice maintained
-th at the Management Agreement was
-anticompetitive and recommended that
-any grant of registration to NSCC be
-conditioned on exposure of NSCC’s fa
-cilities management contract to competi
-tive bidding.
-3936
-
-
-
-
-## TH e yale papre at n.187 cites 48 FR 55655
-
-
-https://www.govinfo.gov/content/pkg/FR-1983-12-14/pdf/FR-1983-12-14.pdf
-
-ex of link and interface explained
