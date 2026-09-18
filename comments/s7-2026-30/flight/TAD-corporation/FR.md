@@ -83,6 +83,10 @@ complex
 
 NSCC registration order. The SEC made commencement of NSCC's integrated operation conditional on establishing “appropriate links with Boston Stock Exchange Clearing Corporation (‘BSECC’) and TADDC.” See **42 FR 3916, 3938**. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1977-01-21/pdf/FR-1977-01-21.pdf))
 
+## May 18, 1977 — 42 FR 25568
+
+NSCC consolidation-plan notice. Discusses implementation of the consolidation of NSCC's three operating divisions and states that NSCC had met with **TAD Depository Corporation** to develop a proposed method of linking the organizations. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1977-05-18/pdf/FR-1977-05-18.pdf))
+
 ## May 27, 1977 — 42 FR 27361
 
 Proposed a direct **TAD–DTC interface account**, permitting book-entry transfers between participants of the two depositories.
