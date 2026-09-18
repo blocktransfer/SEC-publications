@@ -45,3 +45,10 @@ techinally over 14% of revwiewd B/Ds had "financial problems due to short-sale a
 "the SEC was re- quired to review all rules and regulations of exchanges for the purpose of elim- inating anti - competitive rules and regulations that were found not necessary " at 22 (291)
 
 iso im at 23 (292) and i'm gonna cut it bc theres not much els ehere relaetd to the TARs. a full contemplatn reall yrejiresu goung thegh the 1951 20th Century bok. borrowing is at 56
+
+
+---
+
+he was also cited by FINRA in 93 with some citatintos on intent
+
+https://www.finra.org/rules-guidance/notices/93-53
