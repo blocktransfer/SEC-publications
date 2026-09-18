@@ -233,21 +233,6 @@ NSCC Phase II approval order. In recounting the conditions imposed on NSCC's reg
 
 https://www.govinfo.gov/content/pkg/FR-1983-05-04/pdf/FR-1983-05-04.pdf
 
-## Formal takedown — 48 FR 45167–68
-
-Later permanent clearing-agency-registration action that retrospectively discusses TAD's temporary-registration history and termination.
-
-## TH e yale papre at n.187 cites 48 FR 55655
-
-
-https://www.govinfo.gov/content/pkg/FR-1983-12-14/pdf/FR-1983-12-14.pdf
-
-ex of link and interface explained
-
-## December 31, 2015 — 80 FR 81955
-
-Modern SEC historical discussion of the **TAD model/TADDC** and the early post-1975 depository structure. Useful retrospective source, but obviously not part of TAD's operative proceeding. 
-
 https://www.govinfo.gov/content/pkg/FR-1983-05-04/pdf/FR-1983-05-04.pdf#page=168
 
 note 28 commetns on haw 
@@ -273,3 +258,17 @@ NSCC’s temporary registration have become
 obsolete. For example, NSCC no longer can
 establish appropriate links with TAD since TAD has
 
+## Formal takedown — 48 FR 45167–68
+
+Later permanent clearing-agency-registration action that retrospectively discusses TAD's temporary-registration history and termination.
+
+## TH e yale papre at n.187 cites 48 FR 55655
+
+
+https://www.govinfo.gov/content/pkg/FR-1983-12-14/pdf/FR-1983-12-14.pdf
+
+ex of link and interface explained
+
+## December 31, 2015 — 80 FR 81955
+
+Modern SEC historical discussion of the **TAD model/TADDC** and the early post-1975 depository structure. Useful retrospective source, but obviously not part of TAD's operative proceeding.
