@@ -85,7 +85,19 @@ NSCC registration order. The SEC made commencement of NSCC's integrated operatio
 
 ## May 18, 1977 — 42 FR 25568
 
-NSCC consolidation-plan notice. Discusses implementation of the consolidation of NSCC's three operating divisions and states that NSCC had met with **TAD Depository Corporation** to develop a proposed method of linking the organizations. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1977-05-18/pdf/FR-1977-05-18.pdf))
+NSCC consolidation-plan notice. Discusses implementation of the consolidation of NSCC's three operating divisions and states that NSCC had met with **TAD Depository Corporation** to develop a proposed method of linking the organizations.
+
+https://www.govinfo.gov/content/pkg/FR-1977-05-18/pdf/FR-1977-05-18.pdf
+
+> The SEC's first condition also man-
+dates the establishment of appropriate
+links with Boston Stock Exchange Clear-
+ing Corporation and TAD Depository
+Corporation. NSCC has met with both,
+developed an approach, and will shortly
+be providing a proposed method of "link-
+ing" to each organization for their re-
+view. 
 
 ## May 27, 1977 — 42 FR 27361
 
@@ -151,10 +163,17 @@ they wanted diffirintiate tehir princinig atd the 17A clearancet interop didnt l
 
 Further extension/proceeding concerning the temporarily registered clearing agencies, including TAD. ([Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/b/b0/Federal_Register_1980-06-23-_Vol_45_Iss_122_%28IA_sim_federal-register-find_1980-06-23_45_122%29.pdf))
 
-## March 28, 1978 — 43 FR 12979
+# Close, reasoning — 43 FR 12979
 
-**The big shutdown filing.** TAD proposed suspending depository operations effective **Apr. 1, 1978**. TAD stated that there were “severe impediments to the perfection of a national system” and that its “repeated efforts” to establish DTC and NSCC interfaces had “been and are being frustrated,” preventing expansion into a “full service securities depository” capable of competing with other clearing agencies. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1978-03-28/pdf/FR-1978-03-28.pdf))
+**The big shutdown filing.** TAD proposed suspending depository operations effective **Apr. 1, 1978**. TAD stated that there were “severe impediments to the perfection of a national system” and that its “repeated efforts” to establish DTC and NSCC interfaces had “been and are being frustrated,” preventing expansion into a “full service securities depository” capable of competing with other clearing agencies.
 
+https://www.govinfo.gov/content/pkg/FR-1978-03-28/pdf/FR-1978-03-28.pdf
+
+> The purpose of the proposed rule change is to enable the Corporation to suspend its operations as of April 1, 1978. The date of February 24, 1978 has been imposed as the date after which no additional business or participants shall be accepted to enable the Corporation to effectively wind down its operations and to provide time for the orderly withdrawal or transfer of deposits currently in the possession of the Corporation.
+>
+> The proposed rule change will enable the Corporation to suspend its operations as of April 1, 1978. The Board of Directors has determined that the inability to expand the Corporation’s services, caused by the lack of interfaces with the National Securities Clearing Corporation (NSCC) and the Depository Trust Company (DTC), leaves it in a situation in which it would be a disservice to its participants to continue operations without the ability to implement an efficient book entry movement system. The Corporation feels that there presently exist severe impediments to the perfection of a national system for the prompt and accurate clearance and settlement of securities transactions which prevent the Corporation from successfully competing with other securities depositories and clearing agencies, and which have adversely affected its capacity to facilitate the prompt and accurate clearance and settlement of securities transactions.
+>
+> The Corporation is filing this rule change because its repeated efforts to establish interfaces with Depository Trust Company and the National Securities Clearing Corporation, pursuant to the Commission’s Order in Release 34-13163, have been and are being frustrated thereby preventing the Corporation from expanding into a full service securities depository that could compete with other securities depositories which are registered clearing agencies. The effect of this rule change is to reduce the potential for competition among clearing agencies offering securities depository services.
 
 ## 43 FR 47624
 https://www.govinfo.gov/content/pkg/FR-1978-10-16/pdf/FR-1978-10-16.pdf#page=152
