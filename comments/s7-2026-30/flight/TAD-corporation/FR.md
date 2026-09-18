@@ -225,7 +225,7 @@ SEC clearing-agency registration standards. TAD is expressly listed among the te
 
 **Final TAD termination order.** SEC granted withdrawal requests and terminated the registrations of Bradford Securities Processing Services and TAD. TAD had been inactive since Apr. 1, 1978; its registration was cancelled effective **May 31, 1982**. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1982-03-29/pdf/FR-1982-03-29.pdf))
 
-## May 4, 1983 — 48 FR 20189
+## Free linkage directive II — 48 FR 20189
 
 **SEC release / file:** **34-19705**, **SR-NSCC-82-28**
 
