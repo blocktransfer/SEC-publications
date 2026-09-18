@@ -81,13 +81,13 @@ complex
 
 ## January 21, 1977 — 42 FR 3916
 
-**SEC release / file:** **34-13163**, **File No. 600-15**
+NSCC registration order. The SEC made commencement of NSCC's integrated operation conditional on establishing “appropriate links with Boston Stock Exchange Clearing Corporation (‘BSECC’) and TADDC.” See **42 FR 3916, 3938**. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1977-01-21/pdf/FR-1977-01-21.pdf))
 
-NSCC registration order. The SEC made commencement of NSCC's integrated operation conditional on establishing **full interfaces with MCC, PCC, and SCCP** and **appropriate links with Boston Stock Exchange Clearing Corporation (“BSECC”) and TAD Depository Corporation (“TAD”)**. NSCC also had to offer to operate those links without charging the other clearing agency for interface movements or imposing an interface fee on participants. See **42 FR 3916, 3938**.
+## NSCC–TAD link condition — 42 FR 3938
 
-This is the condition the SEC later described as the **“Free Interface Condition.”**
+The SEC's January 13, 1977 NSCC registration order made the linkage a condition that NSCC had to satisfy before beginning integrated operation. It required NSCC to establish “appropriate links with Boston Stock Exchange Clearing Corporation (‘BSECC’) and TADDC” and to offer to operate each link without charging the other party for interface movements or imposing an interface fee on participants.
 
-[GovInfo](https://www.govinfo.gov/content/pkg/FR-1977-01-21/pdf/FR-1977-01-21.pdf)
+Source: **42 FR 3916, 3938 (Jan. 21, 1977)** — https://www.govinfo.gov/content/pkg/FR-1977-01-21/pdf/FR-1977-01-21.pdf
 
 ^This doc cite then gits into the DOJ DC-cir remarks.
 at 116:
@@ -161,11 +161,13 @@ SEC issuer/proxy communications material identifying registered depositories and
 
 ## August 3, 1977 — 42 FR 39285
 
-**SEC release / file:** **Exchange Act Release No. 13714 (July 1, 1977), 12 SEC Docket 1109; SR-TAD-77-1**
+**Approved the TAD–DTC interface** proposed at 42 FR 27361.
 
-**Approved the TAD–DTC interface** proposed at **42 FR 27361 (May 27, 1977)**. The rule change allowed TAD to establish an interface account with DTC for book-entry movements between the two depositories.
+https://www.govinfo.gov/content/pkg/FR-1977-08-03/pdf/FR-1977-08-03.pdf#page=101
 
-[GovInfo](https://www.govinfo.gov/content/pkg/FR-1977-08-03/pdf/FR-1977-08-03.pdf#page=101)
+this is the good one 
+
+APPROVES SR-TAD-77-1
 
 ## August 15, 1977 — 42 FR 41204
 
