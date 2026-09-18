@@ -131,7 +131,3 @@ The SEC's January 13, 1977 NSCC registration order made the linkage a condition 
 
 Source: **42 FR 3916, 3938 (Jan. 21, 1977)** — https://www.govinfo.gov/content/pkg/FR-1977-01-21/pdf/FR-1977-01-21.pdf
 
-
-## See Also: _Bradford National Clearing Corp. v. SEC_, 590 F.2d 1085 (D.C. Cir. 1978)
-
-https://www.courtlistener.com/opinion/7891682/bradford-national-clearing-corp-v-securities-exchange-commission
