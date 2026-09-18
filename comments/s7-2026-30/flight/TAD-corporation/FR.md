@@ -30,6 +30,9 @@ guarding of securities and funds.
 
 basically on that first page they contmpale both TAD and DTC 's prticcpnatns in NCC CNS  -- so befoer the oceitnas taht got DOJK riled
 
+at 36183 they talkn about how all the linknig still used NCC's Evnvolpe Settilement Syssetm w
+hich waldu bo word moer investigaitn
+
 ## December 2, 1975 — 40 FR 55910
 
 TAD's clearing-agency registration proceeding. This is the key source for its **temporary registration effective Dec. 1, 1975**, initially for 18 months. ([Federal Register Archives](https://archives.federalregister.gov/issue_slice/1975/12/2/55909-55912.pdf))
@@ -133,3 +136,30 @@ The SEC's January 13, 1977 NSCC registration order made the linkage a condition 
 Source: **42 FR 3916, 3938 (Jan. 21, 1977)** — https://www.govinfo.gov/content/pkg/FR-1977-01-21/pdf/FR-1977-01-21.pdf
 
 ^This doc cite then gits into the DOJ DC-cir remarks.
+at 116:
+> A number of NSCC’s potential clearing
+corporation competitors and the United
+States Department of Justice expressed
+the view th at NSCC’s activities should be
+restricted to New York City, either in
+definitely or for a fixed period, in order
+to protect clearing corporations operat
+ing outside New York City from the dan
+gers of competition with NSCC.
+
+"dangers of competition with NSCC" in 1977 shows juts how much wall st might was alrceday coenectarted
+
+3926 cites the 600-15 transcritp at n.104
+
+### Competition Among Clearing Agencies at 3931
+
+> During the proceedings opponents of
+NSCC’s registration and the United
+States Department of Justice maintained
+th at the Management Agreement was
+anticompetitive and recommended that
+any grant of registration to NSCC be
+conditioned on exposure of NSCC’s fa
+cilities management contract to competi
+tive bidding.
+3936
