@@ -73,3 +73,24 @@ this is the imranth §15 basis at 173
 4. 
 54 “But we are trying to lead and still leave institutions plenty of flexibility to do what the private system can do, I think, better than a government agency.”
 
+## First National Bank of Boston
+
+at 185
+
+> The
+transfer agent depository concept is in operation in
+one bank. The bank's
+responses to all the legal
+and
+operational problems involved have
+been reviewed
+and accepted by the Boston Stock Exchange. One company
+is
+using this system at
+the present time.
+In
+the first three weeks of operation 29 per cent
+of
+the com-
+pany's stockholder accounts deposited their securities in the depository
+
