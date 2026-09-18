@@ -233,7 +233,7 @@ NSCC Phase II approval order. In recounting the conditions imposed on NSCC's reg
 
 https://www.govinfo.gov/content/pkg/FR-1983-05-04/pdf/FR-1983-05-04.pdf
 
-## October 3, 1983 — 48 FR 45167–68
+## Formal takedown — 48 FR 45167–68
 
 Later permanent clearing-agency-registration action that retrospectively discusses TAD's temporary-registration history and termination.
 
@@ -273,6 +273,3 @@ NSCC’s temporary registration have become
 obsolete. For example, NSCC no longer can
 establish appropriate links with TAD since TAD has
 
-One correction worth preserving in your notes: **34-18583 / 47 FR 13262** is the TAD termination release. Some later SEC material appears to render the release number inconsistently, so I would cite the **1982 original** rather than inherit the later typo.
-
-I’m reasonably confident this captures the **substantive TAD Federal Register trail**. It does not necessarily capture every stray occurrence of the words “TADDC” buried in unrelated notices; for that, I’d want to run a literal full-corpus Federal Register search and produce a deduplicated bibliography.
