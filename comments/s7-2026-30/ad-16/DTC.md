@@ -53,3 +53,10 @@ The Equity Kinetics sample data includes granular short-sale and broker-concentr
 ## Proposed opening thesis
 
 > DTC and NSCC's own documents show that indirect-participant visibility was historically restricted, failed obligations can persist through continuous re-netting, and members can control whether available securities are automatically delivered. The regulatory question is whether current reforms provide measurable transparency and sufficiently prompt delivery—not whether these documents prove naked short selling by themselves.
+
+
+## DTC ownership
+
+> "DTC is a wholly-owned subsidiary of The Depository Trust & Clearing Corporation (DTCC)."
+
+Source: [DTC 2025 Annual Financial Statements, Note 1, Business and Ownership](https://www.dtcc.com/-/media/Files/Downloads/legal/financials/2025/DTC-Financial-Statements-Annual-2025.pdf)
