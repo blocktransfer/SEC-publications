@@ -246,13 +246,32 @@ ex of link and interface explained
 
 ## December 31, 2015 — 80 FR 81955
 
-Modern SEC historical discussion of the **TAD model/TADDC** and the early post-1975 depository structure. Useful retrospective source, but obviously not part of TAD's operative proceeding. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-2015-12-31/pdf/2015-32755.pdf))
+Modern SEC historical discussion of the **TAD model/TADDC** and the early post-1975 depository structure. Useful retrospective source, but obviously not part of TAD's operative proceeding. 
 
-The **tightest primary-source chain** for telling TAD's story is therefore:
+https://www.govinfo.gov/content/pkg/FR-1983-05-04/pdf/FR-1983-05-04.pdf#page=168
 
-**40 FR 36179 → 40 FR 55910 → 41 FR 38841 → 41 FR 43483 / 50366 → 42 FR 27361 / 39285 → 42 FR 41204 / 49854 → 43 FR 12979 → 47 FR 13262.**
-
-That sequence is actually quite revealing: **pre-registration interfaces → temporary §17A registration → permanent-registration proceeding → attempts to build DTC/NSCC interoperability → shutdown → eventual cancellation**.
+note 28 commetns on haw 
+> NASCC continues to be required
+to provide free interfaces to other registered
+clearing agencies in accordance with the terms of
+the Registration Order. S ee a lso Securities
+Exchange Act Release No. 18823 (June 23,1982), 47
+FR 28512 (June 30,1982), approving File No. SR -
+M CC-82-8 and SR-MSTC-82-11, which indicated at
+"note 7 that the “Commission generally has required
+that the interface costs incurred by each interfacing
+clearing member * * * be absorbed by that
+interfacing clearing agency and mutualized across
+its ow n participant base.” The Registration Order,
+as supplem ented by R elease No. 18823, thus
+contemplated that the free interface requirement for
+dearing corporations would be a central
+characteristic of the National System.
+Of course, the Commission recognizes that some
+requirements imposed on NSCC during the course of
+NSCC’s temporary registration have become
+obsolete. For example, NSCC no longer can
+establish appropriate links with TAD since TAD has
 
 One correction worth preserving in your notes: **34-18583 / 47 FR 13262** is the TAD termination release. Some later SEC material appears to render the release number inconsistently, so I would cite the **1982 original** rather than inherit the later typo.
 
