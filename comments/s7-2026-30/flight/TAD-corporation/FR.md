@@ -219,14 +219,6 @@ https://www.govinfo.gov/content/pkg/FR-1978-03-28/pdf/FR-1978-03-28.pdf
 >
 > The Corporation is filing this rule change because its repeated efforts to establish interfaces with Depository Trust Company and the National Securities Clearing Corporation, pursuant to the Commission’s Order in Release 34-13163, have been and are being frustrated thereby preventing the Corporation from expanding into a full service securities depository that could compete with other securities depositories which are registered clearing agencies. The effect of this rule change is to reduce the potential for competition among clearing agencies offering securities depository services.
 
-## April 17, 1978 — 43 FR 16231
-
-**SEC release:** **34-14648**
-
-National-system hearing notice. The Commission asked whether each registered clearing agency, when requested by another registered clearing agency, should be required to establish an interface and **“offer to operate that interface for free.”** Footnote 5 explains that the question covered clearing corporation-to-clearing corporation, depository-to-depository, and depository-to-clearing corporation interfaces.
-
-https://www.govinfo.gov/content/pkg/FR-1978-04-17/pdf/FR-1978-04-17.pdf
-
 ## 43 FR 47624
 https://www.govinfo.gov/content/pkg/FR-1978-10-16/pdf/FR-1978-10-16.pdf#page=152
 
@@ -238,26 +230,9 @@ then prorpsed that NSCC opens TAD Acconuts "for them at TAD"
 
 SEC clearing-agency registration standards. TAD is expressly listed among the temporarily registered clearing agencies even though its operations had already ceased. The release also reconstructs the registration-extension history. ([Federal Register Archives](https://archives.federalregister.gov/issue_slice/1980/6/23/41913-41933.pdf))
 
-## December 3, 1980 — 45 FR 80224
-
-**SEC release:** **34-17343**
-
-BSPS/NSCC municipal-securities interface order. The Commission required the interface to be **“free as to participants”**: a participant using the interface should pay no more than it would for a comparable intra-clearing-agency transaction. The order also discusses mutualizing interface costs across each clearing agency's participant base rather than imposing an interface toll.
-
-https://www.govinfo.gov/content/pkg/FR-1980-12-03/pdf/FR-1980-12-03.pdf
-
 ## March 29, 1982 — 47 FR 13262
 
 **Final TAD termination order.** SEC granted withdrawal requests and terminated the registrations of Bradford Securities Processing Services and TAD. TAD had been inactive since Apr. 1, 1978; its registration was cancelled effective **May 31, 1982**. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1982-03-29/pdf/FR-1982-03-29.pdf))
-
-## June 30, 1982 — 47 FR 28512
-
-**SEC release:** **34-18823**  
-**Files:** **SR-MCC-82-8; SR-MSTC-82-11**
-
-Another explicit free-interface authority. The Commission stated that it generally had required interface costs incurred by each interfacing clearing agency to be **absorbed by that clearing agency and mutualized across its own participant base**. This is the release later cited in note 28 of Release 34-19705 for the proposition that free interfaces were a central characteristic of the National System.
-
-https://www.govinfo.gov/content/pkg/FR-1982-06-30/pdf/FR-1982-06-30.pdf
 
 ## Free linkage directive II — 48 FR 20189
 
@@ -296,21 +271,12 @@ establish appropriate links with TAD since TAD has
 
 Later permanent clearing-agency-registration action that retrospectively discusses TAD's temporary-registration history and termination.
 
-## December 14, 1983 — 48 FR 55654
+## TH e yale papre at n.187 cites 48 FR 55655
 
-**SEC release / file:** **34-20461**, **SR-DTC-77-10**
-
-Detailed explanation of the Commission's **full and free interface** policy. The release explains that interfacing clearing corporations should not charge each other for interface movements, participants should not face identified or hidden interface fees, and a no-charge policy for reciprocal depository book-entry interface activity is consistent with the national clearance and settlement system. The discussion also distinguishes true reciprocal interfaces from separately chargeable **linked services**.
 
 https://www.govinfo.gov/content/pkg/FR-1983-12-14/pdf/FR-1983-12-14.pdf
 
-## February 8, 1996 — 61 FR 4807–08
-
-**SEC release / file:** **34-36799**, **SR-DTC-94-16**
-
-Later confirmation of the interdepository no-charge principle. The approved DTC policy states that, absent a separate agreement, DTC **“shall not charge”** another registered depository for book-entry delivery services and will not pay for reciprocal book-entry delivery services. Physical-certificate handling and separately defined **linked services** may still carry charges.
-
-https://www.govinfo.gov/content/pkg/FR-1996-02-08/pdf/96-2701.pdf
+ex of link and interface explained
 
 ## December 31, 2015 — 80 FR 81955
 
