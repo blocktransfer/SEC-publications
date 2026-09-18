@@ -28,6 +28,7 @@ TAD interface is necessary for the pro
 tection of investors and for the safe
 guarding of securities and funds.
 
+basically on that first page they contmpale both TAD and DTC 's prticcpnatns in NCC CNS  -- so befoer the oceitnas taht got DOJK riled
 
 ## December 2, 1975 — 40 FR 55910
 
@@ -130,4 +131,3 @@ I’m reasonably confident this captures the **substantive TAD Federal Register 
 The SEC's January 13, 1977 NSCC registration order made the linkage a condition that NSCC had to satisfy before beginning integrated operation. It required NSCC to establish “appropriate links with Boston Stock Exchange Clearing Corporation (‘BSECC’) and TAD Depository Corporation (‘TADDC’)” and to offer to operate each link without charging the other party for interface movements or imposing an interface fee on participants.
 
 Source: **42 FR 3916, 3938 (Jan. 21, 1977)** — https://www.govinfo.gov/content/pkg/FR-1977-01-21/pdf/FR-1977-01-21.pdf
-
