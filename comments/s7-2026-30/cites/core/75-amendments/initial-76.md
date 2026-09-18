@@ -1,4 +1,5 @@
 moset of th ecommission's inintial remarks are inthe 12m report at https://www.google.com/books/edition/Final_Report_of_the_Securities_and_Excha/GiLS-pm1rcAC
+https://books.google.com/books?id=GiLS-pm1rcAC
 
 > The national securities exchanges and the NASD jointly should prepare a brochure for distribution to brokers' customers explaining the benefits and consequences of leaving securities in street name
 — Recommendation 7
