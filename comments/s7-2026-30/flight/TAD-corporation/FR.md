@@ -43,13 +43,22 @@ TAD's clearing-agency registration proceeding. This is the key source for its **
 
 TAD proposed changes to its **deposit, withdrawal, custody and book-entry delivery fees**. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1976-03-22/pdf/FR-1976-03-22.pdf))
 
-## September 13, 1976 — 41 FR 38841
+## initial GROUP registration under 75 act — 41 FR 38841
 
-**Institution of proceedings to determine whether to grant or deny registration.** This is the one we were just discussing—not an approval order. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1976-09-13/pdf/FR-1976-09-13.pdf))
 
 https://www.govinfo.gov/content/pkg/FR-1976-09-13/pdf/FR-1976-09-13.pdf#page=97
 
 > TAD, which is 80% owned jointly by Philadelphia, MSE and BSE and 20% owned by the Bradford Trust Company,
+
+thye go in to q:utne contgosss as the PROCTIOCITON OF INVESTOERS which woeld happin in DRS
+
+> The linking of all clearance and set
+tlement facilities and the development o f
+uniform standards and procedures for clear
+ance and settlement will reduce unnecessary
+costs and increase the protection o f Invest
+ors and persons facilitating transactions by
+and acting on behalf of investors.
 
 ## October 1, 1976 — 41 FR 43483
 
@@ -134,7 +143,7 @@ be providing a proposed method of "link-
 ing" to each organization for their re-
 view. 
 
-## May 27, 1977 — 42 FR 27361
+## TAD DTC Partcicpant - May 27, 1977 — 42 FR 27361
 
 Proposed a direct **TAD–DTC interface account**, permitting book-entry transfers between participants of the two depositories.
 
