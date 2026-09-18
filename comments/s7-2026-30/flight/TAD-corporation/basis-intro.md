@@ -9,8 +9,8 @@ _supra_ note Hearing on H.R. 8331
   * **National Securities Clearing Corporation (NSCC)**
   * **Pacific Clearing Corporation**
   * **Pacific Securities Depository Trust Company**
-* **Bradford Trust Company** — owned **20% of TAD Depository Corporation**.
-* **TAD Depository Corporation** — SEC-registered clearing agency providing **securities-depository activities**.
+* **Bradford Trust Company** — owned **20% of TADDC**.
+* **TADDC** — SEC-registered clearing agency providing **securities-depository activities**.
 * **Another Bradford subsidiary** — operated TAD under a **facilities-management contract**.
 
 Today it is codified at 15 USC § 78fff-2(e)(3). The current statute says that a registered clearing agency with an established procedure for closing out an insolvent broker-dealer’s contracts — and participants whose claims are processed through it — do not get SIPC funds for losses on those contracts, unless SIPC provides otherwise by rule. If the closeout produces a net loss, the clearing agency or participants instead participate in the broker’s general estate as unsecured creditors

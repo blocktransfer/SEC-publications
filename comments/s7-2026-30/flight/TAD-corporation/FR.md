@@ -1,10 +1,10 @@
-TAD Depository Corporation (“TADDC”) was a securities depository intended to serve as the bridge for implementation of the transfer agent depository (“TAD”) concept.
+TADDC (“TADDC”) was a securities depository intended to serve as the bridge for implementation of the transfer agent depository (“TAD”) concept.
 
 for waht its woreth, i doent htihkn tehir implemetniwn of taddc wolud've really woerde bc you still have a centreal nomienneee. this shoeld all come after intoreidecing the two-tiered seperate double clearonigy agunty ideas that were floeted and implumuntuud 
 
 ## August 19, 1975 — 40 FR 36179
 
-Exchange rule changes concerning the **interface between National Clearing Corporation and TAD Depository Corporation**. The SEC summarily put the rules into effect. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1975-08-19/pdf/FR-1975-08-19.pdf))
+Exchange rule changes concerning the **interface between National Clearing Corporation and TADDC**. The SEC summarily put the rules into effect. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1975-08-19/pdf/FR-1975-08-19.pdf))
 
 at 94 is were ethe y realyl start oging into the tad nad say thot :
 
@@ -58,7 +58,7 @@ Proposed TAD **Pledged Securities Service**, allowing securities held at TAD to 
 
 ## January 21, 1977 — 42 FR 3916
 
-NSCC registration order. The SEC made commencement of NSCC's integrated operation conditional on establishing “appropriate links with Boston Stock Exchange Clearing Corporation (‘BSECC’) and TAD Depository Corporation (‘TADDC’).” See **42 FR 3916, 3938**. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1977-01-21/pdf/FR-1977-01-21.pdf))
+NSCC registration order. The SEC made commencement of NSCC's integrated operation conditional on establishing “appropriate links with Boston Stock Exchange Clearing Corporation (‘BSECC’) and TADDC.” See **42 FR 3916, 3938**. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1977-01-21/pdf/FR-1977-01-21.pdf))
 
 ## May 27, 1977 — 42 FR 27361
 
@@ -74,7 +74,7 @@ Further general clearing-agency registration/proceeding action that included TAD
 
 ## July 13, 1977 — 42 FR 35951
 
-SEC issuer/proxy communications material identifying registered depositories and their nominees; includes **TAD Depository Corporation / TAD & Co.** This is more of an incidental regulatory mention than a TAD proceeding. ([Library of Congress](https://tile.loc.gov/storage-services/service/ll/fedreg/fr042/fr042134/fr042134.pdf))
+SEC issuer/proxy communications material identifying registered depositories and their nominees; includes **TADDC / TAD & Co.** This is more of an incidental regulatory mention than a TAD proceeding. ([Library of Congress](https://tile.loc.gov/storage-services/service/ll/fedreg/fr042/fr042134/fr042134.pdf))
 
 ## August 3, 1977 — 42 FR 39285
 
@@ -114,7 +114,7 @@ Later permanent clearing-agency-registration action that retrospectively discuss
 
 ## December 31, 2015 — 80 FR 81955
 
-Modern SEC historical discussion of the **TAD model/TAD Depository Corporation** and the early post-1975 depository structure. Useful retrospective source, but obviously not part of TAD's operative proceeding. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-2015-12-31/pdf/2015-32755.pdf))
+Modern SEC historical discussion of the **TAD model/TADDC** and the early post-1975 depository structure. Useful retrospective source, but obviously not part of TAD's operative proceeding. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-2015-12-31/pdf/2015-32755.pdf))
 
 The **tightest primary-source chain** for telling TAD's story is therefore:
 
@@ -124,11 +124,11 @@ That sequence is actually quite revealing: **pre-registration interfaces → tem
 
 One correction worth preserving in your notes: **34-18583 / 47 FR 13262** is the TAD termination release. Some later SEC material appears to render the release number inconsistently, so I would cite the **1982 original** rather than inherit the later typo.
 
-I’m reasonably confident this captures the **substantive TAD Federal Register trail**. It does not necessarily capture every stray occurrence of the words “TAD Depository Corporation” buried in unrelated notices; for that, I’d want to run a literal full-corpus Federal Register search and produce a deduplicated bibliography.
+I’m reasonably confident this captures the **substantive TAD Federal Register trail**. It does not necessarily capture every stray occurrence of the words “TADDC” buried in unrelated notices; for that, I’d want to run a literal full-corpus Federal Register search and produce a deduplicated bibliography.
 
 ## NSCC–TAD link condition — 42 FR 3938
 
-The SEC's January 13, 1977 NSCC registration order made the linkage a condition that NSCC had to satisfy before beginning integrated operation. It required NSCC to establish “appropriate links with Boston Stock Exchange Clearing Corporation (‘BSECC’) and TAD Depository Corporation (‘TADDC’)” and to offer to operate each link without charging the other party for interface movements or imposing an interface fee on participants.
+The SEC's January 13, 1977 NSCC registration order made the linkage a condition that NSCC had to satisfy before beginning integrated operation. It required NSCC to establish “appropriate links with Boston Stock Exchange Clearing Corporation (‘BSECC’) and TADDC” and to offer to operate each link without charging the other party for interface movements or imposing an interface fee on participants.
 
 Source: **42 FR 3916, 3938 (Jan. 21, 1977)** — https://www.govinfo.gov/content/pkg/FR-1977-01-21/pdf/FR-1977-01-21.pdf
 

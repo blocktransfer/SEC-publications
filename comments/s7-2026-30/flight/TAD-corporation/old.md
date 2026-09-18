@@ -1,6 +1,6 @@
 the  custody model is still shit
 
-TAD Depository Corporation → the registered clearing agency/depository
+TADDC → the registered clearing agency/depository
 TAD & Co. → the nominee name appearing as registered owner on issuer/transfer-agent records
 participants/underlying customers → beneficial interests behind that nominee
 
