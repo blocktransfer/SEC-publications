@@ -55,9 +55,29 @@ https://www.govinfo.gov/content/pkg/FR-1976-09-13/pdf/FR-1976-09-13.pdf#page=97
 
 Proposed TAD **Pledged Securities Service**, allowing securities held at TAD to be pledged as collateral. ([Library of Congress](https://tile.loc.gov/storage-services/service/ll/fedreg/fr041/fr041192/fr041192.pdf))
 
+
+## 41 FR 49623
+
+https://www.govinfo.gov/content/pkg/FR-1976-11-10/pdf/FR-1976-11-10.pdf#page=96
+
+
+statets NSCC shall estabalish full interfaecst with TADDC
+
+usefil ina long linsh of see eg
+
+> in view of
+the complexity of tire matters to which
+the conditions pertain, the Commission
+would like to receive public comment on
+whether the conditions should be
+changed, added to or modified.
+
+complex
+
 ## November 15, 1976 — 41 FR 50366
 
 **Approved** that Pledged Securities Service. ([Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/4/4e/Federal_Register_1976-11-15-_Vol_41_Iss_221_%28IA_sim_federal-register-find_1976-11-15_41_221%29.pdf))
+
 
 ## January 21, 1977 — 42 FR 3916
 
@@ -65,7 +85,16 @@ NSCC registration order. The SEC made commencement of NSCC's integrated operatio
 
 ## May 27, 1977 — 42 FR 27361
 
-Proposed a direct **TAD–DTC interface account**, permitting book-entry transfers between participants of the two depositories. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1977-05-27/pdf/FR-1977-05-27.pdf))
+Proposed a direct **TAD–DTC interface account**, permitting book-entry transfers between participants of the two depositories.
+
+10
+monthes before end
+
+https://www.govinfo.gov/content/pkg/FR-1977-05-27/pdf/FR-1977-05-27.pdf#page=175
+
+> TAD intends to
+open an interface account with The De
+pository T rust Company (DTC)
 
 ## June 10, 1977 — 42 FR 30065–66
 
@@ -81,7 +110,13 @@ SEC issuer/proxy communications material identifying registered depositories and
 
 ## August 3, 1977 — 42 FR 39285
 
-**Approved the TAD–DTC interface** proposed at 42 FR 27361. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1977-08-03/pdf/FR-1977-08-03.pdf))
+**Approved the TAD–DTC interface** proposed at 42 FR 27361.
+
+https://www.govinfo.gov/content/pkg/FR-1977-08-03/pdf/FR-1977-08-03.pdf#page=101
+
+this is the good one 
+
+APPROVES SR-TAD-77-1
 
 ## August 15, 1977 — 42 FR 41204
 
@@ -95,6 +130,19 @@ Extended TAD's registration again, this time through **Mar. 1, 1978**. The SEC's
 
 **Approved** TAD's change permitting release of TAD & Co. nominee certificates. ([Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/e/ea/Federal_Register_1977-09-_Vol_42_Index_%28IA_sim_federal-register-find_1977-09_42_index%29.pdf))
 
+
+
+## 42 FR 49536
+
+https://www.govinfo.gov/content/pkg/FR-1977-09-27/pdf/FR-1977-09-27.pdf#page=120
+
+NSCC accusad of "predatory prcicnig"
+
+last real attackh before they went offline
+
+they wanted diffirintiate tehir princinig atd the 17A clearancet interop didnt let them in bottom right cornecrc ¶ 5
+
+
 ## March 10, 1978 — 43 FR 10288
 
 Further extension/proceeding concerning the temporarily registered clearing agencies, including TAD. ([Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/b/b0/Federal_Register_1980-06-23-_Vol_45_Iss_122_%28IA_sim_federal-register-find_1980-06-23_45_122%29.pdf))
@@ -102,6 +150,14 @@ Further extension/proceeding concerning the temporarily registered clearing agen
 ## March 28, 1978 — 43 FR 12979
 
 **The big shutdown filing.** TAD proposed suspending depository operations effective **Apr. 1, 1978**. TAD stated that there were “severe impediments to the perfection of a national system” and that its “repeated efforts” to establish DTC and NSCC interfaces had “been and are being frustrated,” preventing expansion into a “full service securities depository” capable of competing with other clearing agencies. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1978-03-28/pdf/FR-1978-03-28.pdf))
+
+
+## 43 FR 47624
+https://www.govinfo.gov/content/pkg/FR-1978-10-16/pdf/FR-1978-10-16.pdf#page=152
+
+tad complains abotu nscc's fees but is dropped based on ending ithier regitstartn earllier that year. wanted to have "sponsered acconets at DTC for NSCC partticitans " 
+
+then prorpsed that NSCC opens TAD Acconuts "for them at TAD"
 
 ## June 23, 1980 — 45 FR 41920
 
@@ -163,3 +219,13 @@ conditioned on exposure of NSCC’s fa
 cilities management contract to competi
 tive bidding.
 3936
+
+
+
+
+## TH e yale papre at n.187 cites 48 FR 55655
+
+
+https://www.govinfo.gov/content/pkg/FR-1983-12-14/pdf/FR-1983-12-14.pdf
+
+ex of link and interface explained
