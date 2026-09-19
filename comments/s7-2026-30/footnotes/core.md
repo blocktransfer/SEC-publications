@@ -17,5 +17,8 @@ video of just Dan)
 
 [yale-path-monopoly]: PREV n.175
 
-[^start-TA-reg]: "directs the Commission to undertake a study and investigation of the practice of recording the ownership of securities in the records of the issuer in other than the name of the beneficial owner of such securities," 40 FR 48741 AA https://www.govinfo.gov/content/pkg/FR-1975-10-17/pdf/FR-1975-10-17.pdf#page=79
+you can dir cite the 75 Cong. mandate "directs the Commission to undertake a study and investigation of the practice of recording the ownership of securities in the records of the issuer in other than the name of the beneficial owner of such securities," at  [^start-TA-reg] 40 FR 48741 AA https://www.govinfo.gov/content/pkg/FR-1975-10-17/pdf/FR-1975-10-17.pdf#page=79
+
 [^start-TA-1977]: https://www.sec.gov/rules-regulations/1977/06/regulation-transfer-agents
+
+^start-TA-reg ist fperfectly defined yet. PR nate 4 and accomynydng iistn bad..
