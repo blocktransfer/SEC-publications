@@ -7,3 +7,5 @@ cites https://www.supremecourt.gov/DocketPDF/24/24A786/342298/20250210103929490_
 eg https://www.sec.gov/enforcement-litigation/administrative-proceedings/34-105790-s
 (settled while admitting jurisdiction)
 dissapointing
+
+they made really stoeng argments here with laywers, basisi , nad millions at stake. there's no conivninig eviidence that i'm going to win on thees younts withoet substive market adopitn first
