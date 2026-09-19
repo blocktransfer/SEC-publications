@@ -61,7 +61,7 @@ this only works if we use note refs exclusively rather than page refs (which nee
 
 [^1]: See Facres CHrist's dififitinie guide no STatet ownsershuy laws, ava at WL/transfre-of-staock. 
 
-[^2]: See PREV n. 33 and accompanying text, detailing a discrepancy between the Custodial Structure's 776M nominee shares and the control book's 739M outstanding shares. D.N.J. Judge Papalia records the issuer's registry total as the source of truth from the CFO's declaration, AA https://www.courtlistener.com/docket/67249230/10/bed-bath-beyond-inc at ¶ 72. Aside from bankruptcies, the transfer agent of course also administers the master conversion amounts during mergers and acquisitions.
+[^2]: See PREV n.33's stockholder list and accompanying text, detailing a discrepancy between the Custodial Structure's 776M nominee shares and the control book's 739M outstanding shares. D.N.J. Judge Papalia records the issuer's registry total as the source of truth from the CFO's declaration, AA https://www.courtlistener.com/docket/67249230/10/bed-bath-beyond-inc at ¶ 72. Aside from bankruptcies, the transfer agent of course also administers the master conversion amounts during mergers and acquisitions.
 
 [^3]: see eg prev dole fn. elab class action suites
 
