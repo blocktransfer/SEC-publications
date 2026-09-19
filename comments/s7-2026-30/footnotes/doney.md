@@ -17,3 +17,4 @@ And then for clarity in the PR we can explain how the meeting notes report will 
 
 
 PREV n.106 is teh Big Short quote
+the yt clip is not a dir src for ¬¬1
