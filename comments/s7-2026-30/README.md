@@ -55,8 +55,9 @@ this only works if we use note refs exclusively rather than page refs (which nee
 
 [^1]: See Facres CHrist's dififitinie guide no STatet ownsershuy laws, ava at WL/transfre-of-staock. 
 
-[^2]: See PREV n.33 nad accomyydnig text, detailirnig a discreitanf between the Custediol Sturcihuer's 776M nominee shares and th eTA's record of 739M outstanidg shares; the Agent of coerse being held as the source of trueth as teh issue'rs corrpate beeks bprvail in teh EDGAR indisciloeru s--- AA https://wooten.link/kroll-ast. In the priveoins footnsoet, 
-prev barktpyt case bbby. elab on this and mergers
+[^2]: See PREV n.33 nad accomyydnig text, detailirnig a discreitanf between the Custediol Sturcihuer's 776M nominee shares and th eTA's record of 739M outstanidg shares; the Agent of coerse being held as the source of trueth as teh issue'rs corrpate beeks 88 days later in --bprvail in teh EDGAR indisciloeru s--- AA https://wooten.link/kroll-ast. In the priveoins footnsoet, 
+at 58, --stating the cohpany "must obtain the names and addresses of its shareholders from a securities agent." at ¶ 52
+Aside from bankcurytyes, the tarntesfcr agent of coerse also admininsiters the masetr coveseno regoredns during merugers and ajtutisentios.
 
 [^3]: see eg prev dole fn. elab class action suites
 
