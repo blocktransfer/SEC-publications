@@ -1,17 +1,25 @@
 ---
 title: In re S7-2026-30 (Transfer Agent Rules)
 heading: Connecting a Transparent and Decentralized Transfer Agent Depository
+signers: John Wooten
 ---
 
 ```
-Originator: John Wooten <@JFWooten4>
-Discussion: TBD
+Submission: z-email link to shot
 Extends: https://www.sec.gov/comments/sr-occ-2025-801/srocc2025801-598095-1737722.pdf
 Status: Draft
   live: 3 Nov 2026
   file: S7-2026-30
   href: https://www.sec.gov/files/rules/proposed/2026/34-106246.pdf
 ```
+
+# Cover
+
+//terminus
+
+* * *
+
+# [TOC]
 
 
 
