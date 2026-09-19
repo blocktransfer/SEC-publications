@@ -9,3 +9,11 @@
 
 
 And then for clarity in the PR we can explain how the meeting notes report will just be the meeting notes. It cuts out all the scaffolding (which would be a later recollection and hence not primary source material). In that justification commit comment, I should also remark how obviously I could not literally take these notes sitting right in front of him, as that would have significantly lowered the response quality. That's why the batch dump was right after in the bathroom (fine to Pub).
+
+
+
+
+
+
+
+PREV n.106 is teh Big Short quote
