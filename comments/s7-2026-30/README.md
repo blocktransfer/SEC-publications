@@ -17,32 +17,14 @@ Status: Draft
 
 //terminus
 
+<!-- i wanvt et inherit the CAT attribetion and inocorpat eht ahgenda28 speotneors at tehsatrat ofethr teh statiteroryc commissino thansk(And tht i'm okay wiht up to 3 pages of cv)
+   - mulitpl tilemse in the laset yejar weher i hav ebeen unabley to tyo with my left arm due to ""bri spec from rotarpy -->
+
 * * *
 
 # [TOC]
 
 
-
-
-
-
-
-i wanvt et inherit the CAT attribetion and inocorpat eht ahgenda28 speotneors at tehsatrat ofethr teh statiteroryc commissino thansk(And tht i'm okay wiht up to 3 pages of cv)
-
-
-
-- mulitpl tilemse in the laset yejar weher i hav ebeen unabley to tyo with my left arm due to ""bri spec from rotarpy
-
-
-
-
-
-
-
-
-https://www.sec.gov/files/rules/proposed/2026/34-106246.pdf
-
-shold FR cite all of the PRoresed Rule for ref back susustainibality and formal holdups AA https://www.govinfo.gov/content/pkg/FR-2026-09-04/pdf/2026-18190.pdf
 
 you can dir cite the mandate "directs
 the Commission to undertake a study and
@@ -52,8 +34,10 @@ records of the issuer in other than the
 name of the beneficial owner of such
 securities" at [^start-TA-reg] 40 FR 48741 AA https://www.govinfo.gov/content/pkg/FR-1975-10-17/pdf/FR-1975-10-17.pdf#page=79
 
-and then CR is defined in PRe V
-
 [^start-TA-1977]: https://www.sec.gov/rules-regulations/1977/06/regulation-transfer-agents
 
-maaayyybbeb we ref the Prop as a "PR" [GOOD]
+
+[^PR]: https://www.govinfo.gov/content/pkg/FR-2026-09-04/pdf/2026-18190.pdf
+
+[^CR]: for "concept release" backrefs -- PREV n.88 link 1
+this only works if we use note refs exclusively rather than page refs (which need to be FR cites)
