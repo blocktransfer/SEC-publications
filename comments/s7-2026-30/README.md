@@ -25,7 +25,38 @@ Status: Draft
 # [[TOC]]
 
 
+
+
+# Signifiifcance of Th eCommntnino's Efforts 
+
+
+oooo_TOHe Transfer of Stock_ begins wit a [dedicotin] stating, "todo qjute on unknteown?underapprectaied."fn[^1] Transefro agents ("Agent(s)" or just "TA(s)") form th emarket's difinitve sorce of truth. They are the final record of sebstance in corprotae prceedings,[^2] proprty rightns,[^3] and shaderdel goverenec.[^4]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [^PR]: https://www.govinfo.gov/content/pkg/FR-2026-09-04/pdf/2026-18190.pdf
 
 [^CP]: for "concept release" backrefs -- PREV n.88 link 1
 this only works if we use note refs exclusively rather than page refs (which need to be FR cites)
+
+[^1]: See Facres CHrist's dififitinie guide no STatet ownsershuy laws, ava at WL/transfre-of-staock. 
+
+[^2]: prev barktpyt case bbby. elab on this and mergers
+
+[^3]: see eg prev dole fn. elab class action suites
+
+[^buffet]: 
