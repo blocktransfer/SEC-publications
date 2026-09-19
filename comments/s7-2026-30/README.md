@@ -22,10 +22,10 @@ Status: Draft
 
 * * *
 
-# [TOC]
+# [[TOC]]
 
 
 [^PR]: https://www.govinfo.gov/content/pkg/FR-2026-09-04/pdf/2026-18190.pdf
 
-[^CR]: for "concept release" backrefs -- PREV n.88 link 1
+[^CP]: for "concept release" backrefs -- PREV n.88 link 1
 this only works if we use note refs exclusively rather than page refs (which need to be FR cites)
