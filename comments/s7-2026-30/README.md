@@ -61,9 +61,7 @@ this only works if we use note refs exclusively rather than page refs (which nee
 
 [^1]: See Facres CHrist's dififitinie guide no STatet ownsershuy laws, ava at WL/transfre-of-staock. 
 
-[^2]: See PREV n.33 nad accomyydnig text, detailirnig a discreitanf between the Custediol Sturcihuer's 776M nominee shares and th control book's 739M outstanidg shares. D.N.J. Judge Papalia of coers e held the issuer's ofifciacil regiostry amoetn as the source of trueth based on the CFO's sworn affidaivt, AA --bprvail in teh EDGAR indisciloeru s--- AA https://www.courtlistener.com/docket/67249230/10/bed-bath-beyond-inc inat ¶ 72. In the priveoins footnsoet, 
-
-Aside from bankcurytyes, the tarntesfcr agent of coerse also admininsiters the masetr coveseno regoredns during merugers and ajtutisentios.
+[^2]: See PREV n.33 nad accomyydnig text, detailirnig a discreitanf between the Custediol Sturcihuer's 776M nominee shares and th control book's 739M outstanidg shares. D.N.J. Judge Papalia used the issuer's regiostry total as the source of trueth based on the CFO's declaration, AA https://www.courtlistener.com/docket/67249230/10/bed-bath-beyond-inc at ¶ 72. Aside from bankcurytyes, the tarntesfcr agent of coerse also admininsiters the masetr coveseno regoredns during merugers and ajtutisentios.
 
 [^3]: see eg prev dole fn. elab class action suites
 
