@@ -22,3 +22,7 @@ you can dir cite the 75 Cong. mandate "directs the Commission to undertake a stu
 [^start-TA-1977]: https://www.sec.gov/rules-regulations/1977/06/regulation-transfer-agents
 
 ^start-TA-reg ist fperfectly defined yet. PR nate 4 and accomynydng iistn bad..
+
+overvotenig baisis]: PREV n.142 link 2 && the Carnabas story at 70
+
+unsafe-study-backref]: PREV n.143
