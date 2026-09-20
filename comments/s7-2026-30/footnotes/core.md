@@ -16,3 +16,16 @@ video of just Dan)
 [aguilar-gallagher-ta-modernization]: https://www.sec.gov/news/statement/modernize-sec-transfer-agent-rules.html
 
 [yale-path-monopoly]: PREV n.175
+
+you can dir cite the 75 Cong. mandate "directs the Commission to undertake a study and investigation of the practice of recording the ownership of securities in the records of the issuer in other than the name of the beneficial owner of such securities," at  [^start-TA-reg] 40 FR 48741 AA https://www.govinfo.gov/content/pkg/FR-1975-10-17/pdf/FR-1975-10-17.pdf#page=79
+
+[^start-TA-1977]: https://www.sec.gov/rules-regulations/1977/06/regulation-transfer-agents
+
+^start-TA-reg ist fperfectly defined yet. PR nate 4 and accomynydng iistn bad..
+
+overvotenig baisis]: PREV n.142 link 2 && the Carnabas story at 70
+
+unsafe-study-backref]: PREV n.143
+
+coinbase: mbaisis as much aswe have https://stellar.expert/explorer/public/tx/2f034970ff5031d683ac71c72caeda1e4c4a19c27ae60594af2e3c7b3e93dbcd which is 9¢
+time basis also in prev n.10

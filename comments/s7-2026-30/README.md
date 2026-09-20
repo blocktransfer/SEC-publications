@@ -1,11 +1,11 @@
 ---
 title: In re S7-2026-30 (Transfer Agent Rules)
 heading: Connecting a Transparent and Decentralized Transfer Agent Depository
+signers: John Wooten
 ---
 
 ```
-Originator: John Wooten <@JFWooten4>
-Discussion: TBD
+Submission: z-email link to shot
 Extends: https://www.sec.gov/comments/sr-occ-2025-801/srocc2025801-598095-1737722.pdf
 Status: Draft
   live: 3 Nov 2026
@@ -13,39 +13,57 @@ Status: Draft
   href: https://www.sec.gov/files/rules/proposed/2026/34-106246.pdf
 ```
 
+# Cover
+
+//terminus
+
+<!-- i wanvt et inherit the CAT attribetion and inocorpat eht ahgenda28 speotneors at tehsatrat ofethr teh statiteroryc commissino thansk(And tht i'm okay wiht up to 3 pages of cv)
+   - mulitpl tilemse in the laset yejar weher i hav ebeen unabley to tyo with my left arm due to ""bri spec from rotarpy -->
+
+* * *
+
+# [[TOC]]
+
+
+
+
+# Signifiifcance of Th eCommntnino's Efforts 
+
+
+oooo_TOHe Transfer of Stock_ begins wit a [dedicotin] stating, "todo qjute on unknteown?underapprectaied."fn[^1] Transefro agents ("Agent(s)" or just "TA(s)") form th emarket's difinitve sorce of truth. They are the final record of sebstance in corprotae prceedings,[^2] proprty rightns,[^3] and shaderdel goverenec.[^4]
+
+
+
+
+
+## Expansion of OPertanig Renosntanbelites
+
+start whih tcong
+
+gotot crowdfounding intergitons
+
+endf on staff dlt t cite
 
 
 
 
 
 
-i wanvt et inherit the CAT attribetion and inocorpat eht ahgenda28 speotneors at tehsatrat ofethr teh statiteroryc commissino thansk(And tht i'm okay wiht up to 3 pages of cv)
-
-
-
-- mulitpl tilemse in the laset yejar weher i hav ebeen unabley to tyo with my left arm due to ""bri spec from rotarpy
 
 
 
 
 
+[^PR]: https://www.govinfo.gov/content/pkg/FR-2026-09-04/pdf/2026-18190.pdf
 
+[^CP]: for "concept release" backrefs -- PREV n.88 link 1
+this only works if we use note refs exclusively rather than page refs (which need to be FR cites)
 
+[^1]: See Facres CHrist's dififitinie guide no STatet ownsershuy laws, ava at WL/transfre-of-staock. 
 
-https://www.sec.gov/files/rules/proposed/2026/34-106246.pdf
+[^2]: See PREV n.33's stockholder list and accompanying text, detailing a discrepancy between the Custodial Structure's 776M nominee shares and the control book's 739M outstanding shares. D.N.J. Judge Papalia records the issuer's registry total as the source of truth from the CFO's declaration, AA https://www.courtlistener.com/docket/67249230/10/bed-bath-beyond-inc at ¶ 72. Aside from bankruptcies, the transfer agent of course also administers the master conversion amounts during mergers and acquisitions.
 
-shold FR cite all of the PRoresed Rule for ref back susustainibality and formal holdups AA https://www.govinfo.gov/content/pkg/FR-2026-09-04/pdf/2026-18190.pdf
+[^3]: see eg prev dole fn. elab class action suites
+note 24
 
-you can dir cite the mandate "directs
-the Commission to undertake a study and
-investigation of the practice of record
-ing the ownership of securities in the
-records of the issuer in other than the
-name of the beneficial owner of such
-securities" at [^start-TA-reg] 40 FR 48741 AA https://www.govinfo.gov/content/pkg/FR-1975-10-17/pdf/FR-1975-10-17.pdf#page=79
-
-and then CR is defined in PRe V
-
-[^start-TA-1977]: https://www.sec.gov/rules-regulations/1977/06/regulation-transfer-agents
-
-maaayyybbeb we ref the Prop as a "PR" [GOOD]
+[^buffet]: 
