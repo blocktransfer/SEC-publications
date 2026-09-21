@@ -401,4 +401,647 @@ etc.
 
 
 
-> 
+
+## NYSE Tiestimony
+
+Dentzer is at 316 with NYSE beard and SIAC fgroep
+NYSE and CCS surrpont the 75 amendments to reg CA/TA
+
+
+
+> But
+before
+commenting on
+the
+individual
+sections
+of S.
+2058,
+we
+would
+like
+to
+make
+it
+clear
+that
+we
+have
+some
+strong
+reservations
+about
+the
+appropriateness
+of
+dealing in
+a
+single
+bill
+with the
+regulation
+ofboth
+depositories
+and
+clearing corporations.
+We
+believe,
+in
+fact,
+thatregulatory guidelines
+for
+these
+two
+very
+different
+types
+of
+entities
+might more
+effectively
+be
+set
+forth in separate
+legislation.
+
+
+317 states May
+11
+as the
+Depository
+Trust
+Co
+formatin date tronining frmo CCS
+
+> Trade
+comparison
+involves reporting, validating,
+and comparing
+trading
+activities
+to obtain
+an
+approved
+contract
+listing
+of
+all
+trades.
+Each
+market today performs
+its
+own
+trade
+comparison
+similarly.
+However,
+efforts
+to
+consolidate
+in
+this
+area are not being
+pressed,
+since
+the
+function
+itself
+will
+be
+eliminated
+as each
+market
+advances
+toward
+the goal
+of
+the locked in trade
+
+
+> At
+present,
+the
+rules
+of a
+clearing
+agency
+are
+generally
+understood to include
+its
+constitution,
+articles
+of
+incorpora-
+tion,
+bylaws and
+rules
+and
+instruments corresponding
+thereto,
+and
+its
+stated policies—all
+of which
+are required
+to
+be
+filed
+with the
+SEC
+under
+rule
+17A-8
+of
+the
+1934
+act.
+Section
+3
+adds
+to
+this
+definition,
+practices relating
+to—a
+clearing
+agency's—organization,
+participa-
+tion, rules
+of procedure,
+financial
+condition,
+methods of
+safekeeping,
+settling,
+hypothecating, lending
+and
+accounting for
+funds and
+securi-
+ties,
+and
+similar matters.
+This
+definition
+would even appear
+to
+encompass
+all
+printed
+forms
+used
+by a
+clearing corporation, operating
+and
+instruction
+manuals
+for
+employees,
+instructions
+for using data processing
+equipment,
+and
+simi-
+lar
+minute
+details
+of everyday
+operation.
+
+
+
+So as  seoon as hypethecatin and lending come up (Half of what this dudue's saynig) thaey pessll the "minute details" boges tat shows in the Byrne team FOIAs
+
+> These
+rules
+destroy
+current concepts
+of
+self
+-regulation
+and
+coopera-
+tive
+regulation,
+replacing
+them
+with
+a
+series
+of
+sweeping
+mandates
+for
+direct
+regulation
+by
+the
+SEC.
+Even
+the
+SEC
+does
+not
+want
+that
+much
+authority,
+Mr.
+Chairman,
+if
+I
+read
+Commissioner
+Evans'
+state-
+ment
+correctly
+when
+he
+appeared
+before
+the committee.
+The
+likelihood
+is
+that
+such
+an
+approach
+would
+seriously
+inhibit
+the
+forward move-
+ment
+of
+the
+securities
+industry
+which—without
+direct
+regulation—
+has
+created
+so
+complex
+a
+centralized
+facility
+as
+the
+Depository
+Trust
+Co.
+
+###this was 1 year before pollack
+
+the Senator / CHairman than tSays: "Well,
+I
+wouldn't
+want
+the
+reporters
+to
+overlook
+the
+fact
+that
+your
+statement
+is
+not
+a
+total
+nuclear
+blast
+at
+this
+bill.
+You
+hit
+with
+16
+-inch
+guns
+but
+you
+left
+a
+little
+bit
+of
+a
+fantail."
+
+CEO goes on to read a testeinemny 
+"I
+have
+onlywritten it
+this
+morning." which is:
+
+> the
+New
+York
+Stock
+Exchange
+agrees that there should be developed as promptly
+as pos-
+sible
+a
+national
+facility
+for
+clearin
+g
+and
+settling securities
+transactions
+among
+broker
+-dealers
+and
+other
+financial institutions
+which would
+centralize this service
+function
+and would be
+compatible with
+all
+exiting
+clearing
+and
+settlement
+facilities
+and
+with
+security deposi-tories.
+But
+the exchange
+also believes
+that
+this
+new
+facility
+must beoperated
+and
+administered
+by
+the industry, subject,
+of
+course,
+to the
+ultimate oversight authority
+of the
+SEC
+and
+appropriate
+bank
+regu-
+latory agencies, if appropriate.
+
+
+> The
+facility
+should be
+operated
+as
+a
+service
+organization
+of
+the
+industry
+on a
+not
+-
+for
+-profit basis.
+
+_of the industry_
+
+> Finally,
+the
+board
+agreed
+it
+would
+be
+willing
+to spin
+off
+the
+ex-
+change's
+clearing
+facility
+Stock
+Clearing
+Corp.
+and
+to
+encourage
+all
+other regulatory bodies to
+adopt
+identical
+policies.
+This
+important
+step
+was
+taken
+by
+the
+board
+to lead
+the
+way
+for
+all
+other regulatory
+bodies
+to
+join
+together to
+eliminate
+wasteful competition
+in the
+clear-
+ing
+and
+settlement
+function so as to
+realize
+the
+substantial cost
+reduc-
+tions
+and
+efficiencies
+which
+will
+flow
+from
+such
+an
+effort.
+
+_wasteful compettion in C&S_
+
+> Certainly
+all
+must
+agree that the
+public
+interest
+requires
+that
+all
+organizations
+which
+operate
+a
+depository
+or
+a
+clearing
+corporation
+must
+dedicate
+themselves to
+conducting
+their
+affairs
+in the
+most
+eco-
+nomic and
+efficient
+manner,
+utilizing
+to
+the
+fullest
+all
+available
+technology.
+
+_econonmic and efficicent mannr_ Mus t mean not actually paying for stork
+
+## Reversal of 1972 policices
+
+at 321 the senater colls out the NYSE for basically reverinsing its entirue posititn --- going from suppreting the slegistatin a year ago to detesting it now that they have CCS
+
+this pretty nise. the juites here :
+
+> We
+have not
+made
+the progress
+we
+should have
+to-
+ward an
+efficient
+operational system from
+the standpoint of the con-
+sumers of the industry.
+Nor have
+we made
+the progress
+from the standpoint
+of
+the
+profitability
+of
+the
+industry.
+In
+light
+of
+this
+I
+can't
+understand
+why
+this
+year
+you
+are
+regressing—stepping
+back—from
+support
+for
+an
+orderly
+central
+direction
+for the
+development of
+better
+clearing
+process.
+
+CEO resotese is taht th eBeard doesnt want "
+complete Federal
+domination" becaces it is "not the
+American
+way"
+at 322
+
+and in resnetnsd to th epolicy 180: "I
+am
+not
+certain this
+matter
+was
+ever
+discussed
+previously
+with the
+full
+board of
+the
+New
+York
+Stock
+Exchange"
+
+---
+
+Senator
+WILLIAMS.
+And
+the
+new
+members,
+the
+public
+members, were
+present?
+Mr. NEEDHAM. The new
+public
+members
+were
+present,
+and
+the
+industry
+members, some
+of
+them
+who
+are
+new,
+were
+there, too
+
+
+`they just fired the ppl who disagered`
+
+---
+
