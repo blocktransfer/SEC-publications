@@ -26,6 +26,8 @@ this is really imrptont for establishng tha power scheme inmplied _infra_ the no
 
 keeping transfer-agent and registrar functions seperate
 
+this shows teh alignment form teh accoentonntns and banketrs that fifnirally benenefitted form teh gorucp
+
 ## Single v. Multipl CCP Subentires
 
 SINGLE-DEPOSITORY MODEL
