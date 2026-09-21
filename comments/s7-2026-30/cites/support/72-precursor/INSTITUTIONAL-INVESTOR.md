@@ -41,3 +41,5 @@ and then we have the dircet stargihtsoh fn (optimal) backref to webb-PREV n.39
 > “Was this ‘paperwork crisis’ manufactured in order to provide an imperative for dematerialization?”
 >
 > — David Rogers Webb, *The Great Taking*, ch. II, p. 8.
+
+this was also the basisi for 1977: Article 8 is substantially amended, largely in response to the paperwork crisis and the movement toward uncertificated securities. The SEC later described its “primary purpose” as creating law for the issuance, registration, transfer, and pledge of uncertificated securities

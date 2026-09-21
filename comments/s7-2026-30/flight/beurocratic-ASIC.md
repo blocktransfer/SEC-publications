@@ -22,3 +22,6 @@ it says out the groendwork for coordinated restircuting of the UCC
 
 this is really imrptont for establishng tha power scheme inmplied _infra_ the note on ~~[dtcc copr strictoir]]~~ OCC1 n.16 link 3
 
+## Poor Reccomnatins
+
+keeping transfer-agent and registrar functions seperate
