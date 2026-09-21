@@ -158,3 +158,47 @@ Needham had served as an SEC Commissioner from July 10, 1969, until his resignat
 says
 
 > "The Federal Government has no demonstrated ability to operate anything."
+
+## The 1972 predecessor and the NYSE's changed position
+
+### Which 1972 bill?
+
+There was no single 1972 proposal. The May 1972 Senate hearing considered S. 2551, S. 3297, and S. 3412 together ([1972 Senate hearing](https://books.google.com/books?id=5agQAAAAIAAJ)). S. 3412 was the SEC-requested bill; S. 3297 was the subcommittee proposal. After the hearing, the subcommittee combined elements of the competing bills into S. 3876, which the Senate passed unanimously on August 4, 1972. The House passed a related but different measure, and the Congress adjourned before the two versions could be reconciled.
+
+That distinction matters to the claimed NYSE reversal:
+
+- The NYSE supported S. 3412 in 1972, but only with proposed modifications.
+- The NYSE opposed S. 3297 and S. 2551.
+- S. 3876—not S. 3412—was the immediate Senate predecessor of the 1973 bill, S. 2058.
+
+The clearest 1972 source text is Howland's statement at hearing pages 190-192:
+
+> “only S. 3412 offers the prospect of meeting the essential test of practicability.”
+
+> “We oppose the alternatives represented by Senate bills 3297 and 2551.”
+
+His prepared statement at pages 203-214 explains the qualification. The NYSE accepted SEC oversight of clearing agencies but resisted direct SEC control of depositories, personnel standards, and daily operations. It preferred state banking authorities to remain the primary regulators of bank and trust-company depositories. It also argued that S. 3297 would displace self-regulation and deter banks from participating.
+
+### How the bills differed
+
+The [S. 3412 introduction and text](https://www.govinfo.gov/content/pkg/GPO-CRECB-1972-pt8/pdf/GPO-CRECB-1972-pt8-2-2.pdf) placed clearing agencies and depositories under SEC registration and standards, added federal regulation of transfer agents and registrars, and authorized uniform stock-certificate rules. Unlike S. 3297, it did not begin from the subcommittee's more direct-regulation model or its certificate-elimination and state transfer-tax provisions.
+
+The subcommittee then produced S. 3876. Senator Williams's explanation and the Senate-passed text appear at Congressional Record pages 26893-26899 ([S. 3876 passage and text](https://www.govinfo.gov/content/pkg/GPO-CRECB-1972-pt21/pdf/GPO-CRECB-1972-pt21-1-1.pdf)). He described it as a substitute prepared after the May hearings. It combined central SEC rulemaking with inspection and enforcement by the appropriate regulator—either the SEC or the relevant federal bank agency. It also added the certificate-elimination deadline, a street-name study, limits on discriminatory state transfer taxes, and a temporary commission on uniform state securities laws.
+
+S. 2058 retained that basic allocation: the SEC would direct national policy and make system-wide rules, while bank regulators would inspect and enforce compliance for bank-operated components. It also made the federal role more explicit through a broad definition of a clearing agency's “rules,” detailed registration and governance standards, participant-access and disciplinary protections, and mandatory SEC review of rule changes. It retained the December 31, 1976 certificate-elimination target, street-name study, and transfer-tax provision, but did not carry forward S. 3876's temporary uniform-state-laws commission. In introducing it, Williams said the 1972 bill stated the subcommittee's conclusions and that the new bill “strengthens them” ([S. 2058 introduction](https://www.govinfo.gov/content/pkg/GPO-CRECB-1973-pt16/pdf/GPO-CRECB-1973-pt16-6-1.pdf)).
+
+So the narrow difference was not federal oversight versus none. The disputed move was from qualified oversight and divided administration toward an explicit SEC-led national system with advance control over rules, governance, access, and operating standards.
+
+### How the testimony differed
+
+In 1972, NYSE executive vice president Richard B. Howland presented the Exchange as supporting the SEC's S. 3412 framework, subject to limits protecting banking regulation, private initiative, and self-regulation. That was already a qualified position, not support for every feature later placed in S. 3876 or S. 2058.
+
+In 1973, chairman and CEO James J. Needham said the NYSE still supported the bill's objectives but opposed its regulatory method. He objected to treating depositories and clearing corporations alike, to the breadth of the statutory definition of “rules,” and to SEC authority over operating detail. He characterized the choice as private industry development versus “complete Federal domination” and said the latter was “not the American way” (1973 hearing pages 316-323).
+
+Senator Williams treated this as a reversal because the NYSE had supported federal legislation the year before and S. 2058 followed the Senate's 1972 framework. Needham acknowledged the conflict with the prior testimony. His explanation was institutional rather than textual: Howland had left, the Exchange had been reorganized under a new full-time chairman and a reconstituted board with ten public and ten industry directors, and Needham was unsure whether the full old board had ever approved the 1972 position. The new board adopted the 1973 position unanimously the day before the hearing.
+
+The fairest reading is therefore:
+
+- Williams was right that the NYSE had moved materially away from its public support for the SEC-sponsored 1972 bill.
+- Needham was also right that S. 2058 was not identical to the bill the NYSE supported: it descended from the later composite S. 3876 and expressed broader, more detailed SEC control.
+- The sharpest change was in policy and rhetoric. The NYSE's 1972 reservations about direct regulation became its central 1973 objection after a change in management and board structure.

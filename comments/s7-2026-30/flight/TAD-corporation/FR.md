@@ -8,25 +8,7 @@ Exchange rule changes concerning the **interface between National Clearing Corpo
 
 at 94 is were ethe y realyl start oging into the tad nad say thot :
 
-> NCC and the Depository Trust Com
-> pany currently have a fully operational
-> depository interface which has increased
-> significantly the safety and efficiency of
-> clearing and settlement for securities
-> transactions processed through NCC.
-> Based on the performance of this inter
-> face and on its review of the proposed
-> NCC-TAD interface, the Commission has
-> determined that implementation of the
-> NCC-TAD interface will increase signifi
-> cantly the safety and efficiency of clear
-> ing and settlement for securities trans
-> actions settled through NCC. Accord
-> ingly, it appears to the Commission that
-> immediate implementation of the NCC-
-> TAD interface is necessary for the pro
-> tection of investors and for the safe
-> guarding of securities and funds.
+> NCC and the Depository Trust Company currently have a fully operational depository interface which has increased significantly the safety and efficiency of clearing and settlement for securities transactions processed through NCC. Based on the performance of this interface and on its review of the proposed NCC-TAD interface, the Commission has determined that implementation of the NCC-TAD interface will increase significantly the safety and efficiency of clearing and settlement for securities transactions settled through NCC. Accordingly, it appears to the Commission that immediate implementation of the NCC-TAD interface is necessary for the protection of investors and for the safeguarding of securities and funds.
 
 basically on that first page they contmpale both TAD and DTC 's prticcpnatns in NCC CNS  -- so befoer the oceitnas taht got DOJK riled
 
@@ -52,13 +34,7 @@ https://www.govinfo.gov/content/pkg/FR-1976-09-13/pdf/FR-1976-09-13.pdf#page=97
 
 thye go in to q:utne contgosss as the PROCTIOCITON OF INVESTOERS which woeld happin in DRS
 
-> The linking of all clearance and set
-> tlement facilities and the development o f
-> uniform standards and procedures for clear
-> ance and settlement will reduce unnecessary
-> costs and increase the protection o f Invest
-> ors and persons facilitating transactions by
-> and acting on behalf of investors.
+> The linking of all clearance and settlement facilities and the development of uniform standards and procedures for clearance and settlement will reduce unnecessary costs and increase the protection of investors and persons facilitating transactions by and acting on behalf of investors.
 
 ## October 1, 1976 — 41 FR 43483
 
@@ -74,12 +50,7 @@ statets NSCC shall estabalish full interfaecst with TADDC
 
 usefil ina long linsh of see eg
 
-> in view of
-> the complexity of tire matters to which
-> the conditions pertain, the Commission
-> would like to receive public comment on
-> whether the conditions should be
-> changed, added to or modified.
+> in view of the complexity of the matters to which the conditions pertain, the Commission would like to receive public comment on whether the conditions should be changed, added to or modified.
 
 complex
 
@@ -100,15 +71,7 @@ Source: **42 FR 3916, 3938 (Jan. 21, 1977)** — https://www.govinfo.gov/content
 
 ^This doc cite then gits into the DOJ DC-cir remarks.
 at 116:
-> A number of NSCC’s potential clearing
-> corporation competitors and the United
-> States Department of Justice expressed
-> the view th at NSCC’s activities should be
-> restricted to New York City, either in
-> definitely or for a fixed period, in order
-> to protect clearing corporations operat
-> ing outside New York City from the dan
-> gers of competition with NSCC.
+> A number of NSCC’s potential clearing corporation competitors and the United States Department of Justice expressed the view that NSCC’s activities should be restricted to New York City, either indefinitely or for a fixed period, in order to protect clearing corporations operating outside New York City from the dangers of competition with NSCC.
 
 "dangers of competition with NSCC" in 1977 shows juts how much wall st might was alrceday coenectarted
 
@@ -116,15 +79,7 @@ at 116:
 
 ### Competition Among Clearing Agencies at 3931
 
-> During the proceedings opponents of
-> NSCC’s registration and the United
-> States Department of Justice maintained
-> th at the Management Agreement was
-> anticompetitive and recommended that
-> any grant of registration to NSCC be
-> conditioned on exposure of NSCC’s fa
-> cilities management contract to competi
-> tive bidding.
+> During the proceedings opponents of NSCC’s registration and the United States Department of Justice maintained that the Management Agreement was anticompetitive and recommended that any grant of registration to NSCC be conditioned on exposure of NSCC’s facilities management contract to competitive bidding.
 
 3936
 
@@ -134,15 +89,7 @@ NSCC consolidation-plan notice. Discusses implementation of the consolidation of
 
 https://www.govinfo.gov/content/pkg/FR-1977-05-18/pdf/FR-1977-05-18.pdf
 
-> The SEC's first condition also man-
-> dates the establishment of appropriate
-> links with Boston Stock Exchange Clear-
-> ing Corporation and TAD Depository
-> Corporation. NSCC has met with both,
-> developed an approach, and will shortly
-> be providing a proposed method of "link-
-> ing" to each organization for their re-
-> view. 
+> The SEC's first condition also mandates the establishment of appropriate links with Boston Stock Exchange Clearing Corporation and TAD Depository Corporation. NSCC has met with both, developed an approach, and will shortly be providing a proposed method of "linking" to each organization for their review.
 
 ## TAD DTC Partcicpant - May 27, 1977 — 42 FR 27361
 
@@ -153,9 +100,7 @@ monthes before end
 
 https://www.govinfo.gov/content/pkg/FR-1977-05-27/pdf/FR-1977-05-27.pdf#page=175
 
-> TAD intends to
-> open an interface account with The De
-> pository T rust Company (DTC)
+> TAD intends to open an interface account with The Depository Trust Company (DTC)
 
 ## June 10, 1977 — 42 FR 30065–66
 
@@ -246,27 +191,7 @@ https://www.govinfo.gov/content/pkg/FR-1983-05-04/pdf/FR-1983-05-04.pdf
 https://www.govinfo.gov/content/pkg/FR-1983-05-04/pdf/FR-1983-05-04.pdf#page=168
 
 note 28 commetns on haw 
-> NASCC continues to be required
-> to provide free interfaces to other registered
-> clearing agencies in accordance with the terms of
-> the Registration Order. S ee a lso Securities
-> Exchange Act Release No. 18823 (June 23,1982), 47
-> FR 28512 (June 30,1982), approving File No. SR -
-> M CC-82-8 and SR-MSTC-82-11, which indicated at
-> "note 7 that the “Commission generally has required
-> that the interface costs incurred by each interfacing
-> clearing member * * * be absorbed by that
-> interfacing clearing agency and mutualized across
-> its ow n participant base.” The Registration Order,
-> as supplem ented by R elease No. 18823, thus
-> contemplated that the free interface requirement for
-> dearing corporations would be a central
-> characteristic of the National System.
-> Of course, the Commission recognizes that some
-> requirements imposed on NSCC during the course of
-> NSCC’s temporary registration have become
-> obsolete. For example, NSCC no longer can
-> establish appropriate links with TAD since TAD has
+> NSCC continues to be required to provide free interfaces to other registered clearing agencies in accordance with the terms of the Registration Order. See also Securities Exchange Act Release No. 18823 (June 23, 1982), 47 FR 28512 (June 30, 1982), approving File No. SR-MCC-82-8 and SR-MSTC-82-11, which indicated at note 7 that the “Commission generally has required that the interface costs incurred by each interfacing clearing member * * * be absorbed by that interfacing clearing agency and mutualized across its own participant base.” The Registration Order, as supplemented by Release No. 18823, thus contemplated that the free interface requirement for clearing corporations would be a central characteristic of the National System. Of course, the Commission recognizes that some requirements imposed on NSCC during the course of NSCC’s temporary registration have become obsolete. For example, NSCC no longer can establish appropriate links with TAD since TAD has
 
 ## Formal takedown — 48 FR 45167–68
 

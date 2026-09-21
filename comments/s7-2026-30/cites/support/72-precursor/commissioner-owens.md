@@ -51,12 +51,7 @@ AA https://www.google.com/books/edition/Securities_Investor_Protection_Act_Amend
 
 ** ** UCC8-501 IN ACTION ** **
 
-> §16 (4) of the Act-- " Customer name securities " takes the place of
-" specifically identifiable property " as the category of securities which will
-be returned to individual customers outside the normal procedure for
-allocating and distributing customer property . Securities registered in the
-names of customers or in the process of being so registered on the filing
-date will be treated , in short , as though they are not part of the debtor's estate , but merely held by the debtor as bailee . 
+> §16 (4) of the Act-- " Customer name securities " takes the place of " specifically identifiable property " as the category of securities which will be returned to individual customers outside the normal procedure for allocating and distributing customer property . Securities registered in the names of customers or in the process of being so registered on the filing date will be treated , in short , as though they are not part of the debtor's estate , but merely held by the debtor as bailee .
 
 
 Here, “bailee” means someone who possesses property belonging to another person without owning it.
