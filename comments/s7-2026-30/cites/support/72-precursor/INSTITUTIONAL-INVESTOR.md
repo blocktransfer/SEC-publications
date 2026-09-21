@@ -11,11 +11,11 @@ this articl starts at 330 and is a core blockquate
 emphasis is verp usefil and wow does make the argiment for me
 
 
-> Under the current plant, Central Certificate Service, now a subsidiary of the NYSE and later an "independent" organization in which the exchange and the large New York banks would hold by far the ma- jority interest, would become the chief component of a national network of deposi- tories, many actual affiliates of CCS.
+> Under the current plant, Central Certificate Service, now a subsidiary of the NYSE and later an "independent" organization in which the exchange and the large New York banks would hold by far the majority interest, would become the chief component of a national network of depositories, many actual affiliates of CCS.
+>
+> Serious questions are being raised about CCS's efficacy. Though it is generally agreed that CCS is a fairly useful short-term expedient, which was its intent when it was first opened, critics point out that it is now being discussed by its proponents as _the_ long-term solution to the paper problem, a role for which it is grossly inadequate. They fear that CCS and its affiliates could become, as one critic puts it, "an operational nightmare," an inefficient, distended and redundant bureaucracy which will never bring about the true costs savings of total automation and whose massive monopolistic economic power and likely resistance to change could create havoc for the industry and the securities markets in general.
+origginal emphasis
+
 ties into the Dentzer broker to bank gov quote
 
-> CCS is a fairly useful short-term expedient, which was its intent when it was first opened, critics point out that it is now being discussed by its proponents as _the_ long-term solution to the paper problem, a role for which it is grossly inadequate.
-origginal emphasis
 you can tieback the clroelnig DTCC arg as repeating teh "grossly inadequate" comptancy of their DA
-
-> They fear that CCS and its affiliates could become, as one critic puts it, "an operational nightmare," an inefficient, distended and redundant bureaucracy which will never bring about the true costs savings of total automation and whose _massive monopolistic economic power_ and likely resistance to change could _create havoc for the industry and the securities markets_ in general.
