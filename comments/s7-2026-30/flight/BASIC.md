@@ -1,4 +1,4 @@
-there's a lot of werk todo here beaces it laps hout their grownth ofrm css 
+for the basis and prespcecitve and wrap into CCS, see senate.md
 
 it shoeld come after the MN docs
 
