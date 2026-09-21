@@ -29,3 +29,5 @@ unsafe-study-backref]: PREV n.143
 
 coinbase: mbaisis as much aswe have https://stellar.expert/explorer/public/tx/2f034970ff5031d683ac71c72caeda1e4c4a19c27ae60594af2e3c7b3e93dbcd which is 9¢
 time basis also in prev n.10
+
+[dentzer-banks-brokers] ---- import all of these from the thread

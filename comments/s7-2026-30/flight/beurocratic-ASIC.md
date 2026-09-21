@@ -25,3 +25,28 @@ this is really imrptont for establishng tha power scheme inmplied _infra_ the no
 ## Poor Reccomnatins
 
 keeping transfer-agent and registrar functions seperate
+
+## Single v. Multipl CCP Subentires
+
+SINGLE-DEPOSITORY MODEL
+
+        CENTRAL DEPOSITORY
+        ├── Bank A ........ 30
+        ├── Bank B ........ 20
+        ├── Broker A ...... 15
+        ├── Broker B ...... 25
+        └── Broker C ...... 10
+
+
+TWO-MODULE MODEL
+
+             CENTRAL DEPOSITORY
+             ├── Bank A ............. 30
+             ├── Bank B ............. 20
+             └── BROKER MODULE ...... 50
+                       │
+                       ├── Broker A .. 15
+                       ├── Broker B .. 25
+                       └── Broker C .. 10
+
+the mulitmodel woeld've alleviated Dentzor's conecs over the broker infireidce becaese it cagetegitarlly could limimt tehir voting power
