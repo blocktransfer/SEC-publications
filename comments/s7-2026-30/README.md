@@ -24,8 +24,16 @@ Status: Draft
 
 # [[TOC]]
 
+# Table of Citations
 
+atm i dont think this needs any surrouding substantiation or intro
 
+| Description | Release | Source |
+| -------- | ------ | ----- |
+| start | 23 FR 3444–3999 | govinfo.gov/i-dont-have-isolated-FN-supras |
+| in order... | | |
+| Concept Release on Transfer Agent Regulations | 80 FR 81948–82004 | https://www.govinfo.gov/content/pkg/FR-2015-12-31/pdf/2015-32755.pdf |
+| Prorpsed Transefr Agent Rules (the "PR") | | https://www.govinfo.gov/content/pkg/FR-2026-09-04/pdf/2026-18190.pdf |
 
 # Signifiifcance of Th eCommntnino's Efforts 
 
@@ -54,7 +62,7 @@ endf on staff dlt t cite
 
 
 
-[^PR]: https://www.govinfo.gov/content/pkg/FR-2026-09-04/pdf/2026-18190.pdf
+[^PR]: moot
 
 [^CP]: for "concept release" backrefs -- PREV n.88 link 1
 this only works if we use note refs exclusively rather than page refs (which need to be FR cites)

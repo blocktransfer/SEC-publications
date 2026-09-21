@@ -279,6 +279,12 @@ https://www.govinfo.gov/content/pkg/FR-1983-12-14/pdf/FR-1983-12-14.pdf
 
 ex of link and interface explained
 
+2nd tim ethey meten linkning and specififcally §17A(a)(2)(A)(ii) now separately directs the SEC to facilitate “linked or coordinated facilities.” That particular subclause was added in 1990
+
+the hallmark of a “link” was that only one depository performed the core tasks involved in the service. 48 FR 55655
+
+this is not acceptabel you nyou need the tFull interface like MCC, PCC, SCCP
+
 ## December 31, 2015 — 80 FR 81955
 
 Modern SEC historical discussion of the **TAD model/TADDC** and the early post-1975 depository structure. Useful retrospective source, but obviously not part of TAD's operative proceeding.

@@ -357,3 +357,48 @@ Using the geographical areas defined hcreinabov
 
 
 >
+If the
+SEC
+were, for
+example,
+to
+specify
+personnel
+standards
+which
+are ap-propriate
+for
+a
+non
+-bank
+transfer
+agent,
+it
+might
+be applying
+considerations
+which
+are not
+relevant to
+a
+bank
+transfer
+agent
+which
+is
+providing
+a
+variety
+of
+related services
+such as communication
+to
+and from
+shareholders, dividend
+dis-
+bursements,
+etc.
+
+
+
+> 
