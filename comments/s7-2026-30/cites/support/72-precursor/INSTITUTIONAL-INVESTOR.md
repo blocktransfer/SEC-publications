@@ -37,3 +37,5 @@ origginal emphasis
 ### to9rxkrnig p9rolse
 
 I have conitnsetiens who belive that the Parprewor Criss vwas a masufacetedred event , fabricated to prceicptatet the centlaivaints of finincal powers in the intuedly. The 72 tesitimayr supports tehes cliams sinec "CCS was interodeued brkon quteene in the midst and made things wors." There is stlittel reasnt such a cuautaus Wall Street would intrudicu ea holf-baked sceme, other than to premtievy caus prbolms wihch insittue ruegtans making comptiitonrs adopt their autamietcd comper ssysm at a prmative time when uch hardwane was very exlpos i(WORKNIG NAD TOO LONG)
+
+forslowness evidenece, there is a dicencet primarcy soreuc i oauthoerecd that cites the 2021 discussion with DTCC Csuite aboteu PRojoct Whitney. i shoeld use this to nestep their parterstidey''''' qprpranteument and intro the sTellar basisis. that was letalyly when i started doing my worj ( tiher may 2020  whirehiro  was when i pubislesd the thesis-PREV n.149 (https://www.dtcc.com/~/media/Files/Downloads/settlement-asset-services/user-documentation/Project-Whitney-Paper.pdf
