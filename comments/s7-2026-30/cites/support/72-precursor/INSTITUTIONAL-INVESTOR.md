@@ -1,3 +1,7 @@
+> “Was this ‘paperwork crisis’ manufactured in order to provide an imperative for dematerialization?”
+>
+> — David Rogers Webb, *The Great Taking*, ch. II, p. 8.
+
 this articl starts at 330 and is a core blockquate
 
 > the question of paper and the machines to process it is highly political. Determining which ma- chines will be used and who will own them directly affects the fortunes of all securities firms, exchanges, banks, institutions and even corporations and smallinvestors.
