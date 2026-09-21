@@ -1045,3 +1045,4 @@ there, too
 
 ---
 
+Needham had served as an SEC Commissioner from July 10, 1969, until his resignation became effective July 14, 1972; the SEC later described John R. Evans as filling the remainder of Needham's unexpired term ([SEC historical roster](https://www.sec.gov/about/sec-commissioners/sec-historical-summary-chairmen-commissioners); [SEC Annual Report 1982](https://www.sec.gov/about/annual_report/1982.pdf)). Needham resigned specifically to become chairman and chief executive officer of the NYSE ([SEC News Digest, July 27, 1972](https://www.sec.gov/news/digest/1972/dig072772.pdf)), so this 1973 testimony came roughly a year after he moved directly from the Commission to the Exchange.
