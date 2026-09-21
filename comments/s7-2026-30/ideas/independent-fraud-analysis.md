@@ -1,0 +1,3 @@
+Source: https://github.com/WhyDRS/SEC-comments/issues/35
+
+Independent fraud analysis on public chains can work like a bug-bounty system: technically skilled participants can publish reviewable evidence, build open detection tools, and receive incentives for surfacing suspicious activity. Because that work can be performed pseudonymously and in public, it can distribute investigative capacity beyond centralized regulators while still leaving the underlying evidence available for others to inspect. This also relates to the DUNA self-governance argument through GitHub, because WhyDRS governance and operations are similarly public and inspectable, providing a concrete bridge into the broader argument for community-administered oversight.
