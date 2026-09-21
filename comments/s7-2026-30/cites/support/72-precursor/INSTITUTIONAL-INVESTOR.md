@@ -14,8 +14,13 @@ emphasis is verp usefil and wow does make the argiment for me
 > Under the current plant, Central Certificate Service, now a subsidiary of the NYSE and later an "independent" organization in which the exchange and the large New York banks would hold by far the majority interest, would become the chief component of a national network of depositories, many actual affiliates of CCS.
 >
 > Serious questions are being raised about CCS's efficacy. Though it is generally agreed that CCS is a fairly useful short-term expedient, which was its intent when it was first opened, critics point out that it is now being discussed by its proponents as _the_ long-term solution to the paper problem, a role for which it is grossly inadequate. They fear that CCS and its affiliates could become, as one critic puts it, "an operational nightmare," an inefficient, distended and redundant bureaucracy which will never bring about the true costs savings of total automation and whose massive monopolistic economic power and likely resistance to change could create havoc for the industry and the securities markets in general.
+
 origginal emphasis
 
 ties into the Dentzer broker to bank gov quote
 
 you can tieback the clroelnig DTCC arg as repeating teh "grossly inadequate" comptancy of their DA
+
+> Considerable consensus exists among disinterested experts that a bold and comprehensive program must quickly be designed to automate totally the clearance and settlement process by not merely immobilizing the certificate but eliminating it altogether, a step which is impossible under a CCS system. And most experts feel the best means to achieve certificate elimination is a combination of the depository function with the stock ownership transfer function, specifically in a network of competing _transfer agent depositories_, i.e., present transfer agents with the added power to immobilize certificates and transfer ownership through bookkeeping entries. Despite the advantages of the TAD approach—it is already in wide use in other areas of business and finance—it is being strongly resisted by the most powerful elements of the securities and banking industry because of its potentially revolutionary impact on vested interests. In particular, it would “decentralize the concentration of the capital bookkeeping structure of the United States,” as an official of the First National Bank of Boston, a TAD proponent, put it, and virtually destroy the historical geographic advantage of brokers, banks and exchanges in New York.
+origginal emphasis
+
