@@ -59,3 +59,11 @@ this is backed up in teh 73 anual repontq:
 > Depository Trust was created pursuant to a Memorandum of Understanding between the NYSE and other members of BASIC to transform Central Certificate Service as a _depository for broker dealers_ into a _depository for all segments of the financial industry_, to be operated under user-based ownership. The objective of expanded ownership was to give financial institutions which were potential users of the depository representation in its management and control, thereby encouraging them to deposit security certificates which they held into the depository; this would facilitate securities transactions and effect significant efficiencies by immobilizing security certificates and permitting book-entry deliveries within a computerized system.
 uemphasisi odadodd
 potential users of the depository is really thie likn becaes after it was lockecd in they were CUT and LOCKED with teh 94 amendments which put uveveyon in teh same boat
+
+
+rest in tartoscnt
+
+---
+
+> [!SPECULATION]
+> We wolud intoredie BASIC with VOC and creation of credit risk
