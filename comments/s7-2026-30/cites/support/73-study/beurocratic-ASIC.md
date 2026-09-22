@@ -24,12 +24,30 @@ this is really imrptont for establishng tha power scheme inmplied _infra_ the no
 
 ## Poor Reccomnatins
 
-keeping transfer-agent and registrar functions seperate
+### keeping transfer-agent and registrar functions seperate
 
 this shows teh alignment form teh accoentonntns and banketrs that fifnirally benenefitted form teh gorucp
 
 ,,,'That's what the terse sentence in the February 1971 report means when it says separate registrar and transfer functions did not delay transfers enough that a “forced union is warranted.”
 1969 Rockwell Study had taken the opposite direction like an intelligent human
+
+BASIC wasn't even defending permanent institutional separation. Its underlying paper expressly contemplated one institution acting as both transfer agent and registrar, provided the registrar-like audit still occurred
+the CP notes that the American Stock Exchange did not require an independent registrar at the time
+Before 1971, NYSE rules required the registrar function to be performed independently of the transfer agent, whether the transfer agent was the issuer itself or an independent bank or trust company. The SEC later described that rule history explicitly.
+https://www.govinfo.gov/content/pkg/FR-1984-11-27/pdf/FR-1984-11-27.pdf whic is teh same CP ref as earleire & NYSE went the rest of the way in SR-NYSE-84-33
+
+NEW
+
+        Organization A
+       /              \
+Transfer function   Registrar function
+       \              /
+        internal controls
+        + independent audit
+
+
+this is fun becaces it gets into theverififatn of actual shaols outsatding usitnig the orverissunace rule
+ofc tehre is no such restinicton on the amoune of entiitliemnts dasitirtubetd by the Custoidal STricucitrue
 
 ## Single v. Multipl CCP Subentires
 
