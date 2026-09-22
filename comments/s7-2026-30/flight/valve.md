@@ -7,3 +7,5 @@ thier chief innivotaitn was the cenenetraieon sof interteam asset mananegenntp p
 
 i 
 doenth wanwnt to dive to omich intoe the ecns but i wulil need to give a rudimenutensay AM ejustififiatn and explaitaitn once i dir cite the letter that says TAs dont operate as nonpritons
+
+supro EDGAR at 41
