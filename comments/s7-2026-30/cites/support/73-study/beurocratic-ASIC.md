@@ -89,7 +89,7 @@ rest in tartoscnt
 docs: 
 
 1. **Arthur D. Little, *A Securities Handling System for the 1975 Era* (Nov. 1969)** — commissioned by the NYSE. The original report was reproduced in the House's 1971 *Study of the Securities Industry* hearings at **printed pp. 2560–2595**. Its proposal divides the system into **Broker, Banking, and Custodian and Co-Transfer modules**; BASIC's retrospective reproduces that description and cites hearing p. 2562. 
-   [House 1971 hearings, Part 5 — GovInfo (ADL report at pp. 2560–2595)](https://www.govinfo.gov/app/details/CHRG-92hhrg67228Op5/CHRG-92hhrg67228Op5)   ****************************************************************** CITE ••
+   [House 1971 hearings, Part 5 — GovInfo (ADL report at pp. 2560–2595)](https://www.govinfo.gov/app/details/CHRG-92hhrg67228Op5/CHRG-92hhrg67228Op5)   ************************************todo****************************** CITE ••
 
 2. **BASIC Task Force, *A Consideration of the Mechanics of Operation of Two Alternative Depository Systems* (Oct. 19, 1970)** — the **47-page** comparison of the modular system against one comprehensive depository. I still have **not found the standalone 47-page memorandum digitized online**. BASIC's own retrospective identifies its title, date and length and summarizes its conclusions at printed **p. 21**. 
    [BASIC — Interindustry Teamwork, discussion of the Oct. 19, 1970 memorandum](https://www.sechistorical.org/collection/papers/1980/1984_0401_BasicTeamwork_1.pdf)
