@@ -33,3 +33,44 @@ One odd PDF-specific difference: the 2004 file's embedded PDF **Title metadata i
 se its a thorwaway at bost
 
 [^boni-drafting-throwaway]: _See also_ darfting paper pubsihdd ther th eINeveisit of New Mexico as a worknig copy, AA https://www.buyins.com/news/FailsPaperNov2004.pdf
+
+
+## Shapiro follow-up on Boni — concentration of fails and DTCC response
+
+Robert J. Shapiro's March 2006 Sonecon report, *500 Million Shares of Stock Are Missing: A Report on the Impact of Allowing Stock Sales to Go Undelivered for Long Periods*, expressly builds on Boni's November 2004 work. Shapiro repeats Boni's estimate that on a typical day roughly **120–180 million listed shares** plus **300–420 million OTC/unlisted shares** had been sold but remained undelivered for at least three days, for an average of about **510 million shares**. He treats Boni as having established the breadth and persistence of FTDs, then asks a different question: **are those fails dispersed across thousands of issuers, or concentrated enough in particular issuers to matter for price formation?**
+
+Shapiro analyzes threshold lists for three randomly selected dates — **February 15, March 22, and April 26, 2005** — together with SEC FOIA aggregate-fail data, trading volume, and short-interest data. Aggregate fails on those dates were **548.0 million, 526.8 million, and 490.4 million shares**, respectively.
+
+His concentration estimates are striking but should be kept expressly qualified:
+
+* about **50–80 actively traded NYSE/Nasdaq threshold securities** could account for as much as **95% of listed-company fails**, averaging about **1.5–2.0 million fails per security**;
+* about **60–80 OTC threshold securities** could account for the great majority of OTC fails, averaging roughly **4.3–4.8 million fails per security**;
+* his model estimated that **10 or fewer listed threshold securities might account for roughly two-thirds of listed fails**, and **20 or fewer for about three-quarters**;
+* he estimated perhaps **15–33 listed companies** and **27–45 OTC companies** could each have more than **one million failed shares** on a given day;
+* among the 30 listed threshold stocks with the highest estimated fails on February 15, **12 (40%)** were still threshold securities on both March 22 and April 26.
+
+The major caveat is important for drafting: **Shapiro did not have issuer-by-issuer DTCC fail data and did not independently observe the cause of each fail.** His individual-company figures were modeled from aggregate SEC fail totals, trading volume, and short interest. Shapiro himself says the exact relationship cannot be established with certainty without more detailed security-level data and calls the quantitative estimates tentative. So this is much safer as evidence of **possible concentration and persistence of FTDs** than as proof that every failed share was a naked short.
+
+### DTCC's contemporaneous response
+
+A HedgeWorld article published March 16, 2006 reports that DTCC prepared a response on **March 15, 2006** identifying what it considered flaws in Shapiro's report. The surviving copy is a repost of the contemporary article, not a DTCC-primary-source webpage.
+
+DTCC's principal responses were:
+
+* **FTD is not synonymous with naked short.** DTCC said fails can arise from causes other than short selling, including customer-delivery and operational problems.
+* **Buy-in authority:** DTCC rejected Shapiro's claim that it could simply cure extended fails by buying shares in and charging the failing broker, saying the SEC had repeatedly stated that DTCC did not possess the regulatory authority Shapiro attributed to it.
+* **Regulation SHO:** DTCC said SHO had reduced outstanding fails, citing about a **10% reduction in aggregate fails** and a **32% reduction in fails involving threshold-list companies** during the first three months.
+* **Causal data:** DTCC stated: **"While we have data on the volume of fails, we have no information on the underlying causes of those fails."** That distinction is useful: DTCC acknowledged security-level fail-volume information while disputing that those data alone identify whether a fail arose from a naked short, long sale, operational delay, or another cause.
+* **Transparency:** DTCC also argued that fail data could be used for market manipulation and therefore defended limits on disclosure.
+* **Shapiro's role:** DTCC pointed out that Shapiro was a paid consultant to law firms pursuing claims involving DTCC. That is relevant background but does not itself answer the empirical concentration analysis.
+
+This makes the Shapiro/DTCC exchange useful as a direct extension of the Boni notes: **Boni documents persistent delivery failures; Shapiro tries to estimate whether they are concentrated; DTCC challenges both the naked-short causal inference and Shapiro's proposed remedy, while acknowledging that it has fail-volume data but not the underlying cause of each fail.**
+
+### Sources
+
+* Shapiro, *500 Million Shares of Stock Are Missing* (Sonecon, Mar. 2006):  
+  https://nakedtruth.info/wp-content/uploads/2021/09/500-Million-Shares-of-Stock-Are-Missing-Robert-Shapiro-March-2006.pdf
+* Contemporary HedgeWorld report reproducing DTCC's March 15, 2006 response:  
+  https://investorshub.advfn.com/boards/read_msg.aspx?message_id=28318142
+* Shapiro's later Sept. 14, 2006 Regulation SHO comment, File No. S7-12-06 (SEC-hosted):  
+  https://www.sec.gov/comments/s7-12-06/rjshapiro5967.pdf
