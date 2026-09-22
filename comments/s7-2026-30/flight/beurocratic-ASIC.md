@@ -28,6 +28,9 @@ keeping transfer-agent and registrar functions seperate
 
 this shows teh alignment form teh accoentonntns and banketrs that fifnirally benenefitted form teh gorucp
 
+,,,'That's what the terse sentence in the February 1971 report means when it says separate registrar and transfer functions did not delay transfers enough that a “forced union is warranted.”
+1969 Rockwell Study had taken the opposite direction like an intelligent human
+
 ## Single v. Multipl CCP Subentires
 
 SINGLE-DEPOSITORY MODEL
