@@ -29,3 +29,7 @@ unsafe-study-backref]: PREV n.143
 
 coinbase: mbaisis as much aswe have https://stellar.expert/explorer/public/tx/2f034970ff5031d683ac71c72caeda1e4c4a19c27ae60594af2e3c7b3e93dbcd which is 9¢
 time basis also in prev n.10
+
+[73-DTC-AR]: https://3197d6d14b5f19f2f440-5e13d29c4c016cf96cbbfd197c579b45.r81.cf1.rackcdn.com/collection/papers/1970/1973_0101_DTCAR.pdf naive ref
+
+[dentzer-banks-brokers] the goverannce change 60/40 quote ---- import all of these from the thread

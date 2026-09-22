@@ -156,3 +156,7 @@ Very truly yours,
 
 **WILLIAM E. JACKSON.**
 
+
+this guy is reall yimortonat. he was the defense on Gordon v. New York Stock Exchange, Inc., 422 U.S. 659 (1975) — An investor attacked the NYSE's system of fixed brokerage commission rates as price fixing prohibited by the Sherman Act. The Supreme Court held that this particular exchange practice had implied immunity from the antitrust laws because Congress had expressly placed exchange commission rates under SEC supervision in § 19(b) of the Exchange Act, and the SEC had actively exercised that authority. Applying ordinary antitrust law simultaneously would conflict with the securities regulatory scheme.
+
+Jackson had a very real Rockefeller/Chase connection. In Matter of Rockefeller he appeared for Chase Manhattan Bank as successor trustee of a trust created by John D. Rockefeller, and later he represented Nelson Rockefeller personally during the 1974 vice-presidential confirmation.
