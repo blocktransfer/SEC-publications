@@ -34,4 +34,4 @@ time basis also in prev n.10
 
 [dentzer-banks-brokers] the goverannce change 60/40 quote ---- import all of these from the thread
 
-[2010-proxy-concept-release]: SEC, *Concept Release on the U.S. Proxy System*, Exchange Act Release No. 34-62495, 75 FR 42982 (July 22, 2010), https://www.sec.gov/files/litigation/litreleases/2010/34-62495.pdf
+[2010-proxy-concept-release]: Concept Release on the U.S. Proxy System—— 75 FR 42982 
