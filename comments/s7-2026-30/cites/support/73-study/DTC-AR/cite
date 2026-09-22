@@ -1,1 +1,50 @@
 https://3197d6d14b5f19f2f440-5e13d29c4c016cf96cbbfd197c579b45.r81.cf1.rackcdn.com/collection/papers/1970/1973_0101_DTCAR.pdf is in the FNs but we need an sec-historical ref
+
+and then i want the fed ref
+
+I chased the **actual March 22, 1973 DTC application**, not just references to it. I **have not found a publicly indexed scan of the application itself**, but I found something nearly as useful for retrieving it: the Federal Reserve has already processed a FOIA request for precisely that document.
+
+The Fed's FOIA log identifies **F-2016-00003**, received October 2, 2015, from Carmen Debord of Westlaw Court Express. The request was for:
+
+1. DTC's application for membership in the Federal Reserve System, believed filed in 1973; and
+2. the Federal Reserve's approval of that application.
+
+The disposition is **“Partial Grant.”** ([Government Attic][1])
+
+That is important, although the log by itself doesn't tell us whether the partial grant consisted of the application, the approval letter, or redacted portions of both.
+
+Separately, the contemporary BASIC history pins the underlying records down very precisely:
+
+> DTC applied to the **Federal Reserve Bank of New York on March 22, 1973**, and the New York Fed granted membership **by letter dated April 23, 1973**, subject to completion of formalities. ([SEC Historical Society][2])
+
+Then the Fed's official status report records DTC's actual admission as a noninsured member on **June 27, 1973**. ([FRASER][3]) FRASER also has the contemporary New York Fed circular indexed as **“New Member Bank: The Depository Trust Company, New York, N.Y.”** ([FRASER][4])
+
+So the documentary chain is now:
+
+**March 22, 1973** — DTC → FRBNY membership application
+**April 23, 1973** — FRBNY → DTC conditional approval letter
+**June 27, 1973** — membership becomes effective
+**October 2, 2015** — Fed receives FOIA **F-2016-00003** seeking those original 1973 materials
+**Disposition:** **Partial Grant**
+
+### Best way to get the actual pages
+
+Because the Fed has **already reviewed this specific historical record for release**, I would not submit a broad historical request. I would ask for:
+
+> **All records previously released in FOIA case F-2016-00003, including all releasable portions of The Depository Trust Company's March 22, 1973 application for membership in the Federal Reserve System and the April 23, 1973 Federal Reserve Bank of New York letter approving that application, including attachments, exhibits, conditions, and correspondence included in the prior release.**
+
+That wording matters because the Fed says requests for records that have **already been cleared for public release** can qualify for its faster processing track. ([Federal Reserve][5])
+
+[Federal Reserve FOIA portal](https://foia.federalreserve.gov/app/Home.aspx?utm_source=chatgpt.com)
+
+The most interesting correction from this search is that the 2015 requester called the second item a **“Board of Governors … order,”** whereas BASIC says the operative April 23 document was a **letter from the Federal Reserve Bank of New York**. So when requesting the old packet, I would explicitly name **both descriptions** so the Fed doesn't limit the search to a nonexistent formal Board order.
+
+I also found **no copy of the F-2016-00003 released packet on GovernmentAttic, FRASER, the Fed's indexed reading room, DocumentCloud, MuckRock, or the general indexed web**. The FOIA log is currently the strongest lead to the actual application. ([Government Attic][1])
+
+And this is a particularly promising one: you're not asking the Fed to discover a 53-year-old document from scratch—we now have the **prior FOIA case number showing somebody already made them retrieve/review it**.
+
+[1]: https://www.governmentattic.org/48docs/FRBfoiaLogs_2010-2016.pdf?utm_source=chatgpt.com "Federal Reserve Board (FRB) Freedom of Information Act (FOIA) Case Logs 2010-2016"
+[2]: https://www.sechistorical.org/collection/papers/1980/1984_0401_BasicTeamwork_1.pdf?utm_source=chatgpt.com "BASIC~ ~nterindustry Teamwork"
+[3]: https://fraser.stlouisfed.org/files/docs/releases/g45/l45_19730601.pdf?utm_source=chatgpt.com "G.4.5"
+[4]: https://fraser.stlouisfed.org/title/federal-reserve-bank-new-york-circulars-466?browse=1970s&utm_source=chatgpt.com "Federal Reserve Bank of New York Circulars | 1970s | Title | FRASER | St. Louis Fed"
+[5]: https://www.federalreserve.gov/foia/request.htm?utm_source=chatgpt.com "Federal Reserve Board - Making a Request"
