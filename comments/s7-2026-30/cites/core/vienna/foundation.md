@@ -44,3 +44,6 @@ https://www.clearstream.com/clearstream-en/newsroom/200429-1969172
 ## France and the rest of Europe
 
 France eventually developed SICOVAM, established in 1949, which became the French central securities depository and ultimately Euroclear France.
+
+these got relled into ~~theri CBDC~~ a common settlement engine cominining securities + central-bank cash
+        https://www.ecb.europa.eu/paym/target/t2s/html/index.da.html
