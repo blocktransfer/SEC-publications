@@ -1,3 +1,5 @@
+## Austria
+
 the familailar orgigins are ofrm Wiener Giro- und Cassen-Verein, founded in 1872
 
 ank-owned central securities depository plus cash/securities clearing instituti
@@ -13,6 +15,8 @@ not dir src
 → the core concept of securities giro settlement
 
 this is how you get inetremediottes d refpreestitons of stockt  wihc hare as good as real stock, despite being a credit sysstem
+
+this went downto OeKB CSD
 
 ## and hence Berliner Kassenverein
 
@@ -38,3 +42,5 @@ https://www.clearstream.com/clearstream-en/newsroom/200429-1969172
 
 
 ## France and the rest of Europe
+
+France eventually developed SICOVAM, established in 1949, which became the French central securities depository and ultimately Euroclear France.
