@@ -5,7 +5,7 @@ this is ferm the 72 ref intuerlude. we can set it up with teh INLINE quteo aboet
 
 # me
 
-## donation letter Q&A
+## donation letter Q&A (main cite)
 
 In footnote 47, you say the legacy system will need time to “fully transition away from custodial holdings of retirement portfolios or complex trusts under ERISA.”
 
