@@ -41,3 +41,9 @@ Clean Federal Register link: https://www.govinfo.gov/content/pkg/FR-1977-01-21/p
 ---
 
 we can start the intr with th ebuffet queti dir src 81 lettre at startd of streent-name miriogn (setup the BASCI compare only doc to  Congress) and how he had th especigic prebolm of unrlaible voter identifificatn whirck still eisistl today
+
+
+## SEC Bacrefs
+
+in https://www.sec.gov/rules-regulations/2003/02/custody-investment-company-assets-securities-depository they put in '''prior Article 8 assumed that issuers would record investors' interests on their own books, whereas the modern investor typically holds through an intermediary whose aggregate position is held through a depository
+this can get heated fast, so it's risky
