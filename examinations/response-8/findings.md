@@ -1,3 +1,6 @@
+> [!NOTE]
+> All examination direct-request material should be migrated to the organization docs repository or marked `[rjdctd]` in the Markdown page frontmatter.
+
 # Findings
 
 
