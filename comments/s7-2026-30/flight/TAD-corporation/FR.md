@@ -174,7 +174,7 @@ then prorpsed that NSCC opens TAD Acconuts "for them at TAD"
 
 ## June 23, 1980 — 45 FR 41920
 
-SEC clearing-agency registration standards. TAD is expressly listed among the temporarily registered clearing agencies even though its operations had already ceased. The release also reconstructs the registration-extension history. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1980-06-23/pdf/FR-1980-06-23.pdf#page=28))
+SEC clearing-agency registration standards. TAD is expressly listed among the temporarily registered clearing agencies even though its operations had already ceased. The release also reconstructs the registration-extension history. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1980-06-23/pdf/FR-1980-06-23.pdf#page=34))
 
 ## March 29, 1982 — 47 FR 13262
 
