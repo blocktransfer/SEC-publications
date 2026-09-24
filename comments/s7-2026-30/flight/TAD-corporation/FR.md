@@ -17,7 +17,7 @@ hich waldu bo word moer investigaitn
 
 ## December 2, 1975 — 40 FR 55910
 
-TAD's clearing-agency registration proceeding. This is the key source for its **temporary registration effective Dec. 1, 1975**, initially for 18 months. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1975-12-02/pdf/FR-1975-12-02.pdf))
+TAD's clearing-agency registration proceeding. This is the key source for its **temporary registration effective Dec. 1, 1975**, initially for 18 months. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1975-12-02/pdf/FR-1975-12-02.pdf#page=88))
 
 ## March 22, 1976 — 41 FR 11904
 
@@ -174,7 +174,7 @@ then prorpsed that NSCC opens TAD Acconuts "for them at TAD"
 
 ## June 23, 1980 — 45 FR 41920
 
-SEC clearing-agency registration standards. TAD is expressly listed among the temporarily registered clearing agencies even though its operations had already ceased. The release also reconstructs the registration-extension history. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1980-06-23/pdf/FR-1980-06-23.pdf))
+SEC clearing-agency registration standards. TAD is expressly listed among the temporarily registered clearing agencies even though its operations had already ceased. The release also reconstructs the registration-extension history. ([GovInfo](https://www.govinfo.gov/content/pkg/FR-1980-06-23/pdf/FR-1980-06-23.pdf#page=28))
 
 ## March 29, 1982 — 47 FR 13262
 
