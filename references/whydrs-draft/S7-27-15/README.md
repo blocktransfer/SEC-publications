@@ -158,7 +158,7 @@ Cede & Co. v. Technicolor...
 https://www.sechistorical.org/collection/papers/1970/1976_0101_DTCAR.pdf
 https://www.finra.org/rules-guidance/notices/93-77#:~:text= PLEDGE
 https://www.finra.org/rules-guidance/notices/93-77#:~:text= DREXEL
-https://archives.federalregister.gov/issue_slice/1993/10/13/52889-52917.pdf#page=4
+https://www.govinfo.gov/content/pkg/FR-1993-10-13/pdf/FR-1993-10-13.pdf
 https://www.alri.ualberta.ca/wp-content/uploads/1993/06/fr067.pdf#page=4
 
 _infra_ note _infra_ note 
