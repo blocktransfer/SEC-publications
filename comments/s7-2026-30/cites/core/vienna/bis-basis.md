@@ -35,35 +35,4 @@ https://www.sec.gov/Archives/edgar/data/5272/000095012308016800/y72879exv10w1.ht
 Internet Archive item:
 
 https://archive.org/details/ec-clearing-questionnaire
-
-Internet Archive file directory:
-
-https://archive.org/download/ec-clearing-questionnaire
-
-Direct archived PDF:
-
-https://archive.org/download/ec-clearing-questionnaire/EuCommission2005a.pdf
-
-## Internet Archive integrity / metadata semantics
-
-Internet Archive metadata/hash documentation:
-
-https://doc-tools.readthedocs.io/en/ia-test-gsod/md-read.html
-
-Internet Archive command-line documentation describing uploaded/original files:
-
-https://internetarchive.readthedocs.io/en/stable/cli.html
-
-## Secondary corroboration / reproductions
-
-Heartland Institute discussion citing the same FRBNY questionnaire response:
-
-https://heartland.org/publications/protecting-private-property-through-the-uniform-commercial-code/
-
-Secondary PDF reproduction used while cross-checking the cover letter and addressee details:
-
-https://www.oval.media/wp-content/uploads/2026/01/The_Great_Taking.pdf
-
-## Provenance note
-
-The official Commission materials strongly corroborate the questionnaire, Legal Certainty Group, Martin Thomas addressee, Commission unit, and timing. The SEC-hosted FRBNY agreement independently corroborates Joyce M. Hansen's FRBNY title and contact information. The Internet Archive item is a later upload, so its presence establishes preservation of the uploaded bytes but does not by itself prove that the archived PDF is byte-identical to the file originally served by the Commission.
+PREV n.
