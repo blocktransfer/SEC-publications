@@ -11,11 +11,7 @@ Starts with the CP questions about 2006-6.
 
 Gets into Monmouth a lot later.
 
-## Clearing corporations compete with transfer agents
-
-Goes into the Monmouth case quick - maybe immediately. [[h3]]
-
-Ends (in a different subsection) with 2006-16.
+## Clearing Corporations x--struciturally compete but one word----y Transfer Agents
 
 
 
