@@ -111,11 +111,6 @@ Implicates the 400k monthly chat from May 2024 (most likely on the 28th without 
 "Specifically, this has delayed processing of some transactions, including direct deposits and Early Pay credit for direct deposits, as well as **electronic payments and transfers (ACH).**" [emphasis added]
 
 
-
-
-
-
-
 # OCC srcs not cited
 
 ## same as the fed tri-partry thing but  specific stories
@@ -126,17 +121,13 @@ https://www.finra.org/rules-guidance/notices/93-77#:~:text= DREXEL
 https://archives.federalregister.gov/issue_slice/1993/10/13/52889-52917.pdf#page=4
 https://www.alri.ualberta.ca/wp-content/uploads/1993/06/fr067.pdf#page=4
 
-_infra_ note _infra_ note 
-
 ## secrative rule  change  fuile  Nos.
 https://www.reddit.com/r/Superstonk/comments/13vtgc1/comment_to_the_sec_against_heavily_redacted/
 
 ### public  infput
 https://www.sec.gov/files/rules/sro/occ/2021/34-91079.pdf (no ccomments  on terse technical)
 
-
 https://www.sec.gov/comments/sr-occ-2021-003/srocc2021003.htm (v.  indfustriy  inside knowledtge0)
-
 
 ## naked hsorting thinggs,  cuklminating  in approval  of no cert pulls
 https://www.sec.gov/rule-release/34-42037 as  64 FR 57996
