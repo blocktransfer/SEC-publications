@@ -48,4 +48,13 @@ Thirty, the T+3 Direct Registration Subcommittee, co-chaired by
 -[10]-    Providing Alternatives to Certificates For the Retail
           Investor, U.S. Working Committee, Group of Thirty,
           Clearance and Settlement Project (August 1991).
- 
+
+## SR-DTC-99-16 — Profile Modification System
+
+64 FR 51162 (Sept. 21, 1999), Exchange Act Release No. 34-41862, File No. SR-DTC-99-16:
+
+https://www.govinfo.gov/content/pkg/FR-1999-09-21/pdf/99-24495.pdf
+
+The approval order states that the Commission received 22 comments and identifies the commenters in footnote 4. The SEC's current DTC rulemaking index does not surface SR-DTC-99-16 or a surviving “View Received Comments” page:
+
+https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking/dtc?file_number=&month=All&order=field_publish_date&page=0&release_number=&sort=asc&title=&year=All
