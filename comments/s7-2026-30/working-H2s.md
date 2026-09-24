@@ -13,6 +13,9 @@ Gets into Monmouth a lot later.
 
 ## Clearing corporations compete with transfer agents
 
+> “attempting to make SRO eligibility rules and compliance rules, not for its own members, but for transfer agent non-members, which are direct competitors of DTC.”
+> — Continental Stock Transfer & Trust Co., SR-DTC-2006-16 comment (July 10, 2008), at 1, https://www.sec.gov/comments/sr-dtc-2006-16/dtc200616-42.pdf#page=1
+
 Goes into the Monmouth case quick - maybe immediately.
 
 Ends (possibly in a different subsection) with 2006-6.
