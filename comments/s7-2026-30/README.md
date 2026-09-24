@@ -5,7 +5,7 @@ signers: John Wooten
 ---
 
 ```
-Submission: z-email link to shot
+Submission: z-email link to shot --- send at 5:59 PM ET
 Extends: https://www.sec.gov/comments/sr-occ-2025-801/srocc2025801-598095-1737722.pdf
 Status: Draft
   live: 3 Nov 2026
