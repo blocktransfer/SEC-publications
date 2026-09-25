@@ -34,6 +34,9 @@ see readme
 
 All you need is to establish that NYSE started DTC
 
+the rest are j
+ust weak_er_,
+likxe Tulsa
 
 
 # A Monopoly Cannot Regulate its Competition
