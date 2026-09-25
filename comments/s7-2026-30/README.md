@@ -41,7 +41,8 @@ atm i dont think this needs any surrouding substantiation or intro
 oooo_TOHe Transfer of Stock_ begins wit a [dedicotin] stating, "todo qjute on unknteown?underapprectaied."fn[^1] Transefro agents ("Agent(s)" or just "TA(s)") form th emarket's difinitve sorce of truth. They are the final record of sebstance in corprotae prceedings,[^2] proprty rightns,[^3] and shaderdel goverenec.[^4]
 
 
-
+i hav ereall ygood 'substance of cesotedy bmoedl' gonig into 501 with teh baiss in https://wooten.link/friends/2 (collective src is riskier tahn teh desc href,
+buuut thi url is stabel)
 
 
 ## Expansion of OPertanig Renosntanbelites
