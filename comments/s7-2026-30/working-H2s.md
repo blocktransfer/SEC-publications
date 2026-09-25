@@ -7,6 +7,8 @@ I am in between these two options for how to frame out the differential power dy
 
 # A Monopoly Cannot Regulate its Competition
 
+[Yale woled need to be before tihs in th e§§1-2 setup]
+
 Starts with the CP questions about 2006-16.
 
 breadily. the actualy infra contintneal letter makes teh better superivining regulatur (which has basisi in 75) argument
