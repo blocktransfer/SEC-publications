@@ -7,15 +7,12 @@ I am in between these two options for how to frame out the differential power dy
 
 # Clearing corporations do not regulate transfer agents
 
-Starts with the CP questions about 2006-6.
+Starts with the CP questions about 2006-16.
 
-Gets into Monmouth a lot later.
+breadily. the actualy infra contintneal letter makes teh better superivining regulatur (which has basisi in 75) argument
 
-## Clearing corporations compete with transfer agents
 
-Goes into the Monmouth case quick - maybe immediately.
-
-Ends (possibly in a different subsection) with 2006-6.
+## Clearing Corporations x--struciturally compete but one word----y Transfer Agents
 
 
 

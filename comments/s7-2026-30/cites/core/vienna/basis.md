@@ -18,3 +18,13 @@ You say you use those systems as “light inspirations,” while envisioning an 
 ## Response #8
 
 makes essentially the same argument without naming Spain or India. On PDF p. 51, you write that “other countries have proper debt-based direct ownership models” that keep reconciliation in the names of actual investors. And on p. 60, you criticize custodial banks/intermediated clearing and describe an “immediately-possible direct-holding market structure.”
+
+
+# annoencement vid
+
+as i iniderstad it this was the first time there was a live online reccedeng re/veelanig th eir schemem
+
+(not to cite but it was teh written prededeccssors and then the STA conferernce prosesenion)
+
+within tihe first 15 seconds of my recoding, the CEO girlie (ref'd by intheretitince to the no-action letter)
+++ Brian STeele appears with good qutens at 1:05:29

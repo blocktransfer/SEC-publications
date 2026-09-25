@@ -111,57 +111,15 @@ Implicates the 400k monthly chat from May 2024 (most likely on the 28th without 
 "Specifically, this has delayed processing of some transactions, including direct deposits and Early Pay credit for direct deposits, as well as **electronic payments and transfers (ACH).**" [emphasis added]
 
 
-
-
-
-
-### File No. SR-DTC-2006-16[^r]
-https://www.sec.gov/newsroom/speeches-statements/modernize-sec-transfer-agent-rules note 3
-
-as {{^note-DTC-2006}}
-
-https://www.sec.gov/comments/sr-dtc-2006-16/dtc200616-42.pdf
-
-"The DTC ... [is] attempting to make... rules... for transfer agent non-members... [who] are direct competitors of DTC."
-https://www.reddit.com/r/Superstonk/comments/pw0opj/computershare_is_a_competitor_to_the_dtc_comment/ (likely won't be cited but interesting to note).
-
-Modern context at 13 in File No. SR-DTC-2020-017.
-
-[^r]: _See also_ and an alteration on retail individual support for rescission in comment https://www.sec.gov/comments/s7-05-22/s70522-20120580-272764.pdf#page=8, which states, "The restriction that transfer agents may not effect the transfer of a security outside of the DTCC system is a legalization of a monopoly."
-
-^ n.18 at 8 and surrounding text makes the repeal claim in communal form back in '22
-
-
-#### other epsonses to this file no . i think
-
--- industry r epso0nses  
-https://www.sec.gov/files/rules/sro/dtc200302/mcashion030603.txt
-https://www.sec.gov/files/rules/sro/dtc200302/srdtc200302-83.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/bnyclearing032503.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/1stclearing031803.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/srdtc200302-82.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/srdtc200302-79.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/mizuhotrust040703.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/charlesschwab041403.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/kthompson040403.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/prudential040303.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/rbcdain042303.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/bancamer031803.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/srdtc200302-81.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/srdtc200302-78.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/edwardjones041503.pdf
-
 # OCC srcs not cited
 
 ## same as the fed tri-partry thing but  specific stories
-Cede & Co. v. Technicolor...
+Cede & Co. v. Technicolor... supports intro seg'm
 https://www.sechistorical.org/collection/papers/1970/1976_0101_DTCAR.pdf
 https://www.finra.org/rules-guidance/notices/93-77#:~:text= PLEDGE
 https://www.finra.org/rules-guidance/notices/93-77#:~:text= DREXEL
 https://archives.federalregister.gov/issue_slice/1993/10/13/52889-52917.pdf#page=4
 https://www.alri.ualberta.ca/wp-content/uploads/1993/06/fr067.pdf#page=4
-
-_infra_ note _infra_ note 
 
 ## secrative rule  change  fuile  Nos.
 https://www.reddit.com/r/Superstonk/comments/13vtgc1/comment_to_the_sec_against_heavily_redacted/
@@ -169,9 +127,7 @@ https://www.reddit.com/r/Superstonk/comments/13vtgc1/comment_to_the_sec_against_
 ### public  infput
 https://www.sec.gov/files/rules/sro/occ/2021/34-91079.pdf (no ccomments  on terse technical)
 
-
 https://www.sec.gov/comments/sr-occ-2021-003/srocc2021003.htm (v.  indfustriy  inside knowledtge0)
-
 
 ## naked hsorting thinggs,  cuklminating  in approval  of no cert pulls
 https://www.sec.gov/rule-release/34-42037 as  64 FR 57996

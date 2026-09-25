@@ -6,4 +6,4 @@ this is now cahnginvg with an ser reff to the 611 changes and icnocptan of the p
 
 ]]
 at 3 --
-https://archives.federalregister.gov/issue_slice/1972/3/14/5284-5293.pdf
+https://www.govinfo.gov/content/pkg/FR-1972-03-14/pdf/FR-1972-03-14.pdf#page=14
