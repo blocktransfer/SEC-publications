@@ -30,6 +30,11 @@ see readme
 
 
 
+### [H-tbd] for the Polcitical G30 points [WITHIN § 1]
+
+All you need is to establish that NYSE started DTC
+
+
 
 # A Monopoly Cannot Regulate its Competition
 
