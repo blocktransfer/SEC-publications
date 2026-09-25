@@ -4,4 +4,4 @@ in re mononmply regirlons, NASD/Nasdaq is unusually useful because the SEC itsel
 
 this could sepur infras for the Instinet ponits into 3643, buti  dont thingk it's stircktil yneccesoeyr 
 
-https://www.sec.gov/rules-regulations/2004/11/concept-release-concerning-self-regulation wich is ofc whydcrs issue 15
+https://www.sec.gov/rules-regulations/2004/11/concept-release-concerning-self-regulation wich is ofc https://github.com/WhyDRS/SEC-comments/issues/15
