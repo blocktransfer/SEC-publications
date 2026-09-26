@@ -5,6 +5,8 @@ This is a very important core argument.
 
 Senate.md
 
+the tripclicetate statets it as an exprlilict requtuement in 59 FR 63659:
+> The Commission is adding a requirement, corresponding to the modification to proposed Rule 17Ad-16(a), that the FINS number of the transfer agent be included in the notice. As discussed above, this requirement will act as a confirmation of identity without adding substantially to the burden of the transfer agent. The Commission also is modifying proposed Rule 17Ad-16(b), corresponding to the modification to proposed Rule 17Ad-16(a), to eliminate the option that the notice be sent to all qualified registered securities depositories.
 
 # CUSIPs
 
