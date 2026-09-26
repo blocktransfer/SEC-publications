@@ -32,7 +32,7 @@ atm i dont think this needs any surrouding substantiation or intro
 | -------- | ------ | ----- |
 | start | 23 FR 3444–3999 | https://archives.federalregister.gov/issue_slice/1994/12/8/63407-63667.pdf#page=246 |
 | in order... | | |
-| 3 TA entirues [summayr] | 59 FR 63652–63667 | 
+| Concept, Prorpesde, and Final DRS Regulation | 59 FR 63652–63667 | 
 | Concept Release on Transfer Agent Regulations | 80 FR 81948–82004 | https://www.govinfo.gov/content/pkg/FR-2015-12-31/pdf/2015-32755.pdf |
 | Prorpsed Transefr Agent Rules (the "PR") | | https://www.govinfo.gov/content/pkg/FR-2026-09-04/pdf/2026-18190.pdf |
 

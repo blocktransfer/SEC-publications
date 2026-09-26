@@ -12,3 +12,23 @@
 this has basisis in DC's [^nqg], and I posit doing it as the only coendown ask dedline //statement
 
 [whydrs-agent-outreach]: citatiton for reaching out et the otehr aguents. backref FREV n.1 and then use a raw discord likn (those are OK form). need to have done th edececnteralized DUNA gov FIRST
+
+[1994-stacks-1]:
+
+[1994-stacks-2]:
+
+[1994-stacks-3]:
+
+[1994-stacks-4]:
+
+[1994-stacks-5]:
+
+[1994-stacks-6]:
+
+[1994-stacks-7]:
+
+[1994-stacks-8]:
+
+[1994-stacks-9]:
+
+[1994-stacks-10]:
