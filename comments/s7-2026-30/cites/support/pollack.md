@@ -10,7 +10,7 @@ which is google books at 270
 
 
  at 273 Reccomandatn s ¶ 3:
- > 3. A borrowing requirement for delivery in broker - dealer pro- prietary transactions should be adopted.
+ > 3. A borrowing requirement for delivery in broker-dealer proprietary transactions should be adopted.
 
 at 275 ( which is the 6th page of the repot -- which is 86 pages):
 > While the CNS system, by settling net with brokers on a continuous basis, has substantially increased the efficiency of the clearing process, the unlimited mark-to-the-market procedures also permit brokers to postpone delivery indefinitely, unless the purchasing broker initiates buy-in procedures. In the case of long sales of securities, there is a strong incentive to deliver, in that the customer is seeking payment and use of the funds and, under normal circumstances, there is no additional cost associated with prompt delivery. Similarly, when stock is available, stock loan rebates provide an incentive for delivery and settlement in short-sale transactions. However, when extensive short selling occurs, stock is not readily available and sometimes cannot be borrowed at all. In these cases, the incentive to deliver securities is substantially less, and there may be an incentive to avoid or postpone delivery. The seller must incur a borrowing cost if the securities are available. The purchasing broker, who is holding customer funds in the form of a fail to receive, has no strong incentive to demand delivery. Moreover, with the securities balance owed to the receiving broker by the clearing corporation counted as the equivalent of a fail to receive less than 30 days old, SEC Rule 15c3-3 — the customer protection rule — does not require a buy-in after 30 days.
@@ -37,12 +37,12 @@ same ?? were
 2005 onward: Reg SHO Rule 203(b)(1) requires locates for customer and proprietary short sales generally, subject to specified exceptions.
 
 techinally over 14% of revwiewd B/Ds had "financial problems due to short-sale activities."
-> Only one of the seven broker - dealers reviewed showed evidence of any financial problems due to short-sale activities.
+> Only one of the seven broker-dealers reviewed showed evidence of any financial problems due to short-sale activities.
 ¶ 6
 
 17 calls short sales a position "with indefinite maturity"
 
-"the SEC was re- quired to review all rules and regulations of exchanges for the purpose of elim- inating anti - competitive rules and regulations that were found not necessary " at 22 (291)
+"the SEC was required to review all rules and regulations of exchanges for the purpose of eliminating anti-competitive rules and regulations that were found not necessary " at 22 (291)
 
 iso im at 23 (292) and i'm gonna cut it bc theres not much els ehere relaetd to the TARs. a full contemplatn reall yrejiresu goung thegh the 1951 20th Century bok. borrowing is at 56
 
