@@ -39,4 +39,4 @@ this has basisis in DC's [^nqg], and I posit doing it as the only coendown ask d
 
 [stallman-pay-ratio-disclosure]: Richard Stallman, comment on Pay Ratio Disclosure, File No. S7-07-13, _available at_ https://www.sec.gov/comments/s7-07-13/s70713-1402.pdf
 
-[stallman-electronic-delivery]: Richard Stallman, comment on Electronic Delivery of Information Under the Federal Securities Laws, File No. S7-2026-25 (Sept. 23, 2026), _available at_ https://www.sec.gov/rules-regulations/public-comments/s7-2026-25?field_commenter_value=Richard%20Stallman
+[stallman-electronic-delivery]: Richard Stallman, comment on Electronic Delivery of Information Under the Federal Securities Laws, File No. S7-2026-25 (Sept. 23, 2026), _available at_ https://www.sec.gov/comments/S7-2026-25/s7202625-3706986.htm
