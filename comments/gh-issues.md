@@ -7,7 +7,7 @@ on priority:
 
 ## Personal
 
-not tranched
+https://github.com/JFWooten4/JFWooten4/issues/11
 
 ## WhyDRS
 
