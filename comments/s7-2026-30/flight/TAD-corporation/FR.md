@@ -91,6 +91,8 @@ https://www.govinfo.gov/content/pkg/FR-1977-05-18/pdf/FR-1977-05-18.pdf
 
 > The SEC's first condition also mandates the establishment of appropriate links with Boston Stock Exchange Clearing Corporation and TAD Depository Corporation. NSCC has met with both, developed an approach, and will shortly be providing a proposed method of "linking" to each organization for their review.
 
+LINKING --- CORE CONCEPT TODO fn improtnat ---- came up in the 2004 precoernsoor-to-NMS CP at 69 FR 12922 AA TODO_LINK
+
 ## TAD DTC Partcicpant - May 27, 1977 — 42 FR 27361
 
 Proposed a direct **TAD–DTC interface account**, permitting book-entry transfers between participants of the two depositories.
