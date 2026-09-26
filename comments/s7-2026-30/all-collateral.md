@@ -1,4 +1,4 @@
-numbering has a good 99% basisi foor teh eqiutites, whihc cross-refs into 
+numbering has a good 99% basisi foor teh eqiutites
 
 then the re is the expansts into all debt and praticcicilay the munis, which hasv eth estattureoy bank lenoding particicant corarvoeut (worth explaninig becaects you cos cite teh dodd frakn secitonniing which sets up reg cf and a loter)
 
