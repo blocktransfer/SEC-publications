@@ -1,4 +1,5 @@
 [DTC-73-AR]: https://www.sechistorical.org/collection/papers/1970/1973_0101_DTCAR.pdf
+[DTC-76-AR]: https://www.sechistorical.org/collection/papers/1970/1976_0101_DTCAR.pdf
 [DTC-89-AR]: https://www.sechistorical.org/collection/papers/1980/1989_0101_DTCAR.pdf
 [DTC-90-AR]: https://www.sechistorical.org/collection/papers/1990/1990_0101_DTCAR.pdf
 [DTC-92-AR]: https://www.sechistorical.org/collection/papers/1990/1992_0101_DTCAR.pdf
