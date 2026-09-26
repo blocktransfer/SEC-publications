@@ -11,10 +11,10 @@ The strongest examples are:
 
 So **the Division was plainly actively producing TA regulatory work in 1997–99 while AG24/S7-35-94 remained listed at Final Rule Stage**.
 
-[1]: https://www.sec.gov/files/about/annual_report/1997.pdf?utm_source=chatgpt.com "Annual Report 1997"
-[2]: https://www.sec.gov/newsroom/speeches-statements/ts162000-testimony-reuniting-securityholders-their-investments?utm_source=chatgpt.com "SEC.gov | Testimony: Reuniting Securityholders with their Investments"
-[3]: https://www.sec.gov/rules-regulations/1998/03/year-2000-readiness-reports-be-made-transfer-agents?utm_source=chatgpt.com "SEC.gov | Year 2000 Readiness Reports To Be Made by Transfer Agents"
-[4]: https://www.sec.gov/rules-regulations/1998/08/processing-reorganization-events-tender-offers-exchange-offers?utm_source=chatgpt.com "SEC.gov | Processing of Reorganization Events, Tender Offers, and Exchange Offers"
-[5]: https://www.sec.gov/rules-regulations/2000/06/revised-transfer-agent-form-related-rule?utm_source=chatgpt.com "SEC.gov | Revised Transfer Agent Form and Related Rule"
+[1]: https://www.sec.gov/files/about/annual_report/1997.pdf "Annual Report 1997"
+[2]: https://www.sec.gov/newsroom/speeches-statements/ts162000-testimony-reuniting-securityholders-their-investments "SEC.gov | Testimony: Reuniting Securityholders with their Investments"
+[3]: https://www.sec.gov/rules-regulations/1998/03/year-2000-readiness-reports-be-made-transfer-agents "SEC.gov | Year 2000 Readiness Reports To Be Made by Transfer Agents"
+[4]: https://www.sec.gov/rules-regulations/1998/08/processing-reorganization-events-tender-offers-exchange-offers "SEC.gov | Processing of Reorganization Events, Tender Offers, and Exchange Offers"
+[5]: https://www.sec.gov/rules-regulations/2000/06/revised-transfer-agent-form-related-rule "SEC.gov | Revised Transfer Agent Form and Related Rule"
 [6]: https://www.sec.gov/rules-regulations/rulemaking-activity?%3Bdivision_office=All&%3Bregulation_year=&%3Brulemaking_status=178631&%3Bsearch=&aId=&page=23&utm_source=chatgpt.com "SEC.gov | Rulemaking Activity"
-[7]: https://www.sec.gov/rules/proposed/s71799/michael1.htm?utm_source=chatgpt.com "Rule Comments: S7-17-99"
+[7]: https://www.sec.gov/rules/proposed/s71799/michael1.htm "Rule Comments: S7-17-99"
