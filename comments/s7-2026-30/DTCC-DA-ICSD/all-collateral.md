@@ -33,22 +33,22 @@ checkohet the basiis comp becaecs i twhe ydo all cusips then you have to accuont
 | Date | DTC/Cede equity percentage | Denominator | Comparability |
 |---|---:|---|---|
 | **Dec. 31, 2002** | **84% NYSE; 88% Nasdaq** | Shares issued by **domestic companies** listed on each market; ADRs excluded | **Best/latest comparable figure I found** |
-| **1999 report** | **83% NYSE; 72% Nasdaq** | Shares listed on NYSE / Nasdaq | Very close |
-| **1998 report** | **83% NYSE; 70% Nasdaq** | Shares of NYSE-/Nasdaq-listed companies | Very close |
-| **1993** | **70% NYSE; 57% Nasdaq; 50% Amex** | Shares of listed U.S. companies/issues | Comparable |
-| **1992** | **69% NYSE; 53% Nasdaq; 46% Amex** | Shares of listed U.S. companies/issues | Comparable |
-| **1990** | **66% NYSE; 41% Nasdaq; 43% Amex** | Shares of listed U.S. companies | Comparable |
-| **1989** | **65% NYSE; 43% Nasdaq; 43% Amex** | Shares of listed U.S. companies | Comparable |
+| **1999 report** {{DTC-99-AR}} | **83% NYSE; 72% Nasdaq** | Shares listed on NYSE / Nasdaq | Very close |
+| **1998 report** {{DTC-98-AR}} | **83% NYSE; 70% Nasdaq** | Shares of NYSE-/Nasdaq-listed companies | Very close |
+| **1993** {{DTC-93-AR}} | **70% NYSE; 57% Nasdaq; 50% Amex** | Shares of listed U.S. companies/issues | Comparable |
+| **1992** {{DTC-92-AR}} | **69% NYSE; 53% Nasdaq; 46% Amex** | Shares of listed U.S. companies/issues | Comparable |
+| **1990** {{DTC-90-AR}} | **66% NYSE; 41% Nasdaq; 43% Amex** | Shares of listed U.S. companies | Comparable |
+| **1989** {{DTC-89-AR}} | **65% NYSE; 43% Nasdaq; 43% Amex** | Shares of listed U.S. companies | Comparable |
 | **1970s–mid-1980s** | no clean marketwide % located yet | DTC primarily reports raw shares/value on deposit, eligible issues, etc. | **Not safely comparable** |
 
 
 
-The late-1990s numbers also expose the problem with the popular **“Cede owned 83% of all U.S. stocks”** formulation. The SEC's description of DTC's 1999 Annual Report says **83% of all NYSE-listed shares and 72% of Nasdaq-listed shares**, plus a separate 91% figure for NYSE-listed corporate debt. It was **not an 83% nationwide all-equity statistic**.
+The late-1990s numbers also expose the problem with the popular **“Cede owned 83% of all U.S. stocks”** formulation. The SEC's description of DTC's 1999 Annual Report{{DTC-99-AR}} says **83% of all NYSE-listed shares and 72% of Nasdaq-listed shares**, plus a separate 91% figure for NYSE-listed corporate debt. It was **not an 83% nationwide all-equity statistic**.
 
-Going backward produces a remarkably coherent series. DTC's own **1993 Annual Report** says it had custody of approximately **70% of NYSE-listed U.S. company shares, 57% of Nasdaq shares, and 50% of Amex-listed U.S. company shares**.The **1992 Annual Report** gives **69%, 53%, and 46%**, respectively. {this is the last WhyDRS cite form}
+Going backward produces a remarkably coherent series. DTC's own **1993 Annual Report**{{DTC-93-AR}} says it had custody of approximately **70% of NYSE-listed U.S. company shares, 57% of Nasdaq shares, and 50% of Amex-listed U.S. company shares**.The **1992 Annual Report**{{DTC-92-AR}} gives **69%, 53%, and 46%**, respectively. {this is the last WhyDRS cite form}
 
-For **1990**, DTC reported **66% of shares of all NYSE-listed U.S. companies, 41% of Nasdaq shares, and 43% of Amex shares**. One year earlier, the **1989 Annual Report** gives almost exactly the preceding step: **65% NYSE and 43% each for Nasdaq and Amex**. DTC explicitly says these percentages represented securities it held for participants and predicted that they would continue to grow.
+For **1990**{{DTC-90-AR}}, DTC reported **66% of shares of all NYSE-listed U.S. companies, 41% of Nasdaq shares, and 43% of Amex shares**. One year earlier, the **1989 Annual Report**{{DTC-89-AR}} gives almost exactly the preceding step: **65% NYSE and 43% each for Nasdaq and Amex**. DTC explicitly says these percentages represented securities it held for participants and predicted that they would continue to grow.
 
 > had immobilized virtually all institutionally owned eligible securities and a rising percentage of securities owned by retail investors
 
-https://www.sechistorical.org/collection/papers/1990/1990_0101_DTCAR.pdf
+{{DTC-90-AR}}
