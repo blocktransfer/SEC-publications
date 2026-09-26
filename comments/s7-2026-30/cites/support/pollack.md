@@ -52,3 +52,7 @@ iso im at 23 (292) and i'm gonna cut it bc theres not much els ehere relaetd to 
 he was also cited by FINRA in 93 with some citatintos on intent
 
 https://www.finra.org/rules-guidance/notices/93-53
+
+# processing of my foia...
+
+This request received particularly unique treatment in that it has taken over two years to (not) process despite being [properly formatted](https://www.sec.gov/files/data/foia-logs/foia-log-may-2024.csv) upon submission.  
