@@ -13,7 +13,7 @@ this has basisis in DC's [^nqg], and I posit doing it as the only coendown ask d
 
 [whydrs-agent-outreach]: citatiton for reaching out et the otehr aguents. backref FREV n.1 and then use a raw discord likn (those are OK form). need to have done th edececnteralized DUNA gov FIRST
 
-[1994-stacks-1]:
+[1994-stacks-1]: these are th eaddittional fr cites for the 3 props
 
 [1994-stacks-2]:
 
