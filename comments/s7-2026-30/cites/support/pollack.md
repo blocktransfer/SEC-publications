@@ -56,3 +56,7 @@ https://www.finra.org/rules-guidance/notices/93-53
 # processing of my foia...
 
 This request received particularly unique treatment in that it has taken over two years to (not) process despite being [properly formatted](https://www.sec.gov/files/data/foia-logs/foia-log-may-2024.csv) upon submission.  
+
+# DEX Seed
+
+As supra, there wans a stpsndid contetnnoatones citatitn of Pollack in "Soligman" p.509 at https://www.sechistorical.org/museum/galleries/rev/rev03g.php
