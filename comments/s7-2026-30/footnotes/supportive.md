@@ -33,4 +33,10 @@ this has basisis in DC's [^nqg], and I posit doing it as the only coendown ask d
 
 [1994-stacks-10]:
 
-[richard-stallman-edelivery]: 
+[stallman-s7-12-11]: Richard Stallman, comment on Incentive-Based Compensation Arrangements, File No. S7-12-11 (May 22, 2011), _available at_ https://www.sec.gov/comments/s7-12-11/s71211-221.htm
+
+[stallman-4-637]: Richard Stallman, comments on Petition to Require Public Companies to Disclose to Shareholders the Use of Corporate Resources for Political Activities, File No. 4-637 (Jan. 12, 2013; Feb. 4, 2013; July 28, 2013; Jan. 23, 2014), _available at_ https://www.sec.gov/comments/4-637/4637-1332.htm; https://www.sec.gov/comments/4-637/4637-1513.htm; https://www.sec.gov/comments/4-637/4637-1998.htm; https://www.sec.gov/comments/4-637/4637-2345.htm
+
+[stallman-s7-07-13]: Richard Stallman, comment on Pay Ratio Disclosure, File No. S7-07-13, _available at_ https://www.sec.gov/comments/s7-07-13/s70713-1402.pdf
+
+[stallman-s7-2026-25]: Richard Stallman, comment on Electronic Delivery of Information Under the Federal Securities Laws, File No. S7-2026-25 (Sept. 23, 2026), _available at_ https://www.sec.gov/rules-regulations/public-comments/s7-2026-25?field_commenter_value=Richard%20Stallman
