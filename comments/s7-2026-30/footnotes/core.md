@@ -37,3 +37,5 @@ time basis also in prev n.10
 [2010-proxy-concept-release]: Concept Release on the U.S. Proxy System—— 75 FR 42982 
 
 [1984-plus-ten]: 59 FR 63652–63667 (onw)ards
+
+[gnu-stallman-alignment]: the licensivnge correctino & commit

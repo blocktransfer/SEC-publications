@@ -32,3 +32,5 @@ this has basisis in DC's [^nqg], and I posit doing it as the only coendown ask d
 [1994-stacks-9]:
 
 [1994-stacks-10]:
+
+[richard-stallman-edelivery]: 
