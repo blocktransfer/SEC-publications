@@ -18,7 +18,7 @@ https://www.govinfo.gov/content/pkg/FR-1993-03-18/pdf/FR-1993-03-18.pdf
 
 Rule 17Ad-16 adopted
 59 FR 63656
-https://www.govinfo.gov/content/pkg/FR-1994-12-08/pdf/FR-1994-12-08.pdf
+{{1984-plus-ten}}
 > the 1994 release expressly discussed electronic alternatives. First Chicago suggested an Electronic Data Interchange; the SEC noted that DTC and the other depositories had already discussed a centralized database and had agreed that DTC should be the central repository for transfer-agent information
 
 “secure communication” included telegraph, overnight mail, facsimile, or another secure mean

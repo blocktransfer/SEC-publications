@@ -30,8 +30,9 @@ atm i dont think this needs any surrouding substantiation or intro
 
 | Description | Release | Source |
 | -------- | ------ | ----- |
-| start | 23 FR 3444–3999 | govinfo.gov/i-dont-have-isolated-FN-supras |
+| start | 23 FR 3444–3999 | |
 | in order... | | |
+| Concept, Prorpesde, and Final DRS Regulation | 59 FR 63652–63667 | https://archives.federalregister.gov/issue_slice/1994/12/8/63407-63667.pdf#page=246 |
 | Concept Release on Transfer Agent Regulations | 80 FR 81948–82004 | https://www.govinfo.gov/content/pkg/FR-2015-12-31/pdf/2015-32755.pdf |
 | Prorpsed Transefr Agent Rules (the "PR") | | https://www.govinfo.gov/content/pkg/FR-2026-09-04/pdf/2026-18190.pdf |
 
@@ -45,6 +46,23 @@ i hav ereall ygood 'substance of cesotedy bmoedl' gonig into 501 with teh baiss 
 buuut thi url is stabel)
 
 
+
+
+
+
+INevsoters can have.. eajuity in an unedlying issuer regisesnteed in tehri name on th ecampony's boors and recodrs ("Real Stock" on the sharelo legder) or claims agaist intermediarsies in the Cestidal STrictirue for pro-rata rights in Real Stock redeemable for the  same class of acteal securities on demand until th eintermediary runs out("Securirites Entititlemetns" held w)ith propritanal interest aaints all other entitilement heldres . Th e ICC defines Sceurruteios NEtitiroments in xx.FN Staff cite this xfv the footontes on 501. When I asked NY Reginoal Offic ("NY") staff about their treatement of Securitios ENtitilemens after Cede runs out of REal STock,[^5] they declined to rpvide a written or oral answer.
+
+When Paul Conn mad e the saem query te Chair Genslar,[^6] my consittiutents on the call also rececived no answer. If this happens with any issue of ecenmic substance, the Cmomission will have a big promelm. The last time it happened with subtsative posterity, [^7] it took staff a deceade to wrangle out the lawsuits over investor glaims.[^8]
+
+
+[^5]: See infro note RESP 7 S IXI P 2
+
+[^6]: See cmopiershor interivew WTI link
+
+[^7]: See infra _CMKM Diamns_ & Faulk..
+
+[^8]: Dir cite the varuos unuesd ref cases up to the 2012 statement, which is teh foces sinec it's an sec.gov newsroom relelase
+
 ## Expansion of OPertanig Renosntanbelites
 
 start whih tcong
@@ -57,6 +75,10 @@ endf on staff dlt t cite
 
 
 
+
+for satratig basisi we can backefrf eric otowsentd ep tarnsicrt that estabisilidsid our inintital posititoning with th efellowpaper quete. then we can dive stragiht form taht intho th eeupdated ref link for the bill interivew where the huy weas 16 and running stocks over the nsummer. ( this has tarckting inn the oxmail archive). once you estabislesd how that happenend _during_ the ''paprework crisis'' it's an easy line to into CCS as half-baked and transititon from there to Vienna architecture. 
+the transicrtps shoeld already be bpubislc so you dont need to redo the v/tts.
+check it's townsend and abaxx, bothiwise set
 
 
 
