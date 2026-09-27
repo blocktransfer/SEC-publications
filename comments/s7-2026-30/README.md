@@ -34,7 +34,8 @@ atm i dont think this needs any surrouding substantiation or intro
 | in order... | | |
 | Concept, Prorpesde, and Final DRS Regulation | 59 FR 63652–63667 | https://archives.federalregister.gov/issue_slice/1994/12/8/63407-63667.pdf#page=246 |
 | Concept Release on Transfer Agent Regulations | 80 FR 81948–82004 | https://www.govinfo.gov/content/pkg/FR-2015-12-31/pdf/2015-32755.pdf |
-| Prorpsed Transefr Agent Rules (the "PR") | | https://www.govinfo.gov/content/pkg/FR-2026-09-04/pdf/2026-18190.pdf |
+| Prorpsed Transefr Agent Rules (the "PR") | 91 FR 56946–57061 | https://www.govinfo.gov/content/pkg/FR-2026-09-04/pdf/FR-2026-09-04.pdf#page=212 |
+compiltain todo: check taht thees are all the full dairly pubs with the pagerefs
 
 # Signifiifcance of Th eCommntnino's Efforts 
 
