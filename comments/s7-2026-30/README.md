@@ -46,6 +46,23 @@ i hav ereall ygood 'substance of cesotedy bmoedl' gonig into 501 with teh baiss 
 buuut thi url is stabel)
 
 
+
+
+
+
+INevsoters can have.. eajuity in an unedlying issuer regisesnteed in tehri name on th ecampony's boors and recodrs ("Real Stock" on the sharelo legder) or claims agaist intermediarsies in the Cestidal STrictirue for pro-rata rights in Real Stock redeemable for the  same class of acteal securities on demand until th eintermediary runs out("Securirites Entititlemetns" held w)ith propritanal interest aaints all other entitilement heldres . Th e ICC defines Sceurruteios NEtitiroments in xx.FN Staff cite this xfv the footontes on 501. When I asked NY Reginoal Offic ("NY") staff about their treatement of Securitios ENtitilemens after Cede runs out of REal STock,[^5] they declined to rpvide a written or oral answer.
+
+When Paul Conn mad e the saem query te Chair Genslar,[^6] my consittiutents on the call also rececived no answer. If this happens with any issue of ecenmic substance, the Cmomission will have a big promelm. The last time it happened with subtsative posterity, [^7] it took staff a deceade to wrangle out the lawsuits over investor glaims.[^8]
+
+
+[^5]: See infro note RESP 7 S IXI P 2
+
+[^6]: See cmopiershor interivew WTI link
+
+[^7]: See infra _CMKM Diamns_ & Faulk..
+
+[^8]: Dir cite the varuos unuesd ref cases up to the 2012 statement, which is teh foces sinec it's an sec.gov newsroom relelase
+
 ## Expansion of OPertanig Renosntanbelites
 
 start whih tcong
