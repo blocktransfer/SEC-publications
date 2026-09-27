@@ -59,6 +59,10 @@ endf on staff dlt t cite
 
 
 
+for satratig basisi we can backefrf eric otowsentd ep tarnsicrt that estabisilidsid our inintital posititoning with th efellowpaper quete. then we can dive stragiht form taht intho th eeupdated ref link for the bill interivew where the huy weas 16 and running stocks over the nsummer. ( this has tarckting inn the oxmail archive). once you estabislesd how that happenend _during_ the ''paprework crisis'' it's an easy line to into CCS as half-baked and transititon from there to Vienna architecture. 
+the transicrtps shoeld already be bpubislc so you dont need to redo the v/tts.
+check it's townsend and abaxx, bothiwise set
+
 
 
 
