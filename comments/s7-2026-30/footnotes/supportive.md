@@ -39,6 +39,6 @@ this has basisis in DC's [^nqg], and I posit doing it as the only coendown ask d
 
 * Jan. 23, 2014 comment signed “Dr. Richard Stallman.”
 
-[stallman-pay-ratio-disclosure]: Richard Stallman, comment on Pay Ratio Disclosure, File No. S7-07-13 (Dec. 2, 2013), _available at_ https://www.sec.gov/comments/s7-07-13/s70713-1402.pdf
+[stallman-pay-ratio-disclosure]: Richard Stallman, comment on Pay Ratio Disclosure, File No. S7-07-13 (undated SEC copy), _available at_ https://www.sec.gov/comments/s7-07-13/s70713-1402.pdf
 
 [stallman-electronic-delivery]: Richard Stallman, comment on Electronic Delivery of Information Under the Federal Securities Laws, File No. S7-2026-25 (Sept. 23, 2026), _available at_ https://www.sec.gov/comments/S7-2026-25/s7202625-3706986.htm
