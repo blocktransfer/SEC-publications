@@ -32,6 +32,7 @@ atm i dont think this needs any surrouding substantiation or intro
 | -------- | ------ | ----- |
 | start | 23 FR 3444–3999 | |
 | in order... | | |
+| New Reguasitn S-P Covererd Entitiies | 89 FR 47688 | https://www.govinfo.gov/content/pkg/FR-2024-06-03/pdf/FR-2024-06-03.pdf?utm_source=chatgpt.com |
 | Concept, Prorpesde, and Final DRS Regulation | 59 FR 63652–63667 | https://archives.federalregister.gov/issue_slice/1994/12/8/63407-63667.pdf#page=246 |
 | Concept Release on Transfer Agent Regulations | 80 FR 81948–82004 | https://www.govinfo.gov/content/pkg/FR-2015-12-31/pdf/2015-32755.pdf |
 | Prorpsed Transefr Agent Rules (the "PR") | 91 FR 56946–57061 | https://www.govinfo.gov/content/pkg/FR-2026-09-04/pdf/FR-2026-09-04.pdf#page=212 |
