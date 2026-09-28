@@ -1,0 +1,69 @@
+{
+  "archiveSource": "blocktransfer.io-emails/files/AppDomain-com.openxchange.mobile.mailapp2/Documents/persistence/users/john@blocktransfer.io/persistence.realm",
+  "extractionNote": "Faithful JSON serialization of the selected MailDto record. The Realm backup did not retain a complete body or RFC 5322 .eml source for this message.",
+  "classification": "Direct DTCC correspondence",
+  "mailDto": {
+    "uid": "john@blocktransfer.io_0_default0/INBOX_378",
+    "flaggedForDeletion": false,
+    "serializedMailIdentifier": "{\"folderType\":10,\"accountId\":\"0\",\"userId\":\"john@blocktransfer.io\",\"mailId\":\"378\",\"folderId\":\"default0\\/INBOX\",\"serializedFolderIdentifier\":\"{\\\"folderType\\\":10,\\\"folderId\\\":\\\"default0\\\\\\/INBOX\\\",\\\"flaggedFoDeletion\\\":false,\\\"userId\\\":\\\"john@blocktransfer.io\\\",\\\"uid\\\":\\\"john@blocktransfer.io_0_default0\\\\\\/INBOX\\\",\\\"accountId\\\":\\\"0\\\"}\",\"uid\":\"john@blocktransfer.io_0_default0\\/INBOX_378\",\"flaggedFoDeletion\":false}",
+    "serializedConversationIdentifier": "{\"flaggedFoDeletion\":false,\"conversationId\":\"conversation-378\",\"accountId\":\"0\",\"folderId\":\"default0\\/INBOX\",\"userId\":\"john@blocktransfer.io\",\"uid\":\"john@blocktransfer.io_0_default0\\/INBOX_conversation-378\",\"folderType\":10}",
+    "stageRawValue": "envelope",
+    "folderUid": "john@blocktransfer.io_0_default0/INBOX",
+    "mailId": "378",
+    "colorRawValue": 0,
+    "flags": {
+      "uid": "john@blocktransfer.io_0_default0/INBOX_378",
+      "flaggedForDeletion": false,
+      "serializedMailIdentifier": "{\"userId\":\"john@blocktransfer.io\",\"flaggedFoDeletion\":false,\"folderId\":\"default0\\/INBOX\",\"serializedFolderIdentifier\":\"{\\\"folderType\\\":10,\\\"folderId\\\":\\\"default0\\\\\\/INBOX\\\",\\\"flaggedFoDeletion\\\":false,\\\"userId\\\":\\\"john@blocktransfer.io\\\",\\\"uid\\\":\\\"john@blocktransfer.io_0_default0\\\\\\/INBOX\\\",\\\"accountId\\\":\\\"0\\\"}\",\"uid\":\"john@blocktransfer.io_0_default0\\/INBOX_378\",\"accountId\":\"0\",\"folderType\":10,\"mailId\":\"378\"}",
+      "folderUid": "john@blocktransfer.io_0_default0/INBOX",
+      "answered": true,
+      "deleted": false,
+      "draft": false,
+      "flagged": false,
+      "forwarded": false,
+      "recent": false,
+      "spam": false,
+      "unread": false,
+      "user": false
+    },
+    "receivedDate": "2021-06-11T18:07:23.000Z",
+    "sentDate": "2021-06-11T18:05:42.000Z",
+    "subject": "Automatic reply: FAST Learning",
+    "from": [
+      {
+        "uid": "entitlements@dtcc.com_Entitlements",
+        "flaggedForDeletion": false,
+        "name": "Entitlements",
+        "address": "entitlements@dtcc.com"
+      }
+    ],
+    "to": [
+      {
+        "uid": "john@blocktransfer.io_John Wooten",
+        "flaggedForDeletion": false,
+        "name": "John Wooten",
+        "address": "john@blocktransfer.io"
+      }
+    ],
+    "realAttachment": false,
+    "hasAttachment": false,
+    "replyTo": [],
+    "cc": [],
+    "bcc": [],
+    "messageId": "",
+    "teaser": "Dear Valued Client, Thank you for your request. This is to acknowledge that we have received your inquiry. Please allow up to 48 hours for a response. Kind Regards, The Registration Support Team Visit",
+    "body": null,
+    "bodyType": "",
+    "contentType": "",
+    "priorityRawValue": 0,
+    "size": 0,
+    "attachments": [],
+    "folderTypeRawValue": 0,
+    "sortableDate": "2021-06-11T18:07:23.000Z",
+    "fromContactsSearchableString": "entitlements entitlements@dtcc.com",
+    "toContactsSearchableString": "john wooten john@blocktransfer.io",
+    "ccContactsSearchableString": "",
+    "bccContactsSearchableString": "",
+    "subjectSearchableString": "automatic reply: fast learning"
+  }
+}

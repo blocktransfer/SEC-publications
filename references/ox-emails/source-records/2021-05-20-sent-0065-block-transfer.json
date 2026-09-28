@@ -1,0 +1,69 @@
+{
+  "archiveSource": "blocktransfer.io-emails/files/AppDomain-com.openxchange.mobile.mailapp2/Documents/persistence/users/john@blocktransfer.io/persistence.realm",
+  "extractionNote": "Faithful JSON serialization of the selected MailDto record. The Realm backup did not retain a complete body or RFC 5322 .eml source for this message.",
+  "classification": "Direct DTCC correspondence",
+  "mailDto": {
+    "uid": "john@blocktransfer.io_0_default0/Sent_65",
+    "flaggedForDeletion": false,
+    "serializedMailIdentifier": "{\"folderId\":\"default0\\/Sent\",\"flaggedFoDeletion\":false,\"userId\":\"john@blocktransfer.io\",\"accountId\":\"0\",\"folderType\":10,\"uid\":\"john@blocktransfer.io_0_default0\\/Sent_65\",\"mailId\":\"65\",\"serializedFolderIdentifier\":\"{\\\"userId\\\":\\\"john@blocktransfer.io\\\",\\\"folderType\\\":10,\\\"uid\\\":\\\"john@blocktransfer.io_0_default0\\\\\\/Sent\\\",\\\"flaggedFoDeletion\\\":false,\\\"accountId\\\":\\\"0\\\",\\\"folderId\\\":\\\"default0\\\\\\/Sent\\\"}\"}",
+    "serializedConversationIdentifier": "{\"folderId\":\"default0\\/Sent\",\"userId\":\"john@blocktransfer.io\",\"conversationId\":\"conversation-65\",\"uid\":\"john@blocktransfer.io_0_default0\\/Sent_conversation-65\",\"flaggedFoDeletion\":false,\"accountId\":\"0\",\"folderType\":10}",
+    "stageRawValue": "envelope",
+    "folderUid": "john@blocktransfer.io_0_default0/Sent",
+    "mailId": "65",
+    "colorRawValue": 0,
+    "flags": {
+      "uid": "john@blocktransfer.io_0_default0/Sent_65",
+      "flaggedForDeletion": false,
+      "serializedMailIdentifier": "{\"folderType\":10,\"serializedFolderIdentifier\":\"{\\\"userId\\\":\\\"john@blocktransfer.io\\\",\\\"folderType\\\":10,\\\"uid\\\":\\\"john@blocktransfer.io_0_default0\\\\\\/Sent\\\",\\\"flaggedFoDeletion\\\":false,\\\"accountId\\\":\\\"0\\\",\\\"folderId\\\":\\\"default0\\\\\\/Sent\\\"}\",\"accountId\":\"0\",\"userId\":\"john@blocktransfer.io\",\"uid\":\"john@blocktransfer.io_0_default0\\/Sent_65\",\"mailId\":\"65\",\"folderId\":\"default0\\/Sent\",\"flaggedFoDeletion\":false}",
+      "folderUid": "john@blocktransfer.io_0_default0/Sent",
+      "answered": false,
+      "deleted": false,
+      "draft": false,
+      "flagged": false,
+      "forwarded": false,
+      "recent": false,
+      "spam": false,
+      "unread": false,
+      "user": false
+    },
+    "receivedDate": "2021-05-20T16:45:42.000Z",
+    "sentDate": "2021-05-20T16:45:42.000Z",
+    "subject": "Block Transfer",
+    "from": [
+      {
+        "uid": "john@blocktransfer.io_John Wooten",
+        "flaggedForDeletion": false,
+        "name": "John Wooten",
+        "address": "john@blocktransfer.io"
+      }
+    ],
+    "to": [
+      {
+        "uid": "taservices@dtcc.com_taservices@dtcc.com",
+        "flaggedForDeletion": false,
+        "name": "taservices@dtcc.com",
+        "address": "taservices@dtcc.com"
+      }
+    ],
+    "realAttachment": false,
+    "hasAttachment": false,
+    "replyTo": [],
+    "cc": [],
+    "bcc": [],
+    "messageId": "",
+    "teaser": "Hi Ms. Dobrogoszcz, Looking to test service 55302P202 How do we go through underwriting/next steps etc Thank you John Wooten",
+    "body": null,
+    "bodyType": "",
+    "contentType": "",
+    "priorityRawValue": 0,
+    "size": 0,
+    "attachments": [],
+    "folderTypeRawValue": 6,
+    "sortableDate": "2021-05-20T16:45:42.000Z",
+    "fromContactsSearchableString": "john wooten john@blocktransfer.io",
+    "toContactsSearchableString": "taservices@dtcc.com taservices@dtcc.com",
+    "ccContactsSearchableString": "",
+    "bccContactsSearchableString": "",
+    "subjectSearchableString": "block transfer"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "archiveSource": "blocktransfer.io-emails/files/AppDomain-com.openxchange.mobile.mailapp2/Documents/persistence/users/john@blocktransfer.io/persistence.realm",
+  "extractionNote": "Faithful JSON serialization of the selected MailDto record. The Realm backup did not retain a complete body or RFC 5322 .eml source for this message.",
+  "classification": "Additional DTCC-related correspondence",
+  "mailDto": {
+    "uid": "john@blocktransfer.io_0_default0/INBOX_235",
+    "flaggedForDeletion": false,
+    "serializedMailIdentifier": "{\"mailId\":\"235\",\"serializedFolderIdentifier\":\"{\\\"accountId\\\":\\\"0\\\",\\\"folderType\\\":10,\\\"folderId\\\":\\\"default0\\\\\\/INBOX\\\",\\\"uid\\\":\\\"john@blocktransfer.io_0_default0\\\\\\/INBOX\\\",\\\"userId\\\":\\\"john@blocktransfer.io\\\",\\\"flaggedFoDeletion\\\":false}\",\"folderId\":\"default0\\/INBOX\",\"flaggedFoDeletion\":false,\"accountId\":\"0\",\"folderType\":10,\"userId\":\"john@blocktransfer.io\",\"uid\":\"john@blocktransfer.io_0_default0\\/INBOX_235\"}",
+    "serializedConversationIdentifier": "{\"uid\":\"john@blocktransfer.io_0_default0\\/INBOX_conversation-235\",\"folderType\":10,\"userId\":\"john@blocktransfer.io\",\"flaggedFoDeletion\":false,\"conversationId\":\"conversation-235\",\"accountId\":\"0\",\"folderId\":\"default0\\/INBOX\"}",
+    "stageRawValue": "envelope",
+    "folderUid": "john@blocktransfer.io_0_default0/INBOX",
+    "mailId": "235",
+    "colorRawValue": 0,
+    "flags": {
+      "uid": "john@blocktransfer.io_0_default0/INBOX_235",
+      "flaggedForDeletion": false,
+      "serializedMailIdentifier": "{\"folderType\":10,\"mailId\":\"235\",\"serializedFolderIdentifier\":\"{\\\"accountId\\\":\\\"0\\\",\\\"folderType\\\":10,\\\"folderId\\\":\\\"default0\\\\\\/INBOX\\\",\\\"uid\\\":\\\"john@blocktransfer.io_0_default0\\\\\\/INBOX\\\",\\\"userId\\\":\\\"john@blocktransfer.io\\\",\\\"flaggedFoDeletion\\\":false}\",\"userId\":\"john@blocktransfer.io\",\"uid\":\"john@blocktransfer.io_0_default0\\/INBOX_235\",\"folderId\":\"default0\\/INBOX\",\"accountId\":\"0\",\"flaggedFoDeletion\":false}",
+      "folderUid": "john@blocktransfer.io_0_default0/INBOX",
+      "answered": false,
+      "deleted": false,
+      "draft": false,
+      "flagged": false,
+      "forwarded": false,
+      "recent": false,
+      "spam": false,
+      "unread": false,
+      "user": false
+    },
+    "receivedDate": "2021-05-17T14:04:28.000Z",
+    "sentDate": "2021-05-17T14:04:21.000Z",
+    "subject": "RE: [EXT] Transfer Agent Verified Shares Program",
+    "from": [
+      {
+        "uid": "chris@otcmarkets.com_Chris Grant",
+        "flaggedForDeletion": false,
+        "name": "Chris Grant",
+        "address": "chris@otcmarkets.com"
+      }
+    ],
+    "to": [
+      {
+        "uid": "john@blocktransfer.io_John Wooten",
+        "flaggedForDeletion": false,
+        "name": "John Wooten",
+        "address": "john@blocktransfer.io"
+      },
+      {
+        "uid": "marketdata@otcmarkets.com_Market Data",
+        "flaggedForDeletion": false,
+        "name": "Market Data",
+        "address": "marketdata@otcmarkets.com"
+      }
+    ],
+    "realAttachment": false,
+    "hasAttachment": false,
+    "replyTo": [],
+    "cc": [
+      {
+        "uid": "transferagents@otcmarkets.com_Transfer Agents",
+        "flaggedForDeletion": false,
+        "name": "Transfer Agents",
+        "address": "transferagents@otcmarkets.com"
+      }
+    ],
+    "bcc": [],
+    "messageId": "",
+    "teaser": "John, Forwarding your contact details to my colleagues who work on this (transferagents@otcmarkets.com<mailto:transferagents@otcmarkets.com>). Best, Chris Grant VP | Market Data OTC Markets Group 300",
+    "body": null,
+    "bodyType": "",
+    "contentType": "",
+    "priorityRawValue": 0,
+    "size": 0,
+    "attachments": [],
+    "folderTypeRawValue": 0,
+    "sortableDate": "2021-05-17T14:04:28.000Z",
+    "fromContactsSearchableString": "chris grant chris@otcmarkets.com",
+    "toContactsSearchableString": "john wooten john@blocktransfer.io market data marketdata@otcmarkets.com ",
+    "ccContactsSearchableString": "transfer agents transferagents@otcmarkets.com",
+    "bccContactsSearchableString": "",
+    "subjectSearchableString": "re: [ext] transfer agent verified shares program"
+  }
+}

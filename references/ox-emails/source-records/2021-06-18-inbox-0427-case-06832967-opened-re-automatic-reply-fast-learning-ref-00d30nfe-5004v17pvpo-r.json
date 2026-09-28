@@ -1,0 +1,69 @@
+{
+  "archiveSource": "blocktransfer.io-emails/files/AppDomain-com.openxchange.mobile.mailapp2/Documents/persistence/users/john@blocktransfer.io/persistence.realm",
+  "extractionNote": "Faithful JSON serialization of the selected MailDto record. The Realm backup did not retain a complete body or RFC 5322 .eml source for this message.",
+  "classification": "Direct DTCC correspondence",
+  "mailDto": {
+    "uid": "john@blocktransfer.io_0_default0/INBOX_427",
+    "flaggedForDeletion": false,
+    "serializedMailIdentifier": "{\"folderId\":\"default0\\/INBOX\",\"accountId\":\"0\",\"flaggedFoDeletion\":false,\"mailId\":\"427\",\"serializedFolderIdentifier\":\"{\\\"userId\\\":\\\"john@blocktransfer.io\\\",\\\"uid\\\":\\\"john@blocktransfer.io_0_default0\\\\\\/INBOX\\\",\\\"folderType\\\":10,\\\"flaggedFoDeletion\\\":false,\\\"accountId\\\":\\\"0\\\",\\\"folderId\\\":\\\"default0\\\\\\/INBOX\\\"}\",\"folderType\":10,\"userId\":\"john@blocktransfer.io\",\"uid\":\"john@blocktransfer.io_0_default0\\/INBOX_427\"}",
+    "serializedConversationIdentifier": "{\"folderType\":10,\"accountId\":\"0\",\"uid\":\"john@blocktransfer.io_0_default0\\/INBOX_conversation-427\",\"folderId\":\"default0\\/INBOX\",\"conversationId\":\"conversation-427\",\"userId\":\"john@blocktransfer.io\",\"flaggedFoDeletion\":false}",
+    "stageRawValue": "envelope",
+    "folderUid": "john@blocktransfer.io_0_default0/INBOX",
+    "mailId": "427",
+    "colorRawValue": 0,
+    "flags": {
+      "uid": "john@blocktransfer.io_0_default0/INBOX_427",
+      "flaggedForDeletion": false,
+      "serializedMailIdentifier": "{\"folderId\":\"default0\\/INBOX\",\"userId\":\"john@blocktransfer.io\",\"uid\":\"john@blocktransfer.io_0_default0\\/INBOX_427\",\"accountId\":\"0\",\"serializedFolderIdentifier\":\"{\\\"userId\\\":\\\"john@blocktransfer.io\\\",\\\"uid\\\":\\\"john@blocktransfer.io_0_default0\\\\\\/INBOX\\\",\\\"folderType\\\":10,\\\"flaggedFoDeletion\\\":false,\\\"accountId\\\":\\\"0\\\",\\\"folderId\\\":\\\"default0\\\\\\/INBOX\\\"}\",\"mailId\":\"427\",\"folderType\":10,\"flaggedFoDeletion\":false}",
+      "folderUid": "john@blocktransfer.io_0_default0/INBOX",
+      "answered": false,
+      "deleted": false,
+      "draft": false,
+      "flagged": false,
+      "forwarded": false,
+      "recent": false,
+      "spam": false,
+      "unread": false,
+      "user": false
+    },
+    "receivedDate": "2021-06-18T21:08:04.000Z",
+    "sentDate": "2021-06-18T21:07:50.000Z",
+    "subject": "Case 06832967 opened: Re: Automatic reply: FAST Learning ref:_00D30nFE._5004V17PvPO:ref",
+    "from": [
+      {
+        "uid": "systemnotifications@dtcc.com_Global Entitlements Management",
+        "flaggedForDeletion": false,
+        "name": "Global Entitlements Management",
+        "address": "systemnotifications@dtcc.com"
+      }
+    ],
+    "to": [
+      {
+        "uid": "john@blocktransfer.io_john@blocktransfer.io",
+        "flaggedForDeletion": false,
+        "name": "john@blocktransfer.io",
+        "address": "john@blocktransfer.io"
+      }
+    ],
+    "realAttachment": false,
+    "hasAttachment": false,
+    "replyTo": [],
+    "cc": [],
+    "bcc": [],
+    "messageId": "",
+    "teaser": "We Have Received Your Request We've received your request and are working on it. Case 06832967 has been opened. Please reference this number in all related correspondence with us. Case Number 06832967",
+    "body": null,
+    "bodyType": "",
+    "contentType": "",
+    "priorityRawValue": 0,
+    "size": 0,
+    "attachments": [],
+    "folderTypeRawValue": 0,
+    "sortableDate": "2021-06-18T21:08:04.000Z",
+    "fromContactsSearchableString": "global entitlements management systemnotifications@dtcc.com",
+    "toContactsSearchableString": "john@blocktransfer.io john@blocktransfer.io",
+    "ccContactsSearchableString": "",
+    "bccContactsSearchableString": "",
+    "subjectSearchableString": "case 06832967 opened: re: automatic reply: fast learning ref:_00d30nfe._5004v17pvpo:ref"
+  }
+}

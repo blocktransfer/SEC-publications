@@ -1,0 +1,69 @@
+{
+  "archiveSource": "blocktransfer.io-emails/files/AppDomain-com.openxchange.mobile.mailapp2/Documents/persistence/users/john@blocktransfer.io/persistence.realm",
+  "extractionNote": "Faithful JSON serialization of the selected MailDto record. The Realm backup did not retain a complete body or RFC 5322 .eml source for this message.",
+  "classification": "Direct DTCC correspondence",
+  "mailDto": {
+    "uid": "john@blocktransfer.io_0_default0/INBOX_252",
+    "flaggedForDeletion": false,
+    "serializedMailIdentifier": "{\"accountId\":\"0\",\"uid\":\"john@blocktransfer.io_0_default0\\/INBOX_252\",\"flaggedFoDeletion\":false,\"folderId\":\"default0\\/INBOX\",\"mailId\":\"252\",\"serializedFolderIdentifier\":\"{\\\"uid\\\":\\\"john@blocktransfer.io_0_default0\\\\\\/INBOX\\\",\\\"folderType\\\":10,\\\"accountId\\\":\\\"0\\\",\\\"userId\\\":\\\"john@blocktransfer.io\\\",\\\"flaggedFoDeletion\\\":false,\\\"folderId\\\":\\\"default0\\\\\\/INBOX\\\"}\",\"userId\":\"john@blocktransfer.io\",\"folderType\":10}",
+    "serializedConversationIdentifier": "{\"flaggedFoDeletion\":false,\"folderId\":\"default0\\/INBOX\",\"uid\":\"john@blocktransfer.io_0_default0\\/INBOX_conversation-252\",\"userId\":\"john@blocktransfer.io\",\"accountId\":\"0\",\"folderType\":10,\"conversationId\":\"conversation-252\"}",
+    "stageRawValue": "envelope",
+    "folderUid": "john@blocktransfer.io_0_default0/INBOX",
+    "mailId": "252",
+    "colorRawValue": 0,
+    "flags": {
+      "uid": "john@blocktransfer.io_0_default0/INBOX_252",
+      "flaggedForDeletion": false,
+      "serializedMailIdentifier": "{\"flaggedFoDeletion\":false,\"userId\":\"john@blocktransfer.io\",\"folderId\":\"default0\\/INBOX\",\"folderType\":10,\"mailId\":\"252\",\"serializedFolderIdentifier\":\"{\\\"uid\\\":\\\"john@blocktransfer.io_0_default0\\\\\\/INBOX\\\",\\\"folderType\\\":10,\\\"accountId\\\":\\\"0\\\",\\\"userId\\\":\\\"john@blocktransfer.io\\\",\\\"flaggedFoDeletion\\\":false,\\\"folderId\\\":\\\"default0\\\\\\/INBOX\\\"}\",\"uid\":\"john@blocktransfer.io_0_default0\\/INBOX_252\",\"accountId\":\"0\"}",
+      "folderUid": "john@blocktransfer.io_0_default0/INBOX",
+      "answered": false,
+      "deleted": false,
+      "draft": false,
+      "flagged": false,
+      "forwarded": false,
+      "recent": false,
+      "spam": false,
+      "unread": false,
+      "user": false
+    },
+    "receivedDate": "2021-05-22T10:37:55.000Z",
+    "sentDate": "2021-05-22T10:37:42.000Z",
+    "subject": "DTCC Learning: Email Verification Request",
+    "from": [
+      {
+        "uid": "dtcclearning_administrator@dtcclearning.com_DTCC Learning",
+        "flaggedForDeletion": false,
+        "name": "DTCC Learning",
+        "address": "dtcclearning_administrator@dtcclearning.com"
+      }
+    ],
+    "to": [
+      {
+        "uid": "dtcc_learning@blocktransfer.io_",
+        "flaggedForDeletion": false,
+        "name": "",
+        "address": "dtcc_learning@blocktransfer.io"
+      }
+    ],
+    "realAttachment": false,
+    "hasAttachment": false,
+    "replyTo": [],
+    "cc": [],
+    "bcc": [],
+    "messageId": "",
+    "teaser": "Hello John Wooten, Thank you for registering at DTCC Learning. Your account is created and must be verified before you can use it. To verify the account select the following link or copy-paste it in y",
+    "body": null,
+    "bodyType": "",
+    "contentType": "",
+    "priorityRawValue": 0,
+    "size": 0,
+    "attachments": [],
+    "folderTypeRawValue": 0,
+    "sortableDate": "2021-05-22T10:37:55.000Z",
+    "fromContactsSearchableString": "dtcc learning dtcclearning_administrator@dtcclearning.com",
+    "toContactsSearchableString": "dtcc_learning@blocktransfer.io",
+    "ccContactsSearchableString": "",
+    "bccContactsSearchableString": "",
+    "subjectSearchableString": "dtcc learning: email verification request"
+  }
+}

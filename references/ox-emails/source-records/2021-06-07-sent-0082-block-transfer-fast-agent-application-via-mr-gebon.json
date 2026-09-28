@@ -1,0 +1,69 @@
+{
+  "archiveSource": "blocktransfer.io-emails/files/AppDomain-com.openxchange.mobile.mailapp2/Documents/persistence/users/john@blocktransfer.io/persistence.realm",
+  "extractionNote": "Faithful JSON serialization of the selected MailDto record. The Realm backup did not retain a complete body or RFC 5322 .eml source for this message.",
+  "classification": "Direct DTCC correspondence",
+  "mailDto": {
+    "uid": "john@blocktransfer.io_0_default0/Sent_82",
+    "flaggedForDeletion": false,
+    "serializedMailIdentifier": "{\"flaggedFoDeletion\":false,\"userId\":\"john@blocktransfer.io\",\"serializedFolderIdentifier\":\"{\\\"folderType\\\":10,\\\"userId\\\":\\\"john@blocktransfer.io\\\",\\\"uid\\\":\\\"john@blocktransfer.io_0_default0\\\\\\/Sent\\\",\\\"accountId\\\":\\\"0\\\",\\\"flaggedFoDeletion\\\":false,\\\"folderId\\\":\\\"default0\\\\\\/Sent\\\"}\",\"accountId\":\"0\",\"uid\":\"john@blocktransfer.io_0_default0\\/Sent_82\",\"folderType\":10,\"mailId\":\"82\",\"folderId\":\"default0\\/Sent\"}",
+    "serializedConversationIdentifier": "{\"accountId\":\"0\",\"folderId\":\"default0\\/Sent\",\"flaggedFoDeletion\":false,\"userId\":\"john@blocktransfer.io\",\"conversationId\":\"conversation-82\",\"uid\":\"john@blocktransfer.io_0_default0\\/Sent_conversation-82\",\"folderType\":10}",
+    "stageRawValue": "envelope",
+    "folderUid": "john@blocktransfer.io_0_default0/Sent",
+    "mailId": "82",
+    "colorRawValue": 0,
+    "flags": {
+      "uid": "john@blocktransfer.io_0_default0/Sent_82",
+      "flaggedForDeletion": false,
+      "serializedMailIdentifier": "{\"accountId\":\"0\",\"flaggedFoDeletion\":false,\"folderType\":10,\"mailId\":\"82\",\"userId\":\"john@blocktransfer.io\",\"folderId\":\"default0\\/Sent\",\"uid\":\"john@blocktransfer.io_0_default0\\/Sent_82\",\"serializedFolderIdentifier\":\"{\\\"folderType\\\":10,\\\"userId\\\":\\\"john@blocktransfer.io\\\",\\\"uid\\\":\\\"john@blocktransfer.io_0_default0\\\\\\/Sent\\\",\\\"accountId\\\":\\\"0\\\",\\\"flaggedFoDeletion\\\":false,\\\"folderId\\\":\\\"default0\\\\\\/Sent\\\"}\"}",
+      "folderUid": "john@blocktransfer.io_0_default0/Sent",
+      "answered": false,
+      "deleted": false,
+      "draft": false,
+      "flagged": false,
+      "forwarded": false,
+      "recent": false,
+      "spam": false,
+      "unread": false,
+      "user": false
+    },
+    "receivedDate": "2021-06-07T16:49:11.000Z",
+    "sentDate": "2021-06-07T16:49:11.000Z",
+    "subject": "Block Transfer FAST Agent Application via Mr. Gebon",
+    "from": [
+      {
+        "uid": "john@blocktransfer.io_John Wooten",
+        "flaggedForDeletion": false,
+        "name": "John Wooten",
+        "address": "john@blocktransfer.io"
+      }
+    ],
+    "to": [
+      {
+        "uid": "aaonboarding@dtcc.com_aaonboarding@dtcc.com",
+        "flaggedForDeletion": false,
+        "name": "aaonboarding@dtcc.com",
+        "address": "aaonboarding@dtcc.com"
+      }
+    ],
+    "realAttachment": false,
+    "hasAttachment": false,
+    "replyTo": [],
+    "cc": [],
+    "bcc": [],
+    "messageId": "",
+    "teaser": "Hello, In correspondence with Ms. Dobrogoszcz and Mr. Gebon, we've been told to reach out to this email regarding our desire to register as a FAST Agent We are in talks with firms (nothing inked, yet)",
+    "body": null,
+    "bodyType": "",
+    "contentType": "",
+    "priorityRawValue": 0,
+    "size": 0,
+    "attachments": [],
+    "folderTypeRawValue": 6,
+    "sortableDate": "2021-06-07T16:49:11.000Z",
+    "fromContactsSearchableString": "john wooten john@blocktransfer.io",
+    "toContactsSearchableString": "aaonboarding@dtcc.com aaonboarding@dtcc.com",
+    "ccContactsSearchableString": "",
+    "bccContactsSearchableString": "",
+    "subjectSearchableString": "block transfer fast agent application via mr. gebon"
+  }
+}
