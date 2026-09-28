@@ -33,7 +33,28 @@ Direct corroborating SEC sources:
 - Mary L. Schapiro remarks discussing the committee's work (Oct. 24, 1991): https://www.sec.gov/news/speech/1991/102491schapiro.pdf
 - SEC 2004 concept release citing the report and specific pages: https://www.sec.gov/files/rules/concept/33-8393.pdf
 
-## Reading note — pages 7–8 and footnote 17
+# Reading
+
+## notes
+
+### page 8
+
+"COMPUTER TO COMPUTER LINK ESTABLISHED WITH THE DEPOSITORIES" plural
+
+urivursal chain over corporate
+
+id also has basis ah 63654
+
+"TO COMMENTIHY... INN COOPERATION WITH THE DEPONIHTWECINE to denigt hogdethc"
+> The Commission urges
+the SIA, the transfer agent community
+and the issuer community, in
+cooperation with the depositories, to
+design the electronic communication
+system, to build and test that system,
+and to implement the DRS prior to the
+)une 7, 1995 implementation date for
+T+3 settlement.^
 
 The substantial operational text of the 1994 DRS release is concentrated at the **end of page 7 and into page 8**.
 
@@ -41,6 +62,14 @@ At the end of page 7, the release describes the investor's registration choices 
 
 Page 8 then describes the transfer-agent acknowledgement/account-statement flow and moves into the Commission's policy discussion.
 
-**Footnote 17 is the important option-not-requirement point.** The Commission states that Rule 15c6-1 does not require customers to leave funds, securities, or both subject to a broker-dealer's possession or control, and warns broker-dealers not to tell customers that the rule requires them to leave securities or funds with the broker-dealer after trade settlement. In other words, faster settlement did not itself make continued street-name holding mandatory.
+
+### Footnote 17
+
+the important option-not-requirement point.** The Commission states that Rule 15c6-1 does not require customers to leave funds, securities, or both subject to a broker-dealer's possession or control, and warns broker-dealers not to tell customers that the rule requires them to leave securities or funds with the broker-dealer after trade settlement. In other words, faster settlement did not itself make continued street-name holding mandatory.
 
 Separately, the release notes earlier that account-statement/book-entry ownership was already commonplace for shares of open-end investment companies.
+
+
+
+
+
