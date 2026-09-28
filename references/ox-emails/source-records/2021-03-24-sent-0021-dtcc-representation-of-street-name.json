@@ -1,0 +1,69 @@
+{
+  "archiveSource": "blocktransfer.io-emails/files/AppDomain-com.openxchange.mobile.mailapp2/Documents/persistence/users/john@blocktransfer.io/persistence.realm",
+  "extractionNote": "Faithful JSON serialization of the selected MailDto record. The Realm backup did not retain a complete body or RFC 5322 .eml source for this message.",
+  "classification": "Direct DTCC correspondence",
+  "mailDto": {
+    "uid": "john@blocktransfer.io_0_default0/Sent_21",
+    "flaggedForDeletion": false,
+    "serializedMailIdentifier": "{\"flaggedFoDeletion\":false,\"userId\":\"john@blocktransfer.io\",\"serializedFolderIdentifier\":\"{\\\"accountId\\\":\\\"0\\\",\\\"uid\\\":\\\"john@blocktransfer.io_0_default0\\\\\\/Sent\\\",\\\"userId\\\":\\\"john@blocktransfer.io\\\",\\\"flaggedFoDeletion\\\":false,\\\"folderId\\\":\\\"default0\\\\\\/Sent\\\",\\\"folderType\\\":10}\",\"accountId\":\"0\",\"uid\":\"john@blocktransfer.io_0_default0\\/Sent_21\",\"folderId\":\"default0\\/Sent\",\"folderType\":10,\"mailId\":\"21\"}",
+    "serializedConversationIdentifier": "{\"folderType\":10,\"accountId\":\"0\",\"conversationId\":\"conversation-21\",\"userId\":\"john@blocktransfer.io\",\"uid\":\"john@blocktransfer.io_0_default0\\/Sent_conversation-21\",\"flaggedFoDeletion\":false,\"folderId\":\"default0\\/Sent\"}",
+    "stageRawValue": "envelope",
+    "folderUid": "john@blocktransfer.io_0_default0/Sent",
+    "mailId": "21",
+    "colorRawValue": 0,
+    "flags": {
+      "uid": "john@blocktransfer.io_0_default0/Sent_21",
+      "flaggedForDeletion": false,
+      "serializedMailIdentifier": "{\"folderId\":\"default0\\/Sent\",\"mailId\":\"21\",\"uid\":\"john@blocktransfer.io_0_default0\\/Sent_21\",\"userId\":\"john@blocktransfer.io\",\"flaggedFoDeletion\":false,\"folderType\":10,\"serializedFolderIdentifier\":\"{\\\"accountId\\\":\\\"0\\\",\\\"uid\\\":\\\"john@blocktransfer.io_0_default0\\\\\\/Sent\\\",\\\"userId\\\":\\\"john@blocktransfer.io\\\",\\\"flaggedFoDeletion\\\":false,\\\"folderId\\\":\\\"default0\\\\\\/Sent\\\",\\\"folderType\\\":10}\",\"accountId\":\"0\"}",
+      "folderUid": "john@blocktransfer.io_0_default0/Sent",
+      "answered": false,
+      "deleted": false,
+      "draft": false,
+      "flagged": false,
+      "forwarded": false,
+      "recent": false,
+      "spam": false,
+      "unread": false,
+      "user": false
+    },
+    "receivedDate": "2021-03-24T03:39:45.000Z",
+    "sentDate": "2021-03-24T03:39:45.000Z",
+    "subject": "DTCC Representation of Street Name",
+    "from": [
+      {
+        "uid": "john@blocktransfer.io_John Wooten",
+        "flaggedForDeletion": false,
+        "name": "John Wooten",
+        "address": "john@blocktransfer.io"
+      }
+    ],
+    "to": [
+      {
+        "uid": "sscharf@dtcc.com_",
+        "flaggedForDeletion": false,
+        "name": "",
+        "address": "sscharf@dtcc.com"
+      }
+    ],
+    "realAttachment": false,
+    "hasAttachment": false,
+    "replyTo": [],
+    "cc": [],
+    "bcc": [],
+    "messageId": "",
+    "teaser": "Hi Mr. Scharf, Hope you're well and smiling this beautiful week. Thanks for taking the time to look over the initial BT whitepaper / share with the Innovation Team—means a lot.  I have a few specific",
+    "body": null,
+    "bodyType": "",
+    "contentType": "",
+    "priorityRawValue": 0,
+    "size": 0,
+    "attachments": [],
+    "folderTypeRawValue": 6,
+    "sortableDate": "2021-03-24T03:39:45.000Z",
+    "fromContactsSearchableString": "john wooten john@blocktransfer.io",
+    "toContactsSearchableString": "sscharf@dtcc.com",
+    "ccContactsSearchableString": "",
+    "bccContactsSearchableString": "",
+    "subjectSearchableString": "dtcc representation of street name"
+  }
+}

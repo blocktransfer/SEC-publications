@@ -1,0 +1,69 @@
+{
+  "archiveSource": "blocktransfer.io-emails/files/AppDomain-com.openxchange.mobile.mailapp2/Documents/persistence/users/john@blocktransfer.io/persistence.realm",
+  "extractionNote": "Faithful JSON serialization of the selected MailDto record. The Realm backup did not retain a complete body or RFC 5322 .eml source for this message.",
+  "classification": "Additional DTCC-related correspondence",
+  "mailDto": {
+    "uid": "john@blocktransfer.io_0_default0/Sent_548",
+    "flaggedForDeletion": false,
+    "serializedMailIdentifier": "{\"folderId\":\"default0\\/Sent\",\"uid\":\"john@blocktransfer.io_0_default0\\/Sent_548\",\"userId\":\"john@blocktransfer.io\",\"flaggedFoDeletion\":false,\"accountId\":\"0\",\"mailId\":\"548\",\"serializedFolderIdentifier\":\"{\\\"folderId\\\":\\\"default0\\\\\\/Sent\\\",\\\"flaggedFoDeletion\\\":false,\\\"uid\\\":\\\"john@blocktransfer.io_0_default0\\\\\\/Sent\\\",\\\"folderType\\\":10,\\\"userId\\\":\\\"john@blocktransfer.io\\\",\\\"accountId\\\":\\\"0\\\"}\",\"folderType\":10}",
+    "serializedConversationIdentifier": "{\"folderType\":10,\"flaggedFoDeletion\":false,\"uid\":\"john@blocktransfer.io_0_default0\\/Sent_conversation-548\",\"conversationId\":\"conversation-548\",\"userId\":\"john@blocktransfer.io\",\"folderId\":\"default0\\/Sent\",\"accountId\":\"0\"}",
+    "stageRawValue": "envelope",
+    "folderUid": "john@blocktransfer.io_0_default0/Sent",
+    "mailId": "548",
+    "colorRawValue": 0,
+    "flags": {
+      "uid": "john@blocktransfer.io_0_default0/Sent_548",
+      "flaggedForDeletion": false,
+      "serializedMailIdentifier": "{\"flaggedFoDeletion\":false,\"accountId\":\"0\",\"mailId\":\"548\",\"folderId\":\"default0\\/Sent\",\"folderType\":10,\"serializedFolderIdentifier\":\"{\\\"folderId\\\":\\\"default0\\\\\\/Sent\\\",\\\"flaggedFoDeletion\\\":false,\\\"uid\\\":\\\"john@blocktransfer.io_0_default0\\\\\\/Sent\\\",\\\"folderType\\\":10,\\\"userId\\\":\\\"john@blocktransfer.io\\\",\\\"accountId\\\":\\\"0\\\"}\",\"userId\":\"john@blocktransfer.io\",\"uid\":\"john@blocktransfer.io_0_default0\\/Sent_548\"}",
+      "folderUid": "john@blocktransfer.io_0_default0/Sent",
+      "answered": false,
+      "deleted": false,
+      "draft": false,
+      "flagged": false,
+      "forwarded": false,
+      "recent": false,
+      "spam": false,
+      "unread": false,
+      "user": false
+    },
+    "receivedDate": "2022-04-26T15:19:42.000Z",
+    "sentDate": "2022-04-26T15:19:42.000Z",
+    "subject": "finishing contract docs/SLA ++ an MOU",
+    "from": [
+      {
+        "uid": "john@blocktransfer.io_John Wooten",
+        "flaggedForDeletion": false,
+        "name": "John Wooten",
+        "address": "john@blocktransfer.io"
+      }
+    ],
+    "to": [
+      {
+        "uid": "jwooten31@gatech.edu_jwooten31@gatech.edu",
+        "flaggedForDeletion": false,
+        "name": "jwooten31@gatech.edu",
+        "address": "jwooten31@gatech.edu"
+      }
+    ],
+    "realAttachment": false,
+    "hasAttachment": false,
+    "replyTo": [],
+    "cc": [],
+    "bcc": [],
+    "messageId": "",
+    "teaser": "persuant regualtions and oversign from the U.S. Securities and Excahnge Commission (\"the Commission\") and the Depository Trust & Clearing Corporation (\"DTCC\") <https://www.blocktransfer.io/> <https://",
+    "body": null,
+    "bodyType": "",
+    "contentType": "",
+    "priorityRawValue": 0,
+    "size": 0,
+    "attachments": [],
+    "folderTypeRawValue": 6,
+    "sortableDate": "2022-04-26T15:19:42.000Z",
+    "fromContactsSearchableString": "john wooten john@blocktransfer.io",
+    "toContactsSearchableString": "jwooten31@gatech.edu jwooten31@gatech.edu",
+    "ccContactsSearchableString": "",
+    "bccContactsSearchableString": "",
+    "subjectSearchableString": "finishing contract docs/sla ++ an mou"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "archiveSource": "blocktransfer.io-emails/files/AppDomain-com.openxchange.mobile.mailapp2/Documents/persistence/users/john@blocktransfer.io/persistence.realm",
+  "extractionNote": "Faithful JSON serialization of the selected MailDto record. The Realm backup did not retain a complete body or RFC 5322 .eml source for this message.",
+  "classification": "Additional DTCC-related correspondence",
+  "mailDto": {
+    "uid": "john@blocktransfer.io_0_default0/Sent_66",
+    "flaggedForDeletion": false,
+    "serializedMailIdentifier": "{\"accountId\":\"0\",\"serializedFolderIdentifier\":\"{\\\"flaggedFoDeletion\\\":false,\\\"accountId\\\":\\\"0\\\",\\\"folderId\\\":\\\"default0\\\\\\/Sent\\\",\\\"folderType\\\":10,\\\"uid\\\":\\\"john@blocktransfer.io_0_default0\\\\\\/Sent\\\",\\\"userId\\\":\\\"john@blocktransfer.io\\\"}\",\"folderType\":10,\"folderId\":\"default0\\/Sent\",\"flaggedFoDeletion\":false,\"userId\":\"john@blocktransfer.io\",\"mailId\":\"66\",\"uid\":\"john@blocktransfer.io_0_default0\\/Sent_66\"}",
+    "serializedConversationIdentifier": "{\"folderType\":10,\"userId\":\"john@blocktransfer.io\",\"uid\":\"john@blocktransfer.io_0_default0\\/Sent_conversation-66\",\"flaggedFoDeletion\":false,\"folderId\":\"default0\\/Sent\",\"accountId\":\"0\",\"conversationId\":\"conversation-66\"}",
+    "stageRawValue": "envelope",
+    "folderUid": "john@blocktransfer.io_0_default0/Sent",
+    "mailId": "66",
+    "colorRawValue": 0,
+    "flags": {
+      "uid": "john@blocktransfer.io_0_default0/Sent_66",
+      "flaggedForDeletion": false,
+      "serializedMailIdentifier": "{\"folderType\":10,\"serializedFolderIdentifier\":\"{\\\"flaggedFoDeletion\\\":false,\\\"accountId\\\":\\\"0\\\",\\\"folderId\\\":\\\"default0\\\\\\/Sent\\\",\\\"folderType\\\":10,\\\"uid\\\":\\\"john@blocktransfer.io_0_default0\\\\\\/Sent\\\",\\\"userId\\\":\\\"john@blocktransfer.io\\\"}\",\"userId\":\"john@blocktransfer.io\",\"uid\":\"john@blocktransfer.io_0_default0\\/Sent_66\",\"mailId\":\"66\",\"flaggedFoDeletion\":false,\"folderId\":\"default0\\/Sent\",\"accountId\":\"0\"}",
+      "folderUid": "john@blocktransfer.io_0_default0/Sent",
+      "answered": false,
+      "deleted": false,
+      "draft": false,
+      "flagged": false,
+      "forwarded": false,
+      "recent": false,
+      "spam": false,
+      "unread": false,
+      "user": false
+    },
+    "receivedDate": "2021-05-20T18:36:46.000Z",
+    "sentDate": "2021-05-20T18:36:46.000Z",
+    "subject": "Transfer Agent Verified Shares Program",
+    "from": [
+      {
+        "uid": "john@blocktransfer.io_John Wooten",
+        "flaggedForDeletion": false,
+        "name": "John Wooten",
+        "address": "john@blocktransfer.io"
+      }
+    ],
+    "to": [
+      {
+        "uid": "transferagents@otcmarkets.com_transferagents@otcmarkets.com",
+        "flaggedForDeletion": false,
+        "name": "transferagents@otcmarkets.com",
+        "address": "transferagents@otcmarkets.com"
+      }
+    ],
+    "realAttachment": false,
+    "hasAttachment": false,
+    "replyTo": [],
+    "cc": [],
+    "bcc": [],
+    "messageId": "",
+    "teaser": "Hello, We'd like to register for the Transfer Agent Verified Shares Program. Happy to provide all relevant DTCC information. Thank you, John Wooten",
+    "body": null,
+    "bodyType": "",
+    "contentType": "",
+    "priorityRawValue": 0,
+    "size": 0,
+    "attachments": [],
+    "folderTypeRawValue": 6,
+    "sortableDate": "2021-05-20T18:36:46.000Z",
+    "fromContactsSearchableString": "john wooten john@blocktransfer.io",
+    "toContactsSearchableString": "transferagents@otcmarkets.com transferagents@otcmarkets.com",
+    "ccContactsSearchableString": "",
+    "bccContactsSearchableString": "",
+    "subjectSearchableString": "transfer agent verified shares program"
+  }
+}
