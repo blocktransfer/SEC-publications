@@ -6,6 +6,10 @@ see SR-DTC-99-17, wihch als ohas that "each year the Holding
 Company's Board of Directors will appoint a nominating committee that 
 may include both members and nonmembers of the Board"
 
+Sources:
+- Proposal — Release No. 34-41657, 64 FR 43795 (Aug. 11, 1999): https://www.govinfo.gov/content/pkg/FR-1999-08-11/html/99-20701.htm
+- Approval — Release No. 34-41786, 64 FR 47882 (Sept. 1, 1999): https://www.govinfo.gov/content/pkg/FR-1999-09-01/pdf/99-22692.pdf
+
 ## Brainstorming Basis
 
 The line was originally created on **December 31, 2024 at 7:13:41 PM EST**. It was the sole line in a new file, added in commit `16a9e432` titled `Create tad-sro-ideas.md`:
