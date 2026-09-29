@@ -3,7 +3,6 @@
 ## References
 
 - Existing WhyDRS identity/compensation registry baseline: https://github.com/WhyDRS/DUNA-docs/blob/main/registry.md
-- SRF reference: TODO — the SRF URL was omitted from the source note. Marker: `>$400`.
 - Stellar application-security/custody guidance: https://developers.stellar.org/docs/build/apps/application-design-considerations#application-security
 - Freighter/dapp wallet-connect reference: https://developers.stellar.org/docs/build/guides/dapps/frontend-guide#interacting-with-the-stellar-network
 

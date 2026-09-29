@@ -6,3 +6,7 @@ it was a really tight and deep part of the {enigne...hood, whatever car part} wh
 
 i wanvt et inherit the CAT attribetion and inocorpat eht ahgenda28 speotneors at tehsatrat ofethr teh statiteroryc commissino thansk
    - mulitpl tilemse in the laset yejar weher i hav ebeen unabley to tyo with my left arm due to ""bri spec from rotarpy
+
+
+morego URL was omitted from the source note. Marker: `>$400`.
+its at https://chatgpt.com/c/6abb94b8-8a64-83e9-a295-91d579d37117
