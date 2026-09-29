@@ -215,14 +215,63 @@ https://inside-filings.com/fonds-portfolio/S000004393-short-term-investment-grad
 SEC registrant context:
 https://www.sec.gov/Archives/edgar/data/857490/000085749026000103/0000857490-26-000103-index-headers.html
 
-## Earlier candidate hits needing direct row confirmation
+## Additional ETF rows confirmed
 
-These names surfaced in the earlier holder search, but a direct CUSIP row was not independently re-confirmed in this pass. Keep them as follow-up targets rather than final citation support.
+### iShares 1-5 Year Investment Grade Corporate Bond ETF
 
-- iShares 1-5 Year Investment Grade Corporate Bond ETF / IGSB
-- iShares Broad USD Investment Grade Corporate Bond ETF / USIG
-- iShares Core Total USD Bond Market ETF / IUSB
-- Invesco Total Return Bond ETF / GTO
+Bond: 249672AC0 / US249672AC06
+
+Report date: May 31, 2026
+
+Principal: $3,105,000
+
+Reported value: $3,095,665
+
+Reported value as percent of NAV: 0.01%
+
+https://inside-filings.com/fonds-portfolio/S000013697-ishares-1-5-year-investment-grade-corporate-bond-etf
+
+### iShares Broad USD Investment Grade Corporate Bond ETF
+
+Bond: 249672AC0 / US249672AC06
+
+Report date: May 31, 2026
+
+Principal: $995,000
+
+Reported value: $992,011
+
+Reported value as percent of NAV: 0.01%
+
+https://inside-filings.com/fonds-portfolio/S000013699-ishares-broad-usd-investment-grade-corporate-bond-etf
+
+### iShares Core Universal USD Bond ETF
+
+Bond: 249672AC0 / US249672AC06
+
+Report date: July 31, 2026
+
+Principal: $500,000
+
+Reported value: $494,274
+
+https://inside-filings.com/fonds-portfolio/S000045644-ishares-core-universal-usd-bond-etf
+
+### Invesco Total Return Bond ETF
+
+Bond: 249672AC0 / US249672AC06
+
+Report date: April 30, 2026
+
+Principal: $2,388,000
+
+Reported value: $2,389,386
+
+Reported value as percent of NAV: 0.11%
+
+https://inside-filings.com/fonds-portfolio/S000060784-invesco-total-return-bond-etf
+
+The Invesco portfolio page is based on SEC Form N-PORT. A later July 2026 holdings source also shows the 4.55% DTC note due March 27, 2031 in GTO, but that later row is not being treated here as an N-PORT-confirmed position.
 
 ## Notes
 
