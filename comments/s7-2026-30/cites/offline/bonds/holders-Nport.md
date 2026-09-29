@@ -1,14 +1,6 @@
-# DTC bond N-PORT holders
-
-Scope:
-
-- CUSIP 249672AC0 / ISIN US249672AC06 - The Depository Trust Company, 4.30%, due March 27, 2029
-- CUSIP 249672AA4 / ISIN US249672AA40 - The Depository Trust Company, 4.55%, due March 27, 2031
 
 SEC Form N-PORT data sets:
 https://www.sec.gov/data-research/sec-markets-data/form-n-port-data-sets
-
-## Direct SEC filing hits
 
 ### Fidelity Education Fund
 
