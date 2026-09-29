@@ -7,7 +7,7 @@
 
 2nd issue (600m) has like no trading
 
-No publicly-traded CDS for DTC
+No publicly-traded CDS for DTC (sentiement shared: 'not likely to be in the market' approx quote)
 
 (all is on Rogo AI)
 
@@ -31,9 +31,7 @@ No quoted CDS to pull
 
 Bonds not rated
 
-DTC not likely CDS market
-
-"classified in fund Port-P filing under issuer_corp"
+> "classified in fund Port-P filing under issuer_corp" --> into teh Nports
 
 
 
