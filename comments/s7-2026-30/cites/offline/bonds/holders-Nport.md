@@ -1,0 +1,231 @@
+# DTC bond N-PORT holders
+
+Scope:
+
+- CUSIP 249672AC0 / ISIN US249672AC06 - The Depository Trust Company, 4.30%, due March 27, 2029
+- CUSIP 249672AA4 / ISIN US249672AA40 - The Depository Trust Company, 4.55%, due March 27, 2031
+
+SEC Form N-PORT data sets:
+https://www.sec.gov/data-research/sec-markets-data/form-n-port-data-sets
+
+## Direct SEC filing hits
+
+### Fidelity Education Fund
+
+Bond: 249672AC0 / US249672AC06
+
+Report date: May 31, 2026
+
+Principal: $623,000
+
+Reported value: $621,197
+
+The position is reported as Depository Trust Co/The 4.3% 3/27/2029 and marked as a Rule 144A security.
+
+SEC accession: 0000035402-26-004662
+
+https://www.sec.gov/Archives/edgar/data/803013/000003540226004662/0000035402-26-004662-index.html
+
+### SEI Institutional Investments Trust / SIIT Intermediate Duration Credit Fund
+
+Bond: 249672AA4 / US249672AA40
+
+Report date: May 31, 2026
+
+Principal: $3,190,000
+
+Reported value: $3,179,779.08
+
+The raw N-PORT reports assetCat=DBT, issuerCat=CORP, Level 2, and the title DEPOSITORY TRUST CO/THE 144A 4.550000% 03/27/2031.
+
+SEC accession: 0002048251-26-006212
+
+https://www.sec.gov/Archives/edgar/data/939934/000204825126006212/0002048251-26-006212-index.html
+
+https://www.sec.gov/Archives/edgar/data/939934/000204825126006212/0002048251-26-006212.txt
+
+### Allspring Ultra Short-Term Income Fund
+
+Bond: 249672AC0 / US249672AC06
+
+Report date: May 31, 2026
+
+Principal: $5,835,000
+
+Reported value: $5,818,117
+
+SEC portfolio schedule:
+https://www.sec.gov/Archives/edgar/data/1081400/000141036826075596/NPORT_WBB9_95411750_0526.htm
+
+## Additional N-PORT-derived holder rows
+
+These entries are mirrored from reported Form N-PORT holdings. Use the SEC filing itself for final citation where a raw filing link has not yet been attached.
+
+### Calamos Short-Term Bond Fund
+
+Bond: 249672AA4 / US249672AA40
+
+Principal: $1,000,000
+
+Reported value: about $1,001,650
+
+https://inside-filings.com/fonds-portfolio/S000062995-calamos-short-term-bond-fund
+
+Calamos also publishes the position in its March 31, 2026 holdings report:
+https://www.calamos.com/globalassets/media/shared/funds/schedule-of-investments/mf/shorttermbond_scheduleofinvestments.pdf
+
+### Northern Funds - Fixed Income Fund
+
+Bond: 249672AA4 / US249672AA40
+
+Principal: $250,000
+
+Reported value: $248,541
+
+Reported as restricted.
+
+https://inside-filings.com/fonds-portfolio/S000001252-fixed-income-fund
+
+### PIMCO Moderate Duration Portfolio
+
+Bond: 249672AA4 / US249672AA40
+
+Principal: $1,000,000
+
+Reported value: $994,608
+
+https://inside-filings.com/fonds-portfolio/S000034606-pimco-moderate-duration-portfolio
+
+### Dimensional Short-Duration Fixed Income ETF
+
+Bond: 249672AA4 / US249672AA40
+
+Principal: $11,810,000
+
+Reported value: $11,648,805
+
+Reported as restricted.
+
+https://inside-filings.com/fonds-portfolio/S000073560-dimensional-short-duration-fixed-income-etf
+
+### Allspring Core Plus Bond Fund
+
+Bond: 249672AA4 / US249672AA40
+
+Principal: $11,075,000
+
+Reported value: $11,039,515
+
+https://inside-filings.com/fonds-portfolio/S000007418-allspring-core-plus-bond-fund
+
+### Allspring Managed Account CoreBuilder Shares Series CP
+
+Bond: 249672AA4 / US249672AA40
+
+Principal: $1,145,000
+
+Reported value: $1,141,331
+
+https://inside-filings.com/fonds-portfolio/S000069934-allspring-managed-account-corebuilder-shares-series-cp
+
+### Allspring Core Plus ETF
+
+Bond: 249672AA4 / US249672AA40
+
+Principal: $415,000
+
+Reported value: $413,670
+
+https://inside-filings.com/fonds-portfolio/S000088477-allspring-core-plus-etf
+
+### Allspring Broad Market Core Bond ETF
+
+Bond: 249672AA4 / US249672AA40
+
+Principal: $250,000
+
+Reported value: $249,199
+
+https://inside-filings.com/fonds-portfolio/S000088476-allspring-broad-market-core-bond-etf
+
+### Allspring Short-Term Bond Plus Fund
+
+Bond: 249672AC0 / US249672AC06
+
+Principal: $2,260,000
+
+Reported value: $2,253,461
+
+https://inside-filings.com/fonds-portfolio/S000007427-allspring-short-term-bond-plus-fund
+
+### PGIM Ultra Short Bond ETF
+
+Bond: 249672AC0 / US249672AC06
+
+Principal: $12,000,000
+
+Reported value: $11,955,859
+
+Reported title includes DTCSLF 4.3 03/27/29 144A.
+
+https://inside-filings.com/fonds-portfolio/S000061589-pgim-ultra-short-bond-etf
+
+### Vanguard Institutional Short-Term Bond Fund
+
+Bond: 249672AC0 / US249672AC06
+
+Principal: $4,285,000
+
+Reported value: $4,259,545
+
+Reported as restricted.
+
+https://inside-filings.com/fonds-portfolio/S000049659-vanguard-institutional-short-term-bond-fund
+
+### State Street Ultra Short Term Bond ETF
+
+Bond: 249672AC0 / US249672AC06
+
+Principal: $1,735,000
+
+Reported value: $1,724,694
+
+https://inside-filings.com/fonds-portfolio/S000038607-state-street-r-ultra-short-term-bond-etf
+
+State Street current fund page:
+https://www.ssga.com/us/en/individual/etfs/state-street-ultra-short-term-bond-etf-ulst
+
+### State Street My2029 Corporate Bond ETF
+
+Bond: 249672AC0 / US249672AC06
+
+Principal: $250,000
+
+Reported value: $249,080
+
+https://inside-filings.com/fonds-portfolio/S000087950-state-street-r-my2029-corporate-bond-etf
+
+### Vanguard Variable Insurance Funds - Short-Term Investment-Grade Portfolio
+
+Prior N-PORT-derived searches identify DTC holdings in this portfolio, including the 2031 tranche and an earlier hit for both DTC tranches. This is notable because the portfolio is a variable insurance fund rather than a 529 education fund.
+
+Fund N-PORT mirror:
+https://inside-filings.com/fonds-portfolio/S000004393-short-term-investment-grade-portfolio
+
+SEC registrant context:
+https://www.sec.gov/Archives/edgar/data/857490/000085749026000103/0000857490-26-000103-index-headers.html
+
+## Earlier candidate hits needing direct row confirmation
+
+These names surfaced in the earlier holder search, but a direct CUSIP row was not independently re-confirmed in this pass. Keep them as follow-up targets rather than final citation support.
+
+- iShares 1-5 Year Investment Grade Corporate Bond ETF / IGSB
+- iShares Broad USD Investment Grade Corporate Bond ETF / USIG
+- iShares Core Total USD Bond Market ETF / IUSB
+- Invesco Total Return Bond ETF / GTO
+
+## Notes
+
+The list is a working holder inventory, not an assertion that every fund currently holds the bonds. N-PORT positions are report-date snapshots and can change between filings.
+
+The strongest current source chain is the SEC filing itself. Inside-Filings is useful here as an N-PORT-derived index for discovering the exact fund series and reported row, but any quotation in the final comment should be checked against the corresponding SEC filing.
