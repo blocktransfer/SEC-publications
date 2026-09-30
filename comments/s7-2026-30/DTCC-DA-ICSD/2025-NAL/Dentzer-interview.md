@@ -31,6 +31,7 @@ then 16 is the Bankers Trust init, which he simimlaily sattes got overturned
 
 ## NInint STerak cohtnege
 
+he talks about benig assignved the role without a ton of dirrect haddgingi with eth orgiaivers at 22
 
 
 # Quotes
@@ -52,3 +53,16 @@ then 16 is the Bankers Trust init, which he simimlaily sattes got overturned
 18 [1972]
 
 
+> We had to continue the process of changing state laws around the country, which BASIC was deeply involved in and had set up a good relationship with the bodies concerned with amendments to the Uniform
+> 22
+
+> There was a proposal in this area, a little later, for a stock transfer tax but that got shot down. We did not play any role in that. That got shot down as being counterproductive to the whole idea of fostering widespread public ownership of securities.
+> 22 DM on TT ~
+
+
+
+> we were in the process of putting the transfer agent business of a New York bank out of business – over time, but out of business.
+> 24
+
+> BASIC was still in existence as a committee. It was involved heavily in the lobbying with both the Senate and House committees on that bill. DTC also took a prominent role and I testified. The Securities Industry Association, as it was then called, the trade association for broker-dealers, took the same position that BASIC and DTC took.
+> at 29
