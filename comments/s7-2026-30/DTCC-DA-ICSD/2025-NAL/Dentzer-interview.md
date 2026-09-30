@@ -38,3 +38,17 @@ then 16 is the Bankers Trust init, which he simimlaily sattes got overturned
 > breaking down those barriers to competition was important to me
 > 13
 
+> In the course of being superintendent – and this directly bears on our subject today – the Banking and Securities Industry Committee came to see me in the person of John Meyer, the ex-chairman of the board of Morgan Guaranty Trust Company, and Herman Bevis, who was the executive director of the Banking and Securities Industry Committee.
+> 17
+
+> They wanted, as a culmination of their work, to create a securities depository chartered as a trust company in New York which could hold securities for similar to-be-formed trust companies in other states.  They could not get, they said, a charter from the Federal Reserve because the Federal Reserve did not want to charter a bank as a limited purpose trust company, nor did the comptroller of the currency.
+> 17
+
+## NONdeffereal to the satte banknig ruegulators that HE harps on so mech later on
+ 
+ > My view was that the public purpose was valid, but that the capabilities of the state banking department were not enough to supervise such an entity, and I would only do it if the SEC wanted me to. The idea was that this depository would be spun out of the New York Stock Exchange, in which event it would cease to be regulated by the SEC. The SEC could regulate the Central Certificate Service, a unit of the Stock Clearing Corporation of the New York Stock Exchange, because it was an entity of the Exchange. When CCS was spun out, I wanted SEC supervision to continue.
+
+ > Yes, I talked to the Chairman of the SEC who encouraged me to do it. I made it clear that I wanted them to do the substantive regulation because the banking department had no ability to do that.
+18 [1972]
+
+
