@@ -14,4 +14,4 @@ Key point: the approved rule made broker-dealers fund transfer-agent development
 
 For ongoing support, DTC also charged broker-dealers $0.75 per Profile transaction, with the fee adjusted annually for DRS Profile volume. DTC paid eligible transfer agents $2,080 per month for 2,000 or more monthly Profile transactions, $800 per month for 200-1,999 monthly transactions, and nothing below 200 monthly transactions; the transfer agents represented on the DRS Ad Hoc Committee agreed that transactional remuneration would not exceed $25,000 per transfer agent per year. 73 FR 68466-67.
 
-Takeaway: DRS Profile development and ongoing support were not simply independently funded by transfer agents. The approved DTC rule routed broker-dealer funding through DTC for both initial development reimbursement and ongoing transfer-agent remuneration, with DTC collecting the per-transaction charges and paying eligible transfer agents under the rule's schedule.
+DTC's current fee schedule still charges $0.75 per DRS Profile DO and rebates those collections to qualifying transfer agents under substantially the same monthly tiers approved in 2008.
