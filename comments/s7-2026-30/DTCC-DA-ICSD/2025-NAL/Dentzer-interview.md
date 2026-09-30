@@ -98,3 +98,13 @@ Because it would loosen their influence, they thought, on DTC. Not that they had
 > the corporation would say, "We have to treat you [DTC] like everyone else." [they accept this]
 > 38
 
+
+As a matter of philosophy, do you think that the DTC, or its successor company now, the
+DTCC, should er on the side of caution?
+
+WD: Yes. Caution in the sense that you want to be sure that any change works, that any
+change to get the efficiency that you wish to get doesn't fail and, therefore, raise
+questions about the whole process. Right now, as you know - how many billion shares
+are traded every day in the United States, if we think back to when the six million
+paralyzed the Stock Exchange, wow. You don't want anything to go wrong with that.
+You want to make progress, but make progress where you know you can succeed
