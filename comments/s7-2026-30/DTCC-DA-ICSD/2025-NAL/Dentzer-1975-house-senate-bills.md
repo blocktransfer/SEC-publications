@@ -62,7 +62,7 @@ This is a useful separation from the later "Fed oversight" fight.
 On May 5, 1972, the Board of Governors described S. 2551 as creating a "new federally-chartered National Securities Corporation" and said the objectives would be better served by broadening SEC authority under S. 3297/S. 3412 than by creating the new corporation.
 
 Federal Reserve Board minutes and attached statement:
-- https://files.crisesnotes.com/NT50909.pdf
+- https://fraser.stlouisfed.org/title/minutes-board-governors-federal-reserve-system-821/meeting-minutes-may-5-1972-683734
 
 So "federally chartered national corporation" and "Federal Reserve safety-and-soundness oversight" were not the same policy. The Fed itself opposed the former while later seeking a bank-regulatory role over private bank depositories.
 
