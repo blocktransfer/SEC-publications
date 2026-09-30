@@ -26,3 +26,6 @@ This folder contains congressional materials used with the enrolled bill:
 ## Best uses
 
 This is the best source for separating two complementary ideas in the 1975 design: competitive/private development of market structure where competition could work, and federal intervention to require shared infrastructure or remove exclusionary restraints where competition alone would not produce an integrated national system.
+
+
+

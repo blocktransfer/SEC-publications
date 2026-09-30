@@ -26,3 +26,24 @@ Page 8:
 >chairman of hoese committee
 needs pageref and typos
 
+
+# Doc 3
+
+THis its the ahearing wteher Moss' conpce gets completely shot down, cira 52. It states the move to nte senate.
+
+
+It's acteally a really intereceting cite for CAT and the terading reptnh juristpidence:
+> The House amendment directed the Commission to establish a national market system for transactions in securities and, further, prescribed the basic elements of the system. These elements included a transactional reporting system, a composite quotation system, and a system of rules and regulations designed to provide fair competition between competitors within the system.
+
+ths oft didnt happen, as the sentate bill was more fleikebl and took intl 84 to even start OATS
+
+main doc ocmp 
+
+TODO REQ REF
+
+93 haggise over ering for dewt soerta like the c2-11 changes earlerl this yoar
+
+then the re is awhalo soction on SELF-REGULATION AND SEC OVERSIGHT -- it's a really good doh oww
+
+at 103 is the basis for the LSSP (not stocak)
+> The Senate bill amended section 28 of the Securities Exchange Act of 1934 with respect to arbitration proceedings between self-regulatory organizations and their participants, members, or persons dealing with members or participants. The House amendment contained no comparable provision. The House receded to the Senate. It was the clear understanding of the conferees that this amendment did not change existing law, as articulated in _Wilko v. Swan_, 346 U.S. 427 (1953), concerning the effect of arbitration proceeding provisions in agreements entered into by persons dealing with members and participants of self-regulatory organizations.
