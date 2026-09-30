@@ -21,5 +21,5 @@ The dark-mode PDF uses lossless grayscale page images to preserve the source's a
 ```text
 46f85188b54a38b8149a81ff2c7ee0b6eba24dd0f4930a81b3368003a2d9440e  20110720_Dentzer_William.mp3
 4d102b6b77660768bb65372f8c7d8753684fd364691370c210aea0b7af1311e8  transcript.pdf
-c8a92a596697cdbdd66f2cccb56325e59672789c489ba50950519a36396664e4  transcript.md
+9d37cb1f2ad1d32392d7570a352ceaf59c35a3a3c7b84372d76c86c42f874a55  transcript.md
 ```
