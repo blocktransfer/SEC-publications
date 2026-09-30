@@ -8,18 +8,4 @@
 - **Source:** [William Dentzer oral history](https://demo.sechistorical.org/museum/oral-histories/a-d/#Dentzer)
 - **Original audio:** [MP3](https://demo.sechistorical.org/collection/oral-histories/20110720_Dentzer_William.mp3)
 
-## Local copies
-
-- [Audio interview](20110720_Dentzer_William.mp3) — 1:28:18
-- [Dark-mode transcript](transcript.pdf) — 52 pages, rendered at 240 DPI
-- [Markdown transcript](transcript.md) — mechanically extracted from the Society's edited transcript
-
-The dark-mode PDF uses lossless grayscale page images to preserve the source's appearance under color inversion. Use the Markdown transcript for searchable text.
-
-## SHA-256
-
-```text
-46f85188b54a38b8149a81ff2c7ee0b6eba24dd0f4930a81b3368003a2d9440e  20110720_Dentzer_William.mp3
-4d102b6b77660768bb65372f8c7d8753684fd364691370c210aea0b7af1311e8  transcript.pdf
-9d37cb1f2ad1d32392d7570a352ceaf59c35a3a3c7b84372d76c86c42f874a55  transcript.md
-```
+mirroring this until they sort out their final hosting arrangemetns
