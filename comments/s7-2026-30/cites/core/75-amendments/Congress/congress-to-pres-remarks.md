@@ -53,3 +53,7 @@ A customer, Wilko, sued the brokerage Hayden, Stone & Co. under § 12(2) of the 
 The Supreme Court held that the broker could not enforce that predispute arbitration clause against the Securities Act claim. Section 14 of the 1933 Act said that any contractual provision requiring a securities purchaser to "waive compliance" with the Act was void. The Court treated the investor's statutory right to choose a judicial forum as one of those protected rights. It was particularly concerned that arbitration offered much less judicial review of mistakes of securities law. [Wilko v. Swan, 346 U.S. 427 (1953)](https://www.courtlistener.com/opinion/105171/wilko-v-swan/)
 
 There is an important later history, though. The Supreme Court eventually reversed course. In Rodriguez de Quijas v. Shearson/American Express, Inc., 490 U.S. 477 (1989), it expressly overruled Wilko and held that predispute agreements to arbitrate Securities Act claims are enforceable. [Rodriguez de Quijas](https://www.courtlistener.com/opinion/112261/rodriguez-de-quijas-v-shearsonamerican-express-inc/)
+
+# Doc 4
+
+This is a celan ref for the actual Presidenteal stotoament on siginnig
