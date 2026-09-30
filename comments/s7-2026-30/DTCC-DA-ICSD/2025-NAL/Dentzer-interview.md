@@ -90,3 +90,9 @@ So the banks wanted to be sure that bank participants had the ability to buy DTC
 Because it would loosen their influence, they thought, on DTC. Not that they had any to speak of, but it was a matter of pride also. It was the majority owner of this apparently modest but successful organization. So I worked, through a friend of mine at Merrill Lynch, to have Don Regan, who was chairman and CEO of Merrill Lynch and also a board member of the New York Stock Exchange, press for the ability of broker-dealers to own stock in DTC directly, instead of being represented by the New York Stock Exchange, the NASD and the AMEX. Needham, of course, had to be happy to go along with that. Many brokers did not actually buy DTC stock because they did not see any point in it. They were happy with the way things were. But the precedent had been set when Merrill and some other broker-dealers bought stock in the depository.
 
 
+
+***
+
+> the corporation would say, "We have to treat you [DTC] like everyone else." [they accept this]
+> 38
+
