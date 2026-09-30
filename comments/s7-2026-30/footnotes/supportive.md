@@ -45,5 +45,5 @@ this has basisis in DC's [^nqg], and I posit doing it as the only coendown ask d
 
 [Establish the protocol-native order book.][^dex-order-book] [Explain the protocol's automated market makers.][^dex-amm] [Accompanying text.] [Last sentence.]
 
-[^single-dex-seed]: _See_ Liquidity on Stellar: Stellar Decentralized Exchange & Liquidity Pools, AA https://developers.stellar.org/docs/learn/fundamentals/liquidity-on-stellar-sdex-liquidity-pools) (explaining that Stellar uses orderbooks to operate its decentralized exchange). Singleline
-[^dex-amm]: _Id._ at z, for the MMS once you establish the order book with the first primary cite. _See also_ PREV n.149 and accompanying text. Then a last sentence.
+[^single-dex-seed]: _See_ Liquidity on Stellar: Stellar Decentralized Exchange & Liquidity Pools, AA https://developers.stellar.org/docs/learn/fundamentals/liquidity-on-stellar-sdex-liquidity-pools) (orderbooks index to decentralized exchange). Singleline as is ~~
+[^dex-amm]: _Id._ at z, for the MMS once you establish the orderbook with the first primary cite. _See also_ PREV n.149 and accompanying text. Then a last sentence.

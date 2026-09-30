@@ -70,6 +70,8 @@ at 34 he expresseses conecer over teh crediworcthneyy of ethore doenpsitores at 
 > BASIC was still in existence as a committee. It was involved heavily in the lobbying with both the Senate and House committees on that bill. DTC also took a prominent role and I testified. The Securities Industry Association, as it was then called, the trade association for broker-dealers, took the same position that BASIC and DTC took.
 > at 29
 
+He gets at the G30 frhom 47 on
+
 
 ## setup for teh late 80s gov shift
 
