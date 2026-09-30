@@ -15,18 +15,11 @@ Status: Draft
 
 # Cover
 
-//terminus
-
-<!-- i wanvt et inherit the CAT attribetion and inocorpat eht ahgenda28 speotneors at tehsatrat ofethr teh statiteroryc commissino thansk(And tht i'm okay wiht up to 3 pages of cv)
-   - mulitpl tilemse in the laset yejar weher i hav ebeen unabley to tyo with my left arm due to ""bri spec from rotarpy -->
-
-* * *
+//terminus only
 
 # [[TOC]]
 
-# Table of Citations
-
-atm i dont think this needs any surrouding substantiation or intro
+# Federal Register Citations
 
 | Description | Release | Source |
 | -------- | ------ | ----- |

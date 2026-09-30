@@ -38,3 +38,5 @@ time basis also in prev n.10
 [1984-plus-ten]: 59 FR 63652–63667 (onw)ards
 
 [gnu-stallman-alignment]: the licensivnge correctino & commit
+
+[fidelity-education-dtc]: See PREV section 5 and the accompanying WhatCanIMakeToday image using Ken Griffin's example of teachers' pension plans. The analogy is not exact: Fidelity Education Fund is not a teacher pension fund. Fidelity states that its shares are available only to certain offerings within Fidelity-managed 529 plans, so this is education-savings money for students and families rather than teachers' retirement money. The fund nevertheless reported holding $623,000 principal of The Depository Trust Company's 4.30% notes due March 27, 2029, a Rule 144A security. See https://www.sec.gov/Archives/edgar/data/803013/000080301325000052/filing10898.htm and SEC accession 0000035402-26-004662 at https://www.sec.gov/Archives/edgar/data/803013/000003540226004662/0000035402-26-004662-index.html. See also comments/s7-2026-30/cites/offline/bonds/offering-cusips.md.

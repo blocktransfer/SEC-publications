@@ -1,53 +1,46 @@
-# Handwritten notes transcription
-
-Transcribed from the photographed handwritten notes on September 28, 2026.
-
-Uncertain readings are marked with brackets rather than silently resolved.
-
-## Top-left
-
-2nd one yields 5%
-
-98:1 to  
-98:2 bid
-
-2% discount / offer
-
-## Top-center
-
-ACO — another tranche
-
-No quoted CDS to pull
-
-Can do search on Wednesday →
-
-## Bottom-left
-
-Bonds not rated
-
-DTC not likely CDS market
-
-" classified in final Part-P filing under [issuer/corp?]
+# Initial call notes 
 
 1 Sep 2026
 
-## Bottom-right
+## Further series 249672AC0
 
-60m traded on 400m  
-2nd in life — no trading [?]
+60m traded on 400m  outstanding
 
-No publicly-traded CDS  
-for DTC on "ROGO AI"
 
-144A
 
-held in Northern
+No publicly-traded CDS for DTC (sentiement shared: 'not likely to be in the market' approx quote)
 
-Calamos, Allspring, MCO, Vanguard, GSE [?]
 
-Funds  
-~~Trust~~
 
-## Uncertain readings
 
-The least-certain portions are "[issuer/corp?]" on the bottom-left note and the tiny line beneath "400m" on the bottom-right note.
+they are 144A placements held by parties including Northern Funds, Calamos, Allspring, MCO, Vanguard SEI
+
+
+
+
+
+## ACO6 2029 — 600M tranche
+
+No quoted CDS to pull
+
+bond has like no trading
+
+
+
+
+
+Bonds not rated
+
+> "classified in fund Port-P filing under issuer_corp" --> into teh Nports
+
+
+## Market
+
+2nd one yields 5%
+
+98:1 to 98:2 bid / offer
+
+2% discount
+
+
+
