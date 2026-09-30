@@ -66,3 +66,24 @@ he talks about benig assignved the role without a ton of dirrect haddgingi with 
 
 > BASIC was still in existence as a committee. It was involved heavily in the lobbying with both the Senate and House committees on that bill. DTC also took a prominent role and I testified. The Securities Industry Association, as it was then called, the trade association for broker-dealers, took the same position that BASIC and DTC took.
 > at 29
+
+
+## setup for teh late 80s gov shift
+
+at 30:
+Yes. BASIC’s formula for DTC was that bank users would eventually be able to buy stock in it. Particularly, they were concerned that the banks be able to own stock in the depository as a way of giving them influence through membership on its board. Broker-dealers, obviously, would account for the great amount of activity in the depository. The banks were not traders, but more custodians than anything else. And the banks wanted to be sure that they had a right to be at the table, not just be there at the sufferance of somebody whose mind might change with changing characters.
+
+So the banks wanted to be sure that bank participants had the ability to buy DTC stock. Once banks were able to buy its stock, the broker-dealers said, “Hey, why can’t we buy stock? Why should the New York Stock Exchange, the NASD and the AMEX represent us when we could be represented directly?” The NYSE, under Jim Needham, did not want that to happen.
+
+> Why not?
+
+Because it would loosen their influence, they thought, on DTC. Not that they had any to speak of, but it was a matter of pride also. It was the majority owner of this apparently modest but successful organization. So I worked, through a friend of mine at Merrill Lynch, to have Don Regan, who was chairman and CEO of Merrill Lynch and also a board member of the New York Stock Exchange, press for the ability of broker-dealers to own stock in DTC directly, instead of being represented by the New York Stock Exchange, the NASD and the AMEX. Needham, of course, had to be happy to go along with that. Many brokers did not actually buy DTC stock because they did not see any point in it. They were happy with the way things were. But the precedent had been set when Merrill and some other broker-dealers bought stock in the depository.
+Yes. BASIC’s formula for DTC was that bank users would eventually be able to buy stock in it. Particularly, they were concerned that the banks be able to own stock in the depository as a way of giving them influence through membership on its board. Broker-dealers, obviously, would account for the great amount of activity in the depository. The banks were not traders, but more custodians than anything else. And the banks wanted to be sure that they had a right to be at the table, not just be there at the sufferance of somebody whose mind might change with changing characters.
+
+So the banks wanted to be sure that bank participants had the ability to buy DTC stock. Once banks were able to buy its stock, the broker-dealers said, “Hey, why can’t we buy stock? Why should the New York Stock Exchange, the NASD and the AMEX represent us when we could be represented directly?” The NYSE, under Jim Needham, did not want that to happen.
+
+> Why not?
+
+Because it would loosen their influence, they thought, on DTC. Not that they had any to speak of, but it was a matter of pride also. It was the majority owner of this apparently modest but successful organization. So I worked, through a friend of mine at Merrill Lynch, to have Don Regan, who was chairman and CEO of Merrill Lynch and also a board member of the New York Stock Exchange, press for the ability of broker-dealers to own stock in DTC directly, instead of being represented by the New York Stock Exchange, the NASD and the AMEX. Needham, of course, had to be happy to go along with that. Many brokers did not actually buy DTC stock because they did not see any point in it. They were happy with the way things were. But the precedent had been set when Merrill and some other broker-dealers bought stock in the depository.
+
+
