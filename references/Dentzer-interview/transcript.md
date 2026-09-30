@@ -358,9 +358,17 @@ Because it would be a financial outlay to do it. So why do it if the organizatio
 
 It didn’t. No. It was an ideal arrangement. The only person who was somewhat concerned was me. Did it look like, “Well, why aren’t more broker-dealers buying your stock?” Because they’re happy with the way things are. Why spend money when you don’t have to? And they know each year they can buy the stuff the next year, ‘cause our stated policy was that each year we’d reallocate participation entitlement to buy our stock based on fees they paid the depository and on other activity.
 
-> Was there ever any period while you were there that a number of companies bought stock? Obviously, they’re buying slowly over the years.
+> Right. But was there ever any period while you were there that a number of companies bought stock? Or, obviously, they’re buying it slowly over the years.
 
-No. I think some people thought, “Well, maybe it will help me to get a board seat if my company buys the stock.” Or some people just felt it was the responsible thing to do. Good citizen. We should do it. Most didn’t.
+No.
+
+> But there was?
+
+You’d get some to do it. I think some people thought, “Well, maybe it will help me to get a board seat if my company buys the stock.”
+
+> Yeah.
+
+Or some people just felt it was the responsible thing to do. Good citizen. We should do it. Most didn’t.
 
 > All right. Also during this period of the 1970s, you were continuing BASIC’s work of working with states to pass changes to the Universal Commercial Code.
 

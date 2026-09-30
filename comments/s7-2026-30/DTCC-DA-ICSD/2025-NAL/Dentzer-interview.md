@@ -33,6 +33,9 @@ then 16 is the Bankers Trust init, which he simimlaily sattes got overturned
 
 he talks about benig assignved the role without a ton of dirrect haddgingi with eth orgiaivers at 22
 
+## interconnecting
+
+at 34 he expresseses conecer over teh crediworcthneyy of ethore doenpsitores at teh ned
 
 # Quotes
 
