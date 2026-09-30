@@ -2,7 +2,10 @@
 
 SR-DTC-2008-07; Exchange Act Release No. 34-58910; 73 FR 68465, 68466-67 (Nov. 18, 2008)
 
-Federal Register:
+Full Federal Register issue (see 73 FR 68466-67):
+https://www.govinfo.gov/content/pkg/FR-2008-11-18/pdf/FR-2008-11-18.pdf
+
+Extracted notice:
 https://www.govinfo.gov/content/pkg/FR-2008-11-18/pdf/E8-27278.pdf
 
 SEC release:
