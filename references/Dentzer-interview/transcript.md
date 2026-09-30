@@ -2,80 +2,75 @@
 
 Conducted by James Stocker for the Securities and Exchange Commission Historical Society on July 20, 2011.
 
-This Markdown transcript was mechanically extracted from the Society's edited transcript PDF. Page markers correspond to the source PDF.
+This Markdown transcript was mechanically extracted from the Society's edited transcript PDF.
 
-<!-- Page 1 -->
+> This is an interview with William “Bill” Dentzer for the SEC Historical Society’s virtual
+> museum and archive on the history of financial regulation.  I’m James Stocker.  Today is
+> July 20, 2011.  Welcome, Bill.
 
-**JS:** This is an interview with William “Bill” Dentzer for the SEC Historical Society’s virtual
-museum and archive on the history of financial regulation.  I’m James Stocker.  Today is
-July 20, 2011.  Welcome, Bill.
+Thank you.
 
-**WD:** Thank you.
+> We’re talking today at Bill’s home in Larchmont, New York.  First of all, Bill, where
+> were you born, and where did you grow up?
 
-**JS:** We’re talking today at Bill’s home in Larchmont, New York.  First of all, Bill, where
-were you born, and where did you grow up?
-
-**WD:** I was born in 1929 in Rochester, Pennsylvania, kind of a bedroom community for steel
+I was born in 1929 in Rochester, Pennsylvania, kind of a bedroom community for steel
 mill workers in the Pittsburgh area.
 
-**JS:** What did your parents do for a living?
+> What did your parents do for a living?
 
-**WD:** My father was in newspaper advertising, the head of advertising for a local newspaper.
+My father was in newspaper advertising, the head of advertising for a local newspaper.
 My mother was a housewife.
 
-**JS:** Did you have any siblings?
+> Did you have any siblings?
 
-**WD:** I had one sister, a younger sister.
-<!-- Page 2 -->
+I had one sister, a younger sister.
 
-**JS:** Where did you go to college?
+> Where did you go to college?
 
-**WD:** Muskingum College in New Concord, Ohio.
+Muskingum College in New Concord, Ohio.
 
-**JS:** What did you study there?
+> What did you study there?
 
-**WD:** I majored in political science and minored in economics and speech.
+I majored in political science and minored in economics and speech.
 
-**JS:** You were involved in student politics at this time, right?
+> You were involved in student politics at this time, right?
 
-**WD:** Yes, I was.  By virtue of the fact I was president of the sophomore class and the junior
+Yes, I was.  By virtue of the fact I was president of the sophomore class and the junior
 class and of the student body in my senior year, I came to be involved in the National
 Student Association and, subsequently, became president of that organization after I was
 graduated from Muskingum.
 
-**JS:** And what did you do at the Association?  What was involved in that?
+> And what did you do at the Association?  What was involved in that?
 
-**WD:** Traveling around the country and trying to keep some contact on a miniscule budget with
+Traveling around the country and trying to keep some contact on a miniscule budget with
 a number of college and university student governments who were members of the
 Association.  Our basic effort was to try to make student governments more relevant,
 something more than choosers of May Queens and things like that, to help break down
 racial segregation on American campuses, and to pursue international activity, trying to
-<!-- Page 3 -->
 
 reach out particularly to students in the less-developed countries which communist fronts
 were targeting.
 
-**JS:** Sounds like it kept you pretty busy.
+> Sounds like it kept you pretty busy.
 
-**WD:** I visited, I think, more than thirty states, sometimes speaking three times at three different
+I visited, I think, more than thirty states, sometimes speaking three times at three different
 universities and colleges in major metropolitan areas.
 
-**JS:** Did you have much time to study?
+> Did you have much time to study?
 
-**WD:** Well, I had graduated.  I had the salary of $2,000 a year on which I paid much of my
+Well, I had graduated.  I had the salary of $2,000 a year on which I paid much of my
 expenses.  So we were really on a shoestring at the time.  The association had run a travel
 program which, unfortunately, was a money loser.  We had little money, and it was a
 tough year.
 
-**JS:** And you ended up getting some funding from an interesting source.
+> And you ended up getting some funding from an interesting source.
 
-**WD:** Yes, although I didn’t know it at the time.  We were raising money for international
+Yes, although I didn’t know it at the time.  We were raising money for international
 programs, and we received money from the Foundation for Youth and Student Affairs
 which was then being formed.  After I left office, I discovered that the money was funded
 by CIA.  Then this all became public when the thing blew in 1967, and it was revealed in
 a magazine article that the agency was supporting the National Student Association’s
 international activities and other organizations as well.
-<!-- Page 4 -->
 
 I was then the AID mission director in Peru, and I got a call from a friend who used to
 work for me, who was then Hubert Humphrey’s international guy, saying that James
@@ -85,102 +80,98 @@ Dick Helms said I came to it. But since James Reston had said that, and since Ti
 Magazine had labeled me as the guy who started it all, how do you say, “I didn’t, but I
 subsequently was involved in it and I’m happy about it; I’d do it all over again”?
 
-**JS:** It must have been quite a surprise to see that in print.
+> It must have been quite a surprise to see that in print.
 
-**WD:** It was.  We always knew that CIA funding could blow at some point.  That was always
+It was.  We always knew that CIA funding could blow at some point.  That was always
 the risk.  But we got money for what we wanted to do.  And as I said, those of us who
 were involved in it did what we thought was right.  The only thing that was tough for all
 of us was to have to effectively lie about the real source of our funding.
 
-**JS:** So after a year as the president of the National Student Association, you then spent a year
-in Europe working with student groups there.
+> So after a year as the president of the National Student Association, you then spent a year
+> in Europe working with student groups there.
 
-**WD:** Yes, for the international student organization that we Western students formed.  We
+Yes, for the international student organization that we Western students formed.  We
 didn’t form it to be overtly anti-communist; we formed it to be positively non-
 communist.  Our platform was that we didn’t care whether it was Spain, South Africa,
 Czechoslovakia or Hungary, suppressing student voices.  We were uniformly anti-
-<!-- Page 5 -->
 
 totalitarian, fascist as well as communist.  And practical.  We were trying to make
 contacts with national student groups in what we called at the time the less-developed
 countries.
 
-**JS:** After that year in Europe, you ended up having a career in national security.  You joined
-the Army.
+> After that year in Europe, you ended up having a career in national security.  You joined
+> the Army.
 
-**WD:** After basic training, I was assigned to CIA in 1956, and worked there until Kennedy was
+After basic training, I was assigned to CIA in 1956, and worked there until Kennedy was
 elected.  One of his special assistants was a former officer of NSA before I was president
 of the NSA.  I wanted to leave the agency, so I worked on the Foreign Aid Task Force
 that gave birth to the Agency for International Development.
 
-**JS:** Can I ask who the special aide was?
+> Can I ask who the special aide was?
 
-**WD:** Ralph Dungan.
+Ralph Dungan.
 
-**JS:** Then you worked on this task force that looked at the U.S. foreign aid programs.
+> Then you worked on this task force that looked at the U.S. foreign aid programs.
 
-**WD:** Right.  My job, essentially, was to try to vet possible candidates for the top twenty spots
+Right.  My job, essentially, was to try to vet possible candidates for the top twenty spots
 in the new agency.  At that time, there were two U.S. government foreign aid agencies:
 one, the Development Loan Fund, which had been created to make loans, alongside the
 previously-existing International Cooperation Administration, which gave technical
 assistance.
-<!-- Page 6 -->
 
 The idea was to bring both of these aid organizations together in one organization, and to
 focus on countries with both the lending and the technical assistance capabilities at hand.
 
-**JS:** What was the problem with the existing aid organizations at the time?
+> What was the problem with the existing aid organizations at the time?
 
-**WD:** There were two different agencies doing something in the same country without the
+There were two different agencies doing something in the same country without the
 country focus that you can get if you have one agency with both technical assistance and
 lending capabilities.  And the existing lending capabilities at the time were very modest.
 We wanted to have low-cost loans, highly-subsidized loans, on a much greater scale than
 was possible in the Development Loan Fund.  There was a lot of concern that we focus
 on countries with all of the development tools available.
 
-**JS:** Did you work at all on the writing of the 1961 Foreign Assistance Act?  This was the act
-that led to the creation of USAID.
+> Did you work at all on the writing of the 1961 Foreign Assistance Act?  This was the act
+> that led to the creation of USAID.
 
-**WD:** I think only tangentially.  My job was more of a talent search guy at that point than
+I think only tangentially.  My job was more of a talent search guy at that point than
 participating in the drafting of the legislation.
 
-**JS:** Then you also worked with General Lucius Clay on a commission as well.
+> Then you also worked with General Lucius Clay on a commission as well.
 
-**WD:** Yes.  President Kennedy wanted to get USAID off to a good start, and in 1962 appointed
+Yes.  President Kennedy wanted to get USAID off to a good start, and in 1962 appointed
 General Clay and a distinguished group of people, including the ex-president of the
-<!-- Page 7 -->
 
 World Bank, Eugene Black, and a former Secretary of Defense, Robert Lovett, to this
 committee.  I was the executive secretary of that group.  It was my relationship with
 Eugene Black that, in fact, subsequently, brought me to New York in 1969.
 
-**JS:** OK.  Tell me, briefly, about what else you did during the 1960s.  You also worked in
-Peru.  Right?
+> OK.  Tell me, briefly, about what else you did during the 1960s.  You also worked in
+> Peru.  Right?
 
-**WD:** Yes.  I was special assistant to the first two heads of AID and special assistant to Teodoro
+Yes.  I was special assistant to the first two heads of AID and special assistant to Teodoro
 Moscoso, who was the U.S. head of the Alliance for Progress.  I worked thereafter in the
 State Department and became the AID mission director in Peru, 1965 to ‘68.  I came back
 in 1968 on my own initiative because I “knew” that Nixon would beat Humphrey, and as
 a Democrat, I knew, I would be put out to pasture.  So I came back to the United States to
 be sure the pasture was a U.S. pasture rather than a Peruvian pasture.
 
-**JS:** That was just your reading?
+> That was just your reading?
 
-**WD:** Of the politics.  When I came back, Sol Linowitz, who was the U.S. representative to the
+Of the politics.  When I came back, Sol Linowitz, who was the U.S. representative to the
 Organization of American States, needed a deputy.  His deputy had departed.  Sol
 appointed me to be his deputy with the personal rank of ambassador.  Sol wanted to be
 Secretary of State in a Humphrey Administration.  He knew that I had very good ties to
 the Humphrey people, and it wouldn’t hurt his ambitions if he appointed me as his deputy
 for economic matters.  That was my side of things.  I dealt with the coordination of the
-<!-- Page 8 -->
 
 IMF, AID, World Bank and the Inter-American Development Bank in their aid programs
 for Latin America.
 
-**JS:** OK.  But once the election happened, you knew that the writing was on the wall, and that
-it would be time to leave soon?
+> OK.  But once the election happened, you knew that the writing was on the wall, and that
+> it would be time to leave soon?
 
-**WD:** Right.  So I began to explore what I could do in line with my interests.  Twice when I was
+Right.  So I began to explore what I could do in line with my interests.  Twice when I was
 back in the U.S. on consultations as AID mission director in Peru, on one occasion
 Martin Luther King, Jr., was assassinated, and then Bobby Kennedy.  My interests shifted
 at that point from international affairs to America’s urban problems, America’s
@@ -192,12 +183,11 @@ which really should not have existed, I think.  But he agreed to do it.  Nelson 
 appointed him, and Black wanted someone who he could rely on to be the staff director,
 and I did that.  So I happily came to New York.
 
-**JS:** During this period of the 1960s when you were working on development in Peru and
-other areas, did you work on banking or finance at all?
+> During this period of the 1960s when you were working on development in Peru and
+> other areas, did you work on banking or finance at all?
 
-**WD:** Not really, no.  I mean that, obviously, was an important part of any development
+Not really, no.  I mean that, obviously, was an important part of any development
 program.  But only in the sense that we dealt with the country’s macroeconomic policies
-<!-- Page 9 -->
 
 from the point of view of whether they were deserving of loan assistance.  Were they
 doing the right thing with their economic policies, enough to justify what we called
@@ -207,22 +197,21 @@ forth.  But we didn’t limit ourselves to that.  It was just one of the many th
 looked at in judging the ability of a country to utilize our lending and technical assistance
 resources.
 
-**JS:** OK.  As you were telling me, after you left government service, you went to the New
-York State Council of Economic Advisors.  But up until that point, you had mostly
-worked on development in poor countries, not development in the United States.
+> OK.  As you were telling me, after you left government service, you went to the New
+> York State Council of Economic Advisors.  But up until that point, you had mostly
+> worked on development in poor countries, not development in the United States.
 
-**WD:** Yes.
+Yes.
 
-**JS:** So what were you doing at the Council?
+> So what were you doing at the Council?
 
-**WD:** I began at the Council in April of 1969, commuting from Washington, trying to put
+I began at the Council in April of 1969, commuting from Washington, trying to put
 together a staff.  It quickly became apparent that the budget division of the New York
 State government was not interested in having us meddle in their affairs, as they saw it.
 We could do income projections, for example.  But income forecasts at the state level are
 both economic and political.  So we were kept away from those kinds of things.  Once I
 put together a staff, we did publish one report before I left to become New York
 Superintendent of Banks in March of ‘70.
-<!-- Page 10 -->
 
 Frank Wille, who was the Superintendent of Banks at the time was named to be head of
 the FDIC.  Someone needed to take his place.  The governor’s deputy secretary, Harry
@@ -237,28 +226,26 @@ that I would like to get at some point, but the Governor won’t let me go.”  
 
 So in March of ‘70, I became Superintendent of Banks.
 
-**JS:** Did you know Governor Rockefeller?
+> Did you know Governor Rockefeller?
 
-**WD:** Not at all.  I’d met him after I became Executive Director of the State Council of
+Not at all.  I’d met him after I became Executive Director of the State Council of
 Economic Advisors.
 
-**JS:** I thought it was interesting that you left the federal government service because Nixon
-came into office, and then you went and worked for the economic council advising his
-opponent.
+> I thought it was interesting that you left the federal government service because Nixon
+> came into office, and then you went and worked for the economic council advising his
+> opponent.
 
-<!-- Page 11 -->
+Yes.  Really ironic.
 
-**WD:** Yes.  Really ironic.
+> And at the time, Rockefeller was also working on a commission that was looking at the
+> Alliance for Progress as well, which was an area of expertise for you.
 
-**JS:** And at the time, Rockefeller was also working on a commission that was looking at the
-Alliance for Progress as well, which was an area of expertise for you.
-
-**WD:** Yes.  I did not want to be involved in that because I knew that he would rain on the
+Yes.  I did not want to be involved in that because I knew that he would rain on the
 parade of the Alliance for Progress.
 
-**JS:** I think he was quite critical of it in the report.
+> I think he was quite critical of it in the report.
 
-**WD:** He was very critical.  Not that there weren’t things to be critical of.  Someone early on
+He was very critical.  Not that there weren’t things to be critical of.  Someone early on
 said to me, “Maybe you should be on his team to Latin America.”  No.  I didn’t want to
 do that.
 
@@ -268,12 +255,11 @@ abolish rent control.  I know it’s politically impossible to do that.  But if 
 more private sector housing, abolish rent control.  Now I know it can’t be done, but
 anything short of that is not going to get anywhere.”
 
-**JS:** After you took over the position of Superintendent of Banks in New York, what were
-your priorities there?  First of all, let’s start with the position.  What were the
-responsibilities of the position?
-<!-- Page 12 -->
+> After you took over the position of Superintendent of Banks in New York, what were
+> your priorities there?  First of all, let’s start with the position.  What were the
+> responsibilities of the position?
 
-**WD:** The Superintendent of Banks is the chief New York State bank regulator.  That involved
+The Superintendent of Banks is the chief New York State bank regulator.  That involved
 commercial banks – all the big banks at that time were state chartered except National
 City Bank and Chase Manhattan Bank -- savings banks, savings and loan associations,
 and money lenders of different sorts.  So at that point in time – I’m not sure now – most
@@ -292,11 +278,9 @@ There also was a usury ceiling.  No bank could make a mortgage loan with an inte
 rate that exceeded 7 ½ percent, which was fine if banks were willing to make mortgages
 at 7 ½ percent.
 
-**JS:** That was a state law?
+> That was a state law?
 
-<!-- Page 13 -->
-
-**WD:** That was a state law.  Liberals like laws like that because they think it keeps the lending
+That was a state law.  Liberals like laws like that because they think it keeps the lending
 rate down.  Well, it does except that when inflation looks like it’s going to be 8 or 9
 percent, banks don’t make those loans.  Removing the ceiling was something I worked
 with the Democrats to do, and we did that.
@@ -308,69 +292,65 @@ its banking district.  That was a recipe for lack of competition.  And breaking 
 barriers to competition was important to me.  I finally succeeded in getting legislation
 through that said within five years, it would go to statewide banking.
 
-**JS:** This is the Bank Redistricting Bill of 1971?
+> This is the Bank Redistricting Bill of 1971?
 
-**WD:** Yes.
+Yes.
 
-**JS:** Did that encounter a lot of opposition in the legislature or from the banks?
+> Did that encounter a lot of opposition in the legislature or from the banks?
 
-**WD:** The fact that I built a five-year time period into it helped a great deal because it gave
+The fact that I built a five-year time period into it helped a great deal because it gave
 people some time to work out relationships about who might buy whom.  Getting the
 legislation through was difficult because many Republicans, particularly Republicans
 upstate and non-Metropolitan New York legislators, were closely attached to local banks.
 
-<!-- Page 14 -->
-
 At one point, Chase Manhattan Bank wanted to buy a bank in Long Island, which was in
 the district of the Speaker of the Assembly.
 
-**JS:** In Garden City?
+> In Garden City?
 
-**WD:** Garden City.  It was a reasonable acquisition that I could have approved.  But I went to
+Garden City.  It was a reasonable acquisition that I could have approved.  But I went to
 Perry Duryea, who was the Speaker of the Assembly, and told him that I would turn it
 down if he would be sympathetic to a statewide redistricting.  David Rockefeller was not
 very happy.
 
-**JS:** This was Nelson Rockefeller’s younger brother, right?
+> This was Nelson Rockefeller’s younger brother, right?
 
-**WD:** Yes.  I’m sure he talked to Nelson Rockefeller about it.  In fact, I have evidence that he
+Yes.  I’m sure he talked to Nelson Rockefeller about it.  In fact, I have evidence that he
 talked to Nelson.  But I explained my long-term goal in doing all of this was to do what
 the governor wanted to do – to break down this anti-competitive banking district law that
 we had to function under and go to statewide banking.
 
-**JS:** Another thing that you did was to introduce legislation that would allow bank holding
-companies in other states to expand into New York as long as the other states granted
-reciprocal privileges to New York state.
+> Another thing that you did was to introduce legislation that would allow bank holding
+> companies in other states to expand into New York as long as the other states granted
+> reciprocal privileges to New York state.
 
-**WD:** Exactly.  The idea, again, was to spur competition among banks for consumer dollars,
+Exactly.  The idea, again, was to spur competition among banks for consumer dollars,
 consumer loans, consumer deposits and other things.
-<!-- Page 15 -->
 
-**JS:** Were you able to get that legislation passed?
+> Were you able to get that legislation passed?
 
-**WD:** I’m sure we passed it in New York.  And some other states followed.  I lost track of that
+I’m sure we passed it in New York.  And some other states followed.  I lost track of that
 one some years ago.
 
-**JS:** There was one other interesting note I saw in the press from this time, that you had filed a
-brief in a case before the Supreme Court about a Colorado antitrust suit.  Can you tell me
-what that was about?
+> There was one other interesting note I saw in the press from this time, that you had filed a
+> brief in a case before the Supreme Court about a Colorado antitrust suit.  Can you tell me
+> what that was about?
 
-**WD:** Again, the case came up before the Supreme Court involving competition.  And we were
+Again, the case came up before the Supreme Court involving competition.  And we were
 always pro-competition.  So I filed an amicus brief with the Supreme Court effectively
 criticizing the position of one of the Colorado bank.  The Attorney General of New York,
 Louis Lefkowitz, was very unhappy with that because he heard from the Attorney
 General of Colorado and insisted that I should have cleared it with him.
 
-**JS:** You weren’t under any legal obligation to do so, were you?
+> You weren’t under any legal obligation to do so, were you?
 
-**WD:** No.  I just heard him out, and it was a fait accompli.
+No.  I just heard him out, and it was a fait accompli.
 
-**JS:** Right.  Another of your responsibilities during this period was approving or disapproving
-mergers.  There were quite a number of mergers coming before you during this period.
-One of them was Bankers Trust.  Do you recall that case?
-<!-- Page 16 -->
+> Right.  Another of your responsibilities during this period was approving or disapproving
+> mergers.  There were quite a number of mergers coming before you during this period.
+> One of them was Bankers Trust.  Do you recall that case?
 
-**WD:** I do.  Bankers Trust and Irving Trust.  I turned down two acquisitions on the basis of –
+I do.  Bankers Trust and Irving Trust.  I turned down two acquisitions on the basis of –
 the terminology is potential competition.  When you look at any merger or any holding
 company acquisition in another area, you look at the geographic market and the product
 market and the degree of concentration on those markets on the part of major players.
@@ -385,24 +365,22 @@ than the major holding companies which grew out of New York City-based banks.  S
 turned down those two mergers.  I must say, it was a close case.  I can see why people
 disagreed with me, and some of them did vehemently.
 
-**JS:** One person who disagreed with you was your successor, who later reversed that decision.
+> One person who disagreed with you was your successor, who later reversed that decision.
 
-**WD:** Yes.
+Yes.
 
-**JS:** So tell me a little bit about leaving office.  Did the governor ask you to leave?
+> So tell me a little bit about leaving office.  Did the governor ask you to leave?
 
-<!-- Page 17 -->
-
-**WD:** Let’s put it this way.  I was in no doubt that if I left, that would be a salutary
+Let’s put it this way.  I was in no doubt that if I left, that would be a salutary
 development.  He had gotten a lot of static about me from banks when I turned down
 their mergers or acquisitions, though some banks thought I was doing a great job.  Those
 that were on the wrong end, as they saw it, of my decisions didn’t think I was doing a
 good job at all.
 
-**JS:** But you didn’t have much trouble finding a new position with the New York Stock
-Exchange.
+> But you didn’t have much trouble finding a new position with the New York Stock
+> Exchange.
 
-**WD:** That’s true, but I wanted something that would be useful and interesting.  One of the
+That’s true, but I wanted something that would be useful and interesting.  One of the
 possibilities that I had at the time was becoming president of a large savings bank in New
 York.  There were a couple of them that talked to me about that.  But that didn’t interest
 me, that didn’t challenge me at all.  In the course of being superintendent – and this
@@ -416,7 +394,6 @@ a trust company in New York which could hold securities for similar to-be-formed
 companies in other states.  They could not get, they said, a charter from the Federal
 Reserve because the Federal Reserve did not want to charter a bank as a limited purpose
 trust company, nor did the comptroller of the currency.
-<!-- Page 18 -->
 
 They said that their only hope would be if I would charter this to-be-formed organization
 as a limited purpose trust company, which their lawyers told them was necessary in order
@@ -430,22 +407,20 @@ SEC could regulate the Central Certificate Service, a unit of the Stock Clearing
 Corporation of the New York Stock Exchange, because it was an entity of the Exchange.
 When CCS was spun out, I wanted SEC supervision to continue.
 
-**JS:** But the SEC was positive about the idea.
+> But the SEC was positive about the idea.
 
-**WD:** Yes, I talked to the Chairman of the SEC who encouraged me to do it.  I made it clear
+Yes, I talked to the Chairman of the SEC who encouraged me to do it.  I made it clear
 that I wanted them to do the substantive regulation because the banking department had
 no ability to do that.
 
-**JS:** This was in 1972.
+> This was in 1972.
 
-**WD:** Yes.
+Yes.
 
-<!-- Page 19 -->
+> Now prior to this point, there had been some talk of a federal solution to this problem.  In
+> other words, creating some federal organization that would handle securities deposits.
 
-**JS:** Now prior to this point, there had been some talk of a federal solution to this problem.  In
-other words, creating some federal organization that would handle securities deposits.
-
-**WD:** Yes.  Congressman John Moss was in favor of that.  His view as a Californian, as a
+Yes.  Congressman John Moss was in favor of that.  His view as a Californian, as a
 liberal Democrat, was you can’t trust New York at all.  And, you know, there was a lot to
 that point of view.  Since the private sector couldn’t get its act together, some federal
 solution was desired, thought Moss.  That gave impetus to the Banking and Securities
@@ -455,24 +430,23 @@ private sector solution.  They always were concerned the federal government, if 
 something, would muck it up and do it wrong.  They also wanted to be in control to the
 extent that they could, or at least be influential.
 
-**JS:** Was this federal solution still on the table at this point in 1972, or was it gone?
+> Was this federal solution still on the table at this point in 1972, or was it gone?
 
-**WD:** Yes.  It was on the table.  It’s hard to tell how much Moss – I met with Congressman
+Yes.  It was on the table.  It’s hard to tell how much Moss – I met with Congressman
 Moss when he came to Peru, in fact, when I was AID mission director.  It’s hard to tell
 how much of this was a threat to get people moving or how real it was as a proposal.  But
 in any case, the Banking and Securities Industry Committee, BASIC, took it very
 seriously.  Their view was we have to have a private sector solution – we will do it.
 
-**JS:** Now had you been following closely the problems on Wall Street, the Paperwork Crisis
-and all that?
-<!-- Page 20 -->
+> Now had you been following closely the problems on Wall Street, the Paperwork Crisis
+> and all that?
 
-**WD:** No, just as a casual reader of the newspaper.
+No, just as a casual reader of the newspaper.
 
-**JS:** Was there anything comparable in the banking sector at all, just in terms of more
-paperwork or clearing transactions?
+> Was there anything comparable in the banking sector at all, just in terms of more
+> paperwork or clearing transactions?
 
-**WD:** Yes.  Because, as you know, in order to become a legal owner of a stock, you had to buy
+Yes.  Because, as you know, in order to become a legal owner of a stock, you had to buy
 the stock, the seller of the stock had to arrange to have it registered in the buyer’s name
 by a transfer agent.  That’s the only way legal title could change.  So when trading
 volume got to be 6 million shares a day, brokers were overwhelmed and transfer agents
@@ -484,24 +458,23 @@ which drove the idea of being able to change ownership by book entry on computer
 computer records verifying the change of ownership.  That was the whole theory of
 forming DTC and other depositories that were formed subsequently around the country.
 
-**JS:** So here we are in 1972.  You have authorized the creation of this limited-purpose trust
-company.
+> So here we are in 1972.  You have authorized the creation of this limited-purpose trust
+> company.
 
-**WD:** I didn’t authorize it.  I left before the banking department chartered it.  I left in March of
+I didn’t authorize it.  I left before the banking department chartered it.  I left in March of
 ‘72.  I came to what was CCS, Central Certificate Service, a division of the Stock
-<!-- Page 21 -->
 
 Clearing Corporation of the New York Stock Exchange, in June of that year.  And it was
 my job, ironically, to satisfy the banking department that this limited purpose trust
 company should be formed.
 
-**JS:** Of course, you might have still known a couple people there (laughter).
+> Of course, you might have still known a couple people there (laughter).
 
-**WD:** Yes, but they put us through the paces as they should have.
+Yes, but they put us through the paces as they should have.
 
-**JS:** Was there an interview process for this job, or did they just offer it to you?
+> Was there an interview process for this job, or did they just offer it to you?
 
-**WD:** I was told that they had talked to a number of other people.  For one reason or another,
+I was told that they had talked to a number of other people.  For one reason or another,
 they finally descended to me.  It was an iffy proposition.  Here was an idea – it seemed
 like it would be a good idea, but would it be?  Could it fail?  Certainly it could fail.  You
 had to pick up a lot of your work force from the New York Stock Exchange, and then
@@ -510,61 +483,55 @@ auditing function and personnel function.  So I can see why people would, especi
 they had good useful jobs – maybe the head of Exxon or General Motors would not want
 this job.
 
-**JS:** Right.  So did you have a master list of things to do when you started out in order to get
-the company set up?
+> Right.  So did you have a master list of things to do when you started out in order to get
+> the company set up?
 
-<!-- Page 22 -->
-
-**WD:** Yes.  First, to show our serious intent, we spun CCS out of the Stock Clearing
+Yes.  First, to show our serious intent, we spun CCS out of the Stock Clearing
 Corporation and made it CCS, Inc.  We had to put together an organization and staff it.
 We had to continue the process of changing state laws around the country, which BASIC
 was deeply involved in and had set up a good relationship with the bodies concerned with
 amendments to the Uniform –
 
-**JS:** Commercial Code?
+> Commercial Code?
 
-**WD:** Yes.  We had strong backing, in theory and in practice for amendments to the UCC.  It
+Yes.  We had strong backing, in theory and in practice for amendments to the UCC.  It
 was a matter of getting them through state legislatures around the country.
 
-**JS:** You also had to change the New York law that dealt with stock transfer taxes.  Or was
-that already under way?
+> You also had to change the New York law that dealt with stock transfer taxes.  Or was
+> that already under way?
 
-**WD:** No.  There was a proposal in this area, a little later, for a stock transfer tax but that got
+No.  There was a proposal in this area, a little later, for a stock transfer tax but that got
 shot down.  We did not play any role in that.  That got shot down as being
 counterproductive to the whole idea of fostering widespread public ownership of
 securities.
 
-**JS:** Tell me about the relationship with the SEC during this period.  You said that they were
-supportive at the beginning.  Did you have to work closely with them?
+> Tell me about the relationship with the SEC during this period.  You said that they were
+> supportive at the beginning.  Did you have to work closely with them?
 
-<!-- Page 23 -->
-
-**WD:** Yes, indeed.  Market Regulation is the entity within the SEC that is concerned with
+Yes, indeed.  Market Regulation is the entity within the SEC that is concerned with
 organizations such as DTC.  We worked closely every step along the way.  It had to
 approve all of our rules, all of our policies.
 
-**JS:** Who was the head there at the beginning?
+> Who was the head there at the beginning?
 
-**WD:** Lee Pickard was the head of the Market Reg, when Bill Casey was the chair.  Who came
+Lee Pickard was the head of the Market Reg, when Bill Casey was the chair.  Who came
 after Lee?  Was it Rick Ketchum?  Rick may have come later.
 
-**JS:** Then in May 1973, the company changed its name to The Depository Trust Company.
-Who picked out the name?
+> Then in May 1973, the company changed its name to The Depository Trust Company.
+> Who picked out the name?
 
-**WD:** I did.
+I did.
 
-**JS:** Was there anything else under consideration?
+> Was there anything else under consideration?
 
-**WD:** Not in my own mind.  It had to be “Trust Company” because we were a trust company
+Not in my own mind.  It had to be “Trust Company” because we were a trust company
 and we wanted to indicate we were a trust company.  There’s a patina of respectability
 and solidity with that.  And we were a depository, so Depository Trust Company just
 made a lot of sense.
 
-**JS:** Then you applied for status under the Federal Reserve.
+> Then you applied for status under the Federal Reserve.
 
-<!-- Page 24 -->
-
-**WD:** Yes.  That was always our intention.  We always wanted to be regulated by the SEC and
+Yes.  That was always our intention.  We always wanted to be regulated by the SEC and
 the Federal Reserve.  The bankers, in particular, wanted to be regulated by the Federal
 Reserve because they did not have a uniformly high opinion of the SEC.  They had, they
 thought, at least some ability to influence the Federal Reserve, and they felt comfortable
@@ -572,10 +539,10 @@ in putting their securities in a bank-regulated depository.   Mind you, banks we
 holders of securities, and they had to persuade their customers it was a good idea --
 insurance companies, mutual funds, etcetera.
 
-**JS:** Would you say that the banks were 100 percent behind you at this time, or were there
-some reservations or hesitations?
+> Would you say that the banks were 100 percent behind you at this time, or were there
+> some reservations or hesitations?
 
-**WD:** The major New York City banks, at the top level, were behind us.  They realized the
+The major New York City banks, at the top level, were behind us.  They realized the
 stakes involved.  At the bank working level, they didn’t feel that way at all.  After all, we
 were in the process of putting the transfer agent business of a New York bank out of
 business – over time, but out of business.
@@ -585,34 +552,31 @@ diminish.  We were a rising sun, and their suns were setting, as we absorbed muc
 their functions, both on the custody side of the bank and on the transfer agent side of the
 bank.
 
-**JS:** Did you pull in any staff from the banks?
+> Did you pull in any staff from the banks?
 
-<!-- Page 25 -->
-
-**WD:** Not originally.  I eventually hired Connie Ahrens from Citibank.  When Walter Wriston
+Not originally.  I eventually hired Connie Ahrens from Citibank.  When Walter Wriston
 told his staff, “You support the depository,” they saluted and supported the depository.
 Connie was the senior vice president for securities operations.  Both because Wriston
 favored it and because he saw the need for change, Connie was a supporter and a
 counselor to me as a Citibank employee.  When I eventually began to look for a
 president, Connie came up on the search list and came as president in 1979.
 
-**JS:** So at the very beginning of this period, you were chairman and CEO, but you were not
-president.  There was another gentleman there who was president, right?
+> So at the very beginning of this period, you were chairman and CEO, but you were not
+> president.  There was another gentleman there who was president, right?
 
-**WD:** Right.
+Right.
 
-**JS:** Diran Kaloostian?
+> Diran Kaloostian?
 
-**WD:** Right.
+Right.
 
-**JS:** Can you tell me about his departure?
+> Can you tell me about his departure?
 
-**WD:** Diran was the operations head of CCS within the Clearing Corporation of the New York
+Diran was the operations head of CCS within the Clearing Corporation of the New York
 Stock Exchange, and really was running this embryonic depository, which had some
 deposits of broker-dealer securities after it was turned on in the late 1960s.  The deal with
 me was they would hire me if I would hire Diran as the president.  Well, since I knew
 nothing about securities, securities custody, securities law and computers, I was only too
-<!-- Page 26 -->
 
 happy to hire Diran because he was knowledgeable on these subjects.  We began then in
 ‘72.  By ‘74, I had learned the ropes, and I had reached the conclusion that Diran would
@@ -628,41 +592,39 @@ that we had this disagreement on management philosophy.  He left the company, an
 became, effectively, president as well.  I didn’t assume the title because I knew someday
 I wanted to get a president, but I thought I could handle both jobs for a while.
 
-**JS:** I’d like to ask you really quickly about the DTC’s policy on fees.  From a very early date,
-DTC basically acted almost as a non-profit organization, returning any profits as such to
-the participants.  Was this decided from the beginning?
+> I’d like to ask you really quickly about the DTC’s policy on fees.  From a very early date,
+> DTC basically acted almost as a non-profit organization, returning any profits as such to
+> the participants.  Was this decided from the beginning?
 
-**WD:** Basically, yes.  BASIC’s view was that the depository would make a profit, but limit its
+Basically, yes.  BASIC’s view was that the depository would make a profit, but limit its
 profit, and then pay dividends to its participants, returning money to them that way.
 When I took over, it seemed to me, “Why should we pay income tax in order to pay
 dividends to people when we could give them back the money without tax?”  So we
 adopted the policy of refunding excess revenue to participants pro rata at the end of the
-<!-- Page 27 -->
 
 year, based on the amount of their payments to the depository, without paying any
 income tax and without paying dividends.
 
-**JS:** So DTC never paid any income tax?
+> So DTC never paid any income tax?
 
-**WD:** Usually no, because we didn’t have any income.  Sometimes we had to pay income tax.
+Usually no, because we didn’t have any income.  Sometimes we had to pay income tax.
 If we had to build up some cushion for a capital expenditure, we might realize some
 income, although we were a very good credit to anyone, obviously.  We could borrow
 money at reasonable rates.  But we did pay income tax on those few occasions where we
 didn’t refund all of our excess income to our participants.
 
-**JS:** Now at any time during your tenure at DTC, was there ever any consideration of
-changing that or was it, basically, just set in stone?
+> Now at any time during your tenure at DTC, was there ever any consideration of
+> changing that or was it, basically, just set in stone?
 
-**WD:** No.  Once we set it in stone, participants loved the idea that we were not a profit-making
+No.  Once we set it in stone, participants loved the idea that we were not a profit-making
 entity.  Our job was to help them make profits by reducing their expenses, and not to be a
 profit-making entity in our own right.
 
-**JS:** How concerned were you about security in the early days?  For instance, about a break-in
-or theft of securities, fraud?
+> How concerned were you about security in the early days?  For instance, about a break-in
+> or theft of securities, fraud?
 
-**WD:** Very concerned, because this was a new idea, this whole idea of book entry, and
+Very concerned, because this was a new idea, this whole idea of book entry, and
 computerized certificates, and reporting on computers.  Any fraud at all, any theft, we
-<!-- Page 28 -->
 
 feared, would bring down the whole idea of a depository.  So it was at the forefront of
 everything we did.  Even our computer network systems were proprietary so that no one
@@ -670,34 +632,33 @@ could easily tamper with them.  At the time, we bent over backwards.  I was fond
 saying in jest that we had security measures that we did not even need in order to be a
 secure organization.
 
-**JS:** Did you hire outside consultants to design your security systems or evaluate them?
+> Did you hire outside consultants to design your security systems or evaluate them?
 
-**WD:** Yes.  We did.  Price Waterhouse did a lot of that for us.  If we needed specialized
+Yes.  We did.  Price Waterhouse did a lot of that for us.  If we needed specialized
 services, we’d go outside and do that as well.
 
-**JS:** In your book, and I should mention here that you have written a book on the DTC that’s a
-valuable resource for anyone who is interested in the subject.  But in your book, you talk
-about hiring outside consultants to try to effectively penetrate DTC’s computer system
-security.
+> In your book, and I should mention here that you have written a book on the DTC that’s a
+> valuable resource for anyone who is interested in the subject.  But in your book, you talk
+> about hiring outside consultants to try to effectively penetrate DTC’s computer system
+> security.
 
-**WD:** Yes.  We would do that.  We wouldn’t tell anyone in advance.  I knew, the president
+Yes.  We would do that.  We wouldn’t tell anyone in advance.  I knew, the president
 knew, and we were the only people in the company that knew.
 
-**JS:** Was this your idea, or did it come from someone else?
+> Was this your idea, or did it come from someone else?
 
-**WD:** I don’t know that it was my idea.  These kind of ideas are always floating around in an
+I don’t know that it was my idea.  These kind of ideas are always floating around in an
 organization like ours.
-<!-- Page 29 -->
 
-**JS:** I was wondering if there was any inspiration from your days in working in national
-security.
+> I was wondering if there was any inspiration from your days in working in national
+> security.
 
-**WD:** No, it’s something that any reputable organization should try to do.
+No, it’s something that any reputable organization should try to do.
 
-**JS:** So in 1975, Congress passed a securities reform act that was pretty sweeping.  Did DTC
-have any input into that act?
+> So in 1975, Congress passed a securities reform act that was pretty sweeping.  Did DTC
+> have any input into that act?
 
-**WD:** Yes, indeed.  BASIC was still in existence as a committee.  It was involved heavily in the
+Yes, indeed.  BASIC was still in existence as a committee.  It was involved heavily in the
 lobbying with both the Senate and House committees on that bill.  DTC also took a
 prominent role and I testified.  The Securities Industry Association, as it was then called,
 the trade association for broker-dealers, took the same position that BASIC and DTC
@@ -711,16 +672,14 @@ Banks wanted to be sure that the Federal Reserve was involved in the regulation 
 depository, and they sought to carve out a role for the Federal Reserve in terms of the
 safety and soundness of any securities depository.
 
-<!-- Page 30 -->
-
 My recollection is not clear on this.  I don’t think that the House bill did that.  In any
 case, it was a Senate bill that was supported by the industry, both banking and broker
 dealers, and became the legislation of the Securities Act Amendment of 1975.
 
-**JS:** In 1975, the DTC, for the first time, sold stock to other organizations than the New York
-Stock Exchange.
+> In 1975, the DTC, for the first time, sold stock to other organizations than the New York
+> Stock Exchange.
 
-**WD:** Yes.  BASIC’s formula for DTC was that bank users would eventually be able to buy
+Yes.  BASIC’s formula for DTC was that bank users would eventually be able to buy
 stock in it.  Particularly, they were concerned that the banks be able to own stock in the
 depository as a way of giving them influence through membership on its board.  Broker-
 dealers, obviously, would account for the great amount of activity in the depository.  The
@@ -734,11 +693,9 @@ stock?  Why should the New York Stock Exchange, the NASD and the AMEX represent
 us when we could be represented directly?”  The NYSE, under Jim Needham, did not
 want that to happen.
 
-**JS:** Why not?
+> Why not?
 
-<!-- Page 31 -->
-
-**WD:** Because it would loosen their influence, they thought, on DTC.  Not that they had any to
+Because it would loosen their influence, they thought, on DTC.  Not that they had any to
 speak of, but it was a matter of pride also.  It was the majority owner of this apparently
 modest but successful organization.  So I worked, through a friend of mine at Merrill
 Lynch, to have Don Regan, who was chairman and CEO of Merrill Lynch and also a
@@ -749,69 +706,65 @@ with that.  Many brokers did not actually buy DTC stock because they did not see
 point in it.  They were happy with the way things were.  But the precedent had been set
 when Merrill and some other broker-dealers bought stock in the depository.
 
-**JS:** That’s something I find very interesting, that the participants were concerned with the
-right to be able to purchase stock, not necessarily with the purchase of the stock itself.
+> That’s something I find very interesting, that the participants were concerned with the
+> right to be able to purchase stock, not necessarily with the purchase of the stock itself.
 
-**WD:** Because it would be a financial outlay to do it.  So why do it if the organization is fine?
+Because it would be a financial outlay to do it.  So why do it if the organization is fine?
 And each year, they’d have another opportunity to buy DTC stock.  They knew each
 year, “If I don’t buy this year, I can buy next year.”
 
-**JS:** DTC didn’t need the capital.
+> DTC didn’t need the capital.
 
-**WD:** It didn’t.  No.  It was an ideal arrangement.  The only person who was somewhat
+It didn’t.  No.  It was an ideal arrangement.  The only person who was somewhat
 concerned was me.  Did it look like, “Well, why aren’t more broker-dealers buying your
 stock?”  Because they’re happy with the way things are.  Why spend money when you
-<!-- Page 32 -->
 
 don’t have to?  And they know each year they can buy the stuff the next year, ‘cause our
 stated policy was that each year we’d reallocate participation entitlement to buy our stock
 based on fees they paid the depository and on other activity.
 
-**JS:** Was there ever any period while you were there that a number of companies bought
-stock?  Obviously, they’re buying slowly over the years.
+> Was there ever any period while you were there that a number of companies bought
+> stock?  Obviously, they’re buying slowly over the years.
 
-**WD:** No.  I think some people thought, “Well, maybe it will help me to get a board seat if my
+No.  I think some people thought, “Well, maybe it will help me to get a board seat if my
 company buys the stock.”  Or some people just felt it was the responsible thing to do.
 Good citizen.  We should do it.  Most didn’t.
 
-**JS:** All right.  Also during this period of the 1970s, you were continuing BASIC’s work of
-working with states to pass changes to the Universal Commercial Code.
+> All right.  Also during this period of the 1970s, you were continuing BASIC’s work of
+> working with states to pass changes to the Universal Commercial Code.
 
-**WD:** Yes.
+Yes.
 
-**JS:** When was that completed?
+> When was that completed?
 
-**WD:** Well, it wasn’t really completed when we spun out of the NYSE in 1975.  But all of the
+Well, it wasn’t really completed when we spun out of the NYSE in 1975.  But all of the
 major states had enacted the laws that we needed.  We saw if we waited until the last
 state, we might be waiting a number of more years.  So while the major states had
 enacted the necessary laws, our lawyers felt that if any questions arose, we would prevail
-<!-- Page 33 -->
 
 and our participants would prevail.  So we decided we had enough states on board to go
 ahead.
 
-**JS:** How did that process work?  Did someone just initiate contact with the relevant
-committee in the state legislature?
+> How did that process work?  Did someone just initiate contact with the relevant
+> committee in the state legislature?
 
-**WD:** Yes.  We worked with the relevant committees of the different state legislatures, and
+Yes.  We worked with the relevant committees of the different state legislatures, and
 persuaded them that adopting this model, the Uniform Code amendment, was the right
 thing to do.  Other states were doing it.  Why don’t they get with it?  They’re going to
 penalize their financial institutions if they didn’t do the same thing.
 
-**JS:** Was there any state that said, “Wait a minute, hold up, we’re not sure about this”?
+> Was there any state that said, “Wait a minute, hold up, we’re not sure about this”?
 
-**WD:** The education process took a while.  Some states’ insurance law required that its state-
+The education process took a while.  Some states’ insurance law required that its state-
 chartered insurance companies have custody of those securities it owned in the state, so
 “we know we can get them if we need them.”  We explained you can get them if you
 need them through the legal process, if they are in DTC, if you have the legal authority to
 do that.
 
-**JS:** Tell me a little bit about the regional depositories that were cropping up all over the
-country at this time.
+> Tell me a little bit about the regional depositories that were cropping up all over the
+> country at this time.
 
-<!-- Page 34 -->
-
-**WD:** After BASIC was formed and its work went forward and it was clear there was going to
+After BASIC was formed and its work went forward and it was clear there was going to
 be a depository in New York, the other major financial centers in the United States
 thought, “Hey, we have to have something too.”  Chicago, Philadelphia, Boston, San
 Francisco – where the Pacific Stock Exchange was located – they wanted to have
@@ -827,46 +780,43 @@ capability, and decided they would join DTC.  Why shouldn’t they?  There was n
 to them.  I was delighted, of course.  I did not want to restrict DTC to just New York
 banks.
 
-**JS:** But in the early days, was there a more competitive relationship then because you were
-competing for the business of the banks around the country?
+> But in the early days, was there a more competitive relationship then because you were
+> competing for the business of the banks around the country?
 
-**WD:** It was both competitive and cooperative.  We had to interface with the other depositories
+It was both competitive and cooperative.  We had to interface with the other depositories
 because they would make deliveries, for example, from their participants to ours and
 vice-versa.  So the interface was important.  On the other hand, we were always
 concerned about their financial stability.  What would happen if a delivery was made
-<!-- Page 35 -->
 
 from one of our participants to one of theirs who didn’t pay for it?  Would the other
 depository pony up the money to us for that?
 
-**JS:** How did deliveries work?  Did you just send an armored car?
+> How did deliveries work?  Did you just send an armored car?
 
-**WD:** No.  It was all book-entry delivery.  And you relied on the settlement in their depository
+No.  It was all book-entry delivery.  And you relied on the settlement in their depository
 and the settlement in our depository, and the payment of the money to go through one
 depository to the other.
 
-**JS:** Did you all cooperate at all on changing state laws around the country?  Was that an area
-that you cooperated on?
+> Did you all cooperate at all on changing state laws around the country?  Was that an area
+> that you cooperated on?
 
-**WD:** In their states, they may have done something.  We were the goliath of the whole thing.
+In their states, they may have done something.  We were the goliath of the whole thing.
 
-**JS:** Right.  So it wasn’t like some industry group that was going around trying to convince
-the –
+> Right.  So it wasn’t like some industry group that was going around trying to convince
+> the –
 
-**WD:** They may have.  To me, they were irrelevant for the state law changes.
+They may have.  To me, they were irrelevant for the state law changes.
 
-**JS:** In 1981, DTC began to start holding new types of instruments, for instance, bearer bonds.
-What sort of new challenges did that pose?
+> In 1981, DTC began to start holding new types of instruments, for instance, bearer bonds.
+> What sort of new challenges did that pose?
 
-<!-- Page 36 -->
-
-**WD:** Obviously, why would you steal a registered security if you could steal a bearer bond
+Obviously, why would you steal a registered security if you could steal a bearer bond
 where the bearer is presumed to be the owner?
 
-**JS:** Right.  Because with the bearer bond, you could just take that and exchange it for cash
-pretty much.
+> Right.  Because with the bearer bond, you could just take that and exchange it for cash
+> pretty much.
 
-**WD:** Right, and sell it to a crook, because crooks very frequently used bearer bonds as a
+Right, and sell it to a crook, because crooks very frequently used bearer bonds as a
 medium of exchange, which is why Congress eventually changed the law to require
 municipal bonds to be registered.  The decision by DTC to make bearer bonds eligible
 was a difficult one, in a way.  Our participants badly wanted us to do that.  We had made
@@ -877,46 +827,44 @@ to negotiate it thereafter.  Cede & Co. became a rather well-known nominee name.
 bearer bonds were something quite different.  So we had a special vault constructed with
 special procedures for monitoring that vault.
 
-**JS:** That was out on Long Island?
+> That was out on Long Island?
 
-**WD:** That was on Long Island.  A big vault to hold bearer bonds and to cautiously custody
+That was on Long Island.  A big vault to hold bearer bonds and to cautiously custody
 them.  Then, fortunately for us, Congress decided that because crooks were using bearer
 bonds very heavily and abusing them as a tax dodge as well, not paying income tax on
 them, they would require registration of new municipal issues as of a certain date.
-<!-- Page 37 -->
 
 Fortunately, we could look forward to a future of registered municipal bonds.  The bad
 part was that sometimes the registrar issued the bonds with varying degrees of
 competence and incompetence.
 
-**JS:** Does the DTC still use that big vault on Long Island?
+> Does the DTC still use that big vault on Long Island?
 
-**WD:** It’s no longer there.  No longer needed.
+It’s no longer there.  No longer needed.
 
-**JS:** In your book, you also talk about a dispute that you had with the New York Stock
-Exchange over corporations paying their dividends to owners on time.  Can you tell me
-why.
+> In your book, you also talk about a dispute that you had with the New York Stock
+> Exchange over corporations paying their dividends to owners on time.  Can you tell me
+> why.
 
-**WD:** The New York Stock Exchange had a rule that the registered owners who were due
+The New York Stock Exchange had a rule that the registered owners who were due
 dividends should get their money on payment date in good funds.  Corporations had an
 interest, and payment agents often had an interest, in delaying those payments – they had
 the float.
 
-**JS:** They could earn interest off the funds.
+> They could earn interest off the funds.
 
-**WD:** Right, exactly.  They had the money, and they had the float.  Corporations could pay
+Right, exactly.  They had the money, and they had the float.  Corporations could pay
 later, and the paying agents could make money off the float.  They could say, “We’re
 doing our best, you know.  We mail out our dividends the same day.  We mail them out
 in order to get to you on time.  Sometimes we don’t make it, but the mails are slow, you
-<!-- Page 38 -->
 
 know.”  So it’s an easy way to make money – to preserve money if you are the
 corporation, and to make money if you are the paying agent.
 
-**JS:** Now was this something that participants were complaining about, or did they really not
-understand?
+> Now was this something that participants were complaining about, or did they really not
+> understand?
 
-**WD:** No.  It was our feeling, “Here’s the stock exchange rule; let’s leverage it.”  If you’re
+No.  It was our feeling, “Here’s the stock exchange rule; let’s leverage it.”  If you’re
 going to be paid on payment date in good funds, what’s that mean?  That means that I
 should be able to get cash that day, not in clearing house next day funds, but in actual
 cash that day.  Our efforts were generated inside DTC.  DTC vice president Arnold
@@ -930,14 +878,13 @@ New York Stock Exchange, has agreed to that rule but is not paying by that rule.
 course the corporation would say, “We have to treat you like everyone else.”  We said,
 “Fine.  We’ll come pick up the check and let others come pick up their checks.”
 
-**JS:** What was the delay on payments, a few days each time?
+> What was the delay on payments, a few days each time?
 
-**WD:** A few days.
-<!-- Page 39 -->
+A few days.
 
-**JS:** It adds up, though.
+> It adds up, though.
 
-**WD:** Yes.  One, two, three days.  Then, as I say in my book, one of the people who got my
+Yes.  One, two, three days.  Then, as I say in my book, one of the people who got my
 letter like that was the chairman [of Mobil Oil], Raleigh Warner, and a board member of
 the New York Stock Exchange at the time.  So he complained about this to NYSE
 President John Phelan.  And as I state in the book, Phelan began talking internally about
@@ -947,18 +894,16 @@ rule in letters, which made Phelan happy because he wanted to be the next chairm
 the New York Stock Exchange, and he was going around speaking to meetings of the
 American Society of Corporate Secretaries and hearing their complaints.
 
-**JS:** Someone from the New York Stock Exchange helped to work out this arrangement,
-right?
+> Someone from the New York Stock Exchange helped to work out this arrangement,
+> right?
 
-**WD:** Yes.  Dick Grasso, who later rose to become Chairman of the NYSE, was the go-between
+Yes.  Dick Grasso, who later rose to become Chairman of the NYSE, was the go-between
 between me and Phelan to work out this modus vivendi.
 
-**JS:** Next, I wanted to ask you about the big strike in 1985.  But first, give me a little bit of
-background to that.  Had the workforce at the DTC always been unionized?
+> Next, I wanted to ask you about the big strike in 1985.  But first, give me a little bit of
+> background to that.  Had the workforce at the DTC always been unionized?
 
-<!-- Page 40 -->
-
-**WD:** Yes.  When we spun out of the New York Stock Exchange in 1972 and created CCS,
+Yes.  When we spun out of the New York Stock Exchange in 1972 and created CCS,
 Inc., about 700 clerks doing clerical jobs in CCS came with us, and they were all
 unionized.
 
@@ -966,10 +911,10 @@ The New York Stock Exchange was the lead negotiator on our periodic multi-year u
 contracts involving the Exchange, DTC and the Securities Industry Automation
 Corporation, a part of whose workforce was also unionized.
 
-**JS:** That gave them a bit of an advantage, right, because there was just one of them and then
-three of you, right?  Or did it?
+> That gave them a bit of an advantage, right, because there was just one of them and then
+> three of you, right?  Or did it?
 
-**WD:** No.  We and SIAC were the junior partners.  The New York Stock Exchange was calling
+No.  We and SIAC were the junior partners.  The New York Stock Exchange was calling
 the shots, really.  Its outside labor counsel was a very good law firm.  They’re in the
 book.  I learned my labor law from participating in tripartite discussions in every new
 union negotiation.  And I began to see early on that the Exchange was more benevolent
@@ -980,7 +925,6 @@ negotiate my own union contracts.  The Exchange and my own board didn’t want u
 do that.  Most of them had no familiarity with union negotiation.  They were brokers who
 weren’t unionized, they were banks who weren’t unionized.  And I just felt that the
 Exchange was giving money away.  I could see that we were paying more in benefits and
-<!-- Page 41 -->
 
 in salaries than the average Street worker was getting.  How do I break away?  How do I
 get people to allow me to break away and negotiate separately?
@@ -1004,14 +948,13 @@ want to be unionized themselves.
 We also managed to hire temps and others to be ready in case there was a strike.  And
 there was a strike.  I don’t think the union leadership wanted it, but some hotheads in the
 depository, who felt that we couldn’t operate without them if they went on strike, turned
-<!-- Page 42 -->
 
 down our final offer.  They went on strike after an evening meeting that night.  Well, we
 called people in.
 
-**JS:** Over the weekend?
+> Over the weekend?
 
-**WD:** No, it wasn’t a weekend.  We knew late that night about a strike vote.  So we alerted our
+No, it wasn’t a weekend.  We knew late that night about a strike vote.  So we alerted our
 contingency forces that the strike was on.  The head of the union called the next day and
 said, “Bill, you know, we didn’t want to strike.  The meeting got away from our guy.
 Let’s meet, and we’ll solve this thing.”  I said, “No.  I’m not going to meet.  You’re going
@@ -1019,17 +962,16 @@ to pay for it.”  So I kept the striking workers out three weeks.  We professed
 very well.  We didn’t operate quite as well as I professed, but we operated reasonably
 well.
 
-**JS:** Most of the trades were still being processed within five days?
+> Most of the trades were still being processed within five days?
 
-**WD:** Yes.  The computer people weren’t unionized.  It was the clerks, the people who handled
+Yes.  The computer people weren’t unionized.  It was the clerks, the people who handled
 all the certificates and the paper that we had to replace temporarily.
 
-**JS:** What percentage of the workforce do you think was unionized?
+> What percentage of the workforce do you think was unionized?
 
-**WD:** The interesting thing was that some union members crossed the picket line and came to
+The interesting thing was that some union members crossed the picket line and came to
 work that first day of the strike.  Their numbers increased every day.  Management was
 very encouraged that people were crossing the picket line as union members and coming
-<!-- Page 43 -->
 
 to work.  I wanted to  drill home the fact that we’re going to operate and could operate,
 despite a strike.
@@ -1045,18 +987,16 @@ increased wages and benefits, redounded to their benefit. Middle managers didn�
 what the union settlement was because they knew they’d always get more than that.  So I
 had to get their survival interests working on my level.
 
-**JS:** Another thing that you talk about in the book, a very interesting story, was the story of
-the night supervisor who you caught involved in some shady business.  Why don’t you
-tell me about that?
+> Another thing that you talk about in the book, a very interesting story, was the story of
+> the night supervisor who you caught involved in some shady business.  Why don’t you
+> tell me about that?
 
-**WD:** Yes.  One night supervisor – we were a twenty-four-hour-a-day operation – was paid off
+Yes.  One night supervisor – we were a twenty-four-hour-a-day operation – was paid off
 to misdeliver securities to certain accounts.
 
-**JS:** Who was paying him?
+> Who was paying him?
 
-<!-- Page 44 -->
-
-**WD:** Individuals who were stock loan finders.  If an employee of a company needed to borrow
+Individuals who were stock loan finders.  If an employee of a company needed to borrow
 stock and couldn’t get stock in a legitimate way, he might arrange with a stock loan
 finder, illegally, to pay off a clerk to modify a stock delivery ticket and misdirect the
 stock delivery to the company’s account over the weekend or overnight.  Then the
@@ -1068,19 +1008,17 @@ that this was not uncommon on Wall Street.  People who were stock loan finders w
 day, “I know a guy.  You can have delivery of these tomorrow night if that’s what you
 want.  How many shares did you want?”
 
-**JS:** Did this ever fall through?  I mean, was there ever a case where they inadvertently loaned
-some stock, and a deal went through and they didn’t get it back?
+> Did this ever fall through?  I mean, was there ever a case where they inadvertently loaned
+> some stock, and a deal went through and they didn’t get it back?
 
-**WD:** I’m sure that may have happened, but not as far as I know.  When someone caught this
+I’m sure that may have happened, but not as far as I know.  When someone caught this
 delivery – someone who was expecting stock did not get it and someone else said, “Oh,
 why did you send stock to us?  We shouldn’t get that.”  -- the latter party gave it back
 readily.
 
-**JS:** How did you find this guy?
+> How did you find this guy?
 
-<!-- Page 45 -->
-
-**WD:** Somebody who was entitled to stock did not get it, and someone who got it sent it back as
+Somebody who was entitled to stock did not get it, and someone who got it sent it back as
 a mis-delivery.  Somebody in our company caught that this was happening, I think, on the
 part of this one guy.  That set in motion a very expensive process to see if anything else
 like this was going on, if other people were paying off our people to do something that
@@ -1091,32 +1029,31 @@ into a very critical self-examination of untoward influences on the depository b
 who worked in our users back offices, and who might cut some corners to make things
 happen.
 
-**JS:** Did this become public?
+> Did this become public?
 
-**WD:** Yes.
+Yes.
 
-**JS:** OK.  So it might have damaged the reputation.
+> OK.  So it might have damaged the reputation.
 
-**WD:** Yes.  But by the time it became public, we had gotten the loss back so there was no loss.
+Yes.  But by the time it became public, we had gotten the loss back so there was no loss.
 By the way, it was a very healthy thing.  Because both the strike and the fact that
 someone had used us illegally sensitized people to our responsibilities, and to be totally
 above board and to be wary about people who might want to do favors for them.  And
 that’s why we tightened up the company code of conduct so that anyone who received
-<!-- Page 46 -->
 
 any consideration at all – a meal, a free ticket to something – had to report it no matter
 what.
 
-**JS:** Seems like a fair rule.  So at the end of the 1980s, there started to be a lot of talk about
-the possibility of moving from a five-day settlement to a three-day settlement.  How did
-DTC feel about that?
+> Seems like a fair rule.  So at the end of the 1980s, there started to be a lot of talk about
+> the possibility of moving from a five-day settlement to a three-day settlement.  How did
+> DTC feel about that?
 
-**WD:** We realized it would be desirable to narrow the window of unsettled trades.  The question
+We realized it would be desirable to narrow the window of unsettled trades.  The question
 was could the broker-dealer workforce do that?  Was the industry able to do that?
 
-**JS:** What would it have required to move from a five-day to a three-day settlement period?
+> What would it have required to move from a five-day to a three-day settlement period?
 
-**WD:** You would have to have trades that were not confirmed for two or three days to be
+You would have to have trades that were not confirmed for two or three days to be
 confirmed sooner.  It was getting people to confirm their trading activity with each other.
 If you could do a locked-in trade from the time the trade occurred, you would not have
 that problem.  With the way the industry functioned, you would have a trade, and then
@@ -1125,83 +1062,77 @@ Exchange Clearing Corporation; another broker would do the same thing.  There wo
 be variations in timing and all that would have to be ironed out.  So it was always
 desirable to shorten the settlement cycle.
 
-**JS:** Some groups seem pretty convinced that it was a good idea, like the G-30.
+> Some groups seem pretty convinced that it was a good idea, like the G-30.
 
-<!-- Page 47 -->
-
-**WD:** It was a good idea.  The question is, if you say the industry is going to do it, it’s going to
+It was a good idea.  The question is, if you say the industry is going to do it, it’s going to
 work, will it work?  So you have to make a prudential judgment.  Is this desirable thing
 possible?  Can you get enough people on board so that when it happens, it does not blow
 up?  If you work at it long enough, you can finally get to a three-day settlement, which
 we did.  Three day and in same-day funds.
 
-**JS:** It took a number of years to get there, right?
+> It took a number of years to get there, right?
 
-**WD:** Yes.  Because I think a lot of people, such as us, felt that it’s a good idea; how can we get
+Yes.  Because I think a lot of people, such as us, felt that it’s a good idea; how can we get
 it done in a way that works instead of a way that fails?
 
-**JS:** There were different ideas for speeding up the process.  Some people discussed the idea
-of eliminating the stock certificate all together.  Was that feasible in your view?
+> There were different ideas for speeding up the process.  Some people discussed the idea
+> of eliminating the stock certificate all together.  Was that feasible in your view?
 
-**WD:** It certainly was not when we were formed.  Nowadays, in fact, the stock certificate has
+It certainly was not when we were formed.  Nowadays, in fact, the stock certificate has
 been very largely eliminated.  When we were formed in the early seventies, the idea of
 abolishing the stock certificate would have been anathema to people.  I mean, after all,
 that’s how you prove stock ownership.
 
-**JS:** And they had this debate at the beginning of the 1970s, right: do you eliminate the stock
-certificate or not?
+> And they had this debate at the beginning of the 1970s, right: do you eliminate the stock
+> certificate or not?
 
-<!-- Page 48 -->
-
-**WD:** Yes.  But by law, you couldn’t eliminate the stock certificate.  What would you put in its
+Yes.  But by law, you couldn’t eliminate the stock certificate.  What would you put in its
 place?  We put book-entry delivery in its place as an alternative by getting state law
 changed to permit book-entry delivery along with registration of new stock certificates.
 
-**JS:** Because it was state law that mandated the existence of the stock certificate in the first
-place, right?
+> Because it was state law that mandated the existence of the stock certificate in the first
+> place, right?
 
-**WD:** Right.  It was all a matter of state law.
+Right.  It was all a matter of state law.
 
-**JS:** The federal government was relatively limited in what it could do.
+> The federal government was relatively limited in what it could do.
 
-**WD:** Right.  Couldn’t touch it.  Indeed, people who believe strongly in states’ rights would
+Right.  Couldn’t touch it.  Indeed, people who believe strongly in states’ rights would
 have fought it and paralyzed it.  You would get killed politically for doing that, no matter
 what party you were.  Get clobbered.
 
-**JS:** In addition to this five-day settlement period, there were some other settlement periods
-that they were considering being changed too, right?
+> In addition to this five-day settlement period, there were some other settlement periods
+> that they were considering being changed too, right?
 
-**WD:** No.  The typical five-day settlement period was the key thing.  Could it be changed to
+No.  The typical five-day settlement period was the key thing.  Could it be changed to
 three days?  Now since we’ve moved to a three-day settlement period, there have been
 suggestions we move to a single-day settlement period.  In fact, the SEC has been playing
 around with that and may still be playing around with that idea.  I’m not privy to any
 information now on that subject, but my sense is that people realize that we’re still not
-<!-- Page 49 -->
 
 there yet.  The industry is not there yet to move to that.  And moving from five to three
 may be as far as we need to go for a while.  That’s really substantially reduced that period
 of indefiniteness.
 
-**JS:** As a matter of philosophy, do you think that the DTC, or its successor company now, the
-DTCC, should err on the side of caution?
+> As a matter of philosophy, do you think that the DTC, or its successor company now, the
+> DTCC, should err on the side of caution?
 
-**WD:** Yes.  Caution in the sense that you want to be sure that any change works, that any
+Yes.  Caution in the sense that you want to be sure that any change works, that any
 change to get the efficiency that you wish to get doesn’t fail and, therefore, raise
 questions about the whole process.  Right now, as you know – how many billion shares
 are traded every day in the United States, if we think back to when the six million
 paralyzed the Stock Exchange, wow.  You don’t want anything to go wrong with that.
 You want to make progress, but make progress where you know you can succeed.
 
-**JS:** So in 1994, you reached the self-imposed retirement age of sixty-five.  Tell me about
-your search for a successor.
+> So in 1994, you reached the self-imposed retirement age of sixty-five.  Tell me about
+> your search for a successor.
 
-**WD:** We had a search committee appointed from the Board of Directors, and they worked with
+We had a search committee appointed from the Board of Directors, and they worked with
 me on the search.  I wanted to have Bill Jaenike and Tom Williams be the two top people
 in DTC.  The committee knew both Bill and Tom.  They may have thought in their own
 deliberations without me being present about other possibilities, but Bill Jaenike was a
 natural choice for that job.  They tootled around with the idea of making him CEO and
 having an industry figure be the titular chairman, a kind of non-executive chairman.  I
-<!-- Page 50 -->
 
 shot that down, because I thought that if you had a non-executive chairman sort of
 second-guessing CEO – “Name me somebody you would like to have in that job.  Would
@@ -1209,14 +1140,14 @@ you do it, Tom?”  “No.”  “Would you do it, Dick?”  “No.”  “Who e
 idea that doesn’t go anywhere?”  So it didn’t go anywhere.  They could see the
 difficulties that would present.
 
-**JS:** So Bill Jaenike it was.
+> So Bill Jaenike it was.
 
-**WD:** So Bill Jaenike.
+So Bill Jaenike.
 
-**JS:** Well, Bill, looking back on your long career, do you have any final thoughts, any
-reflections?
+> Well, Bill, looking back on your long career, do you have any final thoughts, any
+> reflections?
 
-**WD:** I said in my farewell marks on several occasions that the future of DTC would reach a
+I said in my farewell marks on several occasions that the future of DTC would reach a
 dimension that no one could at the time anticipate, and that’s exactly what’s happened.  I
 thought that DTC would eventually absorb NSCC and its clearing corporations and
 become a single entity.  I thought it would slowly expand internationally.  I didn’t know
@@ -1226,7 +1157,6 @@ DTC has grown organically.  For example, we began to do a lot of tax work on beh
 our participants, especially when there were tax treaties between the U.S. and other
 countries.  That required us to begin to learn something about foreign tax law and to deal
 with foreign taxing authorities.  You soon began to build up an expertise in that that no
-<!-- Page 51 -->
 
 one else has, just because that was part of our job.  Now that’s a huge part of what DTC
 does for its participants.
@@ -1241,26 +1171,24 @@ regulators that they have full access to all the data DTC has.  This was unthink
 does.  Not its principal activity, but an ancillary activity that has assumed great
 importance.
 
-**JS:** It’s quite a story.
+> It’s quite a story.
 
-**WD:** It is quite a story.  It’s a story that, as I say in my book, that almost no one knows because
+It is quite a story.  It’s a story that, as I say in my book, that almost no one knows because
 clearance and settlement is not a very attractive story in itself.
 
-**JS:** As a final question, do you think that the general public needs to know more about the
-way that the plumbing of the financial system works, or is it something that should just
-go on undisturbed?
+> As a final question, do you think that the general public needs to know more about the
+> way that the plumbing of the financial system works, or is it something that should just
+> go on undisturbed?
 
-<!-- Page 52 -->
-
-**WD:** I think the public takes it for granted, and that’s probably all right.  The general public
+I think the public takes it for granted, and that’s probably all right.  The general public
 needs to know a lot more things they don’t know (laughter).  As far as DTCC is
 concerned, I don’t know that the public needs to know a whole lot more.  How all this
 credit default swaps business turns out is a concern to anyone who thinks about this
 subject, but not the general public.
 
-**JS:** I think that’s something that we’re all trying to still figure out.  Well, sir, thank you very
-much for taking time to talk with us today.
+> I think that’s something that we’re all trying to still figure out.  Well, sir, thank you very
+> much for taking time to talk with us today.
 
-**WD:** You’re very welcome, James.
+You’re very welcome, James.
 
 [End of Interview]
