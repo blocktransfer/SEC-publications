@@ -8,6 +8,9 @@ I am in between these two options for how to frame out the differential power dy
 
 muncie itw
 
+this is supported by doc3-senate-house at the end of 93:
+
+>The Senate bill [which was adopted] also defined "equal regulation" in competitive terms, but made it applicable generally to the regulation of the trading markets and the conduct of the securities industry. Equal regulation was applied in broader areas in the Senate bill, directing the Commission to assure equal regulation... The conferees expect that Commission will act in these areas in an expeditious manner to remove unjustified disparities in regulation as may result in unfair competitive advantages.
 ---
 
 ftc oos and i dont wantto trushteh foias atm

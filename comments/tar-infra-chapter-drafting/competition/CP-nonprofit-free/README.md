@@ -1,4 +1,20 @@
-start with teh qute and full cititan stock
+No. Nobody uses “charity,” “charitable,” or “nonprofit” to characterize transfer agents 
+
+The closest passage is Lori Livingston’s response to Question 9:
+
+> “It can be a useful tool to the issuer to be able to continue to receive services…”
+
+She adds that disclosure could distinguish an agent acting “as a courtesy to the issuer” during financial hardship from one seeking control of the company. See [s72715-56.pdf], p. 4.
+
+- Lori Livingston, founder and CEO of Transfer Online, says *issuers that cannot pay must find an agent that will not charge*—“a business model that should we should be very suspicious of” [sic]. She also says agents must adapt their services or “they will not survive.”  pp. 3–4.
+- Livingston further explains that transfer agents operate on lower profit margins than broker-dealers and must pass additional expenses to issuers. See the same letter, p. 6.
+
+
+
+ 
+
+
+
 
 - refefenc eiopmolitn alerady adcitng in this capancy
 - expandtahat for the need for the braedr TAD concpet to act asa santonopnerieht

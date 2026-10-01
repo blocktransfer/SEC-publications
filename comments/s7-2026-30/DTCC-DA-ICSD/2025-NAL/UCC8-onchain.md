@@ -16,3 +16,16 @@ DTC says it recognizes only the Participant associated with the Registered Walle
 
 this cerates teh exacty sysytemic rsisk taht lead to mandated centoal crlearing , all over agagin. backrefn Pierce and the dissent from Genslar
 
+
+
+## Open Questions
+
+### 3643 segway
+
+how can LedgerScan's record, not the omnibus account, constitutes DTC's official books and records identifying the holders of Tokenized Entitlements
+be the actual record of owenseid if it doesnt recncile with eth eomnibus. whcih onu prevalis. 
+once you have two it starts eth netireu cahin from https://github.com/gmewikiorg/gme-wiki/tree/main/public/assets
+
+DTCC's current FAQ explicitly says it will reconcile the total number of tokenized entitlements recorded by LedgerScan against the traditional securities entitlements in the Digital Omnibus Account
+https://www.dtcc.com/-/media/Files/Downloads/digital-assets/dtc-tokenization-service-faq.pdf RECONCILE
+thesis toh arg and the rpbelm

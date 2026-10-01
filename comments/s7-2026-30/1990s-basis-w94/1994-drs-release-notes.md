@@ -73,3 +73,17 @@ Separately, the release notes earlier that account-statement/book-entry ownershi
 
 
 
+     In 1992, the STA, the Corporate Transfer Agents Association
+("CTAA"), and the Securities Industry Committee of ASCS formed
+the Investor Registration Option Implementation Committee
+("IRO/IC") to develop an issuer/transfer agent operated book-
+entry registration system.  The IRO/IC developed the concept of a
+book-entry direct registration system operated by transfer agents
+("DRS Concept"), modeling it after the systems used in dividend
+reinvestment and stock purchase programs ("DRSPPs")-[12]- which
+are currently offered by many issuers or their transfer agents. 
+This concept would allow any retail investor who wants his or her
+securities to be registered directly on the books of the issuer,
+but does not necessarily want to receive a certificate, to
+register those securities in book-entry form directly on the
+books of the issuer.

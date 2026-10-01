@@ -70,6 +70,8 @@ at 34 he expresseses conecer over teh crediworcthneyy of ethore doenpsitores at 
 > BASIC was still in existence as a committee. It was involved heavily in the lobbying with both the Senate and House committees on that bill. DTC also took a prominent role and I testified. The Securities Industry Association, as it was then called, the trade association for broker-dealers, took the same position that BASIC and DTC took.
 > at 29
 
+He gets at the G30 frhom 47 on
+
 
 ## setup for teh late 80s gov shift
 
@@ -90,3 +92,19 @@ So the banks wanted to be sure that bank participants had the ability to buy DTC
 Because it would loosen their influence, they thought, on DTC. Not that they had any to speak of, but it was a matter of pride also. It was the majority owner of this apparently modest but successful organization. So I worked, through a friend of mine at Merrill Lynch, to have Don Regan, who was chairman and CEO of Merrill Lynch and also a board member of the New York Stock Exchange, press for the ability of broker-dealers to own stock in DTC directly, instead of being represented by the New York Stock Exchange, the NASD and the AMEX. Needham, of course, had to be happy to go along with that. Many brokers did not actually buy DTC stock because they did not see any point in it. They were happy with the way things were. But the precedent had been set when Merrill and some other broker-dealers bought stock in the depository.
 
 
+
+***
+
+> the corporation would say, "We have to treat you [DTC] like everyone else." [they accept this]
+> 38
+
+
+As a matter of philosophy, do you think that the DTC, or its successor company now, the
+DTCC, should er on the side of caution?
+
+WD: Yes. Caution in the sense that you want to be sure that any change works, that any
+change to get the efficiency that you wish to get doesn't fail and, therefore, raise
+questions about the whole process. Right now, as you know - how many billion shares
+are traded every day in the United States, if we think back to when the six million
+paralyzed the Stock Exchange, wow. You don't want anything to go wrong with that.
+You want to make progress, but make progress where you know you can succeed

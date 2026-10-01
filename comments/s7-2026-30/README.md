@@ -31,6 +31,9 @@ Status: Draft
 | Prorpsed Transefr Agent Rules (the "PR") | 91 FR 56946–57061 | https://www.govinfo.gov/content/pkg/FR-2026-09-04/pdf/FR-2026-09-04.pdf#page=212 |
 compiltain todo: check taht thees are all the full dairly pubs with the pagerefs
 
+also i am thinknig waybacks for all the DTC links..
+
+
 # Signifiifcance of Th eCommntnino's Efforts 
 
 
