@@ -7,6 +7,10 @@ video of just Dan)
 
 [doney-prev]: See statament, PREV n.65.
 
+> 
+[townsend-yellowpaper-quote]: Erik Townsend, host, SmarterMarkets, Episode 9: [Mark Fisher Musing on How to Improve the Futures Markets](https://www.smartermarkets.media/mark-fisher-commodities-legend-risk-management) (Jan. 23, 2021), at 10:14 and 11:14–11:35 
+PREV note-number backreference to be confirmed.
+
 [doney]: https://notes.wooten.link/2026/5/6
 
 [peirce-ta-proposal-statement]: https://www.sec.gov/newsroom/speeches-statements/peirce-transfer-agent-rules-090126-time-transfer-statement-proposed-transfer-agent-rules
