@@ -75,6 +75,8 @@ and then the cert pull needs its own section bc that is our basis for 2004 at ht
 
 that sets up the worthless security RH form as 'rpermissison for TA procedure' (which if strongr would obviate)
 
+Chives did a great cover of this in the substatinallyl-meannigful {{choice-no-choice}} monopoly setuy
+
 ### ancils
 
 - 166–167 / 187–188
