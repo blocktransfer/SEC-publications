@@ -1,0 +1,73 @@
+{
+  "source": "Open-Xchange iOS mail archive",
+  "recordsExamined": 8158,
+  "recipientFilter": "SEC email domain in To, Cc, or Bcc",
+  "messages": [
+    {
+      "archiveMailId": "174",
+      "mailbox": "Sent",
+      "sentDate": "2021-07-22T14:39:04.000Z",
+      "subject": "Block Transfer Rule 17Ad-7(f)(5)(ii)",
+      "from": [
+        {
+          "name": "John Wooten",
+          "address": "john@blocktransfer.io"
+        }
+      ],
+      "to": [
+        {
+          "name": "tradingandmarkets@sec.gov",
+          "address": "tradingandmarkets@sec.gov"
+        }
+      ],
+      "cc": [],
+      "bcc": [],
+      "messageId": null,
+      "preview": "Hello, Per conversation with Wade Gallagher, we (#0001846058) should be all set to act as a transfer agent around the twentieth of August. Wade recommended I shoot an email over here as well to just c",
+      "body": null,
+      "bodyType": "",
+      "contentType": "",
+      "hasAttachment": false,
+      "attachments": []
+    },
+    {
+      "archiveMailId": "230",
+      "mailbox": "Sent",
+      "sentDate": "2021-08-31T12:47:41.000Z",
+      "subject": "CIK 0001846058 | Block Transfer Rule 17Ad-7(f)(5)(ii) Filing & Ad-4 Exemption",
+      "from": [
+        {
+          "name": "John Wooten",
+          "address": "john@blocktransfer.io"
+        }
+      ],
+      "to": [
+        {
+          "name": "saltzburgm@sec.gov",
+          "address": "saltzburgm@sec.gov"
+        },
+        {
+          "name": "whitingc@sec.gov",
+          "address": "whitingc@sec.gov"
+        },
+        {
+          "name": "deboyriee@sec.gov",
+          "address": "deboyriee@sec.gov"
+        },
+        {
+          "name": "rothmanm@sec.gov",
+          "address": "rothmanm@sec.gov"
+        }
+      ],
+      "cc": [],
+      "bcc": [],
+      "messageId": null,
+      "preview": "Hello Commission Members, Attached is BlockTrans Syndicate's escrow agent undertaking agreement. Noelle Wooten Law Firm Additionally, we elect exemption under Ad-4(b)(1) on this 31st d",
+      "body": null,
+      "bodyType": "",
+      "contentType": "",
+      "hasAttachment": true,
+      "attachments": []
+    }
+  ]
+}
