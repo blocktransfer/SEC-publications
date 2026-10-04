@@ -1,0 +1,172 @@
+X-Original-Mbox-Index: 026387
+X-Original-Mbox-Envelope-Base64: RnJvbSAxNjkxMzA5Mjk2MjE2NTA5MjM0QHh4eCBXZWQ
+ gRmViIDEwIDExOjU3OjE2ICswMDAwIDIwMjENCg==
+X-Original-Mbox-Separator-Base64: 
+X-Original-Mbox-Envelope: From 1691309296216509234@xxx Wed Feb 10 11:57:16 +0000 2021
+X-Original-Mbox-Message-SHA256: ad620d0cf66af448d20e64b58f25e2505dd94277df7fe31e96d2721acaa94aae
+X-GM-THRID: 1691308256887294737
+X-Gmail-Labels: Archived,Sent,Opened
+MIME-Version: 1.0
+Date: Wed, 10 Feb 2021 06:57:14 -0500
+Message-ID: <CAMV2eqZbMFw16TMajrU-eeM7CRYyperP6FhRoK2mWUBmxtXigQ@mail.gmail.com>
+Subject: patent ip
+From: John Wooten <jfwooten4@gmail.com>
+To: jwooten31@gatech.edu
+Content-Type: multipart/alternative; boundary="000000000000bf364405bafa1a53"
+
+--000000000000bf364405bafa1a53
+Content-Type: text/plain; charset="UTF-8"
+
+There is one firm called Securitize that is also an SEC-registered stock
+transfer agent. Information about their company and underlying 'blockchain
+transfer agent' service (according to their website) is scarce at best. It
+seems the company focuses mainly on private fund-admin and cap-table
+services. I had significant difficulties finding any of the decentralized
+tech they're using, despite the blockchain buzzwords all over their site.
+The CEO has a lot of experience in VC, according to LinkedIn, and the Firm
+itself claims to have support from large institutional banks. They act as
+more of a centralized entity, from what I can tell... essentially
+functioning like the Computershares of the world.
+
+3 of the 7 patents listed below were abandoned, as it is complex to patent
+open-source blockchain technology.
+
+US20190197622A1 - This is a vague way of using blockchain to record
+CUSIP-related information through digital tokens (very similar to what
+we're doing). The patent was abandoned. Due to vagueness, the patent could
+be applied to almost all securities recordkeeping.
+
+US20190139136A1 - This is a vague way of using blockchain for security
+clearing, similar settlement services, and subsequent asset lending (among
+other things). It discusses the open auditability enabled by blockchain
+tech which streamlines tax accounting and public transparency of trades.
+The patent was abandoned. This patent, though extremely vague, relates more
+to decentralized asset management and less to a decentralized stock
+transfer agent.
+
+JP6697008B2 - This patent isn't in English, but it talks about federated
+implementations of sidechain verification for stocks, commodities,
+currencies, and derivatives, which we are using in some parts of our code.
+The patent discusses settlement risk in forex markets and proposes ways to
+streamline asset authorization and transfer to enable decentralized
+trading. Translation can be found on Google patents. The patent rarely
+talks about equities or transfer and settlement of digital shares (what
+we're doing).
+
+US10833843B1 - This patent discusses means to manage blockchain access
+through metadata information. There are also systems described for
+interacting with a blockchain for asset management based on a private
+ledger. I've read this patent a few times and legitimately have no clue how
+it was granted. The sixth page is a description of blockchain, and the
+remaining 14 pages just talk about storing private keys and accessing them
+securely. This patent encompasses every blockchain application on Earth,
+and I see no court deliverability or enforceability possible.
+
+US20190385155A1 - This patent discusses trading tokenized financial
+instruments through smart contracts (very similar to what we're doing).
+Furthermore, the patent talks about reporting decentralized settlement on
+the blockchain to issuers, tax authorities, and regulatory agents (very
+similar to what we're doing). The patent 'Summary of the Invention' section
+focuses on the primary issuance of securities and subsequent store of value
+on blockchains. However, once you get down to the 'Detailed Description of
+the Invention,' the information presented becomes significantly vaguer. By
+the logic in the patent, almost any decentralized token that stores value
+(essentially all of them) are embodied under the invention. The patent even
+goes so far as to discuss credit cards based on digital tokens (this is
+very common in the industry and many firms compete in this space).
+Furthermore, the patent tries to cover 32-bit order-type encoding which has
+been standardized in the market for decades. Because of other significant
+vagueness in the pending patent, I highly doubt it will be granted.
+
+US20190130483A1 - This patent discusses issuing asset-back securities
+through blockchain tokens. The primary 'invention' cited are using 'mint,'
+a common Solidity function call, to establish decentralized assets. The
+patent further discusses the transfer of assets after issuance through a
+decentralized ledger. Lastly, the patent discusses the redemption of tokens
+for the underlying assets. Again, I have no clue how this patent got
+granted... It essentially covers every single ERC20 token on Earth. Just
+off the top of my head, the Coinbase-Circle USDC, Gemini USDG, Zhao's
+Tether, etc. encompass over 40B and heavily rely on every feature detailed
+in this patent. Anyway, this is a very general technological patent that
+doesn't particularly talk about stock transfer agents in any way whatsoever.
+
+US20190080407A1 - An older revision of US20190197622A1 that discusses the
+implementation of CUSIP-tokenized securities on ATS and its implications.
+The patent was abandoned. Very pertinent under Exchange Act Rule 3a1-1(a),
+but this has essentially nothing to do with issuance or settlement under
+stock transfer agents.
+
+--000000000000bf364405bafa1a53
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">There is one firm called Securitize that is also an SEC-re=
+gistered stock transfer agent. Information about their company and underlyi=
+ng &#39;blockchain transfer agent&#39; service (according to their website)=
+ is scarce at best. It seems the company focuses mainly on private fund-adm=
+in and cap-table services. I had significant difficulties finding any of th=
+e decentralized tech they&#39;re using, despite the blockchain buzzwords al=
+l over their site. The CEO has a lot of experience in VC, according to Link=
+edIn, and the Firm itself claims to have support from large institutional b=
+anks. They act as more of a centralized entity, from what I can tell... ess=
+entially functioning like the Computershares of the world.<br><div><br></di=
+v><div>3 of the 7 patents listed below were abandoned, as it is complex to =
+patent open-source blockchain technology.<br><br>US20190197622A1 - This is =
+a vague way of using blockchain to record CUSIP-related information through=
+ digital tokens (very similar to what we&#39;re doing). The patent was aban=
+doned. Due to vagueness, the patent could be applied to almost all securiti=
+es recordkeeping.<br><br>US20190139136A1 - This is a vague way of using blo=
+ckchain for security clearing, similar settlement services, and subsequent =
+asset lending (among other things). It discusses the open auditability enab=
+led by blockchain tech which streamlines tax accounting and public transpar=
+ency of trades. The patent was abandoned. This patent, though extremely vag=
+ue, relates more to decentralized asset management and less to a decentrali=
+zed stock transfer agent.<br><br>JP6697008B2 - This patent isn&#39;t in Eng=
+lish, but it talks about federated implementations of sidechain verificatio=
+n for stocks, commodities, currencies, and derivatives, which we are using =
+in some parts of our code. The patent discusses settlement risk in forex ma=
+rkets and proposes ways to streamline asset authorization and transfer to e=
+nable decentralized trading. Translation can be found on Google patents. Th=
+e patent rarely talks about equities or transfer and settlement of digital =
+shares (what we&#39;re doing).<br><br>US10833843B1 - This patent discusses =
+means to manage blockchain access through metadata information. There are a=
+lso systems described for interacting with a blockchain for asset managemen=
+t based on a private ledger. I&#39;ve read this patent a few times and legi=
+timately have no clue how it was granted. The sixth page is a description o=
+f blockchain, and the remaining 14 pages just talk about storing private ke=
+ys and accessing them securely. This patent encompasses every blockchain ap=
+plication on Earth, and I see no court deliverability or enforceability pos=
+sible.<br><br>US20190385155A1 - This patent discusses trading tokenized fin=
+ancial instruments through smart contracts (very similar to what we&#39;re =
+doing). Furthermore, the patent talks about reporting decentralized settlem=
+ent on the blockchain to issuers, tax authorities, and regulatory agents (v=
+ery similar to what we&#39;re doing). The patent &#39;Summary of the Invent=
+ion&#39; section focuses on the primary issuance of securities and subseque=
+nt store of value on blockchains. However, once you get down to the &#39;De=
+tailed Description of the Invention,&#39; the information presented becomes=
+ significantly vaguer. By the logic in the patent, almost any decentralized=
+ token that stores value (essentially all of them) are embodied under the i=
+nvention. The patent even goes so far as to discuss credit cards based on d=
+igital tokens (this is very common in the industry and many firms compete i=
+n this space). Furthermore, the patent tries to cover 32-bit order-type enc=
+oding which has been standardized in the market for decades. Because of oth=
+er significant vagueness in the pending patent, I highly doubt it will be g=
+ranted.<br><br>US20190130483A1 - This patent discusses issuing asset-back s=
+ecurities through blockchain tokens. The primary &#39;invention&#39; cited =
+are using &#39;mint,&#39; a common Solidity function call, to establish dec=
+entralized assets. The patent further discusses the transfer of assets afte=
+r issuance through a decentralized ledger. Lastly, the patent discusses the=
+ redemption of tokens for the underlying assets. Again, I have no clue how =
+this patent got granted... It essentially covers every single ERC20 token o=
+n Earth. Just off the top of my head, the Coinbase-Circle USDC, Gemini USDG=
+, Zhao&#39;s Tether, etc. encompass over 40B and heavily rely on every feat=
+ure detailed in this patent. Anyway, this is a very general technological p=
+atent that doesn&#39;t particularly talk about stock transfer agents in any=
+ way whatsoever.<br><br>US20190080407A1 - An older revision of US2019019762=
+2A1 that discusses the implementation of CUSIP-tokenized securities on ATS =
+and its implications. The patent was abandoned. Very pertinent under Exchan=
+ge Act Rule 3a1-1(a), but this has essentially nothing to do with issuance =
+or settlement under stock transfer agents.<br></div></div>
+
+--000000000000bf364405bafa1a53--
+

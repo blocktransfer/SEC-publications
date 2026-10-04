@@ -1,0 +1,194 @@
+X-Original-Mbox-Index: 010004
+X-Original-Mbox-Envelope-Base64: RnJvbSAxNzkzODY1MzA5ODI5MTU4NzM2QHh4eCBNb24
+ gTWFyIDE4IDEyOjAxOjEzICswMDAwIDIwMjQNCg==
+X-Original-Mbox-Separator-Base64: 
+X-Original-Mbox-Envelope: From 1793865309829158736@xxx Mon Mar 18 12:01:13 +0000 2024
+X-Original-Mbox-Message-SHA256: 6e85bca58d813428872a869fe1c4e5bdf330a6be35158db4d7376660122dcec9
+X-GM-THRID: 1793865309829158736
+X-Gmail-Labels: Inbox,Opened,Category Personal
+Delivered-To: jfwooten4@gmail.com
+Received: by 2002:a05:6130:e8a:b0:7e0:5a6f:9c78 with SMTP id cr10csp918170uab;
+        Mon, 18 Mar 2024 05:01:13 -0700 (PDT)
+X-Google-Smtp-Source: AGHT+IE00V4aOxuELhEpDJAfEaSB/i7xE+99mAJg7FXWaYEUW3sK8cAMmMa9n/3dAA3imvaf1r7f
+X-Received: by 2002:a05:6a20:3b23:b0:1a3:4099:68ef with SMTP id c35-20020a056a203b2300b001a3409968efmr9724304pzh.27.1710763273220;
+        Mon, 18 Mar 2024 05:01:13 -0700 (PDT)
+ARC-Seal: i=2; a=rsa-sha256; t=1710763273; cv=pass;
+        d=google.com; s=arc-20160816;
+        b=nBbeSPba2RgcFWVR5ZuM1VkwvhMbkvWFvUne3mzMf0Sf2WaG6rizx6J5UqiJdq8XvH
+         8kZ/U7wiUBwyU02lHpOmxlUN8lJBGi8wlXHJUftwlaP3rIrVWhGWvB8yqe47XtKAoVH/
+         o1X3RNHV6LD3K5nXMKDcLD+OAqnGnc0mlpRqL3N6vuR5zKZF84EzLyPCyUluINO7bA6B
+         C3y3an6zQUgGT5EyU18r7dDsqq7nPJQcN7by40XpLAMawRrVcG6wY8yfshoPDNXuECBz
+         wXwP+2QSraEpi7SOA/KnU80DV6q42HuWK/cS5BmNAAOSMtNCbFutCY9JJdAJWfWSQuSz
+         Nu1Q==
+ARC-Message-Signature: i=2; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=user-agent:importance:mime-version:subject:message-id:to:from:date
+         :dkim-signature;
+        bh=8ddPN1vZTriDxo6C2Sc//D/zrE4NHCLvpIKhiPFFNlg=;
+        fh=FVWCF18rK7+lqhaNlHv8GVWkPIry/nFj4bbOJs1x/A4=;
+        b=Uw6h1BOk6L1Z8WNHxzzROowgT5W5vGhJYkdewqZgBkS9DsmZTgTxHDxxRNHli+JcMt
+         Vaddwu2tpUREDYeR0eeRFOxAcTehzYySdjxiTvlkiPmX7QukwlpQ/WufedP+udJHJPC+
+         SaARYUpAdkteWXAO2ubYuECV5G10e7YsYtGhZcGFwTLmQrrWzYknurSaeRVTc2vXCT3h
+         ZBTacx6w6ASjH4E1LEr0D6RLJKn+HOTxxaOka/z7fxCOiQjaEmwDG0Va4ELI7Y8DLSqi
+         VpQdi3aZkQt8bEpOIHI6dqAg5aS7yUcoB8c6vh67qg9HC5sxEDba9SFPNZsaM1jcHhxZ
+         kViA==;
+        dara=google.com
+ARC-Authentication-Results: i=2; mx.google.com;
+       dkim=pass header.i=@blocktransfer.com header.s=secure_mail header.b="g/Yaw+19";
+       arc=pass (i=1 spf=pass spfdomain=blocktransfer.com dkim=pass dkdomain=blocktransfer.com dmarc=pass fromdomain=blocktransfer.com>);
+       spf=pass (google.com: domain of john.wooten@blocktransfer.com designates 136.143.188.12 as permitted sender) smtp.mailfrom=john.wooten@blocktransfer.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=blocktransfer.com
+Return-Path: <john.wooten@blocktransfer.com>
+Received: from sender4-op-o12.zoho.com (sender4-op-o12.zoho.com. [136.143.188.12])
+        by mx.google.com with ESMTPS id g131-20020a636b89000000b005ce05e5d57bsi7884843pgc.574.2024.03.18.05.01.12
+        for <jfwooten4@gmail.com>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Mon, 18 Mar 2024 05:01:13 -0700 (PDT)
+Received-SPF: pass (google.com: domain of john.wooten@blocktransfer.com designates 136.143.188.12 as permitted sender) client-ip=136.143.188.12;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@blocktransfer.com header.s=secure_mail header.b="g/Yaw+19";
+       arc=pass (i=1 spf=pass spfdomain=blocktransfer.com dkim=pass dkdomain=blocktransfer.com dmarc=pass fromdomain=blocktransfer.com>);
+       spf=pass (google.com: domain of john.wooten@blocktransfer.com designates 136.143.188.12 as permitted sender) smtp.mailfrom=john.wooten@blocktransfer.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=blocktransfer.com
+ARC-Seal: i=1; a=rsa-sha256; t=1710763270; cv=none; 
+	d=zohomail.com; s=zohoarc; 
+	b=ikggLSsrVDPI8pof9mmDkbqrxA3QWqyTsXUor9ZqBBp0D/KjuWsbAbsADQJ+2RqQlgfoqqFf2LHhmJmDo5qStdfSx2T4G89NAkbCYIy2TXBgNJhjxBcYBxjDgQEspbvoz4SVYD4nQsNGhtVcBvYu5w6txM8JGpLdsHwPlOLJD0Y=
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=zohomail.com; s=zohoarc; 
+	t=1710763270; h=Content-Type:Date:Date:From:From:MIME-Version:Message-ID:Subject:Subject:To:To:Message-Id:Reply-To:Cc; 
+	bh=8ddPN1vZTriDxo6C2Sc//D/zrE4NHCLvpIKhiPFFNlg=; 
+	b=W9jjNMhUQoOaMhz+cDG9T9HbPG6RC0Ky8j/zCgN6FHn/2DZw0K2DU44JRGLIHaomNQ9dN6gm16Z8so8qRcH5Dql54Go/+IbZNSuD7VB9mtqFbgoaTqfytVuEv232LV9DckzI58NENbT6p3pzMNM4LE83k0YoQRpxBOP7JSj3YE8=
+ARC-Authentication-Results: i=1; mx.zohomail.com;
+	dkim=pass  header.i=blocktransfer.com;
+	spf=pass  smtp.mailfrom=john.wooten@blocktransfer.com;
+	dmarc=pass header.from=<john.wooten@blocktransfer.com>
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1710763270;
+	s=secure_mail; d=blocktransfer.com;
+	i=john.wooten@blocktransfer.com;
+	h=Date:Date:From:From:To:To:Message-Id:Message-Id:Subject:Subject:MIME-Version:Content-Type:Reply-To:Cc;
+	bh=8ddPN1vZTriDxo6C2Sc//D/zrE4NHCLvpIKhiPFFNlg=;
+	b=g/Yaw+19dUslwLBFy83ZOyyEA5cjLTjF8rWw2R7z2rn2uA3EvNgMDenmPbPu7m8n
+	iljeH+OTdtP25sZJCM5XJLfSzjDw1LIqpM9KMWFyby8p6hCJoVMFdhZR3uoPN7SNrs5
+	wvXGcpp8m7wNepj6ajcR+l7UcgRGrevSgPmIhorajNTlLapFV4VXPkUbA7qShX+V5EW
+	Y6bdKlz8kwTuTIqR4SMRsnchp9EMYupJgQP2RZL3G1cfZiu3YTqMStiQsDmMv+q5IYx
+	MlhxRX+Vr5nirR5jP+0iK281Ub99cBmjBcndv59FmrWmZhdTCxcpapCmE7MvxE4FQJF
+	jnY7H0slwA==
+Received: from mail.zoho.com by mx.zohomail.com
+	with SMTP id 1710763239434885.3064730730898; Mon, 18 Mar 2024 05:00:39 -0700 (PDT)
+Date: Mon, 18 Mar 2024 08:00:39 -0400
+From: John Wooten <john.wooten@blocktransfer.com>
+To: <jfwooten4@gmail.com>
+Message-Id: <18e43767546.cbefd13971015.78267839309609439@blocktransfer.com>
+Subject: Following up Tues discord
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_169814_295163704.1710528820551"
+Importance: Normal
+User-Agent: Zoho Mail
+X-Mailer: Zoho Mail
+
+------=_Part_169814_295163704.1710528820551
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+https://discord.com/channels/1102309240145707049/1217829264137916537/121826=
+0670689312858
+
+6days DM to post on Reddit?
+https://discord.com/channels/1102309240145707049/1216812680543735860/121823=
+5057060315247
+
+https://discord.com/channels/1102309240145707049/1216793196538101823/121823=
+4011676049518
+Or info per the fraud cmkm cases in Fed Gov Register TA regulations proposi=
+tion doc
+
+And Jekyll gh newsletter In good faith,             John Wooten Chief Compl=
+iance Officer  Email:   john.wooten@blocktransfer.com  Text:   (341) 46-JOH=
+NW  =C2=A0=C2=A0=C2=A0=C2=A0P.S. A great referral for me would be anyone af=
+fected by the January=C2=A0Carta scandal. We are making an emergency except=
+ion, allowing pre-IPO companies to leverage the full power of  TAD3.  Execu=
+tives, Regulators, and Investors: How can I help? Book an appointment  Dire=
+ct investor inquiries to: 99 Wall St #4640, New York, NY 10005 Email:  supp=
+ort@blocktransfer.com  Call or text:  (209) BT-HELPS  SEC advocacy:=C2=A0Wh=
+yDRS.org
+------=_Part_169814_295163704.1710528820551
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>=
+<meta content=3D"text/html;charset=3DUTF-8" http-equiv=3D"Content-Type"></h=
+ead><body ><div style=3D'font-size:12pt;font-family:Georgia,Arial,Helvetica=
+,sans-serif;'><div dir=3D'auto'>https://discord.com/channels/11023092401457=
+07049/1217829264137916537/1218260670689312858</div><div dir=3D'auto'><br></=
+div><div dir=3D'auto'>6days DM to post on Reddit?</div><div dir=3D'auto'>ht=
+tps://discord.com/channels/1102309240145707049/1216812680543735860/12182350=
+57060315247</div><div dir=3D'auto'><br></div><div dir=3D'auto'>https://disc=
+ord.com/channels/1102309240145707049/1216793196538101823/121823401167604951=
+8</div><div dir=3D'auto'>Or info per the fraud cmkm cases in Fed Gov Regist=
+er TA regulations proposition doc</div><div dir=3D'auto'><br></div><div dir=
+=3D'auto'>And Jekyll gh newsletter </div><div id=3D"message" dir=3D"auto"><=
+/div><br id=3D"br3"><div id=3D"signature" dir=3D"auto"><div style=3D"text-a=
+lign: left; font-family: Georgia, Times New Roman, serif"><p><span class=3D=
+"size" style=3D"font-size: 16px">In good faith, </span> <br></p><table styl=
+e=3D"border-collapse: collapse"><tbody><tr><td><table style=3D"border-colla=
+pse: collapse" cellspacing=3D"0" cellpadding=3D"0"><tbody><tr><td id=3D"you=
+r-pictures" style=3D"padding: 0px; vertical-align: top"><table style=3D"bor=
+der-collapse: collapse" width=3D"80"><tbody><tr id=3D"headshot"><td style=
+=3D"padding: 0px; text-align: center"><div id=3D"profile-pic" style=3D"alig=
+n-items: center"><img src=3D"https://blocktransfer.com/imgs/team/john-woote=
+n-email.png" alt=3D"JFW4"> <br></div></td></tr><tr id=3D"appropriate-social=
+s"><td style=3D"padding: 0px; text-align: center"><table style=3D"margin-to=
+p: 7px; border-collapse: collapse; text-align: center; vertical-align: midd=
+le" width=3D"36" cellpadding=3D"3"><tbody><tr><td id=3D"opt-github"><a styl=
+e=3D"color: rgb(172, 81, 255)" href=3D"https://github.com/JFWooten4" target=
+=3D"_blank"><img src=3D"https://blocktransfer.com/imgs/email/github.png" al=
+t=3D"GH"> </a> <br></td><td id=3D"opt-twitter"><a style=3D"color: rgb(172, =
+81, 255)" href=3D"https://twitter.com/JFWooten4" target=3D"_blank"><img src=
+=3D"https://blocktransfer.com/imgs/email/twitter.png" alt=3D"X"> </a> <br><=
+/td><td id=3D"opt-youtube"><a style=3D"color: rgb(172, 81, 255)" href=3D"ht=
+tps://youtu.be/S75IvkicWD8" target=3D"_blank"><img src=3D"https://blocktran=
+sfer.com/imgs/email/youtube.png" alt=3D"YT"> </a> <br></td><td id=3D"req-li=
+nkedin"><a style=3D"color: rgb(172, 81, 255)" href=3D"https://www.linkedin.=
+com/in/jfwooten4/" target=3D"_blank"><img src=3D"https://blocktransfer.com/=
+imgs/email/linkedin.png" alt=3D"LI"> </a> <br></td><td id=3D"opt-blog-posts=
+"><a style=3D"color: rgb(172, 81, 255)" href=3D"https://www.blocktransfer.c=
+om/blog/author/wooten/" target=3D"_blank"><img src=3D"https://blocktransfer=
+.com/imgs/email/blog.png" alt=3D"BT"> </a> <br></td></tr></tbody></table></=
+td></tr></tbody></table></td><td id=3D"table-spacing" style=3D"padding: 0px=
+" width=3D"20"><br></td><td id=3D"your-information" style=3D"padding: 0px; =
+vertical-align: middle"><h3 id=3D"full-name" style=3D"margin: 0px; font-siz=
+e: 18px">John Wooten <br></h3><p id=3D"preffered-title" style=3D"margin-top=
+: 5px"><span class=3D"size" style=3D"font-size: 16px; margin-top: 5px">Chie=
+f Compliance Officer </span> <br></p><div class=3D"contact" style=3D"margin=
+-top: 5px; margin-bottom: 1px; font-size: 12px"><div id=3D"email"><span sty=
+le=3D"margin-right: 6px">Email: </span> <a id=3D"email" style=3D"color: rgb=
+(172, 81, 255)" href=3D"mailto:john.wooten@blocktransfer.com" target=3D"_bl=
+ank"> john.wooten@blocktransfer.com </a> <br></div><div id=3D"text"><span s=
+tyle=3D"margin-right: 12px">Text: </span> <a style=3D"color: rgb(172, 81, 2=
+55)" href=3D"tel:+13414656469" target=3D"_blank"> (341) 46-JOHNW </a> <br><=
+/div></div></td></tr></tbody></table></td></tr></tbody></table><div style=
+=3D"font-size: 12px"><div><hr style=3D"margin-top: 12pt; margin-bottom: 3pt=
+; border: 1px solid rgb(177, 178, 181)"><span class=3D"size" style=3D"font-=
+size: 16px">&nbsp;&nbsp;&nbsp;&nbsp;P.S. A great referral for me would be a=
+nyone affected by the<span class=3D"size" style=3D"font-size: 16px"> Januar=
+y&nbsp;</span>Carta scandal. We are making an emergency exception, allowing=
+ pre-IPO companies to leverage the full power of <a style=3D"color: rgb(172=
+, 81, 255)" href=3D"https://blocktransfer.com/.well-known/deck.pdf" target=
+=3D"_blank"> TAD3</a>. </span> <br></div><div style=3D"margin-top: 15px; ma=
+rgin-bottom: 9px"><div>Executives, Regulators, and Investors: <br></div><di=
+v><a id=3D"book-user" style=3D"color: rgb(172, 81, 255)" href=3D"https://bo=
+ok.blocktransfer.com/#/johnwooten" target=3D"_blank">How can I help? Book a=
+n appointment </a> <br></div></div></div><div style=3D"font-size: 10px"><di=
+v>Direct investor inquiries to: <br></div><div>99 Wall St #4640, New York, =
+NY 10005 <br></div><div>Email: <a style=3D"color: rgb(172, 81, 255)" href=
+=3D"mailto:support@blocktransfer.com" target=3D"_blank"> support@blocktrans=
+fer.com </a> <br></div><div>Call or text: <a style=3D"color: rgb(172, 81, 2=
+55)" href=3D"tel:+12092843577" target=3D"_blank"> (209) BT-HELPS </a> <br><=
+/div><div><a style=3D"color: rgb(172, 81, 255)" target=3D"_blank" href=3D"h=
+ttps://www.WhyDRS.org"></a><br></div></div></div><div><span class=3D"size" =
+style=3D"font-size: 14.6667px">SEC advocacy:&nbsp;</span><a href=3D"https:/=
+/www.WhyDRS.org" target=3D"_blank" style=3D"color: rgb(172, 81, 255)"><span=
+ class=3D"size" style=3D"font-size: 14.6667px">WhyDRS.org</span></a><br></d=
+iv></div><div id=3D"content" dir=3D"auto"></div></div><br></body></html>
+------=_Part_169814_295163704.1710528820551--
+
+

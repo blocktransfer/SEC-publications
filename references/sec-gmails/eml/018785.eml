@@ -1,0 +1,120 @@
+X-Original-Mbox-Index: 018785
+X-Original-Mbox-Envelope-Base64: RnJvbSAxNzM5NTM2Njc0MDgyMDA1MzEyQHh4eCBXZWQ
+ gSnVsIDI3IDE5OjUwOjQ4ICswMDAwIDIwMjINCg==
+X-Original-Mbox-Separator-Base64: 
+X-Original-Mbox-Envelope: From 1739536674082005312@xxx Wed Jul 27 19:50:48 +0000 2022
+X-Original-Mbox-Message-SHA256: 466f00984aa6cfcce0883d369a5c32578f7bf19b55f1ab597a9e943d46ee92a7
+X-GM-THRID: 1739536674082005312
+X-Gmail-Labels: Inbox,Opened,Category Updates
+Delivered-To: jfwooten4@gmail.com
+Received: by 2002:a26:a812:0:0:0:0:0 with SMTP id s18csp637677yae;
+        Wed, 27 Jul 2022 12:50:48 -0700 (PDT)
+X-Google-Smtp-Source: AGRyM1szwYCM55O9XTWGRoRhy1kewWy59m/d/95GsX9qYSjRF4F/lNIVAsMp7r5uJ6E9ANi31vRn
+X-Received: by 2002:a17:906:5a51:b0:72b:5cdf:ed77 with SMTP id my17-20020a1709065a5100b0072b5cdfed77mr18514899ejc.505.1658951448245;
+        Wed, 27 Jul 2022 12:50:48 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1658951448; cv=none;
+        d=google.com; s=arc-20160816;
+        b=mOYUtS1S8Wsd615m8XbAOt4uBhI5uMS0TbOJEY+6ZcCXb8KfvIxIKhHbnolOUafGDn
+         l9bEIcVvjQv6aB7+oVg0AoqyWOc1eZx2CG1x2JvW56Xgi7iP0qdxsOWMvC/HcB9Pmgck
+         AIrYgbFXjeZySinEk0P7IFdMk6tvU6HhrGiFQhQbEbJSr2JonAACNue0DIJ9FKo6k71X
+         Tle83XQl4yfrXa8SFFMzhitpWJmIFTJcltep7q7cVq6i1ThZO756q2Dmu+Bt6WNpU0NV
+         DLm3flkg5Yubw4j8pQ0ENmLjvJRls5ZHsTZe3OzDi0yPpKWjXJT25+Xbk0+KLZomojka
+         60KA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=content-transfer-encoding:mime-version:subject:to:from:date
+         :message-id:ironport-hdrordr:ironport-data;
+        bh=aopMOxPZFjkd2YPfKAkQX8R/bPePE+JyWweD85c0/qM=;
+        b=w/i2X7OveoZ3OBGOWGw6W8OZ31LYQPBe0sU5quF45jJlS96mcToAnaxczZqhE1a0a3
+         iIktgpSIn0ccRGywQjcaUE5G5WtBBdcNcUiVaGoNbrAeB7svbeiYLCjAS0y38LZuatfb
+         SwLkegZrFKeMK0en9PFqrtJBC+MpQK+q3efvxcz1QHJVOWPUfOLiEZsFOA9tZ0xhjVnF
+         dBq6XYAX0g28P9WSmWEpH8pzCVbZEzHcrs8kg86SbeqTwC3MElK2IkJmX6QaSCU1FXn7
+         siELGYKbjkqBFw/8jDbHp+q/yPxBQ0e44WXeOQy5xVybQhKS9Gcp+LtHBu6NMvrrK6an
+         +OAQ==
+ARC-Authentication-Results: i=1; mx.google.com;
+       spf=pass (google.com: domain of edgar-postmaster@sec.gov designates 162.138.209.5 as permitted sender) smtp.mailfrom=edgar-postmaster@sec.gov;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=sec.gov
+Return-Path: <edgar-postmaster@sec.gov>
+Received: from D2-IP01.SEC.GOV (d2-ip01.sec.gov. [162.138.209.5])
+        by mx.google.com with ESMTPS id w19-20020a05640234d300b0043cb244c6dbsi3153345edc.359.2022.07.27.12.50.47
+        for <jfwooten4@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 27 Jul 2022 12:50:48 -0700 (PDT)
+Received-SPF: pass (google.com: domain of edgar-postmaster@sec.gov designates 162.138.209.5 as permitted sender) client-ip=162.138.209.5;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of edgar-postmaster@sec.gov designates 162.138.209.5 as permitted sender) smtp.mailfrom=edgar-postmaster@sec.gov;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=sec.gov
+IronPort-Data: A9a23:y5X/LqCUK0M9EhVW/5nhw5YqxClBgxIJ4kV8jS/XYbTApDlw1DRWy
+ 2IaUWDSOfmMY2Lwft8la4ng8hwCuZbTnd9kTANkpHpgcSlH+JHPbTi7Bh6rZnvNdKUvb67FA
+ +E2MISowBUcFyeEzvuLGua99SEUOYagH+KgUres1hhZHFMiEGF74f5as7ZRbrRA2LBVOCvQ/
+ 4KpyyHjEAX9gWQsbThLs/jrRC5H55wehhtJ5zTSWtgb5Dcyp1FNZH7IDfjsR5dQatA88t+SH
+ 44v/pnhlo/q105F5ueer1rOWhZirog+nOS5oiE+t6CK2nCur8Gpu0oxHKJ0hUx/011lkz3to
+ TlAncTYdOsnAkHDsO0DSx51KH56AfZHwObCKFO1k9zLk3STJhMAw902ZK03FZcV8et2GX0Lr
+ KZIbSIJNEqb7w606OvkEK822oJ6fZetZ9t3VnJIlFk1Cd4rTZ/KWeDS4sRE2T4rms1UNe3Tb
+ IwWbiQHgBHoOkQRZglMVsxl9AuurmfFYTFW8kDKn40Qzk+PwRxswejEN9WAL7RmQu0QxC50v
+ Fnu/WrmBRYGOdrD4TWA+3OowOTImEvTU4UXDLm5//hhjXWZwmsYCwEMXF2gr/SjzE+5M++zM
+ GRNpXBo9/R0rR31CIKlN/GlnEO5Utcnc4I4O4UHBMulkcI4Py7x6rA4cwN8
+IronPort-HdrOrdr: A9a23:J3P4/qFixceZ0gOJpLqExseALOsnbusQ8zAXPiFKJSC9F/byqy
+ nAppsmPGDP5gr5NEtApTnjAtjlfZqsz/5ICOAqVN/JMTUO3lHYS72KhrGSoAEIdReOjtK0Ks
+ 9bAspDIey1IV9mjdvrpCmUeuxQu+VuWciT9ILjJq5WPGdXgndbnn5ENjo=
+X-IronPort-AV: E=McAfee;i="6400,9594,10421"; a="116463663"
+X-IronPort-AV: E=Sophos;i="5.93,196,1654574400"; 
+   d="scan'208";a="116463663"
+Received: from unknown (HELO receipt-128-zl22p) ([172.24.196.30])
+  by D2-IP01-EDGAR.SEC.GOV with ESMTP; 27 Jul 2022 15:50:47 -0400
+Message-ID: <1492341545.1658951447074.JavaMail.default@receipt-128-zl22p>
+Date: Wed, 27 Jul 2022 15:50:00 -0400 (EDT)
+From: edgar-postmaster@sec.gov
+To: jfwooten4@gmail.com, compliance@blocktransfer.io
+Subject: ACCEPTED FORM TYPE TA-1/A (0001846058-22-000002)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+
+THE FOLLOWING SUBMISSION HAS BEEN ACCEPTED BY THE U.S. SECURITIES AND EXCHANGE
+COMMISSION.
+
+
+COMPANY:       BlockTrans Syndicate
+FORM TYPE:     TA-1/A               NUMBER OF DOCUMENTS: 1
+RECEIVED DATE: 25-Jul-2022 09:07    ACCEPTED DATE:       27-Jul-2022 15:50
+FILING DATE:   25-Jul-2022 09:07
+TEST FILING:   NO                   CONFIRMING COPY:     NO
+
+ACCESSION NUMBER: 0001846058-22-000002
+
+FILE NUMBER(S):
+   1. 084-06800
+
+THE PASSWORD FOR LOGIN CIK 0001846058 WILL EXPIRE 25-Jul-2023 08:52.
+
+PLEASE REFER TO THE ACCESSION NUMBER LISTED ABOVE FOR FUTURE INQUIRIES.
+
+REGISTRANT(S):
+
+   1. CIK:        0001846058
+      COMPANY:    BlockTrans Syndicate
+      FORM TYPE:  TA-1/A
+      FILE NUMBER(S):
+         1. 084-06800
+
+------------------------------- NOTICE ---------------------------------
+
+URGENT: Verify that all of your addresses on the EDGAR database are
+correct.  An incorrect address in the EDGAR Accounting Contact Name 
+and Address information may result in your fee Account Activity
+Statement being returned to the SEC as undeliverable. Please correct
+outdated addresses via the EDGAR filing website.
+
+The EDGAR system is available to receive and process filings from 
+6:00 a.m. to 10:00 p.m. Eastern Time on business days. Filer Support
+staff members are available to respond to requests for assistance from
+9:00 a.m. to 5:30 p.m. Eastern Time. 
+
+We encourage you to visit the EDGAR - Information for Filers webpage at 
+SEC.gov | EDGAR - Information for Filers [https://www.sec.gov/edgar/filer-information ]. 
+On this webpage you can view and/or download the EDGAR Filer Manual, access How 
+Do I's, and also get access to resources and announcements.
+  
+
+
