@@ -1,6 +1,6 @@
-# Open-Xchange DTCC email archive
+# Open-Xchange email archive
 
-This bundle contains 25 DTCC-related messages recovered from the blocktransfer.io Open-Xchange iOS backup: 17 direct DTCC messages and 8 additional messages explicitly related to DTCC.
+This bundle contains 26 messages recovered from the blocktransfer.io Open-Xchange iOS backup: the retained DTCC-related records and two Kemark Medallion Programs messages.
 
 Each message has:
 
@@ -9,7 +9,7 @@ Each message has:
 
 `SHA256SUMS` records the integrity hash of every transcript, source record, and this index.
 
-The backup did not contain RFC 5322 `.eml` files for these messages, and none of the selected records retained a complete body or attachment. The original Realm database is not copied here because it also contains unrelated mailbox/account configuration and credential-capable fields. It remains at `blocktransfer.io-emails/files/AppDomain-com.openxchange.mobile.mailapp2/Documents/persistence/users/john@blocktransfer.io/persistence.realm` in the local ignored archive.
+The backup did not contain RFC 5322 `.eml` files for these messages, and none of the selected records retained a complete body or attachment. The original Realm database is not copied here because it also contains unrelated mailbox/account configuration and credential-capable fields. It remains in the local `JFWooten4/emails/blocktransfer-io` archive.
 
 A transcript ending mid-sentence reflects the approximately 200-character preview stored by the app. Missing text is not reconstructed. I do not have it, and the old mailserver is unreachable afaik. It was through Namecheap, and I migrated to Spaceship on or before 17 Jul 2023.
 
@@ -17,6 +17,8 @@ A transcript ending mid-sentence reflects the approximately 200-character previe
 
 | Date (UTC) | Mailbox | Subject | From → To | Transcript | Source record |
 | --- | --- | --- | --- | --- | --- |
+| 2021-03-01T20:49:11.000Z | Inbox | Medallion Programs Website Access Approved | maureen_freer@kemark.com → john@blocktransfer.io | [Markdown](transcripts/2021-03-01-inbox-0001-medallion-programs-website-access-approved.md) | [JSON](source-records/2021-03-01-inbox-0001-medallion-programs-website-access-approved.json) |
+| 2021-03-05T23:00:49.000Z | Inbox | Annual MedallionPrograms.com Subscription Invoice for the period beginning 03/01/2021 | billing@kemark.com → john@blocktransfer.io | [Markdown](transcripts/2021-03-05-inbox-0002-annual-medallionprograms-com-subscription-invoice.md) | [JSON](source-records/2021-03-05-inbox-0002-annual-medallionprograms-com-subscription-invoice.json) |
 | 2021-03-24T03:39:45.000Z | Sent | DTCC Representation of Street Name | John Wooten <john@blocktransfer.io> → sscharf@dtcc.com | [Markdown](transcripts/2021-03-24-sent-0021-dtcc-representation-of-street-name.md) | [JSON](source-records/2021-03-24-sent-0021-dtcc-representation-of-street-name.json) |
 | 2021-05-02T18:40:26.000Z | Sent | Application to Become a DTC-Eligible Transfer Agent | John Wooten <john@blocktransfer.io> → bdobrogoszcz@dtcc.com | [Markdown](transcripts/2021-05-02-sent-0048-application-to-become-a-dtc-eligible-transfer-agent.md) | [JSON](source-records/2021-05-02-sent-0048-application-to-become-a-dtc-eligible-transfer-agent.json) |
 | 2021-05-17T07:45:27.000Z | Sent | Transfer Agent Verified Shares Program | John Wooten <john@blocktransfer.io> → marketdata@otcmarkets.com | [Markdown](transcripts/2021-05-17-sent-0056-transfer-agent-verified-shares-program.md) | [JSON](source-records/2021-05-17-sent-0056-transfer-agent-verified-shares-program.json) |
