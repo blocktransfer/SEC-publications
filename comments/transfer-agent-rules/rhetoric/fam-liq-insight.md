@@ -27,3 +27,16 @@ Sources:
 - DTCC 2025 annual financial statements (still outstanding at Dec. 31, 2025): https://www.dtcc.com/-/media/Files/Downloads/legal/financials/2025/DTCC-Annual-Financial-Statement-2025.pdf
 - DTCC Q1 2026 financial statements (pre-reset terms immediately before June 2026 reset): https://www.dtcc.com/-/media/Files/Downloads/legal/financials/2026/DTCC-Q1-2026-Financial-Statements.pdf
 - Arnold & Porter transaction announcement: https://www.arnoldporter.com/en/perspectives/news/2021/06/arnold-and-porter-advises-dtcc
+
+
+If the relevant 5-year Treasury rate at the June 2026 reset was around 4.19%, then the new Series D dividend rate would be roughly:
+4.19% + 2.606% = 6.796%
+
+So it would jump from 3.375% to about 6.8% — basically double. Treasury’s June 18, 2026 5-year par yield was 4.19%. [U.S. Department of the Treasury](https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=202606\&type=daily_treasury_yield_curve)
+
+On the $500 million liquidation preference, that would imply roughly:
+
+- old annual dividend: $16.875 million
+- at ~6.796%: about $33.98 million annually
+
+DTCC’s filings confirm the Series D switched from the fixed 3.375% rate after June 20, 2026 to five-year Treasury + 2.606%. [DTCC](https://www.dtcc.com/-/media/Files/Downloads/legal/financials/2026/DTCC-Q1-2026-Financial-Statements.pdf)
