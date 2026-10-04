@@ -9,5 +9,6 @@ exlpan how it isnot a suprise to the peolp withteh nubers, it is a simel anynisn
 
 then suge int othe bonds
 
-trupm it with class E stock
+## DTC Segway
 
+trupm it with class E stock offernig inst.
