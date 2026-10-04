@@ -1,0 +1,143 @@
+X-Original-Mbox-Index: 022447
+X-Original-Mbox-Envelope-Base64: RnJvbSAxNzIzMjA3Mzg1MTkwMzUxNjAxQHh4eCBGcmk
+ gSmFuIDI4IDE0OjAzOjQ1ICswMDAwIDIwMjINCg==
+X-Original-Mbox-Separator-Base64: 
+X-Original-Mbox-Envelope: From 1723207385190351601@xxx Fri Jan 28 14:03:45 +0000 2022
+X-Original-Mbox-Message-SHA256: 006f976afb77d683701b367243c6f0586148db28198e3b7dba5f354fda493431
+X-GM-THRID: 1723207385190351601
+X-Gmail-Labels: Inbox,Opened,Category Updates
+Delivered-To: jfwooten4@gmail.com
+Received: by 2002:a26:1a8c:0:0:0:0:0 with SMTP id a134csp344603yaa;
+        Fri, 28 Jan 2022 06:03:45 -0800 (PST)
+X-Google-Smtp-Source: ABdhPJySKgMk62S/xfCUI7rQZPBPAfAabZSXv5iRGAqgYsn4dGwPbxdBXN0GgiDTOJtEr4IPv3I2
+X-Received: by 2002:a50:9dca:: with SMTP id l10mr8280667edk.311.1643378625538;
+        Fri, 28 Jan 2022 06:03:45 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1643378625; cv=none;
+        d=google.com; s=arc-20160816;
+        b=zQ3mfS4xmm9lvBkgdhA4GmCLsE367pPyw0N8m6WX2DnYcYB63AGqGREnK7B9TOeL6Y
+         OaUD9ECMGsOsj/AmN4DzpPYZBe4hM66WgJulR7RUwfVLWN47MG9z9U6Zw2PROhXeMzSe
+         7S70p84jyJUkj0ELzZIEkJMQCa53Mk1erAPhKMW2vNGV6/vwDrdAr2nZGyFaThgdYzLU
+         3KunsUZVfalHwXwRmmySy5KyAThAnOBCQDpkJaphy7TEufmQV76kizBvwzWbwdYtgAOp
+         B73Q/9quzzy9EoJOvvQGzFnQ2kHVaOtavmpN5mbT+iTGG4e+n1G6cPCiClc7aMNopZdr
+         Gxxg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=content-transfer-encoding:mime-version:subject:to:from:date
+         :message-id:ironport-data;
+        bh=YwllXJCH0QgjmMyUYiFYcVCqpeEOkVuNQ86IQghHk/Y=;
+        b=Ah0AfYSGHrA7SitofLv091Zp6vnOc0F0zwLhLDAzDdSZyQUiXRy/0UcX+TwOIysuYX
+         ewfpo9k2g/ygs9qUl2fQeii+h+iWleuY+D6Z0GmWT6D5fS3TOzsyT/Qyb9BpAkHRMOVX
+         YR9nRyvgCYhD/uYaa/ZwT8FJ2FxxWeKXFsfN62C0i6bojR1VA0EFEih9GegwRxHjWOb1
+         2aqsT8tNQvp2vzD4seQ5cZSFl4mYtHf+OFqumNIkGvtebPvI2nkx9WSb+9U+QwsTIuJ+
+         0/Uoh6DNKSqn/Ko49R9V/M10XOy6+5J8w0oR5MQ2EyK8cixtwdve2I8O1JQwaZ1FPVLU
+         069w==
+ARC-Authentication-Results: i=1; mx.google.com;
+       spf=pass (google.com: domain of edgar-postmaster@sec.gov designates 162.138.202.5 as permitted sender) smtp.mailfrom=edgar-postmaster@sec.gov;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=sec.gov
+Return-Path: <edgar-postmaster@sec.gov>
+Received: from D1-IP01.SEC.GOV (d1-ip01.sec.gov. [162.138.202.5])
+        by mx.google.com with ESMTPS id e9si4111922ejs.590.2022.01.28.06.03.44
+        for <jfwooten4@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 28 Jan 2022 06:03:45 -0800 (PST)
+Received-SPF: pass (google.com: domain of edgar-postmaster@sec.gov designates 162.138.202.5 as permitted sender) client-ip=162.138.202.5;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of edgar-postmaster@sec.gov designates 162.138.202.5 as permitted sender) smtp.mailfrom=edgar-postmaster@sec.gov;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=sec.gov
+IronPort-Data: =?us-ascii?q?A9a23=3AOzpPxqw86HM1LdSAu+96t4n5zX170uA8ZkaCj?=
+ =?us-ascii?q?nDx7giZGSgJxSDo+kZHuzdTbtwNA0HsqmIGyQnKnm4j1ErNoVnUCu5y66hq3?=
+ =?us-ascii?q?IriArtj8YWWDmViNhjxD+1jn6SEGvwj1SfCWqIHS2KVKd4R37oy5Rlt83+ch?=
+ =?us-ascii?q?TRt4vXDu68rdUq6fq8ktMoGG9RUjl8Sw0EEoaRMzlEAfLwgF+oX1Z5Gm6HQV?=
+ =?us-ascii?q?iWh0+R/3zay6RxoKKJP2C6fhFCJCkd2Vlm9amgqupUF36zlEDO4AX8xas1MG?=
+ =?us-ascii?q?1oIArz6n38+psOwGn4HgPzO8NJFiEhTGP1tGuLzCx+oDAXnKAkcASiJ9qHzy?=
+ =?us-ascii?q?7dQkEiDueFCn4P1PYMrwSEZq+bX3tuM7Z+DPaAZtFd6+Ti2MG564eN6Adg7L?=
+ =?us-ascii?q?hQcwrvQGpmpXD6/Rb0BkOZH+KFFgiHl1Y6pZ5WlCRn9K8qmblZzVEzQ0w9d9?=
+ =?us-ascii?q?c/FhR0NBfjITgY8dRgOtNPOnjJlSXvP0jbhVEfvqJ+r8SidQnUg/yakyMDN0?=
+ =?us-ascii?q?kTr4Pk6vx0Gk6tqnOfaLrCxjSmVaWPCC8sMWDqtx+Z6jIHuIzLOPI2sbX02F?=
+ =?us-ascii?q?4++1ftL1KyuvVDql6oIgzJ1khgcLxcXnsQCV0d0j1gkTfO45JLpPoSIvHJ4k?=
+ =?us-ascii?q?789vmWzsE8xxeRXQ5RypEZEyidbrNNAsdZIDioJLy8J1NS9R4/lHlvmdXH45?=
+ =?us-ascii?q?+uqgalPycaD4gbMlII/O3J1UvrjVWjSJurJIRZcR28xUvANPSmPBRcTz/Sn3?=
+ =?us-ascii?q?JoAQmPuqmLhmyII7O/7cIo7sGTaJ2oS4qsIUyK7vOgkA/Ti938VIPdwmxgeR?=
+ =?us-ascii?q?HXs3I6JwKTvdNfADfnypmwJn0mCw9WetDxKdjOMqkScAjVSFvCfQNas3P79r?=
+ =?us-ascii?q?dGOpNxRgiMH6daOX3vCcSerF8GhBdPikYrlGMr6aUUFzLP2Z2jXbQ0w5C1r9?=
+ =?us-ascii?q?NkpjVt1WD1zrsJ+RsdA/0fM557mLAcS4LbjXRrcQMXGinV4VKbYnWveYhoB5?=
+ =?us-ascii?q?klMX7TEknuxvDOvKUApHV/weecKAOZfEEZA75aIudMA2gqEo0O7N6JWHQGmn?=
+ =?us-ascii?q?qQjzo9SK0TrEM6ON/6LGVd6mkWyBG6Ohcbk610XppARZ0IhXV1nkf4teYg9O?=
+ =?us-ascii?q?P4SoNVTsT18uGugKd6HdFX0694S0CUcWh9YsdhgeS8BT7cwFld6GCMcwG4ED?=
+ =?us-ascii?q?Jljp3bYn4ku0FCCrp04CXQ8s/0fy8s985jbPQOXdlKTloIdYAivNZx+0vudb?=
+ =?us-ascii?q?V0IDvjsxBh8221NEwEnZ09X3ZeKYi6yh40MZW8LNHPuVhSjeJDTpFgxk7HVq?=
+ =?us-ascii?q?I2OZKXu++9ejpX+Te8vt/i0aqsr9zHN6cdmwpq9GKDY9r2wDUw1WGgGC4eV7?=
+ =?us-ascii?q?VEal1RX42/4ZzawOxU3e1wHi/PuU3oUjKTeApGVbBcUJh6LnGrePtl61Vqly?=
+ =?us-ascii?q?4u/xF8zW74CC20irYzFf2SrHdj+CVcoX53KR5uhVbK/iRe4urK/2EWH8/KVY?=
+ =?us-ascii?q?cZRJKpZlvPaupu98Kd8HerWNhXmrbYSadz2v2AzW3DYwxYAOlBDzo1Mj7pxG?=
+ =?us-ascii?q?sVwv/qexbGqqHlZMavAhQafRsarDJupR1+y8JWZjcPMd0pFOnSGZS5xY+wRT?=
+ =?us-ascii?q?rbrH8U0Sxlw3iWDNe9EN/NcL4Z/ya0ughhL7+KJVqlN8gMGAKxynr1/5LV8m?=
+ =?us-ascii?q?8kvnwTK9w/VI75cBi2T1n3ONU4f0Q3myqu4WLqQkdz2MPLI8lAHrrxXiKsiA?=
+ =?us-ascii?q?kEVh2R8k3MsBOerqfgWqAbubNE0SJQWBF2ExWI/1ouzz546oH+izjM4zIJ77?=
+ =?us-ascii?q?J0sQ4xuQnB1C4VlwML2JqyfivA1lO9vP+rLR17S6kaDDlADRm0zZldjQFAhl?=
+ =?us-ascii?q?kwkaAQTnjapD3ezY0DD6UHwi7vsMs1f9Buai4iHQsnHyZ7EgNfAx2jvMK0AV?=
+ =?us-ascii?q?mPIHrhLbD+plcrYG5Uyoa48e6kXkCbNudl5ZQ0+phBTnY0/2Ns7OYL9/lurI?=
+ =?us-ascii?q?kN9s//mE3BIzM1uFtuvYtfccWYuAiDWscPaJkAO4Cl+m/Q38SBtlrXZshxS5?=
+ =?us-ascii?q?EO/8cbr6zSCXaEhampQUdMaqtHWxKZq7jzY564bCiYY3Ru2wllJPDGPXbi/O?=
+ =?us-ascii?q?0p5vQ8N9+M=3D?=
+X-IronPort-AV: E=McAfee;i="6200,9189,10240"; a="155762366"
+X-IronPort-AV: E=Sophos;i="5.88,324,1635220800"; 
+   d="scan'208";a="155762366"
+Received: from d1lbltmbc01-2-intfloat-196-ne.sec.gov (HELO receipt-457-4rjv2) ([172.25.196.30])
+  by D1-IP01-EDGAR.SEC.GOV with ESMTP; 28 Jan 2022 09:03:35 -0500
+Message-ID: <1647604150.1643378614551.JavaMail.default@receipt-457-4rjv2>
+Date: Fri, 28 Jan 2022 09:03:00 -0500 (EST)
+From: edgar-postmaster@sec.gov
+To: jfwooten4@gmail.com, sec@blocktransfer.io
+Subject: ACCEPTED FORM TYPE TA-2 (0001846058-22-000001)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+
+THE FOLLOWING SUBMISSION HAS BEEN ACCEPTED BY THE U.S. SECURITIES AND EXCHANGE
+COMMISSION.
+
+
+COMPANY:       BlockTrans Syndicate
+FORM TYPE:     TA-2                 NUMBER OF DOCUMENTS: 1
+RECEIVED DATE: 28-Jan-2022 09:03    ACCEPTED DATE:       28-Jan-2022 09:03
+FILING DATE:   28-Jan-2022 09:03
+TEST FILING:   NO                   CONFIRMING COPY:     NO
+
+ACCESSION NUMBER: 0001846058-22-000001
+
+FILE NUMBER(S):
+   1. 084-06800
+
+THE PASSWORD FOR LOGIN CIK 0001846058 WILL EXPIRE 20-Jul-2022 06:58.
+
+PLEASE REFER TO THE ACCESSION NUMBER LISTED ABOVE FOR FUTURE INQUIRIES.
+
+REGISTRANT(S):
+
+   1. CIK:        0001846058
+      COMPANY:    BlockTrans Syndicate
+      FORM TYPE:  TA-2
+      FILE NUMBER(S):
+         1. 084-06800
+
+------------------------------- NOTICE ---------------------------------
+
+URGENT: Verify that all of your addresses on the EDGAR database are
+correct.  An incorrect address in the EDGAR Accounting Contact Name 
+and Address information may result in your fee Account Activity
+Statement being returned to the SEC as undeliverable. Please correct
+outdated addresses via the EDGAR filing website.
+
+The EDGAR system is available to receive and process filings from 
+6:00 a.m. to 10:00 p.m. Eastern Time on business days. Filer Support
+staff members are available to respond to requests for assistance from
+9:00 a.m. to 5:30 p.m. Eastern Time. 
+
+We encourage you to visit the EDGAR - Information for Filers webpage at 
+SEC.gov | EDGAR - Information for Filers [https://www.sec.gov/edgar/filer-information ]. 
+On this webpage you can view and/or download the EDGAR Filer Manual, access How 
+Do I's, and also get access to resources and announcements.
+  
+
+

@@ -1,0 +1,514 @@
+X-Original-Mbox-Index: 019482
+X-Original-Mbox-Envelope-Base64: RnJvbSAxNzM0ODM3NjM2NDM1NDczMTU5QHh4eCBTdW4
+ gSnVuIDA1IDIzOjAxOjM3ICswMDAwIDIwMjINCg==
+X-Original-Mbox-Separator-Base64: 
+X-Original-Mbox-Envelope: From 1734837636435473159@xxx Sun Jun 05 23:01:37 +0000 2022
+X-Original-Mbox-Message-SHA256: 0c2114980e246ab494430d5f150ef2b4d16db4ceaeb3d82616a3fd2bf20ab0ca
+X-GM-THRID: 1734837636435473159
+X-Gmail-Labels: Inbox,Important,Opened,Category Personal
+Delivered-To: jfwooten4@gmail.com
+Received: by 2002:a26:8c3:0:0:0:0:0 with SMTP id 186csp2095800yai;
+        Sun, 5 Jun 2022 16:01:37 -0700 (PDT)
+X-Google-Smtp-Source: ABdhPJzL1nJraRph7en4gS5XH5bDQetOpbsRuOdhH915ljjgLZqf1MNJAPJqQ4U+oMUhXq1SLH5C
+X-Received: by 2002:a05:6a00:84b:b0:51c:21e3:b542 with SMTP id q11-20020a056a00084b00b0051c21e3b542mr1049346pfk.31.1654470096962;
+        Sun, 05 Jun 2022 16:01:36 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1654470096; cv=none;
+        d=google.com; s=arc-20160816;
+        b=XSPDQoZrBWgvKD8BjdKjXRtyDEG6oHW3J3smDBo3fqHzo7OLxVMdYa310g/YKJ/Ktz
+         Kv+RGZvQCRgjHVPtiU5fDPXR/sCPvULCwt4ydclUPl4FcWsVoowFwcwE/inSZEm6Vi4c
+         FLORXykPIuZBMiVeUr0tUIrUvWvwneaf3TrYL+94nwXN72UJGPDdOm1QGlNr7Qadf+b9
+         OdY6zs0dxDqDWQKCYckP64sA/2HeDuWlITHNux3Z6+RxwmlrKKh6SKKhMHyO+i6makNH
+         9NYzcUlaarEknUdonkFWZjgW2Nbu4NB+/VsrgYehZseTG9LdJ68Pb2rY1MzPYeyXLZEx
+         vWvg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=importance:mime-version:subject:references:in-reply-to:message-id
+         :to:from:date:dkim-signature;
+        bh=fXtMwyWP6hAeYGP1h98c4OtiP8qGlO+/wvFktgopAXs=;
+        b=hAkRPSlj76UA5LYesfLMMOxBdMY+loa7j6qWQNYlW7Ml/OexNHtl0W2GeX7Bp9wrv+
+         RazOa4U3d33BAa4Pkx+ZIbN0wr1oaBsnCyxhnSQs1kRUTrp6KWtCt8PBi/iry0x3ZqNO
+         24zB/yktt2LxwSyT98z/arpn1gos1s0P48wgIYnstLUStQf0QvbXLCfyg0w/g/k6cEll
+         MMFG4giZk64EhVES6EZAUmYzxTSmV0oAvFFv9RQXXq8HANlMtxo6ve3I6BEZV3dtvg7c
+         TVcLZ7Gl6ES+rOuJjB43uzkQgxnlmgcyYQg/bgYBEe3gXkHe0Qs2aSbwbqHJRuqHJs0o
+         Io8g==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@blocktransfer.io header.s=default header.b=fjQdEvst;
+       spf=neutral (google.com: 68.65.122.19 is neither permitted nor denied by domain of john@blocktransfer.io) smtp.mailfrom=john@blocktransfer.io;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=blocktransfer.io
+Return-Path: <john@blocktransfer.io>
+Received: from MTA-09-3.privateemail.com (mta-09-3.privateemail.com. [68.65.122.19])
+        by mx.google.com with ESMTPS id g189-20020a636bc6000000b003fd7e2170f8si5882054pgc.195.2022.06.05.16.01.36
+        for <jfwooten4@gmail.com>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Sun, 05 Jun 2022 16:01:36 -0700 (PDT)
+Received-SPF: neutral (google.com: 68.65.122.19 is neither permitted nor denied by domain of john@blocktransfer.io) client-ip=68.65.122.19;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@blocktransfer.io header.s=default header.b=fjQdEvst;
+       spf=neutral (google.com: 68.65.122.19 is neither permitted nor denied by domain of john@blocktransfer.io) smtp.mailfrom=john@blocktransfer.io;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=blocktransfer.io
+Received: from mta-09.privateemail.com (localhost [127.0.0.1])
+	by mta-09.privateemail.com (Postfix) with ESMTP id 63A1018000A8
+	for <jfwooten4@gmail.com>; Sun,  5 Jun 2022 19:01:36 -0400 (EDT)
+Received: from APP-06 (unknown [10.50.14.156])
+	by mta-09.privateemail.com (Postfix) with ESMTPA id 413CC18000A4
+	for <jfwooten4@gmail.com>; Sun,  5 Jun 2022 19:01:36 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=blocktransfer.io;
+	s=default; t=1654470096;
+	bh=oCIKcGq04enU94O95cya2fBaq855oqU6uG607g7rLDA=;
+	h=Date:From:To:In-Reply-To:References:Subject:From;
+	b=fjQdEvstCjMyv+YsUZXHHgEI8pDGhy4oTc1p/ysfBpFSTuXk1aHc4hl8IrE0SNKpt
+	 UP5JenT56UAIBgSO95ZhXg7KEC/dOC2/fkknb466jkKNXjBIPJJslDcqwCmBVVpJvX
+	 pW1LyfK2jNBUl6yCP3aht2HedlvMhFFJZgoCDlFU7XCwJm4Ig7ZLEdK3TfcaOLkiKv
+	 /XM+Q6ZJSKXHXAOb2nfNltzCuhi7m0xiAyotwErwgz/yf6cHcPRAXBgEkgtTzn8tCN
+	 EQpPY7iu2wZJybxNF2ofExF16R9merLKZnL4IuHb6FfRNmsuxDuDzuQ6qL+2tWhB5d
+	 geX13Kv13Mfsg==
+Date: Sun, 5 Jun 2022 19:01:36 -0400 (EDT)
+From: John Wooten <john@blocktransfer.io>
+To: jfwooten4 <jfwooten4@gmail.com>
+Message-ID: <364233990.864149.1654470096218@privateemail.com>
+In-Reply-To: <5orvn0iptg2vnpeih3to0r2c0-0@mailer.nylas.com>
+References: <5orvn0iptg2vnpeih3to0r2c0-0@mailer.nylas.com>
+Subject: Fwd: Example, $1B lost in 2 weeks
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_864148_427574739.1654470096200"
+X-Priority: 3
+Importance: Normal
+X-Mailer: Open-Xchange Mailer v7.10.6-Rev15
+X-Originating-Client: open-xchange-appsuite
+X-Virus-Scanned: ClamAV using ClamSMTP
+
+------=_Part_864148_427574739.1654470096200
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+ 
+ 
+ 
+  	 https://www.linkedin.com/in/jfwooten4/ 	 
+ 
+John Wooten
+Block Transfer
+Founder
+ 
+Book an intro chat http://book.blocktransfer.io
+More information https://www.blocktransfer.io/
+CFO value guide http://cfobook.blocktransfer.io
+ 
+
+> ---------- Original Message ----------
+> From: John Wooten <john@blocktransfer.io>
+> To: John Wooten <john@blocktransfer.io>
+> Date: 06/05/2022 7:01 PM
+> Subject: Example, $1B lost in 2 weeks
+>  
+>  
+> Hi Example,
+>  
+> John here again from Block Transfer.
+>  
+> Want to know how Duke Energy lost $1B in shareholder value,
+> all because of an erratic accounting mishap?
+>  
+> Before starting the first SEC-approved blockchain transfer agent,
+> I ran a small friends/family hedge fund that returned over 2.4X.
+>  
+> There, I met Joe Crap
+> ster, Head of Shareholder Services at Duke.
+>  
+> (That's right, Duke is one of the handful of public American
+> companies that still act as their own transfer agent.)
+>  
+> Joe told me that Duke has countless retired shareholders,
+> many from the company's own DSPP.
+>  
+> Subsequently, the board decided not to hire a 'big-name'
+> agent that would offer poor investor service.
+>  
+> Nowadays, that's an unfortunate choice some big
+> shareholder-focused firms face given most:
+> * ordinary stock transfers execute in days at best,
+> * institutional/trust transfers demand limitless paperwork, and
+> * manual transfer support is shoddy on a good day...
+> (not to mention stiff per-account fees)
+>  
+> But when covid hit, everything changed...
+>  
+> APRIL, 2020
+>  
+> Joe Crapster sweats profusely as hundreds of shareholder emails flood his inbox.
+>  
+> Phones ring off the hook all day long for his team of nearly a dozen shareholder-service reps.
+>  
+> The mounting pressure feels like a blood vessel about to explode.
+>  
+> Joe has no clue how to balance out hundreds of millions of outstanding-yet-unsettled dividend payments. 
+>  
+> Postal Services effectively came to a standstill once workers stayed home for covid.
+>  
+> Thus, hundreds of dividend checks mailed to book-entry shareholders are nowhere to be seen, weeks later.
+>  
+> Securityholders around the world call in livid, all with the same question: "Where's my money?''
+>  
+> That's a question asked far too often in the transfer agent industry. 
+>  
+>  
+> Even with the best of intentions, most centralized transfer agents are unfortunately vulnerable
+> to lapses by the post office, bank branch staff, or internal share accountants.
+>  
+> What if you could quickly and securely transfer Google stock automatically without medallion certificates?
+>  
+> If you're open to a quick conversation, book a time below, and
+> I'll happily share the rest of Joe's story with you.
+> Here's a quick Calendly link. https://calendly.com/block-transfer/wooten-intro
+>  
+>  
+>  
+> In good faith,
+>  
+>     https://www.linkedin.com/in/jfwooten4/    
+> John Wooten
+> Block Transfer
+> Founder
+>  
+> Book an intro chat http://book.blocktransfer.io More information https://www.blocktransfer.io/ CFO value guide http://cfobook.blocktransfer.io  
+>  
+>  
+>  
+>  
+> If you don't want to hear from me again, just let me know. https://procrustean-vodoun.herokuapp.com/m?mid=message_id
+> 
+
+------=_Part_864148_427574739.1654470096200
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!doctype html>
+<html>
+ <head> 
+  <meta charset="UTF-8"> 
+ </head>
+ <body>
+  <div style="font-size: 12pt;">
+   &nbsp;
+  </div> 
+  <div class="io-ox-signature"> 
+   <div class="default-style" style="font-size: 12pt;">
+    &nbsp;
+   </div> 
+   <table class="sc-gPEVay eQYmiW" style="border-collapse: collapse; font-size: medium; font-family: Arial;" cellspacing="0" cellpadding="0"> 
+    <tbody> 
+     <tr> 
+      <td style="padding: 0px;"> 
+       <table class="sc-gPEVay eQYmiW" style="border-collapse: collapse; font-size: medium; font-family: Arial; height: 189px;" width="282" cellspacing="0" cellpadding="0"> 
+        <tbody> 
+         <tr> 
+          <td style="padding: 0px; vertical-align: top;"> 
+           <table class="sc-gPEVay eQYmiW" style="border-collapse: collapse; font-size: medium; font-family: Arial; height: 113px;" width="82" cellspacing="0" cellpadding="0"> 
+            <tbody> 
+             <tr> 
+              <td class="sc-TOsTZ kjYrri" style="padding: 0px; text-align: center;"> 
+               <div class="default-style">
+                <img id="d91db91d-b638-477c-b76a-b9464309d447" class="aspect-ratio" style="max-width: 82px;" src="https://www.blocktransfer.io/hosted/images/f9/e090b6e0054b9bb9c9077d15d3e36e/john-wooten.png" alt="">
+               </div> </td> 
+             </tr> 
+             <tr> 
+              <td style="padding: 0px;" height="10">&nbsp;</td> 
+             </tr> 
+             <tr> 
+              <td style="padding: 0px; text-align: center;"> 
+               <table class="sc-gPEVay eQYmiW" style="border-collapse: collapse; font-size: medium; font-family: Arial; display: inline-block; height: 34px;" width="36" cellspacing="0" cellpadding="0"> 
+                <tbody> 
+                 <tr style="text-align: center;"> 
+                  <td style="padding: 0px;" width="5">&nbsp;</td> 
+                  <td style="padding: 0px;"><a href="https://www.linkedin.com/in/jfwooten4/"><img id="17f83bea-8478-4a18-8fdf-934e0f8261ad" class="aspect-ratio" style="width: 21px; height: 21px; max-width: 100%; display: block; margin-left: auto; margin-right: auto;" src="https://www.blocktransfer.io/hosted/images/c5/294172fa0c4215bb6eb826be61e600/linkedin.png" alt="" width="22" height="22"></a></td> 
+                  <td style="padding: 0px;" width="5">&nbsp;</td> 
+                 </tr> 
+                </tbody> 
+               </table> </td> 
+             </tr> 
+            </tbody> 
+           </table> </td> 
+          <td style="padding: 0px;" width="46"> 
+           <div>
+            &nbsp;
+           </div> </td> 
+          <td style="padding: 0px; vertical-align: middle;"> <h3 class="sc-fBuWsC eeihxG" style="margin: 0px; font-size: 18px; color: #000000;"><span style="font-size: 12pt;">John&nbsp;Wooten</span></h3> <p class="sc-fBuWsC eeihxG" style="margin: 0px; font-weight: 500; color: #000000; font-size: 14px; line-height: 22px;">Block Transfer</p> <p class="sc-fBuWsC eeihxG" style="margin: 0px; color: #000000; font-size: 14px; line-height: 22px;">Founder</p> <p class="sc-dVhcbM fghLuF" style="margin: 0px; font-weight: 500; color: #000000; font-size: 14px; line-height: 22px;">&nbsp;</p> 
+           <table class="sc-gPEVay eQYmiW" style="border-collapse: collapse; font-size: medium; font-family: Arial; height: 58px;" width="157" cellspacing="0" cellpadding="0"> 
+            <tbody> 
+             <tr style="vertical-align: middle;"> 
+              <td style="padding: 0px; vertical-align: middle;" width="30"><img id="3781630c-5e41-4353-8112-6bd3c6ff3135" class="aspect-ratio" style="width: 24px; height: 24px; max-width: 100%; display: block; margin-left: auto; margin-right: auto;" src="https://www.blocktransfer.io/hosted/images/58/e2b7e8d91c4747954ee612239339d5/calendar-sq.png" width="23" height="23"></td> 
+              <td style="padding: 0px; text-align: left;"><span style="font-size: 10pt;"><a href="http://book.blocktransfer.io">Book an intro chat</a></span></td> 
+             </tr> 
+             <tr style="vertical-align: middle;"> 
+              <td style="padding: 0px; vertical-align: middle;" width="30"><img class="aspect-ratio" style="width: 23px; height: 23px; max-width: 100%; display: block; margin-left: auto; margin-right: auto;" src="https://www.blocktransfer.io/hosted/images/01/7ba546e80e4a4fafc9f5b860b2c0c9/link.png" alt="" width="23" height="23"></td> 
+              <td style="padding: 0px; text-align: left;"><a href="https://www.blocktransfer.io/"><span style="font-size: 10pt;">More information</span></a></td> 
+             </tr> 
+             <tr style="vertical-align: middle;"> 
+              <td style="padding: 0px; vertical-align: middle;" width="30"><img class="aspect-ratio" style="width: 23px; height: 23px; max-width: 100%; display: block; margin-left: auto; margin-right: auto;" src="https://www.blocktransfer.io/hosted/images/46/dedf88268b44df933d7bf20663063f/book.png" alt="" width="23" height="23"></td> 
+              <td style="padding: 0px; text-align: left;"><a href="http://cfobook.blocktransfer.io"><span style="font-size: 10pt;">CFO value guide</span></a></td> 
+             </tr> 
+            </tbody> 
+           </table> 
+           <table class="sc-gPEVay eQYmiW" style="border-collapse: collapse; font-size: medium; font-family: Arial;" cellspacing="0" cellpadding="0"> 
+            <tbody> 
+             <tr> 
+              <td style="padding: 0px;" height="30">&nbsp;</td> 
+             </tr> 
+            </tbody> 
+           </table> </td> 
+         </tr> 
+        </tbody> 
+       </table> </td> 
+     </tr> 
+    </tbody> 
+   </table> 
+  </div> 
+  <blockquote type="cite"> 
+   <div>
+    ---------- Original Message ----------
+   </div> 
+   <div>
+    From: John Wooten &lt;john@blocktransfer.io&gt;
+   </div> 
+   <div>
+    To: John Wooten &lt;john@blocktransfer.io&gt;
+   </div> 
+   <div>
+    Date: 06/05/2022 7:01 PM
+   </div> 
+   <div>
+    Subject: Example, $1B lost in 2 weeks
+   </div> 
+   <div>
+    &nbsp;
+   </div> 
+   <div>
+    &nbsp;
+   </div> 
+   <div dir="ltr"> 
+    <div style="font-size: 16px;">
+     Hi Example,
+    </div> 
+    <div style="font-size: 16px;">
+     &nbsp;
+    </div> 
+    <div style="font-size: 16px;">
+     John here again from Block Transfer.
+    </div> 
+    <div style="font-size: 16px;">
+     &nbsp;
+    </div> 
+    <div style="font-size: 16px;">
+     Want to know how Duke Energy lost $1B in shareholder value,
+    </div> 
+    <div style="font-size: 16px;">
+     all because of an erratic accounting mishap?
+    </div> 
+    <div style="font-size: 16px;">
+     &nbsp;
+    </div> 
+    <div style="font-size: 16px;">
+     Before starting the first SEC-approved blockchain transfer agent,
+    </div> 
+    <div style="font-size: 16px;">
+     I ran a small friends/family hedge fund that returned over 2.4X.
+    </div> 
+    <div style="font-size: 16px;">
+     &nbsp;
+    </div> 
+    <div style="font-size: 16px;">
+     There, I met Joe Crap
+    </div> 
+    <div style="font-size: 16px;">
+     ster, Head of Shareholder Services at Duke.
+    </div> 
+    <div style="font-size: 16px;">
+     &nbsp;
+    </div> 
+    <div style="font-size: 16px;">
+     (That's right, Duke is one of the handful of public American
+    </div> 
+    <div style="font-size: 16px;">
+     companies that still act as their own transfer agent.)
+    </div> 
+    <div style="font-size: 16px;">
+     &nbsp;
+    </div> 
+    <div style="font-size: 16px;">
+     Joe told me that Duke has countless retired shareholders,
+    </div> 
+    <div style="font-size: 16px;">
+     many from the company's own DSPP.
+    </div> 
+    <div style="font-size: 16px;">
+     &nbsp;
+    </div> 
+    <div style="font-size: 16px;">
+     Subsequently, the board decided not to hire a 'big-name'
+    </div> 
+    <div style="font-size: 16px;">
+     agent that would offer poor investor service.
+    </div> 
+    <div style="font-size: 16px;">
+     &nbsp;
+    </div> 
+    <div style="font-size: 16px;">
+     Nowadays, that's an unfortunate choice some big
+    </div> 
+    <div style="font-size: 16px;">
+     shareholder-focused firms face given most:
+    </div> 
+    <ul> 
+     <li style="font-size: 16px;">ordinary stock transfers execute in days <em>at best,</em></li> 
+     <li style="font-size: 16px;">institutional/trust transfers demand limitless paperwork, and</li> 
+     <li style="font-size: 16px;">manual transfer support is shoddy on a good day...</li> 
+    </ul> 
+    <div style="font-size: 16px;">
+     (not to mention stiff per-account fees)
+    </div> 
+    <div style="font-size: 16px;">
+     &nbsp;
+    </div> 
+    <div style="font-size: 16px;">
+     But when covid hit, everything changed...
+    </div> 
+    <div style="font-size: 16px;">
+     &nbsp;
+    </div> 
+    <div style="font-size: 16px;">
+     <strong><em>APRIL, 2020</em></strong>
+    </div> 
+    <div style="font-size: 16px;">
+     &nbsp;
+    </div> 
+    <div style="font-size: 16px;">
+     Joe Crapster sweats profusely as hundreds of shareholder emails flood his inbox.
+    </div> 
+    <div style="font-size: 16px;">
+     &nbsp;
+    </div> 
+    <div style="font-size: 16px;">
+     Phones ring off the hook all day long for his team of nearly a dozen shareholder-service reps.
+    </div> 
+    <div style="font-size: 16px;">
+     &nbsp;
+    </div> 
+    <div style="font-size: 16px;">
+     The mounting pressure feels like a blood vessel <em>about to explode.</em>
+    </div> 
+    <div style="font-size: 16px;">
+     &nbsp;
+    </div> 
+    <div style="font-size: 16px;">
+     Joe has no clue how to balance out hundreds of millions of outstanding-yet-unsettled dividend payments.&nbsp;
+    </div> 
+    <div style="font-size: 16px;">
+     &nbsp;
+    </div> 
+    <div style="font-size: 16px;">
+     Postal Services effectively came to a standstill once workers stayed home for covid.
+    </div> 
+    <div style="font-size: 16px;">
+     &nbsp;
+    </div> 
+    <div style="font-size: 16px;">
+     Thus, hundreds of dividend checks mailed to book-entry shareholders are nowhere to be seen, weeks later.
+    </div> 
+    <div style="font-size: 16px;">
+     &nbsp;
+    </div> 
+    <div style="font-size: 16px;">
+     Securityholders around the world call in livid, all with the same question: <em>"Where's my money?''</em>
+    </div> 
+    <div style="font-size: 16px;">
+     &nbsp;
+    </div> 
+    <div style="font-size: 16px;">
+     That's a question asked far too often in the transfer agent industry.&nbsp;
+    </div> 
+    <div style="font-size: 16px;">
+     &nbsp;
+    </div> 
+    <div style="font-size: 16px;">
+     &nbsp;
+    </div> 
+    <div style="font-size: 16px;">
+     Even with the best of intentions, most centralized transfer agents are unfortunately vulnerable
+    </div> 
+    <div style="font-size: 16px;">
+     to lapses by the post office, bank branch staff, or internal share accountants.
+    </div> 
+    <div style="font-size: 16px;">
+     &nbsp;
+    </div> 
+    <div style="font-size: 16px;">
+     What if you could quickly and securely transfer Google stock automatically without medallion certificates?
+    </div> 
+    <div style="font-size: 16px;">
+     &nbsp;
+    </div> 
+    <div style="font-size: 16px;">
+     If you're open to a quick conversation, book a time below, and
+    </div> 
+    <div style="font-size: 16px;">
+     I'll happily share the rest of Joe's story with you.
+    </div> 
+    <div style="font-size: 16px;">
+     <a href="https://calendly.com/block-transfer/wooten-intro" target="_blank" rel="noopener">Here's a quick Calendly link.</a>
+    </div> 
+    <div style="font-size: 16px;">
+     &nbsp;
+    </div> 
+    <div style="font-size: 16px;">
+     &nbsp;
+    </div> 
+    <div style="font-size: 16px;">
+     &nbsp;
+    </div> 
+    <div style="font-size: 16px;">
+     In good faith,
+    </div> 
+    <div style="font-size: 12pt;">
+     &nbsp;
+    </div> 
+    <div>
+     <img style="max-width: 100%;">
+    </div> 
+    <div>
+     &nbsp; &nbsp; <a href="https://www.linkedin.com/in/jfwooten4/" target="_blank" rel="noopener"><img style="max-width: 100%;" width="22"></a> &nbsp; &nbsp;
+    </div> 
+    <h3 style="color: #000000; font-size: 18px; margin: 0px;">John&nbsp;Wooten</h3> 
+    <div style="line-height: 22px; font-size: 14px; color: #000000; font-weight: 500; margin: 0px;">
+     Block Transfer
+    </div> 
+    <div style="line-height: 22px; font-size: 14px; color: #000000; margin: 0px;">
+     Founder
+    </div> 
+    <div style="line-height: 22px; font-size: 14px; color: #000000; font-weight: 500; margin: 0px;">
+     &nbsp;
+    </div> 
+    <div style="font-size: 16px;">
+     <img style="max-width: 100%;" width="23"> <a href="http://book.blocktransfer.io" target="_blank" rel="noopener">Book an intro chat</a> 
+     <img style="max-width: 100%;" width="23"> <a href="https://www.blocktransfer.io/" target="_blank" rel="noopener">More information</a> 
+     <img style="max-width: 100%;" width="23"> <a href="http://cfobook.blocktransfer.io" target="_blank" rel="noopener">CFO value guide</a> &nbsp;
+    </div> 
+    <div style="font-size: 16px;">
+     &nbsp;
+    </div> 
+    <div style="font-size: 16px;">
+     &nbsp;
+    </div> 
+    <div style="font-size: 16px;">
+     &nbsp;
+    </div> 
+    <div style="font-size: 16px;">
+     &nbsp;
+    </div> 
+   </div> If you don't want to hear from me again, just <a href="https://procrustean-vodoun.herokuapp.com/m?mid=message_id">let me know.</a>
+  </blockquote>
+ </body>
+</html>
+------=_Part_864148_427574739.1654470096200--
+

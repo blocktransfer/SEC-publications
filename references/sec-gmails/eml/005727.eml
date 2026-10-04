@@ -1,0 +1,266 @@
+X-Original-Mbox-Index: 005727
+X-Original-Mbox-Envelope-Base64: RnJvbSAxODQyNzgzODkzMjQ4OTc5MzUxQHh4eCBUdWU
+ gU2VwIDA5IDExOjAxOjA5ICswMDAwIDIwMjUNCg==
+X-Original-Mbox-Separator-Base64: 
+X-Original-Mbox-Envelope: From 1842783893248979351@xxx Tue Sep 09 11:01:09 +0000 2025
+X-Original-Mbox-Message-SHA256: 52412ce5c975545c159a60b9c6fadc05f7aecd809607ab76e05ab12e6d781b6f
+X-GM-THRID: 1842783893248979351
+X-Gmail-Labels: Inbox,Important,Opened,Category Updates
+Delivered-To: jfwooten4@gmail.com
+Received: by 2002:a05:6130:6a43:b0:895:ee62:5b83 with SMTP id jm3csp1645394uab;
+        Tue, 9 Sep 2025 04:01:09 -0700 (PDT)
+X-Received: by 2002:a05:690c:6ac8:b0:722:6dd:55e8 with SMTP id 00721157ae682-727f2bd053bmr108368407b3.11.1757415669651;
+        Tue, 09 Sep 2025 04:01:09 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1757415669; cv=none;
+        d=google.com; s=arc-20240605;
+        b=XYbxHQqc38CMTm+2PHzarY8LvbXGPvrB4EDD4l/aWg+wO5pGnIif8xU7XFL534T9uj
+         U8p1yqqveGPUzbnzAxLZFSYrYGyTq41Hkvm8wP+CKIr+2Pft2VWxj1iQrzr5kL/syWKZ
+         arsXX8c/W2EBGC/ljGM5m/elM5VH/zlcylOUAebRL9iUskuEy/rJ6BiQaxuXZPj59ubs
+         yr2l0wI0/H/R/w5xS/G0yiw7MRuW5OQNyss3o/jbX1CpOLDOdZ2EXpzCjOVly6f4Z3yO
+         to3EPTYHrlIMds//Gp52sSl1fWTHhPSRhcE1LPc+Cq0yUUeruzbvuFAdiI1HH6okqupZ
+         /bUw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;
+        h=to:from:subject:message-id:list-unsubscribe:list-id:date
+         :mime-version:dkim-signature;
+        bh=NoD4VcfGxEElVEnM4gXDlHXAkZ2uuaV8Zz7oo57+zlo=;
+        fh=0b1NKDzStP5glWbxUHhAHaTzGbz9pjgihBr8YCWRg6Y=;
+        b=kcXz8n4RclIkXYVYsIek2qHsWYu2iq2CJnQKAfmIHEGpDDOi9SUPZjQUgMWjIQjx+o
+         0+D1Va51oXZzkOPwE4pzYaBYOrXs3/fEvrPI7h9aGOHwFTmCqd3oGlaJY4owHAjDwnn7
+         wdD6l0BQioI6zSVJCIBZyaZrDffCmnyp5vYHKeteK0y35OoVogwgMMITR0cJmjky7R+u
+         gW4qOD8G4MiAZG3/rMENNr0gbxxthKBmYfr8OJLqVT0lFaXZq8I1ERA0Acq0Ck6qMZhv
+         SjkLtzIspl6u32ewNbu4hkqYdVFhrGpI2hIQnOn7lfZApZBL7qoAjwLVHY6DEEW+U0w4
+         wiJw==;
+        dara=google.com
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@google.com header.s=20230601 header.b=XR2VFx1K;
+       spf=pass (google.com: domain of 39qjaabqkcvq2aa270w70dfe-9ad0b7k2aa270.ya851iaaf09q28w47.ya8@alerts.bounces.google.com designates 209.85.220.69 as permitted sender) smtp.mailfrom=39QjAaBQKCVQ2AA270w70DFE-9AD0B7K2AA270.yA851IAAF09Q28w47.yA8@alerts.bounces.google.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=google.com;
+       dara=pass header.i=@gmail.com
+Return-Path: <39QjAaBQKCVQ2AA270w70DFE-9AD0B7K2AA270.yA851IAAF09Q28w47.yA8@alerts.bounces.google.com>
+Received: from mail-sor-f69.google.com (mail-sor-f69.google.com. [209.85.220.69])
+        by mx.google.com with SMTPS id 956f58d0204a3-605353e7ba1sor6097720d50.1.2025.09.09.04.01.09
+        for <jfwooten4@gmail.com>
+        (Google Transport Security);
+        Tue, 09 Sep 2025 04:01:09 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 39qjaabqkcvq2aa270w70dfe-9ad0b7k2aa270.ya851iaaf09q28w47.ya8@alerts.bounces.google.com designates 209.85.220.69 as permitted sender) client-ip=209.85.220.69;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@google.com header.s=20230601 header.b=XR2VFx1K;
+       spf=pass (google.com: domain of 39qjaabqkcvq2aa270w70dfe-9ad0b7k2aa270.ya851iaaf09q28w47.ya8@alerts.bounces.google.com designates 209.85.220.69 as permitted sender) smtp.mailfrom=39QjAaBQKCVQ2AA270w70DFE-9AD0B7K2AA270.yA851IAAF09Q28w47.yA8@alerts.bounces.google.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=google.com;
+       dara=pass header.i=@gmail.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20230601; t=1757415669; x=1758020469; dara=google.com;
+        h=to:from:subject:message-id:list-unsubscribe:list-id:date
+         :mime-version:from:to:cc:subject:date:message-id:reply-to;
+        bh=NoD4VcfGxEElVEnM4gXDlHXAkZ2uuaV8Zz7oo57+zlo=;
+        b=XR2VFx1KZX9HxeBfO8h//zPTIASti77JMrzPjwVxTQhUAheVe/BEHEmn94qmOTZFBe
+         iVoKnpU2yoBnHw59v+pYEp2Q+RrmtEKd6Z2HKJYy+KU94d+jk4OYapMHaHML+sD0W6vb
+         TLaoFiGoScVERWCQNrev8Nyf8YXPoBGL2+VlrpTmp0ImVEzYVlQkCQu3qLguh9l11Ds/
+         eNb0LuyQNcmRrw01nlGn8caktoygcQFnIsqvy0QJeB3ExdpGhETmWbK4voAk/MaN70pN
+         qLRm2X74UWm224mmd6fN+74+JBI6t68AI8IAoDc0LtyyyG+UUZOJxa+/Ai6hN32OvoF0
+         59Kg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20230601; t=1757415669; x=1758020469;
+        h=to:from:subject:message-id:list-unsubscribe:list-id:date
+         :mime-version:x-gm-message-state:from:to:cc:subject:date:message-id
+         :reply-to;
+        bh=NoD4VcfGxEElVEnM4gXDlHXAkZ2uuaV8Zz7oo57+zlo=;
+        b=lq8Or/l2yWiK4FCqnJQ9VBt1pYCxTXfTdyhfZBonkpOo6fRV8L7rPiY2GEnObYNsE5
+         DvChBywjaG7+dV05lmNpU41hR5/HoW+2RrvNbSdJmgRygY3NSAXY5VlxjwuB3oVewK5z
+         K3FlPTTbXaB92YtUtItzih3XoIBrcgH0VToDJUMifs8S6RFB9WLnbsqiGpfnNseoS3iG
+         psUJsFEiu9WB5XBqazSdGPjpZdv63t8YjdwTP3nf9xG440AGFGcMdYgF+v7HITVlf2ML
+         JzFmXbmK11IU9So93DrN1oY4WVk7zskDk7HFR1q97X3Yes0yAUn6QlS2LbDPsQVd3fZg
+         0Zww==
+X-Gm-Message-State: AOJu0YxMwsMfQBG/876M5KvW8BCOCOohlqqLiw6QY41jG3YYIKaplS1C
+	g14cALjaq4eow5Ed+4IvE32WBlDO0oYo+D+G7F8=
+X-Google-Smtp-Source: AGHT+IEmalWK64Qjh8PsEt0aqQ9/3pbhPnFs+GWtQaNA6q0EyjBHEzZm+kZJRvvUbpjgCQerXBI=
+MIME-Version: 1.0
+X-Received: by 2002:a53:b11b:0:b0:600:df03:32d2 with SMTP id
+ 956f58d0204a3-610274a3ea0mr6302702d50.24.1757415669266; Tue, 09 Sep 2025
+ 04:01:09 -0700 (PDT)
+Date: Tue, 09 Sep 2025 04:01:08 -0700
+List-Id: <2205164111154198475.alerts.google.com>
+List-Unsubscribe: <mailto:ur@unsubscribe.alerts.google.com?subject=AB2Xq4hrovp8WNkfq07ZSDAOw9bG7efXyYZx0qU>
+Message-ID: <68c008f4.050a0220.216da8.202egooglealerts@google.com>
+Subject: Google Alert - "BlockTrans Syndicate"
+From: Google Alerts <googlealerts-noreply@google.com>
+To: jfwooten4@gmail.com
+Content-Type: multipart/alternative; boundary="000000000000b079cb063e5c3835"
+
+--000000000000b079cb063e5c3835
+Content-Type: text/plain; charset="UTF-8"; format=flowed; delsp=yes
+
+=== News - 1 new result for ["BlockTrans Syndicate"] ===
+
+Form TA-1/A BlockTrans Syndicate - StreetInsider
+StreetInsider
+... BlockTrans Syndicate. September 8, 2025 9:25 AM.
+http://archive.fast-edgar.com/20250908/AIVE222CZ222R2Z2222M22ZZRWQ9Z9G2A272
+. Filed on: August 26 ...
+<https://www.google.com/url?rct=j&sa=t&url=https://www.streetinsider.com/SEC%2BFilings/Form%2BTA-1A%2BBlockTrans%2BSyndicate/25306995.html&ct=ga&cd=CAEYACoUMTc3NDIxODA2NTE4MjU5OTAzNjAyGmEzZDkxMzk5M2UyMTc5NzU6Y29tOmVuOlVT&usg=AOvVaw0VLu5iKDgW3Mpi0KIoGJcl>
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Unsubscribe from this Google Alert:
+<https://www.google.com/alerts/remove?source=alertsmail&hl=en&gl=US&msgid=MTc3NDIxODA2NTE4MjU5OTAzNjA&s=AB2Xq4hrovp8WNkfq07ZSDAOw9bG7efXyYZx0qU>
+
+Create another Google Alert:
+<https://www.google.com/alerts?source=alertsmail&hl=en&gl=US&msgid=MTc3NDIxODA2NTE4MjU5OTAzNjA>
+
+Sign in to manage your alerts:
+<https://www.google.com/alerts?source=alertsmail&hl=en&gl=US&msgid=MTc3NDIxODA2NTE4MjU5OTAzNjA>
+
+--000000000000b079cb063e5c3835
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html lang=3D"en-US"> <head> </head> <body> <div>  <script data-scope=3D"in=
+boxmarkup" type=3D"application/json">{
+  "api_version": "1.0",
+  "publisher": {
+    "api_key": "668269e72cfedea31b22524041ff21d9",
+    "name": "Google Alerts"
+  },
+  "entity": {
+    "external_key": "Google Alert - \"BlockTrans Syndicate\"",
+    "title": "Google Alert - \"BlockTrans Syndicate\"",
+    "subtitle": "Latest: September 9, 2025",
+    "avatar_image_url": "https://www.gstatic.com/images/branding/product/1x=
+/gsa_512dp.png",
+    "main_image_url": "https://www.gstatic.com/bt/C3341AA7A1A076756462EE2E5=
+CD71C11/smartmail/mobile/il_newspaper_header_r1.png"
+  },
+  "updates": {
+    "snippets": [ {
+      "icon": "BOOKMARK",
+      "message": "Form TA-1/A BlockTrans Syndicate - StreetInsider"
+    } ]
+  },
+  "cards": [ {
+    "title": "Google Alert - \"BlockTrans Syndicate\"",
+    "subtitle": "Highlights from the latest email",
+    "actions": [ {
+      "name": "See more results",
+      "url": "https://www.google.com/alerts?s=3DAB2Xq4hrovp8WNkfq07ZSDAOw9b=
+G7efXyYZx0qU\u0026start=3D1757329268\u0026end=3D1757415668\u0026source=3Dal=
+ertsmail\u0026hl=3Den\u0026gl=3DUS\u0026msgid=3DMTc3NDIxODA2NTE4MjU5OTAzNjA=
+#history"
+    } ],
+    "widgets": [ {
+      "type": "LINK",
+      "title": "Form TA-1/A BlockTrans Syndicate - StreetInsider",
+      "description": "... BlockTrans Syndicate. September 8, 2025 9:25 AM. =
+http://archive.fast-edgar.com/20250908/AIVE222CZ222R2Z2222M22ZZRWQ9Z9G2A272=
+. Filed on: August 26 ...",
+      "url": "https://www.google.com/url?rct=3Dj\u0026sa=3Dt\u0026url=3Dhtt=
+ps://www.streetinsider.com/SEC%2BFilings/Form%2BTA-1A%2BBlockTrans%2BSyndic=
+ate/25306995.html\u0026ct=3Dga\u0026cd=3DCAEYACoUMTc3NDIxODA2NTE4MjU5OTAzNj=
+AyGmEzZDkxMzk5M2UyMTc5NzU6Y29tOmVuOlVT\u0026usg=3DAOvVaw0VLu5iKDgW3Mpi0KIoG=
+Jcl"
+    } ]
+  } ]
+}
+</script> <!--[if mso]>
+ <table><tr><td width=3D650>
+<![endif]-->
+ <div style=3D"width:100%;max-width:650px"> <div style=3D"font-family:Arial=
+"> <table style=3D"border-collapse:collapse;border-left:1px solid #e4e4e4;b=
+order-right:1px solid #e4e4e4"> <tr> <td style=3D"background-color:#f8f8f8;=
+padding-left:18px;border-bottom:1px solid #e4e4e4;border-top:1px solid #e4e=
+4e4"></td> <td valign=3D"middle" style=3D"padding:13px 10px 8px 0px;backgro=
+und-color:#f8f8f8;border-top:1px solid #e4e4e4;border-bottom:1px solid #e4e=
+4e4"> <a href=3D"https://www.google.com/alerts?source=3Dalertsmail&amp;hl=
+=3Den&amp;gl=3DUS&amp;msgid=3DMTc3NDIxODA2NTE4MjU5OTAzNjA" style=3D"text-de=
+coration:none"> <img src=3D"https://www.google.com/intl/en_us/alerts/logo.p=
+ng?cd=3DKhQxNzc0MjE4MDY1MTgyNTk5MDM2MA" alt=3D"Google" border=3D"0" height=
+=3D"25"> </a> </td> <td style=3D"background-color:#f8f8f8;padding-left:18px=
+;border-top:1px solid #e4e4e4;border-bottom:1px solid #e4e4e4"></td> </tr> =
+ <tr> <td style=3D"padding-left:32px"></td> <td style=3D"padding:18px 0px 0=
+px 0px;vertical-align:middle;line-height:20px;font-family:Arial"> <span sty=
+le=3D"color:#262626;font-size:22px">"BlockTrans Syndicate"</span> <div styl=
+e=3D"vertical-align:top;padding-top:6px;color:#aaa;font-size:12px;line-heig=
+ht:16px"> <span>Daily update</span> <span style=3D"padding:0px 4px 0px 4px"=
+>&sdot;</span> <a style=3D"color:#aaa;text-decoration:none">September 9, 20=
+25</a> </div> </td> <td style=3D"padding-left:32px"></td> </tr>  <tr> <td s=
+tyle=3D"padding-left:18px"></td> <td style=3D"padding:16px 0px 12px 0px;bor=
+der-bottom:1px solid #e4e4e4"> <span style=3D"font-size:12px;color:#737373"=
+> NEWS </span> </td> <td style=3D"padding-right:18px"></td> </tr>   <tr ite=
+mscope=3D"" itemtype=3D"http://schema.org/Article"> <td style=3D"padding-le=
+ft:18px"></td> <td style=3D"padding:18px 0px 12px 0px;vertical-align:top;fo=
+nt-family:Arial"> <a></a> <div>  <span style=3D"padding:0px 6px 0px 0px"> <=
+a href=3D"https://www.google.com/url?rct=3Dj&amp;sa=3Dt&amp;url=3Dhttps://w=
+ww.streetinsider.com/SEC%2BFilings/Form%2BTA-1A%2BBlockTrans%2BSyndicate/25=
+306995.html&amp;ct=3Dga&amp;cd=3DCAEYACoUMTc3NDIxODA2NTE4MjU5OTAzNjAyGmEzZD=
+kxMzk5M2UyMTc5NzU6Y29tOmVuOlVT&amp;usg=3DAOvVaw0VLu5iKDgW3Mpi0KIoGJcl" item=
+prop=3D"url" style=3D"color:#427fed;display:inline;text-decoration:none;fon=
+t-size:16px;line-height:20px"> <span itemprop=3D"name">Form TA-1/A <b>Block=
+Trans Syndicate</b> - StreetInsider</span> </a> </span>  <div> <div style=
+=3D"padding:2px 0px 8px 0px"> <div itemprop=3D"publisher" itemscope=3D"" it=
+emtype=3D"http://schema.org/Organization" style=3D"color:#737373;font-size:=
+12px"> <a style=3D"text-decoration:none;color:#737373"> <span itemprop=3D"n=
+ame">StreetInsider</span> </a> </div> <div itemprop=3D"description" style=
+=3D"color:#252525;padding:2px 0px 0px 0px;font-size:12px;line-height:18px">=
+... <b>BlockTrans Syndicate</b>. September 8, 2025 9:25 AM. http://archive.=
+fast-edgar.com/20250908/AIVE222CZ222R2Z2222M22ZZRWQ9Z9G2A272. Filed on: Aug=
+ust 26&nbsp;...</div> </div>   <table> <tr> <td width=3D"16" style=3D"paddi=
+ng-right:6px"> <a href=3D"https://www.google.com/alerts/share?hl=3Den&amp;g=
+l=3DUS&amp;ru=3Dhttps://www.streetinsider.com/SEC%2BFilings/Form%2BTA-1A%2B=
+BlockTrans%2BSyndicate/25306995.html&amp;ss=3Dfb&amp;rt=3DForm+TA-1/A+Block=
+Trans+Syndicate+-+StreetInsider&amp;cd=3DKhQxNzc0MjE4MDY1MTgyNTk5MDM2MDIaYT=
+NkOTEzOTkzZTIxNzk3NTpjb206ZW46VVM&amp;ssp=3DAMJHsmVQ2wZcdegSb08Fu2iGDpNsr8Q=
+5Ww" style=3D"text-decoration:none"> <img alt=3D"Facebook" src=3D"https://w=
+ww.gstatic.com/alerts/images/fb-24.png" border=3D"0" height=3D"16" width=3D=
+"16"></a> </td> <td width=3D"16" style=3D"padding-right:6px"> <a href=3D"ht=
+tps://www.google.com/alerts/share?hl=3Den&amp;gl=3DUS&amp;ru=3Dhttps://www.=
+streetinsider.com/SEC%2BFilings/Form%2BTA-1A%2BBlockTrans%2BSyndicate/25306=
+995.html&amp;ss=3Dtw&amp;rt=3DForm+TA-1/A+BlockTrans+Syndicate+-+StreetInsi=
+der&amp;cd=3DKhQxNzc0MjE4MDY1MTgyNTk5MDM2MDIaYTNkOTEzOTkzZTIxNzk3NTpjb206ZW=
+46VVM&amp;ssp=3DAMJHsmVQ2wZcdegSb08Fu2iGDpNsr8Q5Ww" style=3D"text-decoratio=
+n:none"> <img alt=3D"Twitter" src=3D"https://www.gstatic.com/alerts/images/=
+tw-24.png" border=3D"0" height=3D"16" width=3D"16"></a> </td> <td style=3D"=
+padding:0px 0px 6px 15px;font-family:Arial"> <a href=3D"https://www.google.=
+com/alerts/feedback?ffu=3Dhttps://www.streetinsider.com/SEC%2BFilings/Form%=
+2BTA-1A%2BBlockTrans%2BSyndicate/25306995.html&amp;source=3Dalertsmail&amp;=
+hl=3Den&amp;gl=3DUS&amp;msgid=3DMTc3NDIxODA2NTE4MjU5OTAzNjA&amp;s=3DAB2Xq4h=
+rovp8WNkfq07ZSDAOw9bG7efXyYZx0qU" style=3D"text-decoration:none;vertical-al=
+ign:middle;color:#aaa;font-size:10px"> Flag as irrelevant </a> </td> </tr> =
+</table>  </div> </div> </td> <td style=3D"padding-right:18px"></td> </tr> =
+   <tr> <td colspan=3D"3" valign=3D"middle" style=3D"background-color:#f8f8=
+f8;font-size:14px;vertical-align:middle;text-align:center;padding:10px 10px=
+ 10px 10px;line-height:20px;border:1px solid #e4e4e4;font-family:Arial"> <a=
+ href=3D"https://www.google.com/alerts?s=3DAB2Xq4hrovp8WNkfq07ZSDAOw9bG7efX=
+yYZx0qU&amp;start=3D1757329268&amp;end=3D1757415668&amp;source=3Dalertsmail=
+&amp;hl=3Den&amp;gl=3DUS&amp;msgid=3DMTc3NDIxODA2NTE4MjU5OTAzNjA#history" s=
+tyle=3D"text-decoration:none;vertical-align:middle;color:#427fed">  See mor=
+e results  </a> <span style=3D"font-size:12px;padding-left:15px;padding-rig=
+ht:15px;color:#aaa">|</span> <a href=3D"https://www.google.com/alerts/edit?=
+source=3Dalertsmail&amp;hl=3Den&amp;gl=3DUS&amp;msgid=3DMTc3NDIxODA2NTE4MjU=
+5OTAzNjA&amp;s=3DAB2Xq4hrovp8WNkfq07ZSDAOw9bG7efXyYZx0qU&amp;email=3Djfwoot=
+en4%40gmail.com" style=3D"text-decoration:none;vertical-align:middle;color:=
+#427fed">Edit this alert</a>  </td> </tr>  </table> <table style=3D"padding=
+-top:6px;font-size:12px;color:#252525;text-align:center;width:100%"> <tr> <=
+td style=3D"font-family:Arial">  You have received this email because you h=
+ave subscribed to <b>Google Alerts</b>. <div> <a href=3D"https://www.google=
+.com/alerts/remove?source=3Dalertsmail&amp;hl=3Den&amp;gl=3DUS&amp;msgid=3D=
+MTc3NDIxODA2NTE4MjU5OTAzNjA&amp;s=3DAB2Xq4hrovp8WNkfq07ZSDAOw9bG7efXyYZx0qU=
+" style=3D"text-decoration:none;color:#427fed">Unsubscribe</a> <span style=
+=3D"padding:0px 4px 0px 4px;color:#252525">|</span> <a href=3D"https://www.=
+google.com/alerts?source=3Dalertsmail&amp;hl=3Den&amp;gl=3DUS&amp;msgid=3DM=
+Tc3NDIxODA2NTE4MjU5OTAzNjA" style=3D"text-decoration:none;color:#427fed">  =
+View all your alerts  </a> </div> </td> </tr> <tr> <td style=3D"padding:6px=
+ 10px 0px 0px;font-family:Arial"> <a href=3D"https://www.google.com/alerts/=
+feeds/03370882523920387671/16808258995139738775" style=3D"text-decoration:n=
+one;color:#427fed"> <img src=3D"https://www.gstatic.com/alerts/images/rss-1=
+6.gif" alt=3D"RSS" border=3D"0" style=3D"padding:0px 8px 0px 0px;vertical-a=
+lign:middle"> <span style=3D"display:inline;line-height:16px;vertical-align=
+:middle"> Receive this alert as RSS feed </span> </a> </td> </tr> <tr> <td =
+style=3D"padding:6px 0px 0px 0px;font-family:Arial"> <a href=3D"https://www=
+.google.com/alerts?source=3Dalertsmail&amp;hl=3Den&amp;gl=3DUS&amp;msgid=3D=
+MTc3NDIxODA2NTE4MjU5OTAzNjA&amp;s=3DAB2Xq4hrovp8WNkfq07ZSDAOw9bG7efXyYZx0qU=
+&amp;ffu=3D" style=3D"text-decoration:none;color:#427fed"> <div style=3D"di=
+splay:inline;line-height:16px;vertical-align:middle"> Send Feedback </div> =
+</a> </td> </tr> </table> </div> </div> <!--[if mso]>
+</td></tr></table>
+<![endif]-->  </div>  </body> </html>
+--000000000000b079cb063e5c3835--
+

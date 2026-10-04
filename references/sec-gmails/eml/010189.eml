@@ -1,0 +1,655 @@
+X-Original-Mbox-Index: 010189
+X-Original-Mbox-Envelope-Base64: RnJvbSAxNzkyODEzMDY2MzE4Njc1MDQ1QHh4eCBXZWQ
+ gTWFyIDA2IDIxOjE2OjE1ICswMDAwIDIwMjQNCg==
+X-Original-Mbox-Separator-Base64: 
+X-Original-Mbox-Envelope: From 1792813066318675045@xxx Wed Mar 06 21:16:15 +0000 2024
+X-Original-Mbox-Message-SHA256: 57ee57200f44d5cb0441ab46d20dd0224b7a93ab8b89c1fcfe3c92d93f4c4811
+X-GM-THRID: 1792813066318675045
+X-Gmail-Labels: Inbox,Important,Opened,Category Personal
+Delivered-To: jfwooten4@gmail.com
+Received: by 2002:ab0:5485:0:b0:7d6:a839:ca86 with SMTP id p5csp1283714uaa;
+        Wed, 6 Mar 2024 13:16:15 -0800 (PST)
+X-Google-Smtp-Source: AGHT+IHgt98X5iLszOcQZTs9AnSBmQd+i2UgXpJojlyrZkgz5zAFJ7/ayZbuir81L1BLFEBck4ZA
+X-Received: by 2002:a05:600c:34c2:b0:412:ef42:84df with SMTP id d2-20020a05600c34c200b00412ef4284dfmr4255156wmq.13.1709759775590;
+        Wed, 06 Mar 2024 13:16:15 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1709759775; cv=none;
+        d=google.com; s=arc-20160816;
+        b=ZCEJX1/skmO1ZlQCP3EZa/mX6P2Z3j1AIZmXi05QHGijYaHDCG1GrEivgS9DyOXork
+         CX/jeEsqaU4bEMnt65M15QOiTJ4hXi53/uXukFVj5BkYt10KuRBLO0hSMBlzOBJEDsqF
+         teMH7XQRqgdfLtuRGbBQI3ZLBRnGmJSlHD2hNb7VOcjiUiVBK3Zs3U8DVU232uhjsZ/c
+         4aI70mm4eIAJxGT0k5A4xaY40TkrxaOAHmVoyVtxBsBrQbqX/krmPfFYP0BD+RW9W/do
+         ih4DTDEB4E46EZw0omT8oPTZbocFPC9nbUCWDwXNS91H3qRqtz5f3+VBUQZ3drfj+ps3
+         50JA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=content-transfer-encoding:date:mime-version:message-id:to:subject
+         :from;
+        bh=getcqV5YH/2zjGacY1juJYaKm03ObitSwuN0dteR51o=;
+        fh=lm0GgCyCg7rgZoIQmNOyuOoiIPnvQ7hP4PspmSIH6O0=;
+        b=VOJyjy+cysKOVQmYQuGUo1SOJlrTtpY+2DyZlNxmbwDU/HyUF7MYeswdKhgs2rKxYM
+         EH/iII43iMupDvozYUnXsB9ubhuwZcpYVpJDSokh68ARbra2Fm2xK61YSxyJqtu/WhNX
+         zUwoUw0WRCtQ7sW2Ev5BU2fzCPOW69WdkXw2lu/STbdXjh6wLbDTZ3TdmL8fC58MndXB
+         0Bt8Ls2vnqvtmxYRXq5vPzjt7Y2lZitpqtwO/J165EGUq1MTPKIi/7xucZI9nYK2GbLo
+         nj5ONkOhBeY1x9WsZ/0JGMFAFROREq7Grc3gLpLV2yi+ZMQ+hkzyFpx747sebPrEg33W
+         t+Mg==;
+        dara=google.com
+ARC-Authentication-Results: i=1; mx.google.com;
+       spf=pass (google.com: domain of noreply@dashboard.communityfund.stellar.org designates 93.94.85.206 as permitted sender) smtp.mailfrom=noreply@dashboard.communityfund.stellar.org;
+       dmarc=pass (p=QUARANTINE sp=REJECT dis=NONE) header.from=stellar.org
+Return-Path: <noreply@dashboard.communityfund.stellar.org>
+Received: from mx1.wurfbaum.com (mx1.wurfbaum.com. [93.94.85.206])
+        by mx.google.com with ESMTPS id 20-20020a05600c249400b00412d14959b9si161975wms.154.2024.03.06.13.16.15
+        for <jfwooten4@gmail.com>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Wed, 06 Mar 2024 13:16:15 -0800 (PST)
+Received-SPF: pass (google.com: domain of noreply@dashboard.communityfund.stellar.org designates 93.94.85.206 as permitted sender) client-ip=93.94.85.206;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of noreply@dashboard.communityfund.stellar.org designates 93.94.85.206 as permitted sender) smtp.mailfrom=noreply@dashboard.communityfund.stellar.org;
+       dmarc=pass (p=QUARANTINE sp=REJECT dis=NONE) header.from=stellar.org
+X-Footer: aW5ub3NhYmkubmV0
+Received: from [127.0.0.1] ([10.0.1.12])
+	(authenticated user outbox@innosabi.net)
+	by mx1.wurfbaum.com with ESMTPSA
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256 bits))
+	for jfwooten4@gmail.com;
+	Wed, 6 Mar 2024 22:16:14 +0100
+From: Stellar Community Fund <noreply@dashboard.communityfund.stellar.org>
+Subject: SCF Submission Update
+To: jfwooten4 <jfwooten4@gmail.com>
+Message-ID: <84915c7d010c7a681b977d5bd5197022@dashboard.communityfund.stellar.org>
+MIME-Version: 1.0
+Date: Wed, 06 Mar 2024 22:16:14 +0100
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html lang=3D"en">
+    <head><meta http-equ=
+iv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+        <meta=
+ charset=3D"utf-8">
+        <meta name=3D"viewport" content=3D"width=3Dde=
+vice-width">
+        <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=
+=3Dedge">
+        <title></title>
+        <base href=3D"https://dashboa=
+rd.communityfund.stellar.org/?pk_campaign=3DTASKREJECTIDEA-Mar2024">
+    =
+    <!--link href=3D"/assets/styles/email.css?v=3D24.07.7-5bba8084c7de399a3=
+838c5fb1799dded" type=3D"text/css" rel=3D"stylesheet"-->
+       =20
+    <=
+style type=3D"text/css">@font-face {font-family: "Bembo";font-style: normal=
+;font-weight: normal;font-display: swap;src: url("/core/assets/unicorn/font=
+s/bembo/bembo-regular.eot?") format("eot"),url("/core/assets/unicorn/fonts/=
+bembo/bembo-regular.woff2") format("woff2"),url("/core/assets/unicorn/fonts=
+/bembo/bembo-regular.woff") format("woff"),url("/core/assets/unicorn/fonts/=
+bembo/bembo-regular.ttf") format("truetype");}
+@font-face {font-family: "=
+Bembo";font-style: italic;font-weight: normal;font-display: swap;src: url("=
+/core/assets/unicorn/fonts/bembo/bembo-regular-italic.eot?") format("eot"),=
+url("/core/assets/unicorn/fonts/bembo/bembo-regular-italic.woff2") format("=
+woff2"),url("/core/assets/unicorn/fonts/bembo/bembo-regular-italic.woff") f=
+ormat("woff"),url("/core/assets/unicorn/fonts/bembo/bembo-regular-italic.tt=
+f") format("truetype");}
+@font-face {font-family: "Bembo";font-style: nor=
+mal;font-weight: bold;font-display: swap;src: url("/core/assets/unicorn/fon=
+ts/bembo/bembo-bold.eot?") format("eot"),url("/core/assets/unicorn/fonts/be=
+mbo/bembo-bold.woff2") format("woff2"),url("/core/assets/unicorn/fonts/bemb=
+o/bembo-bold.woff") format("woff"),url("/core/assets/unicorn/fonts/bembo/be=
+mbo-bold.ttf") format("truetype");}
+@font-face {font-family: "Bembo";font=
+-style: italic;font-weight: bold;font-display: swap;src: url("/core/assets/=
+unicorn/fonts/bembo/bembo-bold-italic.eot?") format("eot"),url("/core/asset=
+s/unicorn/fonts/bembo/bembo-bold-italic.woff2") format("woff2"),url("/core/=
+assets/unicorn/fonts/bembo/bembo-bold-italic.woff") format("woff"),url("/co=
+re/assets/unicorn/fonts/bembo/bembo-bold-italic.ttf") format("truetype");}=
+
+@font-face {font-family: "Helvetica Neue";font-style: normal;font-weight=
+: 300;font-display: swap;src: url("/core/assets/unicorn/fonts/helveticaneue=
+/helvetica_neue_300.eot?") format("eot"),url("/core/assets/unicorn/fonts/he=
+lveticaneue/helvetica_neue_300.woff2") format("woff2"),url("/core/assets/un=
+icorn/fonts/helveticaneue/helvetica_neue_300.woff") format("woff"),url("/co=
+re/assets/unicorn/fonts/helveticaneue/helvetica_neue_300.ttf") format("true=
+type");}
+@font-face {font-family: "Helvetica Neue";font-style: normal;fon=
+t-weight: 400;font-display: swap;src: url("/core/assets/unicorn/fonts/helve=
+ticaneue/helvetica_neue_400.eot?") format("eot"),url("/core/assets/unicorn/=
+fonts/helveticaneue/helvetica_neue_400.woff2") format("woff2"),url("/core/a=
+ssets/unicorn/fonts/helveticaneue/helvetica_neue_400.woff") format("woff"),=
+url("/core/assets/unicorn/fonts/helveticaneue/helvetica_neue_400.ttf") form=
+at("truetype");}
+@font-face {font-family: "Helvetica Neue";font-style: no=
+rmal;font-weight: 500;font-display: swap;src: url("/core/assets/unicorn/fon=
+ts/helveticaneue/helvetica_neue_500.eot?") format("eot"),url("/core/assets/=
+unicorn/fonts/helveticaneue/helvetica_neue_500.woff2") format("woff2"),url(=
+"/core/assets/unicorn/fonts/helveticaneue/helvetica_neue_500.woff") format(=
+"woff"),url("/core/assets/unicorn/fonts/helveticaneue/helvetica_neue_500.tt=
+f") format("truetype");}
+@font-face {font-family: "Helvetica Neue";font-s=
+tyle: normal;font-weight: 700;font-display: swap;src: url("/core/assets/uni=
+corn/fonts/helveticaneue/helvetica_neue_700.eot?") format("eot"),url("/core=
+/assets/unicorn/fonts/helveticaneue/helvetica_neue_700.woff2") format("woff=
+2"),url("/core/assets/unicorn/fonts/helveticaneue/helvetica_neue_700.woff")=
+ format("woff"),url("/core/assets/unicorn/fonts/helveticaneue/helvetica_neu=
+e_700.ttf") format("truetype");}
+@font-face {font-family: "Iconosabi";fon=
+t-style: normal;font-weight: normal;font-display: swap;src: url("/core/asse=
+ts/unicorn/fonts/iconosabi/iconosabi.eot?") format("eot"),url("/core/assets=
+/unicorn/fonts/iconosabi/iconosabi.woff2") format("woff2"),url("/core/asset=
+s/unicorn/fonts/iconosabi/iconosabi.woff") format("woff"),url("/core/assets=
+/unicorn/fonts/iconosabi/iconosabi.ttf") format("truetype"),url("/core/asse=
+ts/unicorn/fonts/iconosabi/iconosabi.svg#Iconosabi") format("svg");}
+@fon=
+t-face {font-family: "Linosabi";font-style: normal;font-weight: normal;font=
+-display: swap;src: url("/core/assets/unicorn/fonts/Linosabi/Linosabi.eot?"=
+) format("eot"),url("/core/assets/unicorn/fonts/Linosabi/Linosabi.woff") fo=
+rmat("woff"),url("/core/assets/unicorn/fonts/Linosabi/Linosabi.ttf") format=
+("truetype");}
+@font-face {font-family: "Roboto";font-style: normal;font-=
+weight: lighter;font-display: swap;src: url("/core/assets/unicorn/fonts/rob=
+oto-fontfacekit/Roboto-Thin-webfont.eot?") format("eot"),url("/core/assets/=
+unicorn/fonts/roboto-fontfacekit/Roboto-Thin-webfont.woff2") format("woff2"=
+),url("/core/assets/unicorn/fonts/roboto-fontfacekit/Roboto-Thin-webfont.wo=
+ff") format("woff"),url("/core/assets/unicorn/fonts/roboto-fontfacekit/Robo=
+to-Thin-webfont.ttf") format("truetype"),url("/core/assets/unicorn/fonts/ro=
+boto-fontfacekit/Roboto-Thin-webfont.svg#Roboto") format("svg");}
+@font-f=
+ace {font-family: "Roboto";font-style: normal;font-weight: normal;font-disp=
+lay: swap;src: url("/core/assets/unicorn/fonts/roboto-fontfacekit/Roboto-Li=
+ght-webfont.eot?") format("eot"),url("/core/assets/unicorn/fonts/roboto-fon=
+tfacekit/Roboto-Light-webfont.woff2") format("woff2"),url("/core/assets/uni=
+corn/fonts/roboto-fontfacekit/Roboto-Light-webfont.woff") format("woff"),ur=
+l("/core/assets/unicorn/fonts/roboto-fontfacekit/Roboto-Light-webfont.ttf")=
+ format("truetype"),url("/core/assets/unicorn/fonts/roboto-fontfacekit/Robo=
+to-Light-webfont.svg#Roboto") format("svg");}
+@font-face {font-family: "R=
+oboto";font-style: italic;font-weight: normal;font-display: swap;src: url("=
+/core/assets/unicorn/fonts/roboto-fontfacekit/Roboto-LightItalic-webfont.eo=
+t?") format("eot"),url("/core/assets/unicorn/fonts/roboto-fontfacekit/Robot=
+o-LightItalic-webfont.woff2") format("woff2"),url("/core/assets/unicorn/fon=
+ts/roboto-fontfacekit/Roboto-LightItalic-webfont.woff") format("woff"),url(=
+"/core/assets/unicorn/fonts/roboto-fontfacekit/Roboto-LightItalic-webfont.t=
+tf") format("truetype"),url("/core/assets/unicorn/fonts/roboto-fontfacekit/=
+Roboto-LightItalic-webfont.svg#Roboto") format("svg");}
+@font-face {font-=
+family: "Roboto";font-style: normal;font-weight: bold;font-display: swap;sr=
+c: url("/core/assets/unicorn/fonts/roboto-fontfacekit/Roboto-Regular-webfon=
+t.eot?") format("eot"),url("/core/assets/unicorn/fonts/roboto-fontfacekit/R=
+oboto-Regular-webfont.woff2") format("woff2"),url("/core/assets/unicorn/fon=
+ts/roboto-fontfacekit/Roboto-Regular-webfont.woff") format("woff"),url("/co=
+re/assets/unicorn/fonts/roboto-fontfacekit/Roboto-Regular-webfont.ttf") for=
+mat("truetype"),url("/core/assets/unicorn/fonts/roboto-fontfacekit/Roboto-R=
+egular-webfont.svg#Roboto") format("svg");}
+@font-face {font-family: "Inn=
+osabi";font-style: normal;font-weight: 300;font-display: swap;src: url("/co=
+re/assets/unicorn/fonts/sailec/sailec-light/sailec-light.eot?") format("eot=
+"),url("/core/assets/unicorn/fonts/sailec/sailec-light/sailec-light.woff2")=
+ format("woff2"),url("/core/assets/unicorn/fonts/sailec/sailec-light/sailec=
+-light.woff") format("woff"),url("/core/assets/unicorn/fonts/sailec/sailec-=
+light/sailec-light.ttf") format("truetype");}
+@font-face {font-family: "I=
+nnosabi";font-style: normal;font-weight: 400;font-display: swap;src: url("/=
+core/assets/unicorn/fonts/sailec/sailec-regular/sailec-regular.eot?") forma=
+t("eot"),url("/core/assets/unicorn/fonts/sailec/sailec-regular/sailec-regul=
+ar.woff2") format("woff2"),url("/core/assets/unicorn/fonts/sailec/sailec-re=
+gular/sailec-regular.woff") format("woff"),url("/core/assets/unicorn/fonts/=
+sailec/sailec-regular/sailec-regular.ttf") format("truetype");}
+@font-fac=
+e {font-family: "Innosabi";font-style: normal;font-weight: 500;font-display=
+: swap;src: url("/core/assets/unicorn/fonts/sailec/sailec-medium/sailec-med=
+ium.eot?") format("eot"),url("/core/assets/unicorn/fonts/sailec/sailec-medi=
+um/sailec-medium.woff2") format("woff2"),url("/core/assets/unicorn/fonts/sa=
+ilec/sailec-medium/sailec-medium.woff") format("woff"),url("/core/assets/un=
+icorn/fonts/sailec/sailec-medium/sailec-medium.ttf") format("truetype");}=
+
+@font-face {font-family: "Innosabi";font-style: normal;font-weight: 600;=
+font-display: swap;src: url("/core/assets/unicorn/fonts/sailec/sailec-bold/=
+sailec-bold.eot?") format("eot"),url("/core/assets/unicorn/fonts/sailec/sai=
+lec-bold/sailec-bold.woff2") format("woff2"),url("/core/assets/unicorn/font=
+s/sailec/sailec-bold/sailec-bold.woff") format("woff"),url("/core/assets/un=
+icorn/fonts/sailec/sailec-bold/sailec-bold.ttf") format("truetype");}
+@fo=
+nt-face {font-family: "Innosabi";font-style: normal;font-weight: 700;font-d=
+isplay: swap;src: url("/core/assets/unicorn/fonts/sailec/sailec-black/saile=
+c-black.eot?") format("eot"),url("/core/assets/unicorn/fonts/sailec/sailec-=
+black/sailec-black.woff2") format("woff2"),url("/core/assets/unicorn/fonts/=
+sailec/sailec-black/sailec-black.woff") format("woff"),url("/core/assets/un=
+icorn/fonts/sailec/sailec-black/sailec-black.ttf") format("truetype");}
+@=
+font-face {font-family: "SiSan";font-style: normal;font-weight: lighter;fon=
+t-display: swap;src: url("/core/assets/unicorn/fonts/sisan/sisan03.woff") f=
+ormat("woff"),url("/core/assets/unicorn/fonts/sisan/sisan03.ttf") format("t=
+ruetype");}
+@font-face {font-family: "SiSan";font-style: normal;font-weig=
+ht: normal;font-display: swap;src: url("/core/assets/unicorn/fonts/sisan/si=
+san03.woff") format("woff"),url("/core/assets/unicorn/fonts/sisan/sisan03.t=
+tf") format("truetype");}
+@font-face {font-family: "SiSan";font-style: no=
+rmal;font-weight: bold;font-display: swap;src: url("/core/assets/unicorn/fo=
+nts/sisan/sisan06.woff") format("woff"),url("/core/assets/unicorn/fonts/sis=
+an/sisan06.ttf") format("truetype");}@media screen and (max-device-width: 6=
+00px),screen and (max-width: 600px){table[class=3Demail-container]{width: 1=
+00% !important;}td#callToAction,td.title,td#footer{padding: 5px 20px;}td.pl=
+atform-logo{padding: 0 20px;}}</style></head>
+
+    <body leftmargin=3D"=
+0" topmargin=3D"0" marginwidth=3D"0" marginheight=3D"0" style=3D'background=
+-color: #fff; color: #262626; font-family: "Inter",sans-serif; font-weight:=
+ 300; margin: 0; padding: 0; -webkit-text-size-adjust: none; -ms-text-size-=
+adjust: none; height: 100%; width: 100%;'>
+        <table cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0" height=3D"100%" width=3D"100%" id=3D"body=
+Table" bgcolor=3D"#f1f1f1" style=3D'-ms-text-size-adjust: 100%; -webkit-tex=
+t-size-adjust: 100%; font-weight: 300; border-spacing: 0; mso-table-lspace:=
+ 0; mso-table-rspace: 0; font-family: "Inter",sans-serif; font-size: 16px; =
+line-height: 22px; color: #262626; padding: 0; background-color: #fff; bord=
+er-collapse: collapse; table-layout: fixed; margin: 0 auto; height: 100%; w=
+idth: 100%;'>
+            <tr>
+                <td style=3D'-ms-text-si=
+ze-adjust: 100%; -webkit-text-size-adjust: 100%; font-weight: 300; border-c=
+ollapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; font-family: "=
+Inter",sans-serif; font-size: 16px; line-height: 22px; color: #262626;'>
+=
+                    <table class=3D"email-header" border=3D"0" width=3D"100=
+%" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" style=3D'-ms-text-s=
+ize-adjust: 100%; -webkit-text-size-adjust: 100%; font-weight: 300; border-=
+spacing: 0; border-collapse: collapse; mso-table-lspace: 0; mso-table-rspac=
+e: 0; font-family: "Inter",sans-serif; font-size: 16px; line-height: 22px; =
+color: #262626; background-color: #121018; border-bottom: 1px solid #030304=
+; text-align: center;'>
+    <tr>
+        <td style=3D'-ms-text-size-adj=
+ust: 100%; -webkit-text-size-adjust: 100%; font-weight: 300; border-collaps=
+e: collapse; mso-table-lspace: 0; mso-table-rspace: 0; font-family: "Inter"=
+,sans-serif; font-size: 16px; line-height: 22px; color: #262626;'>
+      =
+      <table border=3D"0" width=3D"600" cellpadding=3D"0" cellspacing=3D"0"=
+ align=3D"center" class=3D"email-container" style=3D'-ms-text-size-adjust: =
+100%; -webkit-text-size-adjust: 100%; font-weight: 300; border-spacing: 0; =
+border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; font-f=
+amily: "Inter",sans-serif; font-size: 16px; line-height: 22px; color: #2626=
+26; margin: auto;'>
+                <tr>
+                    <td class=
+=3D"email-header-padding" height=3D"10" style=3D'-ms-text-size-adjust: 100%=
+; -webkit-text-size-adjust: 100%; font-weight: 300; border-collapse: collap=
+se; mso-table-lspace: 0; mso-table-rspace: 0; font-family: "Inter",sans-ser=
+if; color: #262626; font-size: 0; line-height: 0;'>=C2=A0</td>
+          =
+      </tr>
+                <tr>
+                    <td class=3D"platf=
+orm-logo" valign=3D"middle" style=3D'-ms-text-size-adjust: 100%; -webkit-te=
+xt-size-adjust: 100%; font-weight: 300; border-collapse: collapse; mso-tabl=
+e-lspace: 0; mso-table-rspace: 0; font-family: "Inter",sans-serif; font-siz=
+e: 16px; line-height: 22px; color: #262626; text-align: left;'>
+         =
+               <img src=3D"https://dashboard.communityfund.stellar.org/asse=
+ts/img/logo-email.png" alt=3D"Stellar Community Fund" height=3D"28" width=
+=3D"117" border=3D"0" style=3D"-ms-interpolation-mode: bicubic; border: 0; =
+outline: none; text-decoration: none; max-width: 100%; height: auto;">
+  =
+                  </td>
+                </tr>
+                <tr>
+  =
+                  <td class=3D"email-header-padding" height=3D"10" style=3D=
+'-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-weight: 3=
+00; border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; fo=
+nt-family: "Inter",sans-serif; color: #262626; font-size: 0; line-height: 0=
+;'>=C2=A0</td>
+                </tr>
+            </table>
+        </t=
+d>
+    </tr>
+</table>
+                    5<table border=3D"0" width=
+=3D"600" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" class=3D"emai=
+l-container" style=3D'-ms-text-size-adjust: 100%; -webkit-text-size-adjust:=
+ 100%; font-weight: 300; border-spacing: 0; border-collapse: collapse; mso-=
+table-lspace: 0; mso-table-rspace: 0; font-family: "Inter",sans-serif; font=
+-size: 16px; line-height: 22px; color: #262626; margin: auto;'>
+    <tr>=
+
+        <td height=3D"10" style=3D'-ms-text-size-adjust: 100%; -webkit-t=
+ext-size-adjust: 100%; font-weight: 300; border-collapse: collapse; mso-tab=
+le-lspace: 0; mso-table-rspace: 0; font-family: "Inter",sans-serif; color: =
+#262626; font-size: 0; line-height: 0;'>=C2=A0</td>
+    </tr>
+    <tr>=
+
+        <td class=3D"title" valign=3D"middle" style=3D'-ms-text-size-adj=
+ust: 100%; -webkit-text-size-adjust: 100%; font-weight: 300; border-collaps=
+e: collapse; mso-table-lspace: 0; mso-table-rspace: 0; font-family: "Inter"=
+,sans-serif; font-size: 16px; line-height: 22px; padding: 20px 0 0; color: =
+inherit; text-align: left;'>
+            <h2 style=3D"font-family: sans-s=
+erif; font-weight: lighter; line-height: 22px; color: #444444;">SCF Submiss=
+ion Update</h2>
+        </td>
+
+    </tr>
+    <!-- suggestion -->
+=
+    <tr>
+  <td id=3D"callToAction" style=3D'-ms-text-size-adjust: 100%; -=
+webkit-text-size-adjust: 100%; font-weight: 300; border-collapse: collapse;=
+ mso-table-lspace: 0; mso-table-rspace: 0; font-family: "Inter",sans-serif;=
+ font-size: 16px; line-height: 22px; color: #262626; padding: 20px 0 0;'>=
+
+    <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D'-ms=
+-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-weight: 300; =
+border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0; mso-tabl=
+e-rspace: 0; font-family: "Inter",sans-serif; font-size: 16px; line-height:=
+ 22px; color: #262626;'>
+      <tr>
+        <td align=3D"center" style=
+=3D'-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-weight=
+: 300; border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0;=
+ font-family: "Inter",sans-serif; font-size: 16px; line-height: 22px; color=
+: #262626; border-radius: 4px; background-color: #ffda00;'>
+          <a =
+href=3D"https://dashboard.communityfund.stellar.org/task/?pk_campaign=3DTAS=
+KREJECTIDEA-Mar2024" style=3D'-ms-text-size-adjust: 100%; -webkit-text-size=
+-adjust: 100%; font-weight: 300; font-family: "Inter",sans-serif; color: #0=
+00; text-decoration: none; border-radius: 4px; padding: 10px 16px; border: =
+1px solid #ffda00; display: inline-block; background-color: #ffda00;'>Go to=
+ Project</a>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>=
+
+    <tr>
+        <td height=3D"30" style=3D'-ms-text-size-adjust: 100%=
+; -webkit-text-size-adjust: 100%; font-weight: 300; border-collapse: collap=
+se; mso-table-lspace: 0; mso-table-rspace: 0; font-family: "Inter",sans-ser=
+if; color: #262626; font-size: 0; line-height: 0;'>=C2=A0</td>
+    </tr>=
+
+</table>
+
+<table border=3D"0" width=3D"600" cellpadding=3D"0" cellsp=
+acing=3D"0" align=3D"center" bgcolor=3D"#ffffff" class=3D"email-container" =
+style=3D'-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-w=
+eight: 300; border-spacing: 0; border-collapse: collapse; mso-table-lspace:=
+ 0; mso-table-rspace: 0; font-family: "Inter",sans-serif; font-size: 16px; =
+line-height: 22px; color: #262626; border: 1px solid #e5e5e5; margin: auto;=
+'>
+    <tr>
+        <td class=3D"content-wrap align-center" style=3D'-m=
+s-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-weight: 300;=
+ border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; font-=
+family: "Inter",sans-serif; font-size: 16px; line-height: 22px; color: #262=
+626;'>
+            <table width=3D"100%" cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; fo=
+nt-weight: 300; border-spacing: 0; border-collapse: collapse; mso-table-lsp=
+ace: 0; mso-table-rspace: 0; font-size: 16px; line-height: 22px; color: #26=
+2626; font-family: sans-serif;">
+                <tr>
+                 =
+   <td style=3D'-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;=
+ font-weight: 300; border-collapse: collapse; mso-table-lspace: 0; mso-tabl=
+e-rspace: 0; font-family: "Inter",sans-serif; font-size: 16px; line-height:=
+ 22px; color: #262626; padding: 30px 30px 20px;'>
+                       =
+ <!-- user -->Dear John Wooten<!-- /user-->,
+                        <br>=
+<br>
+                       Over the past week, the Review and Selection =
+Panel of the Stellar Community Fund reviewed numerous submissions, but unfo=
+rtunately your submission did not meet the <a href=3D"https://stellarcommun=
+ityfund.gitbook.io/scf-handbook/scf-awards/official-rules-for-submissions" =
+style=3D'-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-f=
+amily: "Inter",sans-serif; color: #3e1bdb; font-weight: 300;'>requirements<=
+/a> set by the selection panel at this time. <br><br>
+                   =
+   We will close your submission for now, but you'll be able to enter SCF w=
+ith a new submission two rounds from now (SCF#25 - Submission Deadline is M=
+arch 10th, 2024) <br><br>
+                      Please find feedback on y=
+our submission from panel reviewers below.
+                        <table=
+ class=3D"invoice-items" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" s=
+tyle=3D'-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-we=
+ight: 300; border-spacing: 0; border-collapse: collapse; mso-table-lspace: =
+0; mso-table-rspace: 0; font-family: "Inter",sans-serif; font-size: 16px; l=
+ine-height: 22px; color: #262626; padding: 0 30px 30px;'>
+               =
+             <!-- suggestionComment -->
+                            <tr>=
+
+                              =20
+                                <td al=
+ign=3D"left" valign=3D"top" style=3D'-ms-text-size-adjust: 100%; -webkit-te=
+xt-size-adjust: 100%; font-weight: 300; border-collapse: collapse; mso-tabl=
+e-lspace: 0; mso-table-rspace: 0; font-family: "Inter",sans-serif; font-siz=
+e: 16px; line-height: 22px; color: #262626; border-top: 0;'>
+            =
+                        <small>Reviewer commented at 06.03.2024 22:16:</sma=
+ll>
+                                    <br>
+                          =
+          <span class=3D"quotation open en" style=3D'-ms-text-size-adjust: =
+100%; -webkit-text-size-adjust: 100%; font-family: "Inter",sans-serif; font=
+-weight: 300; color: #ffda00;'>"</span><h3 style=3D"color: inherit; font-we=
+ight: 300;">
+  Product &amp; Ecosystem Value
+</h3>
+<ul>
+  <li style=
+=3D'-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; color: #262=
+626; font-family: "Inter",sans-serif; font-weight: 300;'>
+    There is a =
+lot of information but not much related to what SCF reviewers care about: t=
+he Stellar integration. They haven't improved their submission based on the=
+ feedback from last time:
+  </li>
+  <li style=3D'-ms-text-size-adjust: =
+100%; -webkit-text-size-adjust: 100%; color: #262626; font-family: "Inter",=
+sans-serif; font-weight: 300;'>
+    Unclear use of Stellar/ops mainly aro=
+und Stock tokenization to allow for these benefits and the regulation impli=
+cations.
+  </li>
+  <li style=3D'-ms-text-size-adjust: 100%; -webkit-tex=
+t-size-adjust: 100%; color: #262626; font-family: "Inter",sans-serif; font-=
+weight: 300;'>
+    Many of the deliverables aren't directly tied to the S=
+tellar integration.
+  </li>
+  <li style=3D'-ms-text-size-adjust: 100%; =
+-webkit-text-size-adjust: 100%; color: #262626; font-family: "Inter",sans-s=
+erif; font-weight: 300;'>
+    Unclear what the traction looks like, are t=
+he 11 + 8 accounts for testing?
+  </li>
+  <li style=3D'-ms-text-size-ad=
+just: 100%; -webkit-text-size-adjust: 100%; color: #262626; font-family: "I=
+nter",sans-serif; font-weight: 300;'>
+    Last submission asked to focus =
+on the Soroban part, but they've totally removed that.
+  </li>
+  <li st=
+yle=3D'-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; color: #=
+262626; font-family: "Inter",sans-serif; font-weight: 300;'>
+    It's unc=
+lear if they're waiting for SEC approval or if they're approved, and for wh=
+at exactly. As a last add-on, the designs need work to get customers.
+  <=
+/li>
+</ul>
+<h3 style=3D"color: inherit; font-weight: 300;">
+  Technic=
+al Architecture
+</h3>
+<ul>
+  <li style=3D'-ms-text-size-adjust: 100%;=
+ -webkit-text-size-adjust: 100%; color: #262626; font-family: "Inter",sans-=
+serif; font-weight: 300;'>
+    The thesis included, while thorough, doesn=
+'t explain how the technical architecture of how this project uses Stellar.=
+ Section 6 only mentions Stellar as a technology to look into: "We looked a=
+t a number of the Decentralized Exchange protocols currently available, and=
+ chose two of them to analyze more closely: The 0x Protocol and Stellar=
+=E2=80=99s native decentralized exchange. Both of these protocols allow for=
+ the exchange of various assets without requiring a centralized authority t=
+o process them."
+  </li>
+  <li style=3D'-ms-text-size-adjust: 100%; -we=
+bkit-text-size-adjust: 100%; color: #262626; font-family: "Inter",sans-seri=
+f; font-weight: 300;'>
+    Github shows no sign of Stellar integration ei=
+ther. There is however some explanation on what they have done: "Regarding =
+our inaugural asset, we currently have a modest but highly relevant group o=
+f 11 investor accounts on Stellar. Off-chain, we have 8 legacy accounts in =
+the process of onboarding. These accounts hold claimable balances, set to e=
+xpire this year in alignment with federal securities laws."
+  </li>
+</u=
+l>
+<h3 style=3D"color: inherit; font-weight: 300;">
+  Deliverable and B=
+udget
+</h3>
+<ul>
+  <li style=3D'-ms-text-size-adjust: 100%; -webkit-t=
+ext-size-adjust: 100%; color: #262626; font-family: "Inter",sans-serif; fon=
+t-weight: 300;'>
+    Budget looks strange. It contains a deliverable "Blo=
+g Post Collection" and "Innnovative Free courses" that aren't directly tied=
+ to the Stellar integration and development and therefore not eligible unde=
+r the current SCF budget guidelines.
+  </li>
+  <li style=3D'-ms-text-si=
+ze-adjust: 100%; -webkit-text-size-adjust: 100%; color: #262626; font-famil=
+y: "Inter",sans-serif; font-weight: 300;'>
+    The deliverable of Primiti=
+ve Mobile App isn't necessarily related to the Stellar integration, but it'=
+s the only development deliverable.
+  </li>
+</ul>
+<h3 style=3D"color:=
+ inherit; font-weight: 300;">
+  Team and Experience
+</h3>
+<ul>
+  <l=
+i style=3D'-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; colo=
+r: #262626; font-family: "Inter",sans-serif; font-weight: 300;'>
+    Team=
+ is just one person, who isn't a core developer. To be able to make this ha=
+ppen, there likely need to be additional developers.
+  </li>
+</ul><span=
+ class=3D"quotation open en" style=3D'-ms-text-size-adjust: 100%; -webkit-t=
+ext-size-adjust: 100%; font-family: "Inter",sans-serif; font-weight: 300; c=
+olor: #ffda00;'>"</span>
+                                </td>
+        =
+                    </tr>
+                            <!-- /suggestionCom=
+ment -->
+                        </table>
+                        <br>=
+
+               We wish you the best of luck. If you have any questions, =
+feel free to email communityfund@stellar.org.
+                    </td>=
+
+                </tr>
+                <tr>
+                    <td s=
+tyle=3D'-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-we=
+ight: 300; border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace=
+: 0; font-family: "Inter",sans-serif; font-size: 16px; line-height: 22px; c=
+olor: #262626; padding: 10px 30px 40px;'>Stellar Community Fund<br>
+     =
+               </td>
+                </tr>
+            </table>
+     =
+   </td>
+    </tr>
+    <!-- /suggestion -->
+</table>                 =
+   <table border=3D"0" width=3D"600" cellpadding=3D"0" cellspacing=3D"0" al=
+ign=3D"center" class=3D"email-container" style=3D'-ms-text-size-adjust: 100=
+%; -webkit-text-size-adjust: 100%; font-weight: 300; border-spacing: 0; bor=
+der-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; font-fami=
+ly: "Inter",sans-serif; font-size: 16px; line-height: 22px; color: #262626;=
+'>
+    <tr>
+        <td id=3D"footer" valign=3D"middle" style=3D"-ms-te=
+xt-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-weight: 300; bor=
+der-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; padding: =
+20px 0 0; text-align: left; font-family: sans-serif; font-size: 12px; line-=
+height: 22px; color: #687076;">
+            <p style=3D'-ms-text-size-adj=
+ust: 100%; -webkit-text-size-adjust: 100%; font-family: "Inter",sans-serif;=
+ font-weight: 300; color: #687076;'>You received this email because you opt=
+ed in to the Stellar Community Fund newsletter.</p>
+            <p style=
+=3D'-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family=
+: "Inter",sans-serif; font-weight: 300; color: #687076;'>Stellar Developmen=
+t Foundation | P.O. Box 77105 | San Francisco | CA 94107 | United States | =
+<a href=3D"mailto:communityfund@stellar.org" style=3D'-ms-text-size-adjust:=
+ 100%; -webkit-text-size-adjust: 100%; font-family: "Inter",sans-serif; fon=
+t-weight: 300; color: #687076; padding: 0; text-decoration: underline;'>com=
+munityfund@stellar.org</a></p>
+          <p style=3D'-ms-text-size-adjust=
+: 100%; -webkit-text-size-adjust: 100%; font-family: "Inter",sans-serif; fo=
+nt-weight: 300; color: #687076;'> Please review our <a href=3D"https://stel=
+lar.org/privacy-policy" style=3D'-ms-text-size-adjust: 100%; -webkit-text-s=
+ize-adjust: 100%; font-family: "Inter",sans-serif; font-weight: 300; color:=
+ #687076; padding: 0; text-decoration: underline;'>Privacy Policy</a> and <=
+a href=3D"https://stellar.org/terms-of-service" style=3D'-ms-text-size-adju=
+st: 100%; -webkit-text-size-adjust: 100%; font-family: "Inter",sans-serif; =
+font-weight: 300; color: #687076; padding: 0; text-decoration: underline;'>=
+Terms of Service</a> for more information. Please note that the Stellar Dev=
+elopment Foundation will never ask for your private keys or ask you to depo=
+sit funds to any wallet address. Please review our <a href=3D"https://stell=
+ar.org/blog/foundation-news/how-to-protect-yourself-from-scammers?utm_campa=
+ign=3DDevelopers&amp;utm_medium=3Demail&amp;_hsmi=3D275399106&amp;_hsenc=3D=
+p2ANqtz--0EVdY_Yo4JFHiVFevkCih-QfUwQPrfXuzC1dMt7MMfx3kJfHH6z1OfoUn8RdFrQyBm=
+qNUuelH0kj9MA3-HWs2y2l-DQ&amp;utm_content=3D275399106&amp;utm_source=3Dhs_e=
+mail" style=3D'-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; =
+font-family: "Inter",sans-serif; font-weight: 300; color: #687076; padding:=
+ 0; text-decoration: underline;'>Security Guide</a> for more information.<b=
+r>
+          </p>
+                Copyright =C2=A9 2023 Stellar Develop=
+ment Foundation. All rights reserved.
+           =20
+            <p style=
+=3D'-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family=
+: "Inter",sans-serif; font-weight: 300; color: #687076;'>Change the subscri=
+ption settings <a href=3D"https://dashboard.communityfund.stellar.org/user/=
+settings?pk_campaign=3DTASKREJECTIDEA-Mar2024" style=3D'-ms-text-size-adjus=
+t: 100%; -webkit-text-size-adjust: 100%; font-family: "Inter",sans-serif; f=
+ont-weight: 300; color: #687076; padding: 0; text-decoration: underline;'>i=
+n your profile</a>.</p>
+        </td>
+    </tr>
+    <tr>
+        <t=
+d height=3D"30" style=3D'-ms-text-size-adjust: 100%; -webkit-text-size-adju=
+st: 100%; font-weight: 300; border-collapse: collapse; mso-table-lspace: 0;=
+ mso-table-rspace: 0; font-family: "Inter",sans-serif; color: #262626; font=
+-size: 0; line-height: 0;'>=C2=A0</td>
+    </tr>
+</table>              =
+  </td>
+            </tr>
+        </table>
+    </body>
+</html>
+
+
+

@@ -1,0 +1,69 @@
+{
+  "archiveSource": "JFWooten4/emails/blocktransfer-io/files/AppDomain-com.openxchange.mobile.mailapp2/Documents/persistence/users/john@blocktransfer.io/persistence.realm",
+  "extractionNote": "Decoded selected MailDto record from the Open-Xchange iOS backup. The backup did not retain a complete body or RFC 5322 .eml source for this message.",
+  "classification": "Kemark Medallion Programs correspondence",
+  "mailDto": {
+    "uid": "john@blocktransfer.io_0_default0/INBOX_1",
+    "flaggedForDeletion": false,
+    "serializedMailIdentifier": "{\"userId\":\"john@blocktransfer.io\",\"flaggedFoDeletion\":false,\"folderType\":10,\"accountId\":\"0\",\"mailId\":\"1\",\"serializedFolderIdentifier\":\"{\\\"accountId\\\":\\\"0\\\",\\\"userId\\\":\\\"john@blocktransfer.io\\\",\\\"uid\\\":\\\"john@blocktransfer.io_0_default0\\\\\\/INBOX\\\",\\\"flaggedFoDeletion\\\":false,\\\"folderId\\\":\\\"default0\\\\\\/INBOX\\\",\\\"folderType\\\":10}\",\"uid\":\"john@blocktransfer.io_0_default0\\/INBOX_1\",\"folderId\":\"default0\\/INBOX\"}",
+    "serializedConversationIdentifier": "{\"userId\":\"john@blocktransfer.io\",\"folderId\":\"default0\\/INBOX\",\"conversationId\":\"conversation-1\",\"flaggedFoDeletion\":false,\"accountId\":\"0\",\"folderType\":10,\"uid\":\"john@blocktransfer.io_0_default0\\/INBOX_conversation-1\"}",
+    "stageRawValue": "envelope",
+    "folderUid": "john@blocktransfer.io_0_default0/INBOX",
+    "mailId": "1",
+    "colorRawValue": 0,
+    "flags": {
+      "uid": "john@blocktransfer.io_0_default0/INBOX_1",
+      "flaggedForDeletion": false,
+      "serializedMailIdentifier": "{\"flaggedFoDeletion\":false,\"folderId\":\"default0\\/INBOX\",\"uid\":\"john@blocktransfer.io_0_default0\\/INBOX_1\",\"mailId\":\"1\",\"folderType\":10,\"serializedFolderIdentifier\":\"{\\\"accountId\\\":\\\"0\\\",\\\"userId\\\":\\\"john@blocktransfer.io\\\",\\\"uid\\\":\\\"john@blocktransfer.io_0_default0\\\\\\/INBOX\\\",\\\"flaggedFoDeletion\\\":false,\\\"folderId\\\":\\\"default0\\\\\\/INBOX\\\",\\\"folderType\\\":10}\",\"accountId\":\"0\",\"userId\":\"john@blocktransfer.io\"}",
+      "folderUid": "john@blocktransfer.io_0_default0/INBOX",
+      "answered": false,
+      "deleted": false,
+      "draft": false,
+      "flagged": false,
+      "forwarded": false,
+      "recent": false,
+      "spam": false,
+      "unread": false,
+      "user": false
+    },
+    "receivedDate": "2021-03-01T21:07:03.000Z",
+    "sentDate": "2021-03-01T20:49:11.000Z",
+    "subject": "Medallion Programs Website Access Approved",
+    "from": [
+      {
+        "uid": "maureen_freer@kemark.com_",
+        "flaggedForDeletion": false,
+        "name": "",
+        "address": "maureen_freer@kemark.com"
+      }
+    ],
+    "to": [
+      {
+        "uid": "john@blocktransfer.io_",
+        "flaggedForDeletion": false,
+        "name": "",
+        "address": "john@blocktransfer.io"
+      }
+    ],
+    "realAttachment": true,
+    "hasAttachment": true,
+    "replyTo": [],
+    "cc": [],
+    "bcc": [],
+    "messageId": "",
+    "teaser": "Your registration for the Medallion Programs Website has been approved and completed. You may now login to restricted areas of this site (http://www.medallionprograms.com), using the User Name: Block",
+    "body": null,
+    "bodyType": "",
+    "contentType": "",
+    "priorityRawValue": 0,
+    "size": 0,
+    "attachments": [],
+    "folderTypeRawValue": 0,
+    "sortableDate": "2021-03-01T21:07:03.000Z",
+    "fromContactsSearchableString": "maureen_freer@kemark.com",
+    "toContactsSearchableString": "john@blocktransfer.io",
+    "ccContactsSearchableString": "",
+    "bccContactsSearchableString": "",
+    "subjectSearchableString": "medallion programs website access approved"
+  }
+}

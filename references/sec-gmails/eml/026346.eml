@@ -1,0 +1,131 @@
+X-Original-Mbox-Index: 026346
+X-Original-Mbox-Envelope-Base64: RnJvbSAxNjkxMjQ3OTg0OTA5MjQzNzAzQHh4eCBUdWU
+ gRmViIDA5IDE5OjQyOjQ1ICswMDAwIDIwMjENCg==
+X-Original-Mbox-Separator-Base64: 
+X-Original-Mbox-Envelope: From 1691247984909243703@xxx Tue Feb 09 19:42:45 +0000 2021
+X-Original-Mbox-Message-SHA256: 731836675bc2a8d4567c24e12bfd67f06bd847d8b40a8cc4c1998a39006800fd
+X-GM-THRID: 1691247984909243703
+X-Gmail-Labels: Inbox,Opened,Category Updates
+Delivered-To: jfwooten4@gmail.com
+Received: by 2002:a26:5402:0:0:0:0:0 with SMTP id i2csp490423yab;
+        Tue, 9 Feb 2021 11:42:46 -0800 (PST)
+X-Google-Smtp-Source: ABdhPJxLpo1i2TCG5YgOux855ejWcQCrctjtU6xStsOT1TBTa33ExgI7xXl41ot4aG5eX7zhMa8X
+X-Received: by 2002:a37:4749:: with SMTP id u70mr13958163qka.454.1612899765923;
+        Tue, 09 Feb 2021 11:42:45 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1612899765; cv=none;
+        d=google.com; s=arc-20160816;
+        b=Ea3OSvMLDNth5JLYogRK45qUkosduPIT7S7eXkbwpgxLLBCIzwBe47A/UFgA0kPDOx
+         pYE1dVKKRi/j6bE4JGGy9Tm4+CZoBQNJjVoRwqOy5rYZ2UNydfNLRTw6jUA/qFGiIhMw
+         PzBj+BDHsEbAfzS9Rf2xWLQdtxLf+LX71wxNfHws5rkcRsTF10SxuW8vEf6m9Pdo43zv
+         jW9jHAaQ/cFOH+fyTNCQ8EEm2Sgitp1+ewkmvkxeH45CP6SOF/H5s/VhWChIxo1QfbJW
+         iASW5HRCmULoadktIshi+xS6j4d672I8iqlsvF95A93142WV4NFjxRu5lpqnU3R7wbXu
+         24AQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=content-transfer-encoding:mime-version:subject:to:from:date
+         :message-id:ironport-sdr:ironport-sdr:dkim-signature;
+        bh=I6FuzYikBGFubO2UN4LUGCoGpKnvc7KSqkd+fpRUTdQ=;
+        b=FcSJu3yl9nzSEGwZIIljNQj4FKYLQJf3RjhJ99pK+UwMJG/d4UNYebd8fZJB4vDfug
+         Ms0zAz6QSGNuiC6XfXbOeTK3o1qyRkkLbyg+GJZbL6VQc6vwvycZcxwHZ6mG4EQ0rMJ/
+         xMRFzdYSogpFZedib1p+XY7WpNwUZSVv3oveh4VQf25Fo3bP93RqI5S996bKVZPRDp85
+         0w1odF6e7lNzGjYtnQj2jKOy5duXzAoeRbP0PPlclIA2lxEwxfvzgWNO7LrAtebGyDFY
+         SSm7rYXDhmVV7hL4p27ZK82V2BcXG6DYHkHyEUhgpnzVrxQChvET5W7K2ctr+kUF5Haa
+         5gRA==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@sec.gov header.s=SEC header.b="cN67S/av";
+       spf=pass (google.com: domain of edgar-postmaster@sec.gov designates 162.138.209.5 as permitted sender) smtp.mailfrom=edgar-postmaster@sec.gov;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=sec.gov
+Return-Path: <edgar-postmaster@sec.gov>
+Received: from D2-IP01.SEC.GOV (d2-ip01.sec.gov. [162.138.209.5])
+        by mx.google.com with ESMTPS id 33si5038873qte.44.2021.02.09.11.42.45
+        for <jfwooten4@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 09 Feb 2021 11:42:45 -0800 (PST)
+Received-SPF: pass (google.com: domain of edgar-postmaster@sec.gov designates 162.138.209.5 as permitted sender) client-ip=162.138.209.5;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@sec.gov header.s=SEC header.b="cN67S/av";
+       spf=pass (google.com: domain of edgar-postmaster@sec.gov designates 162.138.209.5 as permitted sender) smtp.mailfrom=edgar-postmaster@sec.gov;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=sec.gov
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=sec.gov; i=@sec.gov; q=dns/txt; s=SEC; t=1612899765;
+  x=1644435765;
+  h=message-id:date:from:to:subject:mime-version:
+   content-transfer-encoding;
+  bh=BDtJ+O2mdXPCuXM3baLErMU9tMdjgm4taX5xtQQiLeg=;
+  b=cN67S/avEGwFGZwyMUeMDybfdDGk4UzBWm9ZqkDj3Z3w76qv3YvHK2ue
+   HmwMMbVVeeapiPv4Cr3DgY00LNciY6/G22+Pto7WbkBBZY0dUlO98cQVY
+   wEL1QwDUI45cN8vTmzwDcadISSdPE7BB0hu5LVa8uhAOsY1N3SXSbeDfR
+   Q=;
+IronPort-SDR: JQzraI2dcDJAEfK9MGzO05z0jwl88sfJl7LBFlsLvrVnjJfYr1YYt6YRi+APjqacPPb1VTxioY
+ RYBq59Gn1VTg==
+X-IronPort-AV: E=McAfee;i="6000,8403,9890"; a="42817234"
+X-IronPort-AV: E=Sophos;i="5.81,166,1610427600"; 
+   d="scan'208";a="42817234"
+Received: from unknown (HELO D2-DLPMAIL-01.AD.SEC.GOV) ([172.24.196.30])
+  by D2-IP01-DLP.SEC.GOV with ESMTP; 09 Feb 2021 14:42:45 -0500
+Received: from D1-IP01-DLP.SEC.GOV (unknown [172.24.196.30]) by D2-DLPMAIL-01.AD.SEC.GOV with smtp
+	(TLS: TLSv1/SSLv3,128bits,ECDHE-RSA-AES128-GCM-SHA256)
+	 id 0382_190b_80429b6b_c6fb_46b9_92be_7effff7bc60b;
+	Tue, 09 Feb 2021 19:35:12 +0000
+IronPort-SDR: SD8hhCuDTA6QEErOyNxsHonCIfX95ssL+PIj47s/6kXrgc5xCn5IXIv+Trk2r9Sw4eIlEzyUhl
+ 62h56a+BjnfA==
+X-IronPort-AV: E=McAfee;i="6000,8403,9890"; a="97962794"
+X-IronPort-AV: E=Sophos;i="5.81,166,1610427600"; 
+   d="scan'208";a="97962794"
+Received: from unknown (HELO receipt-181-kcnzf) ([172.25.196.30])
+  by D1-IP01-EDGAR.SEC.GOV with ESMTP; 09 Feb 2021 14:42:45 -0500
+Message-ID: <233706101.1612899765384.JavaMail.default@receipt-181-kcnzf>
+Date: Tue, 9 Feb 2021 14:42:00 -0500 (EST)
+From: edgar-postmaster@sec.gov
+To: jfwooten4@gmail.com
+Subject: REJECTED FORM TYPE ID-NEWCIK (9999999996-21-007841)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-RCIS-Action: ALLOW
+
+
+THE FOLLOWING SUBMISSION HAS BEEN REJECTED BY THE U.S. SECURITIES AND EXCHANGE 
+COMMISSION.
+
+
+FORM TYPE:     ID-NEWCIK            NUMBER OF DOCUMENTS: 2
+RECEIVED DATE: 09-Feb-2021 10:36    REJECTED DATE:       09-Feb-2021 14:42
+TEST FILING:   NO                   CONFIRMING COPY:     NO
+
+ACCESSION NUMBER: 9999999996-21-007841
+
+SUMMARY OF CHANGES:
+
+You requested to create a company with the following name: BlockTrans 
+Syndicate
+
+Your request for access to EDGAR has been rejected by the SEC's Office of 
+Filer Support for the following reason:
+     A prefilled online version of the Form ID, located on the "filer 
+     management" website needs to be signed and notarized with the 
+     electronic Form ID. Please resubmit online request (all pages of the 
+     application must be uploaded).
+
+For further information, contact the SEC's Office of Filer Support at (202) 
+551-8900.
+
+------------------------------- NOTICE ---------------------------------
+
+URGENT: Verify that all of your addresses on the EDGAR database are
+correct.  An incorrect address in the EDGAR Accounting Contact Name 
+and Address information may result in your fee Account Activity
+Statement being returned to the SEC as undeliverable. Please correct
+outdated addresses via the EDGAR filing website.
+
+The EDGAR system is available to receive and process filings from 
+6:00 a.m. to 10:00 p.m. Eastern Time on business days. Filer Support
+staff members are available to respond to requests for assistance from
+9:00 a.m. to 5:30 p.m. Eastern Time. 
+
+We strongly encourage you to visit the Filing Website at 
+https://www.edgarfiling.sec.gov. You can download our current version
+of the EDGARLink/Windows software and templates, the Filer Manual, 
+receive on-line help, and access Frequently Asked Questions.
+  
+
+

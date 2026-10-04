@@ -1,0 +1,69 @@
+{
+  "archiveSource": "JFWooten4/emails/blocktransfer-io/files/AppDomain-com.openxchange.mobile.mailapp2/Documents/persistence/users/john@blocktransfer.io/persistence.realm",
+  "extractionNote": "Decoded selected MailDto record from the Open-Xchange iOS backup. The backup did not retain a complete body or RFC 5322 .eml source for this message.",
+  "classification": "Kemark Medallion Programs correspondence",
+  "mailDto": {
+    "uid": "john@blocktransfer.io_0_default0/INBOX_2",
+    "flaggedForDeletion": false,
+    "serializedMailIdentifier": "{\"folderId\":\"default0\\/INBOX\",\"flaggedFoDeletion\":false,\"uid\":\"john@blocktransfer.io_0_default0\\/INBOX_2\",\"accountId\":\"0\",\"userId\":\"john@blocktransfer.io\",\"mailId\":\"2\",\"serializedFolderIdentifier\":\"{\\\"flaggedFoDeletion\\\":false,\\\"accountId\\\":\\\"0\\\",\\\"userId\\\":\\\"john@blocktransfer.io\\\",\\\"folderId\\\":\\\"default0\\\\\\/INBOX\\\",\\\"uid\\\":\\\"john@blocktransfer.io_0_default0\\\\\\/INBOX\\\",\\\"folderType\\\":10}\",\"folderType\":10}",
+    "serializedConversationIdentifier": "{\"conversationId\":\"conversation-2\",\"uid\":\"john@blocktransfer.io_0_default0\\/INBOX_conversation-2\",\"accountId\":\"0\",\"userId\":\"john@blocktransfer.io\",\"folderId\":\"default0\\/INBOX\",\"folderType\":10,\"flaggedFoDeletion\":false}",
+    "stageRawValue": "envelope",
+    "folderUid": "john@blocktransfer.io_0_default0/INBOX",
+    "mailId": "2",
+    "colorRawValue": 0,
+    "flags": {
+      "uid": "john@blocktransfer.io_0_default0/INBOX_2",
+      "flaggedForDeletion": false,
+      "serializedMailIdentifier": "{\"accountId\":\"0\",\"mailId\":\"2\",\"uid\":\"john@blocktransfer.io_0_default0\\/INBOX_2\",\"serializedFolderIdentifier\":\"{\\\"flaggedFoDeletion\\\":false,\\\"accountId\\\":\\\"0\\\",\\\"userId\\\":\\\"john@blocktransfer.io\\\",\\\"folderId\\\":\\\"default0\\\\\\/INBOX\\\",\\\"uid\\\":\\\"john@blocktransfer.io_0_default0\\\\\\/INBOX\\\",\\\"folderType\\\":10}\",\"flaggedFoDeletion\":false,\"folderId\":\"default0\\/INBOX\",\"folderType\":10,\"userId\":\"john@blocktransfer.io\"}",
+      "folderUid": "john@blocktransfer.io_0_default0/INBOX",
+      "answered": false,
+      "deleted": false,
+      "draft": false,
+      "flagged": false,
+      "forwarded": false,
+      "recent": false,
+      "spam": false,
+      "unread": false,
+      "user": false
+    },
+    "receivedDate": "2021-03-05T23:18:01.000Z",
+    "sentDate": "2021-03-05T23:00:49.000Z",
+    "subject": "Annual MedallionPrograms.com Subscription Invoice for the period beginning 03/01/2021",
+    "from": [
+      {
+        "uid": "billing@kemark.com_",
+        "flaggedForDeletion": false,
+        "name": "",
+        "address": "billing@kemark.com"
+      }
+    ],
+    "to": [
+      {
+        "uid": "john@blocktransfer.io_",
+        "flaggedForDeletion": false,
+        "name": "",
+        "address": "john@blocktransfer.io"
+      }
+    ],
+    "realAttachment": true,
+    "hasAttachment": true,
+    "replyTo": [],
+    "cc": [],
+    "bcc": [],
+    "messageId": "",
+    "teaser": "Dear John Wooten, IV, Please find an invoice attached for your institution's Annual MedallionPrograms.com Subscription Fee (Account: Block Transfer). If payment in full is not received, your access wi",
+    "body": null,
+    "bodyType": "",
+    "contentType": "",
+    "priorityRawValue": 0,
+    "size": 0,
+    "attachments": [],
+    "folderTypeRawValue": 0,
+    "sortableDate": "2021-03-05T23:18:01.000Z",
+    "fromContactsSearchableString": "billing@kemark.com",
+    "toContactsSearchableString": "john@blocktransfer.io",
+    "ccContactsSearchableString": "",
+    "bccContactsSearchableString": "",
+    "subjectSearchableString": "annual medallionprograms.com subscription invoice for the period beginning 03/01/2021"
+  }
+}
