@@ -61,7 +61,7 @@ The economic protection is that simply refusing to pay preferred holders general
 And in practice DTCC did pay the Series D dividends in the periods disclosed. For example, it paid $8.4375 million on each semiannual payment date in 2025. [DTCC](https://www.dtcc.com/-/media/Files/Downloads/legal/financials/2025/DTCC-Annual-Financial-Statement-2025.pdf)
 
 So the weird-sounding bargain is basically: “Give us $500 million of permanent equity capital; we’ll pay you a high preferred return when declared and give you priority over common equity, but this is not debt and you cannot accelerate us into default merely because a dividend was never declared.”
-into June dates AA {{}}
+into June dates AA {{NSCC-market-disruption}}
 
 ### Bondholders
 

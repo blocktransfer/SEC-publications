@@ -46,4 +46,20 @@ time basis also in prev n.10
 [fidelity-education-dtc]: See PREV section 5 and the accompanying WhatCanIMakeToday image using Ken Griffin's example of teachers' pension plans. The analogy is not exact: Fidelity Education Fund is not a teacher pension fund. Fidelity states that its shares are available only to certain offerings within Fidelity-managed 529 plans, so this is education-savings money for students and families rather than teachers' retirement money. The fund nevertheless reported holding $623,000 principal of The Depository Trust Company's 4.30% notes due March 27, 2029, a Rule 144A security. See https://www.sec.gov/Archives/edgar/data/803013/000080301325000052/filing10898.htm and SEC accession 0000035402-26-004662 at https://www.sec.gov/Archives/edgar/data/803013/000003540226004662/0000035402-26-004662-index.html. See also comments/s7-2026-30/cites/offline/bonds/offering-cusips.md.
 [dao-report]: SEC, Report of Investigation Pursuant to Section 21(a) of the Securities Exchange Act of 1934: The DAO, Exchange Act Release No. 81207 (July 25, 2017), https://www.sec.gov/files/litigation/investreport/34-81207.pdf. Use this footnote where the DUNA is first introduced: the report supplies the SEC's earlier DAO context, while the DUNA legal form came later and is not itself discussed in the 2017 report.
 
+{{NSCC-market-disruption}}: June 29, 2026, DTC and NSCC declared a Market Disruption Event after a participant submitted erroneous trades that produced a “significantly large net debit settlement balance.” They got multiple Federal Reserve extensions, still could not reverse the trades before NSS closed at 8:30 p.m., and ultimately:
+- rolled over all June 29 DTC/NSCC settlement into June 30;
+- made June 30 effectively a double-settlement day; and
+- NSCC imposed an extra start-of-day Clearing Fund charge to cover the additional day of unsettled guaranteed activity.
+AA https://www.dtcc.com/-/media/Files/pdf/2026/6/30/24518-26.pdf
+
 {{fn}}: 
+
+
+
+So the timeline is interesting:
+
+`June 20` — DTCC Series D switches from 3.375% fixed to 5-year Treasury + 2.606%  
+`June 29` — huge DTC/NSCC net-debit settlement disruption, only 9 days later  
+`June 30` — both days' settlement finally completed
+
+And there’s another coincidence: June 29 was also the day DTCC publicly announced NSCC had gone live with 24x5 clearing. [DTCC](https://www.dtcc.com/press-releases/2026/nscc-now-live-with-clearing-hours-extended)
