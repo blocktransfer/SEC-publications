@@ -1,9 +1,7 @@
-need to emeve these and tehrthors form the PREV assumpino in 27-15
+Need to remove these and their authors from the PREV assumption in 27-15.
 
-723 just iddint move fast engh te exec that way
+723 just didn't move fast enough to execute that way.
 
+Need to rescind PREV n.148 with scheduling face-save (maybe DRS conversation) - addendum to time constraints FN sentence 4.
 
-Need to rescind PREV n.148 with scheduling face save (maybe DRS convo) - addentum to time contraints fn SENTnce 4
-
-For ownership by "nonprofit DAO" (whole subsidiary) FN See PREV n.150 and accompannying text
-then t+30
+For ownership by "nonprofit DAO" (whole subsidiary), FN see PREV n.150 and accompanying text, then T+30.
