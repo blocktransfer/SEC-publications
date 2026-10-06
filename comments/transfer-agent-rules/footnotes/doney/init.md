@@ -13,6 +13,7 @@ Subsequent DTCC/SEC Crypto Task Force meeting memoranda:
 - Apr. 7, 2025: https://www.sec.gov/files/ctf-memo-dtcc-040725.pdf
 - May 13, 2025: https://www.sec.gov/files/ctf-memo-depository-trust-clearing-corporation-051325.pdf
 - June 20, 2025: https://www.sec.gov/files/ctf-memo-dtcc-062025.pdf
+- May 12, 2025 SEC Tokenization Roundtable, Part 1, Christian Sabella at 1:09:52 discussing the need to perfect a security interest, comparing it to an immobilized-security interest: https://youtu.be/HSNBCy7oeRE?t=4192
 - June 5, 2025 SEC Conference on Emerging Trends in Asset Management, Digital Assets & Tokenization panel, Nadine Chakar at 1:52:00 discussing the Great Collateral Experiment and stating that most transfer agents will go out of business: https://youtu.be/0dlqI2FkWO0?t=6720
 
 ^ ONLY xxxx REF xxxxxx
