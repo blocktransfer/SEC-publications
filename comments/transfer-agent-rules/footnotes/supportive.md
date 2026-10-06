@@ -15,23 +15,23 @@ this has basisis in DC's [^nqg], and I posit doing it as the only coendown ask d
 
 [1994-stacks-1]: these are th eaddittional fr cites for the 3 props
 
-[1994-stacks-2]:
+[1994-stacks-2]: 59 FR 636
 
-[1994-stacks-3]:
+[1994-stacks-3]: 59 FR 636
 
-[1994-stacks-4]:
+[1994-stacks-4]: 59 FR 636
 
-[1994-stacks-5]:
+[1994-stacks-5]: 59 FR 636
 
-[1994-stacks-6]:
+[1994-stacks-6]: 59 FR 636
 
-[1994-stacks-7]:
+[1994-stacks-7]: 59 FR 636
 
-[1994-stacks-8]:
+[1994-stacks-8]: 59 FR 636
 
-[1994-stacks-9]:
+[1994-stacks-9]: 59 FR 636
 
-[1994-stacks-10]:
+[1994-stacks-10]: 59 FR 63f
 
 [stallman-incentive-compensation]: Richard Stallman, comment on Incentive-Based Compensation Arrangements, File No. S7-12-11 (May 22, 2011), _available at_ https://www.sec.gov/comments/s7-12-11/s71211-221.htm
 
@@ -47,3 +47,5 @@ this has basisis in DC's [^nqg], and I posit doing it as the only coendown ask d
 
 [^single-dex-seed]: _See_ Liquidity on Stellar: Stellar Decentralized Exchange & Liquidity Pools, AA https://developers.stellar.org/docs/learn/fundamentals/liquidity-on-stellar-sdex-liquidity-pools) (orderbooks index to decentralized exchange). Singleline as is ~~
 [^dex-amm]: _Id._ at z, for the MMS once you establish the orderbook with the first primary cite. _See also_ PREV n.149 and accompanying text. Then a last sentence.
+
+YBK Publishers: PREV n.147

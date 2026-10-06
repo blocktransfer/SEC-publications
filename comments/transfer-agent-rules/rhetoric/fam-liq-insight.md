@@ -41,7 +41,29 @@ On the $500 million liquidation preference, that would imply roughly:
 
 DTCC’s filings confirm the Series D switched from the fixed 3.375% rate after June 20, 2026 to five-year Treasury + 2.606%. [DTCC](https://www.dtcc.com/-/media/Files/Downloads/legal/financials/2026/DTCC-Q1-2026-Financial-Statements.pdf)
 
-### Holders
+
+
+Because it was equity, not debt.
+
+DTCC sold investors a preferred-stock security whose terms explicitly said the dividend was non-cumulative and payable only “when declared” by DTCC’s board. The investors agreed to that structure when they bought it. DTCC’s own financial statements describe Series D that way. [DTCC](https://www.dtcc.com/annuals/2021/pdf/DTCC-Annual-Financial-Statements-2021.pdf)
+
+What investors got in exchange was a preferred claim on DTCC rather than an unconditional interest-payment promise:
+
+- a $250,000 liquidation preference per share;
+- priority over common stock in the capital structure;
+- a stated dividend formula — initially 3.375%, then the 5-year Treasury + 2.606%;
+- a perpetual security rather than a loan with a maturity date.
+
+So this is very different from DTCC issuing a bond and saying “we might just skip the coupon.” Missing a bond payment can be a default. With non-cumulative preferred equity, the possibility of a skipped dividend is built into the security from day one.
+
+The economic protection is that simply refusing to pay preferred holders generally has consequences for the issuer. Preferred-stock terms commonly contain a “dividend stopper”: if the preferred dividend is skipped, the issuer generally cannot turn around and pay dividends to common shareholders or buy back junior stock until the preferred condition is satisfied. That is how this type of security can have meaningful priority without making every dividend an enforceable debt payment. [Securities and Exchange Commission](https://www.sec.gov/Archives/edgar/data/719739/000119312521309514/d214220d424b2.htm)
+
+And in practice DTCC did pay the Series D dividends in the periods disclosed. For example, it paid $8.4375 million on each semiannual payment date in 2025. [DTCC](https://www.dtcc.com/-/media/Files/Downloads/legal/financials/2025/DTCC-Annual-Financial-Statement-2025.pdf)
+
+So the weird-sounding bargain is basically: “Give us $500 million of permanent equity capital; we’ll pay you a high preferred return when declared and give you priority over common equity, but this is not debt and you cannot accelerate us into default merely because a dividend was never declared.”
+into June dates AA {{NSCC-market-disruption}}
+
+### Bondholders
 
 (this needs to be it's own fine, onad it wil lbe the termirus for thi. ponit is taht it eteens the firefihedutr pension orgement form PREV n.156 and accomyng text)
 
