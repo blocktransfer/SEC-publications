@@ -3,7 +3,7 @@ on priority:
 ## Syndicate
 
 1. https://github.com/blocktransfer/SEC-publications/issues/1 Discoluer off corpate owenecssp, MO
-2. https://github.com/blocktransfer/SEC-publications/issues/19 ad6, backups
+2. https://github.com/blocktransfer/SEC-publications/issues/19 ad6, backups [NOT THE VAL. or the PLAN -- migrated to 6D]
 
 ## Personal
 

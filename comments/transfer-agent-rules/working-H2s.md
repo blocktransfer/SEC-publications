@@ -53,7 +53,7 @@ breadily. the actualy infra contintneal letter makes teh better superivining reg
 
 ## Clearing Corporations Antipose Transfer Agents
 
-
+We need to draw an extremely hard line here, pulling every ball I can bring into play.
 
 # Dececnatilevd Exchnage REqures Dececastelied Govereneance
 

@@ -52,14 +52,16 @@ time basis also in prev n.10
 - NSCC imposed an extra start-of-day Clearing Fund charge to cover the additional day of unsettled guaranteed activity.
 AA https://www.dtcc.com/-/media/Files/pdf/2026/6/30/24518-26.pdf
 
-{{fn}}: 
+{{dividenD-market-disruption}}: Id. A week after teh rate change went int o oeffect
+`June 20` — DTCC Series D switches from 3.375% fixed to 5-year Treasury + 2.606%  -- 
+
+paid $8.4375 million final dividend at the old 3.375% fixed rate 
 
 
+[The first dividend using the new reset rate is the December 2026 :c]
 
-So the timeline is interesting:
 
-`June 20` — DTCC Series D switches from 3.375% fixed to 5-year Treasury + 2.606%  
-`June 29` — huge DTC/NSCC net-debit settlement disruption, only 9 days later  
+`June 29` — huge DTC/NSCC net-debit settlement disruption, only 9 days later  ---- "~~" singe Mon biz is June 22
 `June 30` — both days' settlement finally completed
 
 And there’s another coincidence: June 29 was also the day DTCC publicly announced NSCC had gone live with 24x5 clearing. [DTCC](https://www.dtcc.com/press-releases/2026/nscc-now-live-with-clearing-hours-extended)
