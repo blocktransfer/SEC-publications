@@ -22,7 +22,7 @@ She gets one direct citation and up to 3 Ibids as supra qjure diff rels.
 
 #### Private-Market Access and Blockchain Tracking
 
-> 2) Consider allowing individuals who wish to participate in the private market but don’t meet the financial requirements to register and take a test administered by an agency such as FINRA. Unlike the Series 7, the questions would ensure that the individual has enough education to make a wise choice investing their own assets, not assets for others. FINRA already has the infrastructure to administer these exams and could easily support the education and certification of these exams.
+> The second kind of accredited investor, perhaps called a limited accredited investor, would be limited to participate in the private market based on a percentage of their total net worth. By limiting this to a small percentage, perhaps 10%, the individual can decide whether the private market is of interest and worthy of the risk. By signing an agreement outlining the risks and the fact that their entire investment could be lost or unavailable for years, the individual would need to make the decision based on their own personal situation.
 
 — _The Democratization of the Private Market_, p. 92.
 
