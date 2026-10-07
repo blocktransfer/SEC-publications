@@ -23,4 +23,6 @@ Subsequent DTCC/SEC Crypto Task Force meeting memoranda:
     at 24, gets into gmewiki img
     > moving from USD to [a] USD CBDC
     at 28
+    AT 28 "!Security interest of a collateral taker:
+collateral-provider remains the legal owner"
 - June 5, 2025 SEC Conference on Emerging Trends in Asset Management, Digital Assets & Tokenization panel, Nadine Chakar at 1:52:00 discussing the Great Collateral Experiment and stating that most transfer agents will go out of business: https://youtu.be/0dlqI2FkWO0?t=6720
