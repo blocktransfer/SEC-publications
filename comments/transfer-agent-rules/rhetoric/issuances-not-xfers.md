@@ -7,4 +7,4 @@ under the 90s teleptehin interierpotins notnone of tihs woled be roenpteid untle
 
 ref teh blog posh iimg wheenyb cf inst used as much as a
 
-supro AST cites teh improtnact graowing use of A2 icr ;q3 p56 and hence withthath we want to esnture viowaility as te thagents' effectuatunio of newn offenitgs, ratehr than going blingd
+supro AST cites teh improtnact graowing use of A2 icr ;q3 p56 and hence withthath we want to esnture viowaility as te thagents' effectuatunio of newn offenitgs, ratehr than flying blingd
