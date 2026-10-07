@@ -19,3 +19,13 @@ She gets one direct citation and up to 3 Ibids as supra qjure diff rels.
 > More access to private company ownership could mean smaller spreads, less opportunity for “great deals,” and potentially less inventory. However, there are ways for the regulators to allow main street investors to participate in the private market and invest in fast-growing companies while protecting those investors who wish to make riskier deals with the potential for more upside.
 
 — _The Democratization of the Private Market_, p. 56.
+
+#### Private-Market Access and Blockchain Tracking
+
+> 2) Consider allowing individuals who wish to participate in the private market but don’t meet the financial requirements to register and take a test administered by an agency such as FINRA. Unlike the Series 7, the questions would ensure that the individual has enough education to make a wise choice investing their own assets, not assets for others. FINRA already has the infrastructure to administer these exams and could easily support the education and certification of these exams.
+
+— _The Democratization of the Private Market_, p. 92.
+
+> 4) Mandate the use of blockchain tracking of private company shares. With an immutable ledger tracking ownership, it will be difficult to defraud investors who are buying (or selling) their shares. Utilizing this technology and mandating it will ensure records are kept correctly and that the liquidity providers can depend on the ownership information provided by the company.
+
+— _The Democratization of the Private Market_, p. 93.
