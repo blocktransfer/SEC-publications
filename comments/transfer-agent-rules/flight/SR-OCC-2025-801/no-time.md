@@ -28,6 +28,14 @@ at https://www.sechistorical.org/collection/papers/1990/1991_1206_ShortRegulatio
 
 
 
+
+## FINRA exam route for private-market participation
+
+> 2) Consider allowing individuals who wish to participate in the private market but don’t meet the financial requirements to register and take a test administered by an agency such as FINRA. Unlike the Series 7, the questions would ensure that the individual has enough education to make a wise choice investing their own assets, not assets for others. FINRA already has the infrastructure to administer these exams and could easily support the education and certification of these exams.
+
+_Source:_ Carine M. Schneider, _The Democratization of the Private Market_ (SHORT STACK ED, 2021), p. 92, ISBN 9798985062748, _available at_ https://books.google.com/books?id=E7u0zgEACAAJ.
+
+
 #  all pending whatcan srcs
 
 
