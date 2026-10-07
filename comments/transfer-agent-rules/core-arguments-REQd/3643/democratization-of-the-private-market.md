@@ -8,4 +8,6 @@ She gets one direct citation and up to 3 Ibids as supra qjure diff rels.
 
 ## 
 
-here
+> When we built Astrella at AST, our CTO Steve Madeira and I insisted that we build the cap table using blockchain technology. Understanding the “genealogy” of a share was key for companies and their advisors, especially at the time of exit. Investors are not always good at tracking their ownership and frequently forget when they bought, sold, transferred, or changed the name of their ownership. Blockchain allows Astrella to show the exact audit trail or story of the ownership in a specific company. Database-built cap table software does not allow for the complete historical record for both the issuer and the investor. Database information can easily be overwritten. As long as a company manages their cap table in Astrella, the data will be available and unalterable. At some point, we would like to see the regulators mandate the use of blockchain tracking for all private company ownership.
+
+— _The Democratization of the Private Market_, pp. 50–51.
