@@ -47,3 +47,14 @@ we can start the intr with th ebuffet queti dir src 81 lettre at startd of stree
 
 in https://www.sec.gov/rules-regulations/2003/02/custody-investment-company-assets-securities-depository they put in '''prior Article 8 assumed that issuers would record investors' interests on their own books, whereas the modern investor typically holds through an intermediary whose aggregate position is held through a depository
 this can get heated fast, so it's risky
+
+
+# THeri acitve cetutruent cahnegs 
+
+9 and 12 are ITW
+
+dtc calcims tehet ether isall thiws legegl unnififatn wor d toodod
+
+this is facically disignigegoes
+
+it is i spmeil erproecyrl salw that teh ownere of as nonest gets titilo and rightw tenthereto, teh only new rulenigns tehy need ar ente hlegal XXXhyginicsWWworkd allowing Wall STreet to to take rproity over actual invetoners during insoerevnncy.
