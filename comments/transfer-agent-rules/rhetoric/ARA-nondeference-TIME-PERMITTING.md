@@ -4,7 +4,12 @@ this will be na 80/20 rall on the beoeurcacti uptake and it coeld realllly dispa
 
 it's jqsut policitially diffuleutw todo bec we arelady adttarc DTC using teh Cnoegflessoinal SRO supeseureture origgintais. but we DO have the 82 soercets form eth banknig lobbbby
 
+if its nont etert
 
+
+
+
+the prelm is tah twe are not all ano ntoh esame planig filedr. and its just a  tiny littel farcohin taht get that sepcecial teraetemnet. and surely it is celarlythose who dtcc will 'selelct' for theri good graces
 
 ### context 
 
