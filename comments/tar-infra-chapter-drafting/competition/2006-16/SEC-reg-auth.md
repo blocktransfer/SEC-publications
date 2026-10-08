@@ -7,3 +7,8 @@ basis early-cooperative-era-1930s1970s.md in DR -- but its not exattlc dircitl s
 
 and then from ehre it's as stnirght tohet to https://sechistorical.org/wp-content/uploads/1963_SSMkt_Chapter_06_7.pdf whihch at 323 sets up the 1% tarding fees on ifked commissinos which are remaketbaely simimial to the prorpesd 3643 venues.
  u to 7.35% on smal tx of 600 /mo in todays dollars at 326
+
+
+
+## citens
+
