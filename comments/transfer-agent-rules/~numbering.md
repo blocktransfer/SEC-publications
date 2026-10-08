@@ -22,6 +22,17 @@ That subsection defines “appropriate qualified registered securities depositor
 ALTERNATES PER ISSUE w?out pref
 
 
+
+FINS is in teh nonSEC Reg AA 
+https://www.federalreserve.gov/apps/reportingforms/Download/DownloadAttachment?guid=ebe34e41-36f9-4a33-b422-77354230efb8#page=2
+
+**(ref unstablied in form and deciosin foraittngi)**
+
+and basically these gups shoeldneed EDAR accessanyway. harp on the 2FA diffs v steh DTC's hsit site
+
+
+
+
 # CUSIPs
 
 July 1964 https://www.aba.com/about-us/our-story/aba-history/1950-1974
