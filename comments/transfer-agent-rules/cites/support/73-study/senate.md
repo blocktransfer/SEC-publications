@@ -159,6 +159,19 @@ says
 
 > "The Federal Government has no demonstrated ability to operate anything."
 
+
+in Senate at 334, IIR wirets:
+
+> In an October 1971 statement to the House Securities Subcommittee, Junius W. Peake, senior vice president of Shields & Co. and a respected operations experts, actually called for creation of a "Securities Industry Service Corporation," a federally chartered entity that would not only take over all the industry's clearance and settlement but would absorb CCS, SIPC, and regulate the operation and financial operations of all broker-dealers. In testimony, Peake stated, "In my judgment, the continuous net settlement system is by far the best system for clearing securities."
+> Peake's testimony was extremely upsetting to the exchange. In fact, according to an exchange source, NYSE officials exerted intense pressure on the senior executives of Shields to prevent Peake from testifying... Should participation be mandatory, the NYSE would have to give up its SCC which currently is said to represent perhaps as much as three-quarters of the NYSE's budget and personnel and half its profits.
+
+goes on that § to satte how teh tried to kill NASD'- SCC
+
+As NCC president David H.
+Morgan warned at a Securities Industry Association operations seminar last
+summer, "If we let the SEC develop our standards for us, we're going to get
+screwed."
+
 ## The 1972 predecessor and the NYSE's changed position
 
 ### Which 1972 bill?
@@ -202,3 +215,17 @@ The fairest reading is therefore:
 - Williams was right that the NYSE had moved materially away from its public support for the SEC-sponsored 1972 bill.
 - Needham was also right that S. 2058 was not identical to the bill the NYSE supported: it descended from the later composite S. 3876 and expressed broader, more detailed SEC control.
 - The sharpest change was in policy and rhetoric. The NYSE's 1972 reservations about direct regulation became its central 1973 objection after a change in management and board structure.
+
+
+## DEX Quotes DNI
+
+not for this comemnt but still coaol
+
+> "Once book entry settlement on a national basis is a reality," says Pacific Clearing Corporation president Christopher J. Delahunty, "it is reasonable to expect that trading patterns will change. Our hope is that the services we provide will be very useful in attracting business to us."
+> 336 [330]
+
+---
+
+### interface linknig
+
+> Views vary widely among operations experts on the degree to which efficient interfacing can be achieved, but the consensus is more negative than positive. The Senate Securities Subcommittee's initial report, for instance, said it would be "difficult, if not impossible" for NCC and the local clearing systems to interface with CCS. It should be recognized that interfacing is not like tying two pieces of string together: what might be loudly announced as the successful linking of two systems could produce an unwieldy monster, which, due to inherent technical incompatibilities, is actually less efficient than no system at all.
