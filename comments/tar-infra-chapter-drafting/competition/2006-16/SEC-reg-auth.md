@@ -12,3 +12,7 @@ and then from ehre it's as stnirght tohet to https://sechistorical.org/wp-conten
 
 ## citens
 
+
+- https://www.sec.gov/files/rules/other/2009/staintentnotice072809.pdf
+- https://www.sec.gov/files/rules/other/2009/stapetition080409.pdf
+- https://www.sec.gov/files/rules/sro/dtc/2009/dtcresponse101509.pdf
