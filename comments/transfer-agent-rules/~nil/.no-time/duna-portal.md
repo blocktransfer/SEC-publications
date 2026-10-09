@@ -204,3 +204,13 @@ The public side should make governance inspectable without requiring an account.
 For a new recipient, the shortest intended path is:
 
 `public award page -> verify familiar social account -> create/join member account -> register public key -> authenticate wallet -> claim or retain award`.
+
+## Voting-threshold WhyDRS email accounts
+
+Members who reach a DUNA-defined voting-power threshold should be entitled to a WhyDRS email account. Keep the exact threshold and eligibility rules configurable rather than fixing a number here.
+
+Provisioning and mailbox access should be integrated into the same member portal and wallet-authenticated sign-in used for other DUNA account functions. An eligible member should be able to use their registered Stellar public key and wallet-signed authentication challenge instead of maintaining a separate email password where technically practical.
+
+Explore taking wallet-based signing down to the mail-protocol authentication layer itself: an IMAP-compatible authentication bridge or gateway could verify a wallet-signed challenge for mailbox access, with equivalent support for SMTP submission when sending mail. IMAP does not natively define Stellar-wallet signing, so this would require an explicit authentication integration rather than assuming ordinary IMAP supports it. Keep wallet secrets client-side and never disclose them to the mail server.
+
+Email eligibility is a voting-threshold benefit, not a prerequisite for basic DUNA membership, voting, or claiming retroactive awards.
