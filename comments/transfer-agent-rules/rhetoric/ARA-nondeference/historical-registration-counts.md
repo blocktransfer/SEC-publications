@@ -1,6 +1,6 @@
 # Bank- and SEC-regulated transfer agents: disclosed historical observations (1970–2026)
 
-Research note for [ARA non-deference](../ARA-nondeference-TIME-PERMITTING.md). This collects **only historical dates for which an identified primary source actually discloses usable counts or proportions**. It is not an interpolated annual time series.
+Research note for [ARA non-deference](README.md). This collects **only historical dates for which an identified primary source actually discloses usable counts or proportions**. It is not an interpolated annual time series.
 
 **Measure:** A transfer agent's *appropriate regulatory agency* (ARA), not whether a transfer agent is ultimately bank-owned. The bank ARA category covers the OCC, Federal Reserve Board, and FDIC. Totals and percentage estimates are attributed to the dates and populations used in each cited publication, rather than silently harmonized.
 
