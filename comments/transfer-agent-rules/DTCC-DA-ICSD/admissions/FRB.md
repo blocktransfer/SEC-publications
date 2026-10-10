@@ -197,3 +197,86 @@ Vice Chair Janet L. Yellen
 
 https://www.federalreserve.gov/newsevents/speech/yellen20130104a.htm
 January 04, 2013
+
+# Good cite
+
+> Post-trade clearing and settlement are sometimes referred to as the "plumbing" of the financial system. This term may suggest that clearing and settlement systems are of secondary importance. In fact, however, they are more like the "central nervous system" of the financial system.1 Clearing and settlement systems provide vital linkages among components of the system, enabling them to work together smoothly. As such, clearing and settlement systems are critical for the performance of the economy. A key role then for public policy is to ensure that these systems function well when confronted by a variety of stresses.
+
+https://www.chicagofed.org/publications/speeches/2006/04-04-central-counterparties
+
+and then ~nil "Derivatives transactions, such as swaps, futures, and short options, require discharge of the underlying obligations at some time in the future. Because of the potential for price fluctuations between the time derivatives obligations are undertaken and the time they are discharged, participants face exposure to forward or 'replacement cost' risk. To mitigate that risk, clearing arrangements for forward transactions typically impose 'variation margin' requirements on their clearing members. These payments are based upon a daily or even more frequent marking to market. As a result, traders are forced to realize their net profits and losses on a regular basis."
+
+> Concentration carries with it systemic implications, since the failure of a CCP would be, by definition, a major systemic event.8 This potential risk would only be exacerbated by a policy that mandated the consolidation of all CCPs into a single institution. A more decentralized clearing arrangement would disperse responsibilities for risk management across multiple institutions. This would serve to reduce the possibility that a single institution's failure might have a catastrophic impact.
+>
+> But this discussion omits perhaps the most important advantage from allowing a broader array of clearing and settlement arrangements: the benefits of competition. Indeed, it is the competition for better ideas, superior risk-management procedures, and new products that best leads to market innovation in these areas. The welfare implications of such innovations can be very large. If CCPs were to be mandated as the only acceptable clearing and settlement arrangement, I fear that a good deal of financial market innovation would be stifled, with corresponding losses in economic welfare.
+
+juicy
+
+1 Robert E. Litan, "Institutions and Policies for Maintaining Financial Stability," in Federal Reserve Bank of Kansas City, Maintaining Financial Stability in a Global Economy, at 283 (1998).
+ 
+
+2 Committee on Payment and Settlement Systems of the Central Banks of the Group of Ten Countries and Technical Committee of the International Organization of Securities Commissions, Recommendations for Central Counterparties (2004).
+
+ 
+
+3 The Federal Reserve Bank of Chicago also participated in the consultative process leading to the adoption of the CPSS-IOSCO Recommendations for Securities Settlement Systems (2001), as well as the CPSS Core Principles for Systemically Important Payment Systems (2001).
+
+ 
+
+4 See, e.g., James Moser, "Origins of the Modern Exchange Clearinghouse: A History of Early Clearing and Settlement Methods at Futures Exchanges," Federal Reserve Bank of Chicago Working Paper No. WP-94-3, at 43 (1994).
+
+ 
+
+5 Ulrike Schaede, "The Development of Organized Futures Trading: The Osaka Rice Bill Market of 1730," in William T. Ziemba, Warren Bailey, and Yasushi Hamao, Japanese Financial Market Research (1991).
+
+ 
+
+6 See, e.g., CPSS-IOSCO, supra note 2, at sec. 1.2.
+
+ 
+
+7 Id.
+
+ 
+
+8 As a result, public oversight of CCPs and economically equivalent clearing arrangements is justified.
+
+ 
+
+9 See "Credit Derivatives Market Expands to $17.3 Trillion," Bloomberg News (March 15, 2006) ("Credit derivatives are the fastest-growing part of the $270 trillion market for derivatives, obligations based on interest rates, events or underlying assets, according to figures from the Bank for International Settlements. The market expanded more than fivefold in two years, according to ISDA."1 Robert E. Litan, "Institutions and Policies for Maintaining Financial Stability," in Federal Reserve Bank of Kansas City, Maintaining Financial Stability in a Global Economy, at 283 (1998).
+ 
+
+2 Committee on Payment and Settlement Systems of the Central Banks of the Group of Ten Countries and Technical Committee of the International Organization of Securities Commissions, Recommendations for Central Counterparties (2004).
+
+ 
+
+3 The Federal Reserve Bank of Chicago also participated in the consultative process leading to the adoption of the CPSS-IOSCO Recommendations for Securities Settlement Systems (2001), as well as the CPSS Core Principles for Systemically Important Payment Systems (2001).
+
+ 
+
+4 See, e.g., James Moser, "Origins of the Modern Exchange Clearinghouse: A History of Early Clearing and Settlement Methods at Futures Exchanges," Federal Reserve Bank of Chicago Working Paper No. WP-94-3, at 43 (1994).
+
+ 
+
+5 Ulrike Schaede, "The Development of Organized Futures Trading: The Osaka Rice Bill Market of 1730," in William T. Ziemba, Warren Bailey, and Yasushi Hamao, Japanese Financial Market Research (1991).
+
+ 
+
+6 See, e.g., CPSS-IOSCO, supra note 2, at sec. 1.2.
+
+ 
+
+7 Id.
+
+ 
+
+8 As a result, public oversight of CCPs and economically equivalent clearing arrangements is justified.
+
+ 
+
+9 See "Credit Derivatives Market Expands to $17.3 Trillion," Bloomberg News (March 15, 2006) ("Credit derivatives are the fastest-growing part of the $270 trillion market for derivatives, obligations based on interest rates, events or underlying assets, according to figures from the Bank for International Settlements. The market expanded more than fivefold in two years, according to ISDA.").
+
+ 
+
+10 For example, the Virtual Markets Assurance Corporation (VMAC) is a relatively new clearing arrangement. VMAC functions as a provider of a "suite" of risk mitigation services that, according to VMAC's marketing materials, "allows participants to settle all mark-to-market amounts with a single hedge counterparty, resulting in a reduction of up to 90% in the amount of capital required...." See VMAC-Virtual Markets Assurance Corporation, http://www.vmac.com. However, because VMAC provides clearing services to some, but not necessarily all, of the participants in the markets it serves, it does not appear that either VMAC or any other entity becomes the buyer to every seller and the seller to every buyer, and thus does not technically qualify as a CC
+10 For example, the Virtual Markets Assurance Corporation (VMAC) is a relatively new clearing arrangement. VMAC functions as a provider of a "suite" of risk mitigation services that, according to VMAC's marketing materials, "allows participants to settle all mark-to-market amounts with a single hedge counterparty, resulting in a reduction of up to 90% in the amount of capital required...." See VMAC-Virtual Markets Assurance Corporation, http://www.vmac.com. However, because VMAC provides clearing services to some, but not necessarily all, of the participants in the markets it serves, it does not appear that either VMAC or any other entity becomes the buyer to every seller and the seller to every buyer, and thus does not technically qualify as a CCP.
