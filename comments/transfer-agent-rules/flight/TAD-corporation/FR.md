@@ -93,6 +93,52 @@ https://www.govinfo.gov/content/pkg/FR-1977-05-18/pdf/FR-1977-05-18.pdf
 
 The linking concept later appeared in the 2004 predecessor to Regulation NMS. See [69 FR 12922](2004-securities-transactions-settlement.md).
 
+
+ the linknig here startes as one-way
+
+
+<details>
+
+Yes. The one-way link was implemented, and it subsequently developed into a two-way link. The SEC's 1974 Annual Report explicitly confirms this.
+
+The passage you're quoting describes an early stage of the effort to connect New York's Central Certificate Service (CCS) with regional securities depositories.
+
+## What actually happened
+
+| Date              | Development                                                                                                                                                                                                    |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| September 6, 1972 | Midwest Stock Exchange Clearing Corporation became a participant in CCS, allowing it to use the New York depository.                                                                                           |
+| July 1973         | Midwest Securities Trust Company (MSTC) began an interface with DTC, the successor to CCS. Initially, securities could remain deposited at DTC, but DTC was not yet willing to leave its securities with MSTC. |
+| Late 1973         | DTC and MSTC developed a pilot two-way interface.                                                                                                                                                              |
+| Fiscal year 1974  | The SEC confirmed that the two-way DTC–MSTC link had been developed, allowing dual participants to transfer stock by bookkeeping entries between the two depositories.                                         |
+| Fiscal year 1974  | DTC and National Clearing Corporation (NCC) also established an operational electronic interface for book-entry deliveries between their members.                                                              |
+
+Sources: BASIC's Interindustry Teamwork, printed pp. 56–57, and the SEC's 1974 Annual Report, printed p. 64.Developer:
+
+The SEC's report is particularly decisive because it describes the links as already accomplished, not merely proposed.
+
+[Read the SEC's 1974 Annual Report, printed page 64](https://www.sec.gov/about/annual_report/1974.pdf#page=82)
+
+## But the regional system was eventually absorbed into DTC
+
+The two-way links did operate, but they did not develop into a permanent federation of equally independent securities depositories.
+
+- 1987: The Pacific Securities Depository closed, and nearly all its eligible securities moved to DTC.
+- 1995: DTC and NSCC absorbed the Midwest depository and clearing operations.
+- 1997: DTC's interface with the Philadelphia depository ended when its business was absorbed.
+
+There is also a particularly relevant development for your TAD research: NCC began an interface with TAD Depository Corporation in 1975, according to the NASD's annual report.
+
+
+So the distinction is:
+
+The one-way restriction was temporary; the regional depository model itself was also temporary. The market did achieve interdepository book-entry transfers, but the longer-term outcome was consolidation around DTC rather than a lasting decentralized network.
+
+BASIC 56–57
+https://www.sechistorical.org/collection/papers/1980/1984_0401_BasicTeamwork_1.pdf#page=65).
+
+</details>
+
 ## TAD DTC Partcicpant - May 27, 1977 — 42 FR 27361
 
 Proposed a direct **TAD–DTC interface account**, permitting book-entry transfers between participants of the two depositories.
