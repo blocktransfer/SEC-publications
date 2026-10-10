@@ -154,4 +154,4 @@ from Fracnce v Enffland: (French bank might have securities booked at its Englis
 - Account in France: French law generally determines customer rights.
 - Qualifying securities account in England: French insolvency courts would look to English law
 so control locaiotn changes which law governs the relevant securities rights)
-thoe repoent rececmenotedtans ndedeint ocem EUS law, so you can bet this is eatcitl ywhat teh yare putting int oplace atm
+the report recommendations didn't become US law, so you can bet this is exactly what they are putting in place atm
