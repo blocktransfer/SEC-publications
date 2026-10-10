@@ -229,3 +229,17 @@ not for this comemnt but still coaol
 ### interface linknig
 
 > Views vary widely among operations experts on the degree to which efficient interfacing can be achieved, but the consensus is more negative than positive. The Senate Securities Subcommittee's initial report, for instance, said it would be "difficult, if not impossible" for NCC and the local clearing systems to interface with CCS. It should be recognized that interfacing is not like tying two pieces of string together: what might be loudly announced as the successful linking of two systems could produce an unwieldy monster, which, due to inherent technical incompatibilities, is actually less efficient than no system at all.
+
+
+## competition
+
+at 330:
+> The competitive maneuvering between the NYSE, NASD and the regionals may soon seem like a kindergarten exercise, however, compared with the major struggle that is beginning to develop between the Big Board and their co-venturers in BASIC, the New York banks. Though they are good customers of one another, _relations between the brokers and the bankers have never been precisely convivial_. While both recognized the need for BASIC, each blamed the other for the paperwork mess and the group's early days were very tense. That BASIC worked so well in securing immediate cooperative solutions to several serious impediments, such as the lack of form and procedure standardization, is attributed by many to the diplomacy of executive director Herman W. Bevis.
+>
+> One reason for Bevis's success would appear to be his scrupulous avoidance of any major long-term analyses of CCS's future. It was never made clear, for instance, just when and how—or even if—the banks would eventually participate in CCS. Indeed, some of the banks now trying to interface with CCS are finding the arrangement so awkward they are considering establishing special satellite computer systems to act as linkages. Bankers Trust and First National City Bank have become major critics of the absence so far of major cost savings. Bevis's disdain for the subject is understandable. For as is now becoming painfully apparent as CCS attempts to evolve into a national structure, _the interests of the NYSE and the CCS staff on the one hand and the New York banks on the other are inherently incompatible_.
+
+fram Bankers Trust and First National on we get teh CAT argiuminetn
+
+i want te cut evenynihg in the middle _if_ we use this ebceos ei t frames teh success criteoetai around banks, wihch isnt genoeuons. the real basis can be seen it the ARA hostieioacl TA stoanspishts. the ywere not teh saevaoiror that dentzer props them up to be in the 80s gov changes
+
+[emphasisi added]
