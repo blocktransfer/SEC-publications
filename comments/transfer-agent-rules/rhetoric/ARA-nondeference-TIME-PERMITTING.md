@@ -1,3 +1,17 @@
+
+
+The ARA bit is th ehardeoest polictiocal part, just becease i havent toheght about it as slong as teh DTC Rupoting. I want to set uit uy but keep it scoped ot TAD3 agients as the dircet recmmondaitn. The nuderpnig ethos of course will be that the whole regime needs to change, but ithta will be an argument for congress that will do substanitatino in written testimeonp ys erquerd.
+
+in getting to only th eSEC, we have ammo:
+
+- ledf to otehr exmaining staff wohe'd dealt with {btreanefr agenhtn sunig lockhin
+  [2nd meeting] NY Reggino al examinals ta
+- unpaeralleled in bainnig regiontewrs
+- cite comminiso onettenirosti ad odpet skills as forweardseadiers in space (three srcs in footsnote as basisi nad can be supa'd)
+          - and in same sentence we can shoew howts just  NA for te hbainkning preotitoecti entraceched cenotsetinetunets
+
+---
+
 wehtehre we need toh bank TAs reg'd sep. form teh APA SEC
 
 this will be na 80/20 rall on the beoeurcacti uptake and it coeld realllly dispayce th iem
