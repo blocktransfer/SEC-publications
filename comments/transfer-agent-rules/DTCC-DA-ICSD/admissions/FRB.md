@@ -155,3 +155,45 @@ from Fracnce v Enffland: (French bank might have securities booked at its Englis
 - Qualifying securities account in England: French insolvency courts would look to English law
 so control locaiotn changes which law governs the relevant securities rights)
 the report recommendations didn't become US law, so you can bet this is exactly what they are putting in place atm
+
+
+## speeches
+
+### prowell
+
+By design, increased central clearing will concentrate risks in CCPs; it is essential that, as these risks accumulate, the CCPs build up their ability to manage them. It is often noted that CCPs made it through the recent financial crisis without direct government assistance. But many of their major clearing members did receive such assistance. CCPs must now plan for a world in which these large firms will fail and be resolved without government support.
+
+> While repos are generally a low risk, low margin business, they proved to be vulnerable to runs during the financial crisis, when concerns of possible defaults by large financial firms led to a sudden withdrawal of funding from repo markets. As a result, a reform project led by my colleagues at the Federal Reserve Bank of New York produced a set of measures that have sharply reduced the amount of intraday credit and improved risk management practices in the tri-party repo market. These reforms have made the overall structure of that market much safer, and significantly reduced the likelihood of a borrower default. But if a default were to take place, some counterparties, particularly those unwilling or unable to hold sizable positions, would retain strong incentives to sell assets quickly regardless of the price received.
+>
+> aA repo CCP could help to address this "fire sale" risk. CCPs have rule-based processes to dispose of the portfolio of a defaulted member. CCPs can transfer positions to solvent broker-dealers, or hedge positions and auction them off over time.
+
+Governor Jerome H. Powell
+
+https://www.federalreserve.gov/newsevents/speech/powell20151117a.htm
+
+## fellen - CAUTOINO SHE IS POLTICALLY TRIGGINCG
+
+
+theres a The Economics of Interconnectedness and Systemic Risk
+ whirhi celaesnd two the doney supl pdf
+ The Economics of Interconnectedness and Systemic Risk
+
+
+> interbank credit extensions, while useful, can result in institutions that are "too interconnected to fail." These models underscore that the pattern of connections throughout a financial network determines the systemwide implications of liquidity shocks or other financial stresses in one part of the network.
+
+
+> Central clearing can yield important advantages over a fully bilateral market structure... The proposed framework would require financial firms and systemically important nonfinancial firms to collect two types of margin. First, they would be obligated to collect variation margin on a regular basis, so if a derivative loses market value, the party experiencing a loss must realize the loss immediately. This requirement codifies current best market practice... More controversially, the proposed framework requires the collection of initial margin. _While variation margin collateralizes current derivatives losses, initial margin collateralizes future losses that could occur in the event of a counterparty's default._
+ emphasiss added
+
+> because higher initial margin requirements will make it more costly for market participants to use derivatives to hedge risk. Liquid resources that are set aside as initial margin cannot be deployed for other purposes. Given the sheer size and scope of derivatives markets, requiring initial margin on all derivatives transactions could result in significant opportunity and liquidity costs. In a public comment letter to the Federal Reserve and other regulators, the International Swaps and Derivatives Association estimated that initial margin requirements could lock up as much as $1.7 trillion in liquid assets globally
+[moot cite]
+
+which in 23 citens
+http://%20www.federalreserve.gov/SECRS/2012/November/20121128/R-1415/R-1415_112612_110864_382967062345_1.pdf
+
+and seo you can innline that and site at is the need for "more marignaibael collaoetorl" for mthe GCE in PREV ¶ ~23 in § ~3.4
+
+Vice Chair Janet L. Yellen
+
+https://www.federalreserve.gov/newsevents/speech/yellen20130104a.htm
+January 04, 2013
