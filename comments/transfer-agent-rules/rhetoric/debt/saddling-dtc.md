@@ -14,3 +14,8 @@ SUPRA FN the Seried D offerding doc
 
 
 it used to mean soemitng, withet hSROs -- this s just smh~~
+
+
+
+seubtsatila mutitializatn and caliling basisi th ecommisson arleardy approved in https://www.sec.gov/files/rules/sro/dtc/2018/34-83969.pdf
+FR dtb

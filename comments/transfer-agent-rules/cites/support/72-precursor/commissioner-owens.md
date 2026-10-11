@@ -112,7 +112,8 @@ https://www.sipc.org/media/sipc-50th-report.pdf
 
 so tho bottom line is NOT cash but YES DRS and back tehn it coeld still be heldb by broker as custian for netting
 
-
+today NY UCC § 8-501(d) expressly contemplates that arrangement. If an intermediary holds securities registered in the customer's name without endorsement to the intermediary or in blank, the customer is treated as holding them directly rather than through a security entitlement.
+But that's not how an ordinary modern brokerage account works.
 
 
 ### Then Congress fundamentally changed what it meant to “own” identifiable securities in a SIPA liquidation

@@ -74,3 +74,46 @@ This makes the Shapiro/DTCC exchange useful as a direct extension of the Boni no
   https://investorshub.advfn.com/boards/read_msg.aspx?message_id=28318142
 * Shapiro's later Sept. 14, 2006 Regulation SHO comment, File No. S7-12-06 (SEC-hosted):  
   https://www.sec.gov/comments/s7-12-06/rjshapiro5967.pdf
+
+
+---
+
+she has a publci ref with itemyl supsusatwtoantitan for mGOA
+
+**Yes. The GAO states this explicitly in a 2009 report, on printed page 15 (PDF page 15).**
+
+### Primary source
+
+**GAO-09-318R — *Securities and Exchange Commission: Oversight of U.S. Equities Market Clearing Agencies***
+
+- **Date:** February 26, 2009
+- **Length:** 48 pages
+- **PDF:** [GAO report (PDF)](https://www.gao.gov/assets/gao-09-318r.pdf?utm_source=chatgpt.com)
+
+### 1. Page 15 — Outstanding CNS obligations
+
+Under *Summary of Findings: Objective 1*, the GAO explains that NSCC members who fail to deliver securities maintain an outstanding short (FTD) position in CNS until they satisfy their delivery obligation. [GAO](https://www.gao.gov/assets/gao-09-318r.pdf)
+
+[Open directly to page 15](https://www.gao.gov/assets/gao-09-318r.pdf?utm_source=chatgpt.com#page=15)
+
+### 2. Page 34 — Fails carry forward
+
+Under *U.S. Equity Market Clearance and Settlement*, the GAO states:
+
+> Unfulfilled FTR or FTD positions are rolled over into the next settlement cycle.
+
+It also explains the available buy-in procedures. [GAO](https://www.gao.gov/assets/gao-09-318r.pdf)
+
+[Open directly to page 34](https://www.gao.gov/assets/gao-09-318r.pdf?utm_source=chatgpt.com#page=34)
+
+### 3. Pages 32–33 — Actual accounting examples
+
+The GAO provides two tables illustrating how NSCC's Stock Borrow Program changes account positions while leaving the failing seller's delivery obligation outstanding.
+
+These are particularly useful because they distinguish **CNS obligations from actual securities credited at DTC**. [GAO](https://www.gao.gov/assets/gao-09-318r.pdf)
+
+### Suggested citation
+
+U.S. Government Accountability Office, *Securities and Exchange Commission: Oversight of U.S. Equities Market Clearing Agencies*, GAO-09-318R, at 15, 32–34 (Feb. 26, 2009).
+
+**Page 34 is your strongest reference for proving that CNS explicitly carries unsettled securities obligations into subsequent settlement cycles.**

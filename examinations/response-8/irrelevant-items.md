@@ -8,7 +8,7 @@
 
 Deference to nonbuilding on the light Angular touch already bureaucratically introduced:  
 
-- Frame his intro (with TAR1 cross-ref note 95) as "easy venture pitch" in re Chives convo after DUNA exhibit chat (cite !!~~// circa Charleston) **reasonably abstained**^ ex 8.6  
+- Frame his intro (with TAR1 cross-ref note 95) as "easy venture pitch" in re Chives convo after DUNA exhibit chat (cite !!~~// circa Charleston which is 23 Apr 2024) **reasonably abstained**^ ex 8.6
 
 And then we also have both dir below and https://discord.com/channels/955819881989808128/1143956254016933920/1220504821589606453
 
