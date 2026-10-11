@@ -3,6 +3,10 @@
 
 **Document:** *Transfer Agents Meet the SEC*, p. 4.
 
+THIS IS comments/transfer-agent-rules/cites/support/73-study/john-evans-transcript.md
+
+
+
 Evans explained:
 
 > The uniform proposed form for the registration of all transfer agents was developed through consultation and cooperation between the SEC and bank regulators
