@@ -98,3 +98,19 @@ this only works if we use note refs exclusively rather than page refs (which nee
 note 24
 
 [^buffet]: 
+#
+
+
+
+ Senate Segway (disc. secetoning)
+
+ https://demo.sechistorical.org/collection/papers/1970/1971_1201_SECUnsafe_02.pdf is Lev0000lleitt form the CP
+
+ the better cite witoenh tNN is **Part 5 of the 1971 House hearings, *Study of the Securities Industry*.**
+
+**Arthur D. Little's 1969 study appears at printed pages 2413–2559.** [SEC Historical Society](https://www.sechistorical.org/collection/papers/1980/1984_0401_BasicTeamwork_1.pdf?utm_source=chatgpt.com)
+
+- **[Download original congressional hearing PDF (268 MB)](https://www.govinfo.gov/content/pkg/CHRG-92hhrg67228Op5/pdf/CHRG-92hhrg67228Op5.pdf?utm_source=chatgpt.com)**
+- [GovInfo official record — Part 5](https://www.govinfo.gov/app/details/CHRG-92hhrg67228Op5/CHRG-92hhrg67228Op5?utm_source=chatgpt.com)
+
+all deupe
