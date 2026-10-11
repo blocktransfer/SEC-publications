@@ -8,3 +8,12 @@ Dr. Trimbath's recent point is that Exchange Act § 17A(b)(5)(C), 15 USC 78q-1(b
 For DEX fragmentation, plant the seed for the Dvorak metaphor around how a small drafting or interpretive choice can propagate through market plumbing. But make the LRF distinction strong: even after this **change** from *may* to *shall*, CAT identifies short trades while NSCC identifies net FTD positions; the change would alter the legal close-out duty, not create a persistent identifier that traces an individual short execution through CNS netting into a residual fail. Don't use the Dvorak metaphor to erase that distinction.
 
 https://youtu.be/eDGb-bvAvvw 
+
+
+## the bank-to-bank settlemente
+
+there were 3rd and 4th markets that had isloted pre-DTC clearing
+
+https://www.sec.gov/divisions/marketreg/market2000.pdf at 16, 131
+
+https://www.sec.gov/files/news/speech/1971/051771needham.pdf
