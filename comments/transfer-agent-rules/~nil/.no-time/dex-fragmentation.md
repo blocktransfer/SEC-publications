@@ -17,3 +17,7 @@ there were 3rd and 4th markets that had isloted pre-DTC clearing
 https://www.sec.gov/divisions/marketreg/market2000.pdf at 16, 131
 
 https://www.sec.gov/files/news/speech/1971/051771needham.pdf
+
+nad the 1970 rentro lookes at teh commissions and Instinet v NYSE BATS
+https://demo.sechistorical.org/collection/papers/1970/1970_SEC_AR.pdf
+under Automated Trading Information
