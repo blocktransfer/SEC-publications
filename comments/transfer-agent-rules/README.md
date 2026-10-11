@@ -46,7 +46,7 @@ buuut thi url is stabel)
 
 
 
-staff back tihs up in https://www.sec.gov/rules-regulations/staff-guidance/staff-legal-bulletins/shareholder-proposals-staff-legal-bulletin-no-14f-cf
+staff back this up in https://www.sec.gov/rules-regulations/staff-guidance/staff-legal-bulletins/shareholder-proposals-staff-legal-bulletin-no-14f-cf
 
 and 2026-12_DTCSCR
 
