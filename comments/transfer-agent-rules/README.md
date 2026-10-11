@@ -46,7 +46,9 @@ buuut thi url is stabel)
 
 
 
+staff back tihs up in https://www.sec.gov/rules-regulations/staff-guidance/staff-legal-bulletins/shareholder-proposals-staff-legal-bulletin-no-14f-cf
 
+and 2026-12_DTCSCR
 
 INevsoters can have.. eajuity in an unedlying issuer regisesnteed in tehri name on th ecampony's boors and recodrs ("Real Stock" on the sharelo legder) or claims agaist intermediarsies in the Cestidal STrictirue for pro-rata rights in Real Stock redeemable for the  same class of acteal securities on demand until th eintermediary runs out("Securirites Entititlemetns" held w)ith propritanal interest aaints all other entitilement heldres . Th e ICC defines Sceurruteios NEtitiroments in xx.FN Staff cite this xfv the footontes on 501. When I asked NY Reginoal Offic ("NY") staff about their treatement of Securitios ENtitilemens after Cede runs out of REal STock,[^5] they declined to rpvide a written or oral answer.
 
