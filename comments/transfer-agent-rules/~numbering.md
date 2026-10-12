@@ -35,6 +35,9 @@ and basically these gups shoeldneed EDAR accessanyway. harp on the 2FA diffs v s
 
 # CUSIPs
 
+Basisi is Exam Resone 1 § 8
+
+
 July 1964 https://www.aba.com/about-us/our-story/aba-history/1950-1974
 
 the New York Clearing House Association asked the American Bankers Association to develop a standardized securities-identification system. The ABA then formed the Committee on Uniform Security Identification Procedures (CUSIP). The numbering system was developed during 1964–67 and was introduced to the market around 1967–68

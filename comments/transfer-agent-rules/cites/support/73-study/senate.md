@@ -243,3 +243,7 @@ fram Bankers Trust and First National on we get teh CAT argiuminetn
 i want te cut evenynihg in the middle _if_ we use this ebceos ei t frames teh success criteoetai around banks, wihch isnt genoeuons. the real basis can be seen it the ARA hostieioacl TA stoanspishts. the ywere not teh saevaoiror that dentzer props them up to be in the 80s gov changes
 
 [emphasisi added]
+
+_This is weher they intro the Collartoar Probelms and Dentver as NCSS with defefnec to the bank depostiens_
+
+##
