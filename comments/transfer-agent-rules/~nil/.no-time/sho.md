@@ -25,3 +25,8 @@ then th efinal rueles[^fr-45] com efrem https://www.govinfo.gov/content/pkg/FR-1
 > Following a sharp decline in the market in 1937 , the SEC initiated a study of short selling . As a result of this study , the Commission determined that exchange rules had been ineffective , and the Commission therefore adopted its own rule prohibiting short sales on an exchange at or below the price at which the last sale , regular way , was effected on that particular ex- change . 43 Thus in 1938 , federal tick - test regulation of short sales on exchanges began . The Commission's rule , a more stringent limitation than the restric- tions adopted earlier by the exchanges , precluded short sales at the last price regardless of prior price changes . It caused short interest and short selling to decline more than 50 percent . The Commission , at the request of the ex- changes , modified its rule shortly thereafter to permit short sales at the last price on a zero - plus tick , 44 the midway point between its rule and the prior exchange rules . 
 
 [^fr-45]: SEC Release Nos . 34-10668 , 39 FR 56 ( March 21 , 1974 ) ; 34-10774 , 39 FR 104 ( May 29 , 1974 ) ; 34-11030 , 39 FR 192 ( October 2 , 1974 ) ; 34-11056 , 39 FR 208 ( October 25 , 1974 ) ; 34-11276 , 40 FR 54 ( March 19 , 1975 ) ; and 34-11468 , 40 FR 116 ( June 16 , 1975 
+
+## gov reportingi / ofac
+
+https://www.govinfo.gov/content/pkg/FR-1941-08-20/pdf/FR-1941-08-20.pdf#page=30 estabisidseh benefiial repcitng across loans in colemn 2
+TRF-300 (recoderds desoetd in 77)

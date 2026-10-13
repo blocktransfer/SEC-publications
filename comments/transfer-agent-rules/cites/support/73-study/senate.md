@@ -246,4 +246,88 @@ i want te cut evenynihg in the middle _if_ we use this ebceos ei t frames teh su
 
 _This is weher they intro the Collartoar Probelms and Dentver as NCSS with defefnec to the bank depostiens_
 
-##
+
+## full res
+
+## 1. CCS, Individual Investors, and Transfer Agent Aspirations
+
+deposits to institutions or their bank custodians. Even if all brokers and institutions are permitted and persuaded to use CCS—an eventuality the careful reader will have realized by this time lies a considerable distance in the future—a significant group of certificate holders would still remain outside the system: private investors without their stock in Street name, whose certificates CCS has never planned on trying to immobilize. “We’re a wholesale operation,” says Dentzer. Although institutions account for a predominant share of the NYSE volume, individuals trading in their own name continue to be on at least one side of nearly 60 per cent of the actual trades. For the OTC market, the figure is closer to 90 per cent. As owners of 70 percent of the outstanding stock, small investors will be feeding into and taking out certificates for some time to come.
+
+Since CCS’s dilemma with non-members concerns extra certificate movement to transfer agents, it does not require an especially facile mind to perceive that an excellent step would be to permit CCS not only to effect book entry settlement but to become itself a transfer agent with full certificate insurance powers. Such an idea, in fact, has for some time been a gleam in the eyes of the CCS staff. CCS’s transfer agent aspirations, though, derive from more than an honest desire to reduce the messengering of certificates along the streets. For CCS, as a depository, is in somewhat of the same position of the state under Marxist theory. As it achieves the success for which it was designed, it is supposed to “wither away.” If, as a depository, it captures enough certificates to permit elimination of the certificates altogether, then, ergo, there will no longer be any certificates and any need for a depository. All of the immobilized pieces of paper in CCC’s vaults can be immolated in some New Jersey dump in an appropriately grand ceremony. As a reward for its achievement, CCS will then be forced to self-destruct.
+
+## 2. Regional Banks and Competition in the Transfer Agent Business
+
+power, some voice in the direction of our own destiny.”
+
+That portion of Hartford National’s destiny in which it is most interested is the stock transfer business, an area in which the clash between the New York Stock Exchange and the New York banks could become as heated as the regional depository issue.
+
+**Page 334**
+
+Due to the physical delivery system on which the flow of certificates still depends, the NYSE long required all listed companies to have transfer agents south of Chambers Street in Manhattan. This naturally permitted the New York banks to dominate the bank transfer business. Being a transfer agent has never been regarded as a particularly remunerative business in itself—most banks claim they lose money on it—but the number of full page ads in *The New York Times* and *Wall Street Journal* promoting transfer abilities indicates that most large banks view transfer work as an important ingredient in their “total relationship” with corporate clients.
+
+“Country” banks, such as Hartford National, long resented New York’s favored position. As Lawrence Connell tells it, his bank typically would work hard assisting the growth of small Connecticut corporations. But a soon as they became big enough to list on the Amex or Big Board, they would obtain a New York transfer agent which would quickly attempt to usurp the concern’s other banking business. After stern complaints from Hartford National and First Jersey National Bank in Jersey City, the NYSE in 1971 agreed to Rule 496 permitting out-of-town banks to act as listed company transfer agents so long as they maintained a “drop” office in lower Manhattan and could regularly process transfers within 48 hours.
+
+The consequence has been sudden injection of competition into what was once a rather complacent oligopoly. Regional banks have been quite successful in obtaining new clients and reclaiming lost ones who are not only attracted by the regionals’ often lower costs but are pleased to be free from the generally shabby service offered by the New York transfer agents over the past few years. For similar reasons, the New York banks have been also losing transfer business to corporations themselves which in growing numbers have been becoming their own transfer agents. The New York banks, such as Morgan Guaranty, have
+
+## 3. Institutional Opposition to Securities Depositories
+
+Obtaining institutional participation in any case will not be easy, for it is the brokers and banks, not the institutions, which reap the major benefits from a depository. Institutions, in fact, have a vested interest *against* a depository. Due to their practice of COD payment, institutions have never been too concerned over tardy deliveries. During the paper crisis, some institutions made handsome profits on delivery delays through short-term investment of the payment funds. Further, depositing securities in CCS currently would make dealings for an institution in the third and fourth markets much more difficult, for non-CCS members are very likely to be on the other side of the trade. The NYSE has been working assiduously to remove legal barriers to institutional participation in CCS, but has yet to attract any significant institutional interest. The exchange is considering devising some form of economic incentive as a lure. But
+
+### 1. Individual Investors and Certificate Immobilization
+
+“Although institutions account for a predominant share of the NYSE volume, individuals trading in their own name continue to be on at least one side of nearly 60 per cent of the actual trades.”
+
+### 2. Competition Among Transfer Agents — Page 334
+
+“The consequence has been sudden injection of competition into what was once a rather complacent oligopoly. Regional banks have been quite successful in obtaining new clients and reclaiming lost ones who are not only attracted by the regionals’ often lower costs but are pleased to be free from the generally shabby service offered by the New York transfer agents over the past few years.”
+
+### 3. Institutional Opposition to Securities Depositories
+
+“Obtaining institutional participation in any case will not be easy, for it is the brokers and banks, not the institutions, which reap the major benefits from a depository. Institutions, in fact, have a vested interest *against* a depository. Due to their practice of COD payment, institutions have never been too concerned over tardy deliveries. During the paper crisis, some institutions made handsome profits on delivery delays through short-term investment of the payment funds. Further, depositing securities in CCS currently would make dealings for an institution in the third and fourth markets much more difficult, for non-CCS members are very likely to be on the other side of the trade.”
+
+relateds to the CCS fonednig docs that t state it will and cannet become a transfer agents
+this is altereed at 336: "And until the SEC demanded its deletion, the banks had forced CCS to include in its rules proposal last fall a prohibition on CCS becoming a transfer agent."
+
+
+
+336 also sattaets taht the y went form elmenetiminotn crets to immobololivng tehm bec aes efo eth ploltitictola pushback  form AGuntens
+
+
+
+
+
+# TAD Approach Section
+
+
+> In contrast to establishment of CCS as a transfer agent, the TAD system has one overriding advantage: instead of a giant monolithic, utility-type structure headquartered in one building in lower Manhattan, it envisions a decentralized, multifarious, competitive system that's distributed throughout the country. Instead of a single bureaucracy which very likely would become ossified, inefficient, and resistant to change, a TAD system would likely be dynamic and responsive to the rapidly evolving structure of the trading markets.
+>
+> A TAD structure, indeed, would be highly useful if for no other reason than as the only way of replacing CCS. While others maneuver and squabble, CCS grows. It claims already to have become the largest single holder of assets in the world—$110 billion by the end of the year. In its campaign to assume more and more power and functions beyond its depository role, it aspires to become nothing less than the central marketplace's entire clearance, settlement, and bookkeeping mechanism, which would handle everything but the actual trade.
+
+
+
+> CCS’s proposed stock loan program, for instance, in which Dentzer indicates institutions will be permitted to participate, could drain off perhaps $90 million in revenues from major Street firms, particularly Merrill Lynch, and has already become an item of great controversy. Eventually, CCS could become a kind of Penn Central, which nobody really wants or likes but which is so big and seemingly vital that nobody can quite figure out a way to get rid of it.
+> 
+> Opponents of the TAD correctly point out that current applications of the concept involve relatively small “universes.” The government securities system, for instance, has only a single issuer, the U.S. government. “You give me that universe,” says one critic, “and I’ll build you a beautiful system.” Mutual fund TADs rarely actually transfer ownership—they just issue and redeem. A TAD system for the securities markets would ultimately have to encompass thousands of broker-dealers and transfer agents and more than 30 million shareholders. “The idea is just impractical,” says William Dentzer, understandably a strong foe. “It would require every broker to maintain lines with every transfer agent. It just couldn’t operate.”
+> 
+> TAD proponents reply that a modern communications network need be no more complex than the airline reservation system or NASDAQ, from which a TAD network could quite easily evolve. At least initially, clearing corporations could serve as switches, routing inputs from the trading mechanism to the appropriate TAD, thus obviating the need for direct broker-TAD links. Peter Del Col, president of Bradford Computer & Systems Inc., which handles all transfer paperwork for Bankers Trust, Marine Midland, and Franklin National Bank, says that if the necessary regulatory approval were obtained, “We could begin acting as a TAD in maybe two or three months.” 
+> 338
+
+this is the intro for TADDC, he is the CEO, CUP president -- get the effect of meth rollerer filings in FR
+
+## the banger
+
+intros TAD Irl
+
+> Why, then, is virtually all of the industry's money and time being directed at the inadequate existing structures? The answer is obvious: The TAD is even a more fundamental threat to the status quo, to the substantial investments of existing interests, than NASDAQ. It is no exaggeration to say that it could literally revolutionize the entire securities and banking industries. In particular:
+>
+> New York City could suffer a fundamental erosion of its status as the nation's financial center. New York banks would lose a considerable amount of their transfer, custodial and correspondent business to regional banks. The New York Stock Exchange could lose further business to the regionals which could evolve as what Eli Weinberg of Lybrand has called “communications hubs” and “data processing servicing agents in their area.”
+
+The present clearing and settlement mechanics would be drastically altered. Immediate casualties would be all existing depositories.
+
+> The broker's free use of customer cash and securities would be eliminated. The practice of keeping certificates in Street name would be ended, even for margin accounts, thus undercutting customer loyalty and increasing movement between firms. Cut-rate brokers, such as Odd Lot Securities, Ltd., could begin to flourish. As part of their campaign to urge shareholders to leave certificates on deposit, bank TADs could make a strong bid as the logical entity to handle investors' brokerage business, thus perhaps ending the Little Man's patronage of Wall Street.
+> 339 [345 ¶ 2]
+
+how we cut the median depends on Eli in the 71st testimony. It's out there.
+
+
+at 348 they say "eliminate wasteful competition" twice
