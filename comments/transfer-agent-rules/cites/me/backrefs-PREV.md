@@ -6,3 +6,7 @@ thath is the basis of the kitchen storpy "whcile writiting this comment letter"
 it halso has n.125 which are my porntal contriaevd contact yonutns. IFF we sterech to staff-on-GH then this extraplates to the emalil whcih i dont ithkn i saved but maybe it is still in Kiteworks
 
 ntote 
+Note
+
+enacting expanding SB reginfo--legiscanlink 2
+https://ndlegis.gov/assembly/69-2025/testimony/SJUD-2364-20250211-36358-F-ENGET_MARK.pdf

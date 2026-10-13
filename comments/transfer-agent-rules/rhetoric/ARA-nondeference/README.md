@@ -51,3 +51,7 @@ That distinction is potentially quite important to the historical "duplicative S
 
 
 if we do the dive we can compare between to hetrogenso with eti hfiifecsz as a  headiletner
+
+## time
+
+i actually only skimmed 89 FR 47717, which explains that the SEC deliberately extended Regulation S-P to bank-regulated transfer agents even though they were already covered by banking information-security standards.

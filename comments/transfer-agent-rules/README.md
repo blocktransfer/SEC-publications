@@ -33,6 +33,26 @@ compiltain todo: check taht thees are all the full dairly pubs with the pagerefs
 
 also i am thinknig waybacks for all the DTC links..
 
+<details>
+
+<summary>Narrative</summary>
+
+- Intro real stock v entirimeents
+- Intro CCS and senate changes
+- Intro 08's Title 8 CCP
+
+  leftovers ofrm lastnarrative:
+    - bankruptcies [control]
+    - The profit motive
+    - Programmatic access to Coinbase as parallel
+    - systems through 2006 [control]
+      - explaining how [triparty repo n.17 is] literally the DTC system
+      - CAT talk
+      - crypto roundtabling
+      - other agent outreach
+
+</details>
+
 
 # Signifiifcance of Th eCommntnino's Efforts 
 
