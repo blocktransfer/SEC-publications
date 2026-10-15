@@ -134,3 +134,9 @@ note 24
 - [GovInfo official record — Part 5](https://www.govinfo.gov/app/details/CHRG-92hhrg67228Op5/CHRG-92hhrg67228Op5?utm_source=chatgpt.com)
 
 all deupe
+
+
+
+## Good Regulation Takes Tiem
+
+Ara nondef h3
