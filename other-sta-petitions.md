@@ -2,11 +2,21 @@
 
 ## July 28, 2009 — STA Notice of Intent to Submit a Petition for Commission Review
 
-Edward L. Pittman of Dechert, for the Securities Transfer Association, gives notice under Rule 430 that STA intends to seek Commission review of the June 30 delegated approval. The document is captioned "SR-DTC-2006-16 – Notice of Intent to Submit A Petition for Commission Review." It was received by the SEC on July 31. [SEC](https://www.sec.gov/files/rules/other/2009/staintentnotice072809.pdf)
+1 pg init jul 31  rec'd
+
+Edward L. Pittman of Dechert gives notice under Rule 430 that STA intends to seek Commission review of the June 30 delegated approval
+
+https://www.sec.gov/files/rules/other/2009/staintentnotice072809.pdf
+
 
 ## August 4, 2009 — STA Petition for Commission Review
 
-This is your PDF. STA formally asks the Commission under Rule 430 to review and set aside the Division of Trading and Markets' delegated approval. Its caption is Release No. 34-60196 / File No. SR-DTC-2006-16. SEC stamped it received August 5. [SEC](https://www.sec.gov/files/rules/other/2009/stapetition080409.pdf)
+This is your PDF. STA formally asks the Commission under Rule 430 to review and set aside the Division of Trading and Markets' delegated approval. Its caption is Release No. 34-60196 / File No. SR-DTC-2006-16. SEC stamped it received August 5
+
+MAIN DOC https://www.sec.gov/files/rules/other/2009/stapetition080409.pdf
+
+> Contrary to public policy and the intent of Congress, the DTC Rule Filing would redefine transfer agent regulation. OTC, in some areas, is a direct competitor of transfer agents. Nevertheless, in the absence of Commission rulemaking that would modernize transfer agent regulation, DTC is seeking to anoint itself as the _de facto_ regulator of the transfer agent industry, despite the fact that transfer agents are not members of DTC, and are not afforded the same rights and protections that under the Exchange Act it must offer its own members.
+> 3 [4]
 
 ## October 15, 2009 — DTC Response to STA's Petition for Review
 
