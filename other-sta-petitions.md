@@ -49,6 +49,8 @@ DTC, through Proskauer Rose, expressly responds to the August petition and uses 
 
 STA answers DTC's October 15 response. Again, the caption is Release No. 34-60196 / File No. SR-DTC-2006-16. The reply expressly recounts that STA filed "the Petition" on August 4, 2009 under Rule 430. [SEC](https://www.sec.gov/files/rules/sro/dtc/2009/stareply112009.pdf)
 
+The citation for this is god-tier: https://www.sec.gov/file/reply-petitioner
+
 ## February 23, 2010 — DTC Supplemental Response
 
 This is particularly useful because DTC says it submitted the supplemental response at Commission staff's request, addressing STA's argument under Exchange Act § 17A(b)(3)(H). It is still captioned File No. SR-DTC-2006-16, with no separate petition docket. [SEC](https://www.sec.gov/files/rules/sro/dtc/2010/dtcsupp022310.pdf)

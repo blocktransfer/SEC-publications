@@ -1,2 +1,2 @@
-- DTC competing with transfer agents. aiming to mime aut with DA
-- introduce the 'saddling' orfiments after establishing their non-choice with TAs and subsequently by FN the users in the CHives fposnt. there is no competeion or negigon frma the STA 09, so maybe such they would have unegotiable coercive autuhnory to raise additional gcatpioal from members during good times as a typo of self-unsiruance, but they instead chose central bankers
+- DTC competing with transfer agents. Aiming to mime aut with DA
+- Introduce the 'saddling' orfiments after establishing their non-choice with TAs and subsequently by FN the users in the CHives fposnt. There is no competeion or negigon frma the STA 09, so maybe such they would have unegotiable coercive autuhnory to raise additional gcatpioal from members during good times as a typo of self-unsiruance, but they instead chose central bankers
