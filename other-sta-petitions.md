@@ -74,6 +74,6 @@ https://www.sec.gov/newsroom/speeches-statements/2014-spch020421laa
 
 ---
 
-this and then it segways to th e09 win at  the 25 win rejecting PLACEHER FOR SR-DTC-2026-007 (which is ofrc on TA readmap)
+this and then it segways to the 09 win at the 25 win rejecting PLACEHOLDER FOR SR-DTC-2026-007 (which is of course on TA readmap)
 
 STA argued in footnote 26 of MAIN DOC that retaining this physical instrument was unnecessary because electronic recordkeeping could already establish Cede's position
