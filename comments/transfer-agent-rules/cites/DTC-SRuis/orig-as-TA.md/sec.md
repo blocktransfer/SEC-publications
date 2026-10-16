@@ -84,7 +84,8 @@ The SEC's 2015 *Transfer Agent Regulations* concept release cites:
 **Chris Welles, “The Great Paper Fight: Who Will Control the Machinery?”**  
 *Institutional Investor*, May 1973.
 
-The SEC identifies a reproduction in the **1973 Senate hearings on S. 2058, beginning at page 334**. The article concerns banking-industry opposition to changes in transfer-agent arrangements and may provide further contemporary evidence of the pressure described in your quotation. I located the reference, but not a verified full copy of the article. [Justia Regulations](https://regulations.justia.com/regulations/fedreg/2015/12/31/2015-32755.html?utm_source=chatgpt.com)
+The SEC identifies a reproduction in the **1973 Senate hearings on S. 2058, beginning at page 334**. The article concerns banking-industry opposition to changes in transfer-agent arrangements and may provide further contemporary evidence of the pressure described in your quotation. I located the reference, but not a verified full copy of the article. [Justia Regulations](https://regulations.justia.com/regulations/fedreg/2015/12/31/2015-32755.html) AI
+AI
 
 ---
 

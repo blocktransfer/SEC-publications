@@ -24,7 +24,7 @@ Carlos Israels's **1962 article written while these changes were being made** is
 
                                                                     —not banks, trust companies, insurers, investment companies, etc.
 
-                                                                    [Carlos L. Israels, Investment Securities in New York: Statutory Text and Commercial Practice, 48 Cornell L Rev 108 (1962)](https://scholarship.law.cornell.edu/clr/vol48/iss1/4/?utm_source=chatgpt.com)
+                                                                    [Carlos L. Israels, Investment Securities in New York: Statutory Text and Commercial Practice, 48 Cornell L Rev 108 (1962)](https://scholarship.law.cornell.edu/clr/vol48/iss1/4/)
 
                                                                     There's also a near-contemporaneous explanation of the 1962 amendments in the *Boston College Industrial & Commercial Law Review*. Its “Reason for and Probable Effect of the Change” says § 8-320 was intended to approve the newly developing method of transfers and pledges **“by brokers and banks within a central depository system.”** ([Lira][2])
 
@@ -57,7 +57,7 @@ Carlos Israels's **1962 article written while these changes were being made** is
 
                                                                     The **Permanent Editorial Board's Report No. 1 (1962)** is the formal source covering the amendments leading to the 1962 Official Text. Berkeley has the cataloged 141-page report online. ([Lawcat][3])
 
-                                                                    [1962 PEB Report No. 1 — Berkeley Law catalog](https://lawcat.berkeley.edu/record/370392?utm_source=chatgpt.com)
+                                                                    [1962 PEB Report No. 1 — Berkeley Law catalog](https://lawcat.berkeley.edu/record/370392)
 
                                                                     And the Soia Mentschikoff papers at Chicago contain what may be even better material if you want the internal rationale:
 
@@ -75,7 +75,7 @@ Carlos Israels's **1962 article written while these changes were being made** is
 
                                                                     If you want, I can go one layer deeper and **trace the New York amendment that § 8-102(3)/§ 8-320 came from before the PEB adopted it in 1962**. That may get us to the *original* legislative memorandum explaining why New York chose exchange-only ownership in the first place.
 
-[1]: https://scholarship.law.cornell.edu/clr/vol48/iss1/4/?utm_source=chatgpt.com "\"article\" by Carlos L. Israels"
-[2]: https://lira.bc.edu/downloads/xhpbw-tnj65/5_2_360.pdf?utm_source=chatgpt.com "BOSTON COLLEGE INDUSTRIAL AND COMMERCIAL LAW REVIEW"
-[3]: https://lawcat.berkeley.edu/record/370392?utm_source=chatgpt.com "Report no. 1 of the Permanent Editorial Board for the Uniform Commercial Code :"
+[1]: https://scholarship.law.cornell.edu/clr/vol48/iss1/4/ "\"article\" by Carlos L. Israels"
+[2]: https://lira.bc.edu/downloads/xhpbw-tnj65/5_2_360.pdf "BOSTON COLLEGE INDUSTRIAL AND COMMERCIAL LAW REVIEW"
+[3]: https://lawcat.berkeley.edu/record/370392 "Report no. 1 of the Permanent Editorial Board for the Uniform Commercial Code :"
 [4]: https://www.lib.uchicago.edu/e/scrc/findingaids/view.php?eadid=ICU.SPCL.MENTSCHIKOFF&utm_source=chatgpt.com "Guide to the Soia Mentschikoff Papers 1913-1987"

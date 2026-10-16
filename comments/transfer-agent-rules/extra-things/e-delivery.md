@@ -41,8 +41,8 @@ That's a much less obvious proposition. You could eliminate the physical mailing
 
 That distinction may actually give you a fairly strong comment-letter position: **the physical medium and the advance-notice safeguard don't have to rise and fall together.**
 
-[1]: https://www.sec.gov/rules-regulations/2007/01/internet-availability-proxy-materials?utm_source=chatgpt.com "SEC.gov | Internet Availability of Proxy Materials"
-[2]: https://www.sec.gov/newsroom/press-releases/2026-67-sec-proposes-new-e-delivery-approach-make-information-more-readily-accessible-useful-investors?utm_source=chatgpt.com "SEC.gov | SEC Proposes New E-Delivery Approach to Make Information More Readily Accessible and Useful for Investors"
-[3]: https://www.sec.gov/files/exploring-investor-preferences-electronic-delivery-financial-disclosures.pdf?utm_source=chatgpt.com "Exploring Investor Preferences for Electronic Delivery of Financial Disclosures"
-[4]: https://www.sec.gov/newsroom/speeches-statements/uyeda-statement-proposed-regulation-e-delivery-071626?utm_source=chatgpt.com "SEC.gov | Statement on Proposed Regulation E-Delivery"
-[5]: https://www.sec.gov/files/rules/proposed/2026/33-11430.pdf?utm_source=chatgpt.com "Proposed Rule: Electronic Delivery of Information Under the Federal Securities Laws"
+[1]: https://www.sec.gov/rules-regulations/2007/01/internet-availability-proxy-materials "SEC.gov | Internet Availability of Proxy Materials"
+[2]: https://www.sec.gov/newsroom/press-releases/2026-67-sec-proposes-new-e-delivery-approach-make-information-more-readily-accessible-useful-investors "SEC.gov | SEC Proposes New E-Delivery Approach to Make Information More Readily Accessible and Useful for Investors"
+[3]: https://www.sec.gov/files/exploring-investor-preferences-electronic-delivery-financial-disclosures.pdf "Exploring Investor Preferences for Electronic Delivery of Financial Disclosures"
+[4]: https://www.sec.gov/newsroom/speeches-statements/uyeda-statement-proposed-regulation-e-delivery-071626 "SEC.gov | Statement on Proposed Regulation E-Delivery"
+[5]: https://www.sec.gov/files/rules/proposed/2026/33-11430.pdf "Proposed Rule: Electronic Delivery of Information Under the Federal Securities Laws"

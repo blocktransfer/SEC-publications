@@ -13,7 +13,8 @@ unfortatly the LULD ponits are gotnna force STATUE DIR CITE of the 3 SIP plan pr
        \:: 
       Consolidated Tape Association; Order Approving the Nineteenth Substantive Amendment to the Second Restatement of the Consolidated Tape Association Plan
     "
-[2]: https://www.ctaplan.com/publicdocs/ctaplan/notifications/trader-update/CQ_Plan_-_9.17.2020.pdf?utm_source=chatgpt.com "CQ Plan"
+[2]: https://www.ctaplan.com/publicdocs/ctaplan/notifications/trader-update/CQ_Plan_-_9.17.2020.pdf "CQ Plan"
+AI
 
 
 utp is c

@@ -95,7 +95,7 @@ DTC's modern Securities Processing Application (SPA) provides centralized access
 
 Access is provisioned through DTCC's portal and its authorization system.
 
-A **September 30, 2026 proposal, SR-DTC-2026-012**, would further modernize these connections using SPA, APIs, and messaging interfaces. That filing is a proposal, not yet an approved rule. [DTCC Learning Center](https://dtcclearning.com/products-and-services/asset-services/securities-processing/securities-processing-application.html?utm_source=chatgpt.com)
+A **September 30, 2026 proposal, SR-DTC-2026-012**, would further modernize these connections using SPA, APIs, and messaging interfaces. That filing is a proposal, not yet an approved rule. [DTCC Learning Center](https://dtcclearning.com/products-and-services/asset-services/securities-processing/securities-processing-application.html) AI
 
 ---
 
@@ -113,4 +113,4 @@ That's a stronger demonstration of centralized control over the **interface betw
 
 - [SEC approval order, Release 34-60196](https://www.sec.gov/rules/sro/dtc/2009/34-60196.pdf)
 - [STA petition challenging DTC's authority](https://www.sec.gov/rules/other/2009/stapetition080409.pdf)
-- [2026 DRS modernization proposal](https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking/sr-dtc-2026-012?utm_source=chatgpt.com)
+- [2026 DRS modernization proposal](https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking/sr-dtc-2026-012)

@@ -88,13 +88,13 @@ she has a publci ref with itemyl supsusatwtoantitan for mGOA
 
 - **Date:** February 26, 2009
 - **Length:** 48 pages
-- **PDF:** [GAO report (PDF)](https://www.gao.gov/assets/gao-09-318r.pdf?utm_source=chatgpt.com)
+- **PDF:** [GAO report (PDF)](https://www.gao.gov/assets/gao-09-318r.pdf)
 
 ### 1. Page 15 — Outstanding CNS obligations
 
 Under *Summary of Findings: Objective 1*, the GAO explains that NSCC members who fail to deliver securities maintain an outstanding short (FTD) position in CNS until they satisfy their delivery obligation. [GAO](https://www.gao.gov/assets/gao-09-318r.pdf)
 
-[Open directly to page 15](https://www.gao.gov/assets/gao-09-318r.pdf?utm_source=chatgpt.com#page=15)
+[Open directly to page 15](https://www.gao.gov/assets/gao-09-318r.pdf#page=15)
 
 ### 2. Page 34 — Fails carry forward
 
@@ -104,7 +104,7 @@ Under *U.S. Equity Market Clearance and Settlement*, the GAO states:
 
 It also explains the available buy-in procedures. [GAO](https://www.gao.gov/assets/gao-09-318r.pdf)
 
-[Open directly to page 34](https://www.gao.gov/assets/gao-09-318r.pdf?utm_source=chatgpt.com#page=34)
+[Open directly to page 34](https://www.gao.gov/assets/gao-09-318r.pdf#page=34)
 
 ### 3. Pages 32–33 — Actual accounting examples
 

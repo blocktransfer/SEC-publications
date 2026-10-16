@@ -24,5 +24,5 @@ this has 40 andh then t he other rell havs 40 witohuti roanignig
 | **Derived 2026 storage estimate**             |                                                                                              Applying that 32%-41% range to the 2026 $81.9M cloud budget gives roughly **$26.2M-$33.6M storage**. This is my derived estimate, not CAT's published number. |
 | **Derived 2026 compute/non-storage estimate** |                                                                                                                                              Applying the inverse range gives roughly **$48.3M-$55.7M compute/non-storage**. Again, derived, not official. |
 
-[1]: https://www.catnmsplan.com/sites/default/files/2025-12/12.08.25-CAT-LLC-2026-Financial_and_Operating_Budget.pdf?utm_source=chatgpt.com "Accrual Basis Budget (1)"
+[1]: https://www.catnmsplan.com/sites/default/files/2025-12/12.08.25-CAT-LLC-2026-Financial_and_Operating_Budget.pdf "Accrual Basis Budget (1)"
 [2]: https://www.catnmsplan.com/sites/default/files/2026-04/34-105107_0.pdf "Order Approving an Amendment to the National Market System Plan Governing the Consolidated Audit Trail, as Modified by the Commission, to Further Reduce the Costs of the Consolidated Audit Trail"
