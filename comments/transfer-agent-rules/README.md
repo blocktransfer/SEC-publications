@@ -64,7 +64,7 @@ i hav ereall ygood 'substance of cesotedy bmoedl' gonig into 501 with teh baiss 
 buuut thi url is stabel)
 
 staff have tried to modernize the TA rules {{thrice}} before FN--97, 06/86, and ofc -15 to wehenerc it got taken off the reg flex agenda <!-- theti move or infra to teh ARA nondef -->
-
+94 is 59 FR 63662
 
 staff back this up in https://www.sec.gov/rules-regulations/staff-guidance/staff-legal-bulletins/shareholder-proposals-staff-legal-bulletin-no-14f-cf
 
