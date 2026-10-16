@@ -63,7 +63,7 @@ oooo_TOHe Transfer of Stock_ begins wit a [dedicotin] stating, "todo qjute on un
 i hav ereall ygood 'substance of cesotedy bmoedl' gonig into 501 with teh baiss in https://wooten.link/friends/2 (collective src is riskier tahn teh desc href,
 buuut thi url is stabel)
 
-staff have tired to moedervien teh TA rules {{thrice}} before FN--97, 06?/86, and ofc -15 to wehenerc it got taken of the reg flex agenda
+staff have tired to moedervien teh TA rules {{thrice}} before FN--97, 06?/86, and ofc -15 to wehenerc it got taken of the reg flex agenda <!-- theti move or infra to teh ARA nondef -->
 
 
 staff back this up in https://www.sec.gov/rules-regulations/staff-guidance/staff-legal-bulletins/shareholder-proposals-staff-legal-bulletin-no-14f-cf
