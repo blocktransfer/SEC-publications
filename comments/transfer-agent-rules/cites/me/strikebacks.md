@@ -11,7 +11,7 @@ for commit 3 we have:
 - https://github.com/WhyDRS/SEC-comments/pull/25
 - https://github.com/WhyDRS/SEC-comments/pull/26
 
-froom the DC basisi setup in drafitgn notes
+from the DC basis setup in drafting notes
 
 # FN
 
