@@ -25,6 +25,22 @@ MAIN DOC https://www.sec.gov/files/rules/other/2009/stapetition080409.pdf
 > DTC is subject to regulations adopted by the Commission, but as a self-regulatory organization it also may adopt its own rules and regulations governing the conduct of its members and take disciplinary action against those members that are not in compliance with its rules. Sanctions for non-compliance may include fines as well as expulsion. DTC is governed by its members, who establish fees, develop policies, oversee its disciplinary process, and share its revenues. The primary members of DTC are broker-dealers and banks. Transfer agents are not members in DTC - they are designated as "limited participants" and are approved for FAST eligibility by DTC in its sole discretion. Because they are not members of DTC, they do not enjoy the same level of protections under the Exchange Act that a self regulatory organization must offer its members. As "limited participants," transfer agents do not have the ability to fully participate in rulemaking, develop policies or determine fees, and have no meaningful way to be involved in the decisions made by DTC that may affect them.
 > 4–5 [5–6]
 
+
+#### PR p4 United States subsattitiatn
+
+> Since 1975, transfer agents have participated in programs offered by DTC. The FAST system was developed jointly by Petitioner's members and DTC and is intended to efficiently transfer certificates between DTC and transfer agents. In recent years, national securities exchanges have required as part of their listing standards that companies use only transfer agents that participate in another program offered by DTC - the Direct Registration System.¹² DRS permits shareholders to move their share positions held in book entry form between DTC and the transfer agent.
+>
+> [12]: _See, e.g.,_ NASDAQ Rule 4350(l); Section 501.00 of the NYSE Listed Company Manual.
+>
+> Transfer agents that participate in DRS also must be "FAST Agents." Thus, any DTC rules that establish threshold criteria for participation in either of these DTC programs also have the effect of establishing broad national standards for transfer agents. Those transfer agents that do not meet the standards that DTC has set for participation in the programs are effectively constrained from providing services to many of the public companies in the United States.
+>
+> The DTC Rule Filing would establish a new paradigm for transfer agent regulation because its scope extends far beyond operational and system criteria to impose substantive requirements on the transfer agent community. The DTC Rule Filing contains very detailed and specific requirements that transfer agents must meet in order to participate in the FAST program.
+> 5 [6]
+
+
+
+
+
 ## October 15, 2009 — DTC Response to STA's Petition for Review
 
 DTC, through Proskauer Rose, expressly responds to the August petition and uses Release No. 34-60196; File No. SR-DTC-2006-16. It says STA filed the petition on August 4 and asks the Commission to deny it. [SEC](https://www.sec.gov/files/rules/sro/dtc/2009/dtcresponse101509.pdf)
