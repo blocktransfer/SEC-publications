@@ -61,3 +61,20 @@ examle is meeting 2 -- stataemnet that it wasth efirst itme i woke up with an al
 
 
 # Fingerfrinthing [final sectiontg proryrtiy call made in PM at horn1]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+need to move tihs howehl ifle so the substekcns are ncoeteded untedr teh infora draing cahcpns
+
+fero the sro memebrship and TA extitisting rlueguoteory defefioens, cleanig corp memebrs are 15 USC § 78c(a)(24) nad TA immedaily after is 15 USC § 78c(a)(25) followed b twhe term SRO which doest inceld eTAs 15 USC § 78c(a)(26) form OCC1

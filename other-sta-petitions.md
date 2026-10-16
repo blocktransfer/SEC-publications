@@ -38,14 +38,24 @@ MAIN DOC https://www.sec.gov/files/rules/other/2009/stapetition080409.pdf
 > 5 [6]
 
 
+#### Approved FAST inspection authority (2009)
+
+STA page 6 and footnote 14 objected to DTC obtaining access to transfer-agent premises and records. This provision was **approved**, not merely proposed: FAST minimum requirement **13**, in Exchange Act Release No. 34-60196 (June 30, 2009), **[74 FR 33496, 33498 (July 13, 2009)](https://www.govinfo.gov/content/pkg/FR-2009-07-13/pdf/E9-16455.pdf#page=3)**, states that DTC "reserves the right to visit and inspect" transfer-agent facilities, books, and records, only insofar as the visit concerns DTC's securities position, during regular business hours, upon advance notice, and unless applicable law prohibits it. The provision also says: "DTC, however, is not obligated to conduct such visits or inspections."
 
 
 
-### Approved FAST inspection authority (2009)
 
-The STA's [August 4 petition, at printed page 6 and footnote 14](https://www.sec.gov/files/rules/other/2009/stapetition080409.pdf#page=7) objected to DTC obtaining access to transfer-agent premises and records. This provision was **approved**, not merely proposed: FAST minimum requirement **13**, in Exchange Act Release No. 34-60196 (June 30, 2009), **[74 FR 33496, 33498 (July 13, 2009)](https://www.govinfo.gov/content/pkg/FR-2009-07-13/pdf/E9-16455.pdf#page=3)**, states that DTC "reserves the right to visit and inspect" transfer-agent facilities, books, and records, only insofar as the visit concerns DTC's securities position, during regular business hours, upon advance notice, and unless applicable law prohibits it. The provision also says: "DTC, however, is not obligated to conduct such visits or inspections."
+> The Approval Order states that DTC is not attempting to "regulate" transfer agents, and that "DTC is imposing reasonable obligations necessary for it to comply with its statutory obligations and only on those transfer agents that choose to participate in its FAST and DRS programs.... " (emphasis added). Many within the transfer agent community, however, believe that without participating in the FAST and DRS programs, a transfer agent cannot remain commercially viable. Nevertheless, there is no analysis in the DTC Rule Filing of the potential costs of compliance with the new DTC rules, a significant issue with respect to those transfer agents considered small entities. Moreover, DTC's ability to, "in its sole discretion," terminate participation in its essential programs poses a substantial risk to the transfer agent industry, especially in light of the commercial relationship between DTC and transfer agents. Faced with the possibility of arbitrary termination of their participation in DTC's programs, transfer agents are constrained to complain about DTC's fees or services, or even to submit negative comments on DTC's rulemaking efforts.
+> 6–7 [7–8]
 
-**Exercise versus authorization:** A review of publicly accessible SEC and DTCC materials through October 16, 2026 did not identify a documented instance of **DTC itself** physically inspecting a FAST transfer agent under this authority. The order establishes that DTC was *authorized* to seek an on-site visit, not that DTC performed one. Distinguish any SEC examination of a transfer agent or DTC's surveillance of its own participants from the specific FAST-agent inspection power. Continued inclusion in the operative 2026 FAST agreements has not been independently verified.
+
+for the 26 api MQ;
+> Allowing DTC to set standards in fundamental areas of transfer agent operations is contrary to the system of regulation for transfer agents established by Congress through the adoption of the Securities Act Amendments of 1975
+> 7 [8]
+
+
+
+
 
 ## October 15, 2009 — DTC Response to STA's Petition for Review
 
