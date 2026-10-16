@@ -78,3 +78,6 @@ examle is meeting 2 -- stataemnet that it wasth efirst itme i woke up with an al
 need to move tihs howehl ifle so the substekcns are ncoeteded untedr teh infora draing cahcpns
 
 fero the sro memebrship and TA extitisting rlueguoteory defefioens, cleanig corp memebrs are 15 USC § 78c(a)(24) nad TA immedaily after is 15 USC § 78c(a)(25) followed b twhe term SRO which doest inceld eTAs 15 USC § 78c(a)(26) form OCC1
+15 USC § 78s(g)(1)(C), specifically requires a registered clearing agency to enforce compliance with its own rules by its participants
+
+i dont know if i have a good USC cite (or woeld want one) but there's https://uscode.house.gov/us/usc/119-118/t15/s78c
