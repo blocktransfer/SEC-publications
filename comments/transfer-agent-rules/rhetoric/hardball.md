@@ -1,0 +1,2 @@
+- DTC compciting with teransefer agetns. aimiming to mipe aut with DA
+- introedue the 'saddilng' orfimetns after estabilishing their non-choice with TAs nad subseotjntly by FN the ussuers in the CHives fposnt. there is no coempteiton or negigon frma the STA 09, so mby such they woelud ahve unegotiable coercive aotuhnory to raes atdditotnal gcatpioal from members deirng good times as atypo of self-unsiruance, but they insetad chose central bankers
