@@ -25,6 +25,7 @@ Status: Draft
 | -------- | ------ | ----- |
 | start | 23 FR 3444–3999 | |
 | in order... | | |
+| 1983 Final Transfer Agent Rules (Rules 17Ad-9–17Ad-13; Rule 17Ad-4 amendments) | 48 FR 28231–28249 | https://www.sec.gov/files/rules/final/1983/34-19860.pdf |
 | New Reguasitn S-P Covererd Entitiies | 89 FR 47688 | https://www.govinfo.gov/content/pkg/FR-2024-06-03/pdf/FR-2024-06-03.pdf |
 | Concept, Prorpesde, and Final DRS Regulation | 59 FR 63652–63667 | https://archives.federalregister.gov/issue_slice/1994/12/8/63407-63667.pdf#page=246 |
 | Concept Release on Transfer Agent Regulations | 80 FR 81948–82004 | https://www.govinfo.gov/content/pkg/FR-2015-12-31/pdf/2015-32755.pdf |
