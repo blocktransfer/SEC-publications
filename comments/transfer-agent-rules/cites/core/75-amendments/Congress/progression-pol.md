@@ -12,9 +12,9 @@ But there was an important intermediate step. The 1972 work was reorganized and 
 The biggest reason I wouldn't call the 1972 bills themselves “substantially the same as the 1975 Act” is scope. Pub. L. 94-29 bundled together things that had previously been separate projects: the national market system (§ 11A), national clearance-and-settlement system and transfer-agent regulation (§ 17A), exchange/SRO governance and SEC oversight, competition and commission-rate issues, exchange membership/trading restrictions, securities information processors, institutional disclosure, and other amendments.
 
 For the part you've been researching around DTC/transfer agents/clearing, though, the answer is even closer to yes. The SEC had submitted its Securities Transaction Processing Act of 1972 in March 1972; Congress then considered several competing clearance/settlement bills, including S. 3876, before the subject reappeared as S. 2058 in 1973 and ultimately became § 17A in 1975. The SEC itself later described that sequence as culminating in the 1975 amendments. 
-https://www.govinfo.gov/content/pkg/FR-1977-01-21/pdf/FR-1977-01-21.pdf?utm_source=chatgpt.com
-https://www.congress.gov/crecb/1973/GPO-CRECB-1973-pt35-Pages550-554.pdf?utm_source=chatgpt.com
-
+https://www.govinfo.gov/content/pkg/FR-1977-01-21/pdf/FR-1977-01-21.pdf
+https://www.congress.gov/crecb/1973/GPO-CRECB-1973-pt35-Pages550-554.pdf
+AI
 
 
 ## House Chairman

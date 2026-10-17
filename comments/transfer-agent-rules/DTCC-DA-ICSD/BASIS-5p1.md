@@ -8,4 +8,4 @@ The figure explains that the **ICSD has direct or indirect links with the other 
 
 So the word/acronym you were remembering is **ICSD**. Clearstream and Euroclear are the major real-world examples of ICSDs.
 
-[1]: https://www.oval.media/wp-content/uploads/2026/01/The_Great_Taking.pdf?utm_source=chatgpt.com "The Great Taking (2023)"
+[1]: https://www.oval.media/wp-content/uploads/2026/01/The_Great_Taking.pdf "The Great Taking (2023)"

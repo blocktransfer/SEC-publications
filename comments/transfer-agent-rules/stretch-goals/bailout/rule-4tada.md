@@ -2,7 +2,7 @@ unfataly if you tke the particicant-defaelt secanor, webb's work woodeste even m
 
 ## 1. DTC Rule 4(A): The authority to pledge participants' securities
 
-**Primary source:** [DTC Rules, Rule 4(A), printed pages 50–51](https://www.dtcc.com/-/media/Files/Downloads/legal/rules/dtc_rules.pdf?utm_source=chatgpt.com#page=54)
+**Primary source:** [DTC Rules, Rule 4(A), printed pages 50–51](https://www.dtcc.com/-/media/Files/Downloads/legal/rules/dtc_rules.pdf#page=54)
 
 The current rules, dated April 28, 2026, contain a provision entitled:
 
@@ -30,7 +30,7 @@ This is considerably stronger evidence than merely pointing to Cede's registered
 
 ## 2. Rule 9(B): When DTC can use those securities
 
-**Primary source:** [DTC Rule 9(B), Section 2, printed pages 66–67](https://www.dtcc.com/-/media/Files/Downloads/legal/rules/dtc_rules.pdf?utm_source=chatgpt.com#page=70)
+**Primary source:** [DTC Rule 9(B), Section 2, printed pages 66–67](https://www.dtcc.com/-/media/Files/Downloads/legal/rules/dtc_rules.pdf#page=70)
 
 This rule expressly addresses a participant's failure to settle.
 
@@ -44,7 +44,7 @@ Not every security held through DTC is a Net Addition. Rule 1 defines the catego
 
 ## 3. Federal Reserve Operating Circular 10: How the Fed obtains its lien
 
-**Primary source:** [Federal Reserve Operating Circular 10, Section 6.0, PDF page 9](https://www.frbservices.org/binaries/content/assets/crsocms/resources/rules-regulations/082823-operating-circular-10.pdf?utm_source=chatgpt.com#page=9)
+**Primary source:** [Federal Reserve Operating Circular 10, Section 6.0, PDF page 9](https://www.frbservices.org/binaries/content/assets/crsocms/resources/rules-regulations/082823-operating-circular-10.pdf#page=9)
 
 This is the other essential document.
 
@@ -104,7 +104,7 @@ Those transaction-specific records are not established by the public rules alone
 
 There is an especially useful SEC precedent here: **Release 34-79088 (2016)** explains that DTC book-entry pledging facilities do not independently establish every element of an enforceable security interest. The agreements between the pledgor and pledgee must satisfy applicable law. [Securities and Exchange Commission](https://www.sec.gov/files/rules/sro/dtc/2016/34-79088.pdf)
 
-[SEC Release 34-79088 — official PDF](https://www.sec.gov/files/rules/sro/dtc/2016/34-79088.pdf?utm_source=chatgpt.com)
+[SEC Release 34-79088 — official PDF](https://www.sec.gov/files/rules/sro/dtc/2016/34-79088.pdf)
 
 ---
 
@@ -114,7 +114,7 @@ Once an enforceable security interest exists, NY UCC 8-511(c) becomes especially
 
 For a clearing corporation such as DTC, the provision gives a secured creditor priority over entitlement holders when the clearing corporation lacks sufficient financial assets to satisfy both sets of claims.
 
-That rule doesn't independently create the security interest. **But it can determine who has priority after the interest has been created.** [NYSenate.gov](https://www.nysenate.gov/legislation/laws/UCC/8-511?utm_source=chatgpt.com)
+That rule doesn't independently create the security interest. **But it can determine who has priority after the interest has been created.** [NYSenate.gov](https://www.nysenate.gov/legislation/laws/UCC/8-511)
 
 ### Where the research stands
 

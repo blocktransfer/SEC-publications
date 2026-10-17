@@ -7,7 +7,11 @@ we have a problem in PREV n.174, which was contributed to things other than Affe
 
 and then if tewe can get oto triplicate that woled be just flawless ---see time
 
+for commit 3 we have:
+- https://github.com/WhyDRS/SEC-comments/pull/25
+- https://github.com/WhyDRS/SEC-comments/pull/26
 
+from the DC basis setup in drafting notes
 
 # FN
 
