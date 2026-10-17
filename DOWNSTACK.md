@@ -1,3 +1,3 @@
-# into Donation drafting
+# Into Donation Drafting
 
-this is the last change to tranche the issues and drafts in references
+This is the last change to tranche the issues and drafts in references.
