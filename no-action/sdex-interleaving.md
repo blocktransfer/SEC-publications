@@ -9,3 +9,11 @@ I think we can do a DRS poll on who wants to be in an SEC letter. Then we can ha
 I can footnote their name and say the background as to our acquaintance and their disposition as someone who is not a terrorist. But the important point we make is that they do not have a BT account, and I haven't seen their ID, etc.
 
 So they try the interim routing. We are going to need to build in 144 form a lot of the PREW FNs to get them away from thinking I'm proposing this in Sarbanes.
+
+
+
+---
+
+also i want a fn affirming our basisi to fork https://github.com/stellar/stellar-protocol and prorpes chanegs
+
+this can get into the maniinter gov, mich needs to at that panti expand beyond the trio

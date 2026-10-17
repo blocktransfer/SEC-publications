@@ -1,6 +1,5 @@
 from teh 1983 changes in 48 FR:
-
-
+https://www.govinfo.gov/content/pkg/FR-1982-10-25/pdf/FR-1982-10-25.pdf#page=49
 
 Under Rule 17Ad-4(b), a transfer agent qualified as an exempt transfer agent if, across any six consecutive months, it received:
 
