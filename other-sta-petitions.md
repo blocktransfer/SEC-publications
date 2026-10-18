@@ -71,12 +71,25 @@ empnhasis added, at 2
 thjri fir m says "and was, in all respects, proper." which i like; it's  ap prtty siclkc claesue
 
 
+# note 10 cites Monmouth
+--~~--~~--
+req
+src
+_See Olde Monmouth Stock Transfer Co. v. DTCC and DTC,_ 485 F.Supp. 2d 387, 392-94 (S.D.N.Y. 2007).
+https://www.sec.gov/files/rules/sro/dtc/2009/dtcresponse101509.pdf#page=7
+
+^^
 
 ## November 20, 2009 — STA Reply of Petitioner
 
 STA answers DTC's October 15 response. Again, the caption is Release No. 34-60196 / File No. SR-DTC-2006-16. The reply expressly recounts that STA filed "the Petition" on August 4, 2009 under Rule 430. [SEC](https://www.sec.gov/files/rules/sro/dtc/2009/stareply112009.pdf)
 
 The citation for this is god-tier: https://www.sec.gov/file/reply-petitioner
+
+
+
+
+
 
 ## February 23, 2010 — DTC Supplemental Response
 
