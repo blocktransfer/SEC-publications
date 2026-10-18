@@ -3,3 +3,7 @@
 
 
 issuer still ablo to cat as own agent (ad-4) matters a lot if you want them to be crossilsetd on NYSE. that is to say that you wirr have them deleisteid unedrth ecurrent reurlas swappnig to ttad
+
+tey won dissmassial of 'turf battle' in 15 oct 2009 -- need to really hammer in thu e seubsatitev techitnarl objucotins
+
+COULD [careful] ake thiat arg my inceroptan of the ATS busienss model in LGIHT fn refs

@@ -59,7 +59,18 @@ for the 26 api MQ;
 
 ## October 15, 2009 — DTC Response to STA's Petition for Review
 
-DTC, through Proskauer Rose, expressly responds to the August petition and uses Release No. 34-60196; File No. SR-DTC-2006-16. It says STA filed the petition on August 4 and asks the Commission to deny it. [SEC](https://www.sec.gov/files/rules/sro/dtc/2009/dtcresponse101509.pdf)
+DTC, through Proskauer Rose, expressly responds to the August petition and uses Release No. 34-60196; File No. SR-DTC-2006-16. It says STA filed the petition on August 4 and asks the Commission to deny it.
+
+https://www.sec.gov/files/rules/sro/dtc/2009/dtcresponse101509.pdf
+
+
+
+> DTC's FAST program was introduced in 1975 and approved by the Commission in 1976.{1} Transfer agents _selected by DTC_ to participate in the FAST program maintain custody of securities certificates for FAST issues for which they act as transfer agent. The FAST program is designed to eliminate some of the _risks and costs_ [to whom] related to the re registration and transportation of securities certificates and thereby increase the etliciency of the nation's clearance and settlement system. Transfer agents that are _admitted to_ the FAST program are responsible for safeguarding securities that otherwise would be held in custody by DTC.
+empnhasis added, at 2
+
+thjri fir m says "and was, in all respects, proper." which i like; it's  ap prtty siclkc claesue
+
+
 
 ## November 20, 2009 — STA Reply of Petitioner
 
