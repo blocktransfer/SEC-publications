@@ -91,7 +91,17 @@ at the end of 8 [9]
 ---
 
 
+### Fake Membership in LPA
 
+> the relationship between DTC and transfer agents is commercial (although not a typical commercial relationship in which the parties mutually agree upon services, fees and other terms). In their function as transfer agents, they are designated as limited participants in DTC. Nevertheless, DTC is seeking to effectively assert jurisdiction over transfer agents as though they were subject to DTC's oversight in the same fashion as its own member participants.
+> 12 [13]
+
+> transfer agents are not members of DTC. If transfer agents were full participant members of DTC, they would be afforded far greater protection than simply the opportunity to comment in the context of a DTC rule filing with the Commission.
+> 12 [13]
+
+noet 24 refs the juice 45 FR 41920
+
+> transfer agents, however, are only "limited participants" in DTC - and not members. They are not shareholders and they do not participate in the governance of DTC, its rulemaking or its disciplinary processes, or share in its profits. Thus, they do not have the full procedural safeguards that Congress intended for members of self-regulatory organizations.
 
 
 
