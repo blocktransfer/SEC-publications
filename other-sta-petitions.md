@@ -104,6 +104,21 @@ noet 24 refs the juice 45 FR 41920
 > transfer agents, however, are only "limited participants" in DTC - and not members. They are not shareholders and they do not participate in the governance of DTC, its rulemaking or its disciplinary processes, or share in its profits. Thus, they do not have the full procedural safeguards that Congress intended for members of self-regulatory organizations.
 
 
+this is then prlolly the best of all the adhesion versions, with a stragith sthot fn
+
+> Again, transfer agents, however, are only "limited participants" in DTC – and not members. They are not shareholders and they do not participate in the governance of DTC, its rulemaking or its disciplinary processes, or share in its profits. Thus, they do not have the full procedural safeguards that Congress intended for members of self-regulatory organizations.²⁵
+>
+> [25]: Allowing DTC to establish rules for transfer agents, but without membership, presents other troubling issues since DTC has potential conflicts of interest in protecting the interests of its members, who are banks and brokers, and who also perform some of the same functions as transfer agents.
+>
+> As we have stressed above, the relationship between DTC and transfer agents is commercial. Nevertheless, the DTC Rule Filing also requires limited participants to sign a Balance Certificate Agreement and Operational Criteria, the terms of which are one-sided and dictated by DTC. Effectively, these agreements are adhesion contracts. Transfer agents have no ability to negotiate the terms of their business relationship on significant issues, including operational issues, fees, and confidentiality, as would generally be the case with two commercial parties, again reflecting DTC's status as a _de facto_ regulator.
+>
+> [26]: As noted in the STA's prior comment letters, with the significant dematerialization of stock certificates, there is no need for such antiquated requirements as maintaining a "balance certificate" in lieu of the standard book-entry electronic method of recordkeeping. However, the DTC Rule Filing still includes this inefficient and unnecessary process, reflecting again DTC's authoritarian rather than collaborative approach with its limited participant transfer agents.
+>
+> 13 [14]
+
+
+Petitioner agrees that the transfer agent regulations in the United States may need to be modernized. For many years the Division's Staff has referred to rulemaking efforts under consideration within the Division that would achieve that effect. In numerous public statements since the beginning of the new millennium, the Staff has referenced internal drafts of these rules, some of which would appear to address the same concerns which are the subject of the DTC Rule Filing. Moreover, in meetings with the Division almost one year ago, Petitioner's representatives were advised that portions of the DTC Rule Filing might not be necessary if the Commission were to publish for comment these long-awaited rule proposals.
+
 
 ## March 12, 2010 — Office of the Chairman memorandum
 
