@@ -1,1 +1,1 @@
-once the comment peorid oned s we can do o nev 4 tx 'X Recsicnd legacy bata assects' nad trach back in all tho rogigrinal issuer tokens
+Once the comment period ends, we can do a nov 4 TX 'X'' Recsind legacy beta assets' and tranch back in all the original issuer tokens.
