@@ -1,4 +1,4 @@
-# 2006-16
+# SR-DTC-2006-16 — STA petition, responses, and related SEC materials
 
 ## July 28, 2009 — STA Notice of Intent to Submit a Petition for Commission Review
 
@@ -57,6 +57,45 @@ for the 26 api MQ;
 
 
 
+
+### STA petition — additional notes (August 4, 2009)
+
+#### Ford and Commissioner John R. Evans (printed pp. 8–9)
+
+Source note: The [original petition, printed p. 8 (PDF p. 9)](https://www.sec.gov/files/rules/other/2009/stapetition080409.pdf#page=9) discusses the 1975 Act Amendments while awaiting President Ford's signature and quotes Commissioner Evans's May 28, 1975 address to the Western Stock Transfer Association (petition footnote 17). The discussion continues on printed p. 9. The draft quotation was not transcribed here; the old empty blockquote was a placeholder, not a quote from DTC's 2010 supplement.
+
+#### Limited-participant status, membership protections, and adhesion contracts (printed pp. 12–13)
+
+Original petition heading: *Transfer Agents do not Have the Protections and Benefits Afforded DTC's Own Members*. [Original SEC petition](https://www.sec.gov/files/rules/other/2009/stapetition080409.pdf#page=13).
+
+> the relationship between DTC and transfer agents is commercial (although not a typical commercial relationship in which the parties mutually agree upon services, fees and other terms). In their function as transfer agents, they are designated as limited participants in DTC. Nevertheless, DTC is seeking to effectively assert jurisdiction over transfer agents as though they were subject to DTC's oversight in the same fashion as its own member participants.
+> 12 [13]
+
+> transfer agents are not members of DTC. If transfer agents were full participant members of DTC, they would be afforded far greater protection than simply the opportunity to comment in the context of a DTC rule filing with the Commission.
+> 12 [13]
+
+Footnote 24 cites Exchange Act Release No. 34-16900 (June 17, 1980), 45 FR 41920.
+
+this is then prlolly the best of all the adhesion versions, with a stragith sthot fn
+
+> Again, transfer agents, however, are only "limited participants" in DTC – and not members. They are not shareholders and they do not participate in the governance of DTC, its rulemaking or its disciplinary processes, or share in its profits. Thus, they do not have the full procedural safeguards that Congress intended for members of self-regulatory organizations.²⁵
+>
+> [25]: Allowing DTC to establish rules for transfer agents, but without membership, presents other troubling issues since DTC has potential conflicts of interest in protecting the interests of its members, who are banks and brokers, and who also perform some of the same functions as transfer agents.
+>
+> As we have stressed above, the relationship between DTC and transfer agents is commercial. Nevertheless, the DTC Rule Filing also requires limited participants to sign a Balance Certificate Agreement and Operational Criteria, the terms of which are one-sided and dictated by DTC. Effectively, these agreements are adhesion contracts. Transfer agents have no ability to negotiate the terms of their business relationship on significant issues, including operational issues, fees, and confidentiality, as would generally be the case with two commercial parties, again reflecting DTC's status as a _de facto_ regulator.
+>
+> [26]: As noted in the STA's prior comment letters, with the significant dematerialization of stock certificates, there is no need for such antiquated requirements as maintaining a "balance certificate" in lieu of the standard book-entry electronic method of recordkeeping. However, the DTC Rule Filing still includes this inefficient and unnecessary process, reflecting again DTC's authoritarian rather than collaborative approach with its limited participant transfer agents.
+>
+> 13 [14]
+
+Author note on footnote 26: STA objected to maintaining a physical balance certificate when book-entry recordkeeping was available. This is an interpretation of the footnote, which does not itself mention Cede by name. [Original petition, printed p. 13 (PDF p. 14)](https://www.sec.gov/files/rules/other/2009/stapetition080409.pdf#page=14).
+
+#### The Commission's proposed modernization of transfer-agent regulation (printed pp. 13–14)
+
+> Petitioner agrees that the transfer agent regulations in the United States may need to be modernized. For many years the Division's Staff has referred to rulemaking efforts under consideration within the Division that would achieve that effect. In numerous public statements since the beginning of the new millennium, the Staff has referenced internal drafts of these rules, some of which would appear to address the same concerns which are the subject of the DTC Rule Filing. Moreover, in meetings with the Division almost one year ago, Petitioner's representatives were advised that portions of the DTC Rule Filing might not be necessary if the Commission were to publish for comment these long-awaited rule proposals.
+
+[Source: August 4 STA petition, printed pp. 13–14 (PDF pp. 14–15)](https://www.sec.gov/files/rules/other/2009/stapetition080409.pdf#page=14). This passage falls under the petition's separate heading, *The Commission Needs to Modernize Transfer Agent Regulation by Proposing New Regulations*.
+
 ## October 15, 2009 — DTC Response to STA's Petition for Review
 
 DTC, through Proskauer Rose, expressly responds to the August petition and uses Release No. 34-60196; File No. SR-DTC-2006-16. It says STA filed the petition on August 4 and asks the Commission to deny it.
@@ -65,7 +104,7 @@ https://www.sec.gov/files/rules/sro/dtc/2009/dtcresponse101509.pdf
 
 
 
-> DTC's FAST program was introduced in 1975 and approved by the Commission in 1976.{1} Transfer agents _selected by DTC_ to participate in the FAST program maintain custody of securities certificates for FAST issues for which they act as transfer agent. The FAST program is designed to eliminate some of the _risks and costs_ [to whom] related to the re registration and transportation of securities certificates and thereby increase the etliciency of the nation's clearance and settlement system. Transfer agents that are _admitted to_ the FAST program are responsible for safeguarding securities that otherwise would be held in custody by DTC.
+> DTC's FAST program was introduced in 1975 and approved by the Commission in 1976.{1} Transfer agents _selected by DTC_ to participate in the FAST program maintain custody of securities certificates for FAST issues for which they act as transfer agent. The FAST program is designed to eliminate some of the _risks and costs_ [to whom] related to the re registration and transportation of securities certificates and thereby increase the efficiency of the nation's clearance and settlement system. Transfer agents that are _admitted to_ the FAST program are responsible for safeguarding securities that otherwise would be held in custody by DTC.
 empnhasis added, at 2
 
 thjri fir m says "and was, in all respects, proper." which i like; it's  ap prtty siclkc claesue
@@ -84,6 +123,8 @@ https://www.sec.gov/files/rules/sro/dtc/2009/dtcresponse101509.pdf#page=7
 
 STA answers DTC's October 15 response. Again, the caption is Release No. 34-60196 / File No. SR-DTC-2006-16. The reply expressly recounts that STA filed "the Petition" on August 4, 2009 under Rule 430. [SEC](https://www.sec.gov/files/rules/sro/dtc/2009/stareply112009.pdf)
 
+The reply's distinct arguments concern fair standards and procedures for access to FAST and DRS under Exchange Act § 17A(b)(3)(H) and § 17A(b)(5)(B), and DTC-imposed requirements outside Commission-reviewed rule filings (printed pp. 3–5). [STA reply](https://www.sec.gov/files/rules/sro/dtc/2009/stareply112009.pdf#page=4).
+
 The citation for this is god-tier: https://www.sec.gov/file/reply-petitioner
 
 
@@ -93,55 +134,10 @@ The citation for this is god-tier: https://www.sec.gov/file/reply-petitioner
 
 ## February 23, 2010 — DTC Supplemental Response
 
-This is particularly useful because DTC says it submitted the supplemental response at Commission staff's request, addressing STA's argument under Exchange Act § 17A(b)(3)(H). It is still captioned File No. SR-DTC-2006-16, with no separate petition docket. [SEC](https://www.sec.gov/files/rules/sro/dtc/2010/dtcsupp022310.pdf)
+This is particularly useful because DTC says it submitted the supplemental response at Commission staff's request, addressing STA's argument under Exchange Act § 17A(b)(3)(H). It is still captioned File No. SR-DTC-2006-16, with no separate petition docket. DTC argues that the fair-procedure provision does not apply to transfer agents as non-participants (printed pp. 1–2). [DTC supplemental response](https://www.sec.gov/files/rules/sro/dtc/2010/dtcsupp022310.pdf#page=2)
 
 
 
-
-
----
-
-# start important
-
-
-## ford / evans remarkns
-
->
-
-
-at the end of 8 [9]
-
-
----
-
-
-### Fake Membership in LPA
-
-> the relationship between DTC and transfer agents is commercial (although not a typical commercial relationship in which the parties mutually agree upon services, fees and other terms). In their function as transfer agents, they are designated as limited participants in DTC. Nevertheless, DTC is seeking to effectively assert jurisdiction over transfer agents as though they were subject to DTC's oversight in the same fashion as its own member participants.
-> 12 [13]
-
-> transfer agents are not members of DTC. If transfer agents were full participant members of DTC, they would be afforded far greater protection than simply the opportunity to comment in the context of a DTC rule filing with the Commission.
-> 12 [13]
-
-noet 24 refs the juice 45 FR 41920
-
-> transfer agents, however, are only "limited participants" in DTC - and not members. They are not shareholders and they do not participate in the governance of DTC, its rulemaking or its disciplinary processes, or share in its profits. Thus, they do not have the full procedural safeguards that Congress intended for members of self-regulatory organizations.
-
-
-this is then prlolly the best of all the adhesion versions, with a stragith sthot fn
-
-> Again, transfer agents, however, are only "limited participants" in DTC – and not members. They are not shareholders and they do not participate in the governance of DTC, its rulemaking or its disciplinary processes, or share in its profits. Thus, they do not have the full procedural safeguards that Congress intended for members of self-regulatory organizations.²⁵
->
-> [25]: Allowing DTC to establish rules for transfer agents, but without membership, presents other troubling issues since DTC has potential conflicts of interest in protecting the interests of its members, who are banks and brokers, and who also perform some of the same functions as transfer agents.
->
-> As we have stressed above, the relationship between DTC and transfer agents is commercial. Nevertheless, the DTC Rule Filing also requires limited participants to sign a Balance Certificate Agreement and Operational Criteria, the terms of which are one-sided and dictated by DTC. Effectively, these agreements are adhesion contracts. Transfer agents have no ability to negotiate the terms of their business relationship on significant issues, including operational issues, fees, and confidentiality, as would generally be the case with two commercial parties, again reflecting DTC's status as a _de facto_ regulator.
->
-> [26]: As noted in the STA's prior comment letters, with the significant dematerialization of stock certificates, there is no need for such antiquated requirements as maintaining a "balance certificate" in lieu of the standard book-entry electronic method of recordkeeping. However, the DTC Rule Filing still includes this inefficient and unnecessary process, reflecting again DTC's authoritarian rather than collaborative approach with its limited participant transfer agents.
->
-> 13 [14]
-
-
-Petitioner agrees that the transfer agent regulations in the United States may need to be modernized. For many years the Division's Staff has referred to rulemaking efforts under consideration within the Division that would achieve that effect. In numerous public statements since the beginning of the new millennium, the Staff has referenced internal drafts of these rules, some of which would appear to address the same concerns which are the subject of the DTC Rule Filing. Moreover, in meetings with the Division almost one year ago, Petitioner's representatives were advised that portions of the DTC Rule Filing might not be necessary if the Commission were to publish for comment these long-awaited rule proposals.
 
 
 ## March 12, 2010 — Office of the Chairman memorandum
@@ -157,10 +153,10 @@ i couldnt find any pottoino hiosetnry
 ---
 
 src
-https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking/dtc?field_display_title_value=\&file_number=\&month=All\&order=field_publish_date\&page=15\&release_number=\&sort=asc\&year=All)
+https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking/dtc?field_display_title_value=&file_number=&month=All&order=field_publish_date&page=15&release_number=&sort=asc&year=All
 [SEC SR-DTC-2006-16 docket page](https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking/sr-dtc-2006-16)
 
-# Aguilar
+## February 21, 2014 — Commissioner Luis A. Aguilar cites the STA petition
 
 There is also a later explicit SEC citation: Commissioner Luis Aguilar's February 21, 2014 statement, _Addressing Known Risks to Better Protect Investors_, footnote 43, cites the document as "Petition of Securities Transfer Association, Inc. for the Commission to review and set aside DTC Rule SR-DTC-2006-16 … 2009 LEXIS 3043 (Aug. 4, 2009)." That is where the `2009 LEXIS 3043` identifier shows up; it is a database citation, not an SEC proceeding number.
 
@@ -171,6 +167,6 @@ https://www.sec.gov/newsroom/speeches-statements/2014-spch020421laa
 
 ---
 
-this and then it segways to the 09 win at the 25 win rejecting PLACEHOLDER FOR SR-DTC-2026-007 (which is of course on TA readmap)
+## Draft transition to subsequent DTC proposals
 
-STA argued in footnote 26 of MAIN DOC that retaining this physical instrument was unnecessary because electronic recordkeeping could already establish Cede's position
+this and then it segways to the 09 win at the 25 win rejecting PLACEHOLDER FOR SR-DTC-2026-007 (which is of course on TA readmap)
