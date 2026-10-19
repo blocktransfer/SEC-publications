@@ -59,13 +59,37 @@ for the 26 api MQ;
 
 ## October 15, 2009 — DTC Response to STA's Petition for Review
 
-DTC, through Proskauer Rose, expressly responds to the August petition and uses Release No. 34-60196; File No. SR-DTC-2006-16. It says STA filed the petition on August 4 and asks the Commission to deny it. [SEC](https://www.sec.gov/files/rules/sro/dtc/2009/dtcresponse101509.pdf)
+DTC, through Proskauer Rose, expressly responds to the August petition and uses Release No. 34-60196; File No. SR-DTC-2006-16. It says STA filed the petition on August 4 and asks the Commission to deny it.
+
+https://www.sec.gov/files/rules/sro/dtc/2009/dtcresponse101509.pdf
+
+
+
+> DTC's FAST program was introduced in 1975 and approved by the Commission in 1976.{1} Transfer agents _selected by DTC_ to participate in the FAST program maintain custody of securities certificates for FAST issues for which they act as transfer agent. The FAST program is designed to eliminate some of the _risks and costs_ [to whom] related to the re registration and transportation of securities certificates and thereby increase the etliciency of the nation's clearance and settlement system. Transfer agents that are _admitted to_ the FAST program are responsible for safeguarding securities that otherwise would be held in custody by DTC.
+empnhasis added, at 2
+
+thjri fir m says "and was, in all respects, proper." which i like; it's  ap prtty siclkc claesue
+
+
+# note 10 cites Monmouth
+--~~--~~--
+req
+src
+_See Olde Monmouth Stock Transfer Co. v. DTCC and DTC,_ 485 F.Supp. 2d 387, 392-94 (S.D.N.Y. 2007).
+https://www.sec.gov/files/rules/sro/dtc/2009/dtcresponse101509.pdf#page=7
+
+^^
 
 ## November 20, 2009 — STA Reply of Petitioner
 
 STA answers DTC's October 15 response. Again, the caption is Release No. 34-60196 / File No. SR-DTC-2006-16. The reply expressly recounts that STA filed "the Petition" on August 4, 2009 under Rule 430. [SEC](https://www.sec.gov/files/rules/sro/dtc/2009/stareply112009.pdf)
 
 The citation for this is god-tier: https://www.sec.gov/file/reply-petitioner
+
+
+
+
+
 
 ## February 23, 2010 — DTC Supplemental Response
 
@@ -91,8 +115,33 @@ at the end of 8 [9]
 ---
 
 
+### Fake Membership in LPA
+
+> the relationship between DTC and transfer agents is commercial (although not a typical commercial relationship in which the parties mutually agree upon services, fees and other terms). In their function as transfer agents, they are designated as limited participants in DTC. Nevertheless, DTC is seeking to effectively assert jurisdiction over transfer agents as though they were subject to DTC's oversight in the same fashion as its own member participants.
+> 12 [13]
+
+> transfer agents are not members of DTC. If transfer agents were full participant members of DTC, they would be afforded far greater protection than simply the opportunity to comment in the context of a DTC rule filing with the Commission.
+> 12 [13]
+
+noet 24 refs the juice 45 FR 41920
+
+> transfer agents, however, are only "limited participants" in DTC - and not members. They are not shareholders and they do not participate in the governance of DTC, its rulemaking or its disciplinary processes, or share in its profits. Thus, they do not have the full procedural safeguards that Congress intended for members of self-regulatory organizations.
 
 
+this is then prlolly the best of all the adhesion versions, with a stragith sthot fn
+
+> Again, transfer agents, however, are only "limited participants" in DTC – and not members. They are not shareholders and they do not participate in the governance of DTC, its rulemaking or its disciplinary processes, or share in its profits. Thus, they do not have the full procedural safeguards that Congress intended for members of self-regulatory organizations.²⁵
+>
+> [25]: Allowing DTC to establish rules for transfer agents, but without membership, presents other troubling issues since DTC has potential conflicts of interest in protecting the interests of its members, who are banks and brokers, and who also perform some of the same functions as transfer agents.
+>
+> As we have stressed above, the relationship between DTC and transfer agents is commercial. Nevertheless, the DTC Rule Filing also requires limited participants to sign a Balance Certificate Agreement and Operational Criteria, the terms of which are one-sided and dictated by DTC. Effectively, these agreements are adhesion contracts. Transfer agents have no ability to negotiate the terms of their business relationship on significant issues, including operational issues, fees, and confidentiality, as would generally be the case with two commercial parties, again reflecting DTC's status as a _de facto_ regulator.
+>
+> [26]: As noted in the STA's prior comment letters, with the significant dematerialization of stock certificates, there is no need for such antiquated requirements as maintaining a "balance certificate" in lieu of the standard book-entry electronic method of recordkeeping. However, the DTC Rule Filing still includes this inefficient and unnecessary process, reflecting again DTC's authoritarian rather than collaborative approach with its limited participant transfer agents.
+>
+> 13 [14]
+
+
+Petitioner agrees that the transfer agent regulations in the United States may need to be modernized. For many years the Division's Staff has referred to rulemaking efforts under consideration within the Division that would achieve that effect. In numerous public statements since the beginning of the new millennium, the Staff has referenced internal drafts of these rules, some of which would appear to address the same concerns which are the subject of the DTC Rule Filing. Moreover, in meetings with the Division almost one year ago, Petitioner's representatives were advised that portions of the DTC Rule Filing might not be necessary if the Commission were to publish for comment these long-awaited rule proposals.
 
 
 ## March 12, 2010 — Office of the Chairman memorandum
