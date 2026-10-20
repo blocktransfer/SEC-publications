@@ -7,3 +7,7 @@ issuer still ablo to cat as own agent (ad-4) matters a lot if you want them to b
 tey won dissmassial of 'turf battle' in 15 oct 2009 -- need to really hammer in thu e seubsatitev techitnarl objucotins
 
 COULD [careful] ake thiat arg my inceroptan of the ATS busienss model in LGIHT fn refs
+
+
+we coeld alse objuct ot the entiru eaudiot funioctn of books and recdoes for blockcha n TAs. this is a lottil eout there becaes eth ebat bits and ithe migrants anro setill really seus. i woeld needto isolate and sugment and plank that out as droppable
+tbd

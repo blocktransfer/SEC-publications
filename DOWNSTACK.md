@@ -1,3 +1,3 @@
-# Into Donation Drafting
+# Into Nov 18
 
-This is the last change to tranche the issues and drafts in references.
+tranche the issues and drafts in references
