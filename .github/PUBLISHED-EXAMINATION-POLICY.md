@@ -1,6 +1,6 @@
 # Published examination review policy
 
-Examination folders become protected when their own README.md contains a publish date strictly before today's UTC date. Accepted formats are "15 Sep 2025" and "2025-09-15" in a leading fenced metadata block or YAML front matter. Malformed dates fail the check.
+Examination folders become protected when their own README.md contains a valid publish date strictly before today's UTC date. Accepted formats are "15 Sep 2025" and "2025-09-15" in a leading fenced metadata block or YAML front matter. Missing READMEs, missing metadata blocks or publish tags, empty values, and unrecognized or invalid dates do not require approval. Dates today or in the future do not require approval either. When no changed folder qualifies, the required status passes with "No publication approval required" and no approval request. GitHub still needs this passing status to satisfy the branch ruleset. API failures continue to fail the check.
 
 Changes anywhere in examinations/<folder>/, including deleted and renamed files, are checked against BOTH the base and proposed-head README dates. Once either version is published, editing that folder requires a GitHub APPROVED review on the current head commit from another human with write/admin repository access. A new push requires fresh approval. Folder rules apply automatically on future publication dates, without editing a list. Other folders remain unblocked by this date-based status.
 

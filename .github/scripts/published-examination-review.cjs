@@ -38,11 +38,11 @@ function publicationDate(markdown) {
   } else if (named) {
     d = Number(named[1]); m = MONTHS.indexOf(named[2].toLowerCase().slice(0, 3)) + 1; y = Number(named[3]);
   } else {
-    throw new Error('Invalid publish date: ' + value);
+    return null;
   }
   const parsed = new Date(Date.UTC(y, m - 1, d));
   if (!m || parsed.getUTCFullYear() !== y || parsed.getUTCMonth() !== m - 1 || parsed.getUTCDate() !== d) {
-    throw new Error('Invalid publish date: ' + value);
+    return null;
   }
   return parsed.toISOString().slice(0, 10);
 }
@@ -91,7 +91,6 @@ async function run({ github, context, core, pull_number }) {
       target_url: context.serverUrl + '/' + owner + '/' + repo + '/actions/runs/' + context.runId
     });
   }
-  await status('pending', 'Checking publication dates and contributor approvals');
   try {
     const files = await github.paginate(github.rest.pulls.listFiles, {
       owner, repo, pull_number: prNumber, per_page: 100
@@ -106,9 +105,10 @@ async function run({ github, context, core, pull_number }) {
       if (dates.some(date => date !== null && date < today)) protectedFolders.push(folder);
     }
     if (!protectedFolders.length) {
-      await status('success', 'No published examination folder is changed');
+      await status('success', 'No publication approval required');
       return;
     }
+    await status('pending', 'Checking contributor approvals for published examinations');
     const reviews = await github.paginate(github.rest.pulls.listReviews, {
       owner, repo, pull_number: prNumber, per_page: 100
     });

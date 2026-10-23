@@ -4,11 +4,13 @@ const assert = require('node:assert/strict');
 const { changedFolders, publicationDate, approvedReviewers, run } = require('./published-examination-review.cjs');
 const fence = String.fromCharCode(96).repeat(3);
 
-test('reads metadata and rejects invalid publication dates', () => {
+test('reads metadata and ignores missing or invalid publication dates', () => {
   assert.equal(publicationDate(fence + '\npublish: 15 Sep 2025\n' + fence), '2025-09-15');
   assert.equal(publicationDate('---\npublish: 2026-10-22\n---\n'), '2026-10-22');
   assert.equal(publicationDate('# publish: 2025-09-15'), null);
-  assert.throws(() => publicationDate(fence + '\npublish: 31 Feb 2025\n' + fence), /Invalid/);
+  for (const metadata of ['publish: 31 Feb 2025', 'publish: TBD', 'publish:', 'title: Draft']) {
+    assert.equal(publicationDate(fence + '\n' + metadata + '\n' + fence), null);
+  }
 });
 
 test('examines nested files and old paths of renamed files', () => {
@@ -72,5 +74,32 @@ test('passes on fresh write-access approval', async () => {
 test('passes without approval if publication is future', async () => {
   const gh = fake({ files: [{ filename: 'examinations/upcoming/README.md' }], head: fence + '\npublish: 15 Sep 2999\n' + fence });
   await run({ github: gh, context, core: { setFailed: () => { throw new Error('should pass'); } } });
-  assert.deepEqual(gh.statuses.map(s => s.state), ['pending', 'success']);
+  assert.deepEqual(gh.statuses.map(s => s.state), ['success']);
+});
+
+for (const [name, head] of [
+  ['missing README', null],
+  ['missing metadata block', '# Draft'],
+  ['missing publish tag', '---\ntitle: Draft\n---\n'],
+  ['invalid date', '---\npublish: 31 Feb 2025\n---\n'],
+  ['unknown date', '---\npublish: TBD\n---\n'],
+  ['empty date', '---\npublish:\n---\n'],
+  ['publication today', '---\npublish: ' + new Date().toISOString().slice(0, 10) + '\n---\n']
+]) {
+  test('allows changes without an approval request: ' + name, async () => {
+    const gh = fake({ files: [{ filename: 'examinations/draft/README.md' }], head });
+    gh.rest.pulls.listReviews = () => { throw new Error('must not request reviews'); };
+    await run({ github: gh, context, core: { setFailed: () => { throw new Error('should pass'); } } });
+    assert.deepEqual(gh.statuses.map(s => s.state), ['success']);
+    assert.equal(gh.statuses[0].description, 'No publication approval required');
+  });
+}
+
+test('still requires approval if a published base date is removed or made invalid', async () => {
+  const gh = fake({ files: [{ filename: 'examinations/response-8/README.md' }],
+    base: '---\npublish: 2025-09-15\n---\n', head: '---\npublish: TBD\n---\n' });
+  const failures = [];
+  await run({ github: gh, context, core: { setFailed: value => failures.push(value) } });
+  assert.deepEqual(gh.statuses.map(s => s.state), ['pending', 'failure']);
+  assert.equal(failures.length, 1);
 });
