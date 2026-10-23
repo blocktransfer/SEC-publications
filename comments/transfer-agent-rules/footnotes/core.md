@@ -65,3 +65,5 @@ paid $8.4375 million final dividend at the old 3.375% fixed rate
 `June 30` — both days' settlement finally completed
 
 And there’s another coincidence: June 29 was also the day DTCC publicly announced NSCC had gone live with 24x5 clearing. [DTCC](https://www.dtcc.com/press-releases/2026/nscc-now-live-with-clearing-hours-extended)
+
+[examiner-issuer-reliance]: we can set tihs up with abelosete plasuesibl nondefefenc and then it will be good  to have the meeting cites sepearetd for backrefs
