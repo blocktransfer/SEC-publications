@@ -6,3 +6,12 @@ thi s gets into my drftig and corrensenedce on teh SPBD stuff. i dont want to co
 
 
 https://www.sec.gov/files/ctf-written-digital-chamber-ats-rfi-response-04-17-2026.pdf
+
+
+
+
+
+# Roupndable
+
+
+# Settlement Conneciteveitvny
