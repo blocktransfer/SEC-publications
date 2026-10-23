@@ -11,7 +11,7 @@ The trusted workflow runs with pull_request_target and workflow_run, checking ou
 This repository cannot install branch rulesets by committing files. A repository administrator must visit https://github.com/blocktransfer/SEC-publications/settings/rules and add an active MAIN branch ruleset:
 
 1. Require a pull request before merging, without bypass permissions.
-2. Require the commit status named published-examination-approval to pass. Where available, select GitHub Actions as the expected source.
+2. Require the commit status named published-examinations to pass. Where available, select GitHub Actions as the expected source.
 3. Block force pushes and deletions. Independently protect the workflow and helper scripts from unreviewed changes (e.g. code-owner review or dedicated administrative rules).
 4. Verify with a test PR changing examinations/response-8/README.md that it cannot merge without approval and succeeds after an eligible reviewer approves the current SHA.
 

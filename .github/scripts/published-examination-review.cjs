@@ -1,6 +1,6 @@
 'use strict';
 
-const STATUS_CONTEXT = 'published-examination-approval';
+const STATUS_CONTEXT = 'published-examinations';
 const MONTHS = ['jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec'];
 
 function changedFolders(files) {
