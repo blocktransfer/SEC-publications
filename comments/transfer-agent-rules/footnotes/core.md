@@ -19,6 +19,23 @@ end of https://blocktransfer.org/blog/2023/11/06/tad3-empowering-investors-with-
 
 [aguilar-gallagher-ta-modernization]: https://www.sec.gov/news/statement/modernize-sec-transfer-agent-rules.html
 
+more from aguilar --
+[euntrepreneurs-dillemma-x-2025] tofrom [refefs/aguliar.md:7](/blocktransfer/SEC-publications/references/CAT-draft-CAUTION/coreRefs/aguliar.md%3A7)
+# THEODORE ROOSEVELT
+
+As another document that has been very meaningful to me in my life, I offer, "While Daring Greatly," by President Theodore Roosevelt. This could have been called, "The Entrepreneur's Inspiration."
+
+## WHILE DARING GREATLY
+[he quotes it dir src as “It is not the critic who counts: not the man who points out how the strong man stumbles, or where the doer of deeds could have done better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly, who errs, who comes short again and again, because there is no effort without error and shortcoming, but who knows the great enthusiasms, the great devotions, who spends himself in a worthy cause; who at the best, knows, in the end the triumph of achievement, and who, at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who know neither victory nor defeat.” — President Theodore Roosevelt]
+
+It is not the critic who counts; not the man who points out how the strong man stumbled, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs and comes short again and again; who knows the great enthusiasms, the great devotions, and spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst if he fails, at least fails while daring greatly; so that his place shall never be with those cold and timid souls who know neither victory nor defeat.
+
+and then he has https://www.sec.gov/newsroom/speeches-statements/helpful-tips-new-sec-commissioners
+> I urge you to bring a fresh perspective to the table, and to help identify areas where the Commission could achieve its mission more fully or more efficiently. Do not be afraid to propose new approaches or solutions. This principle applies not only to the Commission’s public activities, such as enforcement actions and rulemakings, but also to the agency’s own internal policies and procedures. Be wary of any pushback you may receive from those who argue that “it’s not the way things are done here.” Things can often be done better.
+ i mosetly just want "bring a fresh perspective to the table" and """Be wary of any pushback you may receive from those who argue that “it’s not the way things are done here.” Things can often be done better.
+ he later wriens "
+
+
 [yale-path-monopoly]: PREV n.175 (https://www.yalelawjournal.org/article/open-access)
 
 you can dir cite the 75 Cong. mandate "directs the Commission to undertake a study and investigation of the practice of recording the ownership of securities in the records of the issuer in other than the name of the beneficial owner of such securities," at  [^start-TA-reg] 40 FR 48741 AA https://www.govinfo.gov/content/pkg/FR-1975-10-17/pdf/FR-1975-10-17.pdf#page=79
