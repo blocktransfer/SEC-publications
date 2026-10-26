@@ -1,1 +1,1 @@
-https://www.govinfo.gov/app/details/CHRG-92hhrg67228p7
+https://www.govinfo.gov/app/details/CHRG-92hhrg67228p7/CHRG-92hhrg67228p7
