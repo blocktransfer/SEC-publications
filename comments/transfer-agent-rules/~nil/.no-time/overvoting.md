@@ -1,11 +1,10 @@
-the baisis here is https://www.sec.gov/files/rules/concept/2010/34-62495.pdf#page=36
+The basis here is https://www.sec.gov/files/rules/concept/2010/34-62495.pdf#page=36
 
-but they doent ask aboet it
+But they don't ask about it.
 
-it backrefs -- or woled -- the acrecievd CS overrveting (vwhich is bad form to calloetu)
+It backreferences—or would—the archived CS overvoting (which is bad form to call out).
 
-the tabulaitn (which tehy tirude rto reugorate then [CP Question 163], woeld'nd t do so now) is much moer in line with teh reg edlieveyr commetns S7-2026-25 [see laso Question 164])
-
+The tabulation (which they tried to regulate then [CP Question 163], but wouldn't do so now) is much more in line with the Reg E-Delivery comments S7-2026-25 [see also Question 164].
 
 > That evidence is reinforced by the large disparity in legally issued and outstanding stock in TASER (approximately 61 million shares) versus the number of shares voted at our 2005 annual meeting (over 82 million votes recorded). This discrepancy indicates the existence of 20 million phantom shares, nearly one-third our capital base. In 2006, we had roughly 10 million more shares voted than shares outstanding.
 
