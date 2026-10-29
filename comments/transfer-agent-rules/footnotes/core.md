@@ -40,7 +40,11 @@ and then he has https://www.sec.gov/newsroom/speeches-statements/helpful-tips-ne
 
 you can dir cite the 75 Cong. mandate "directs the Commission to undertake a study and investigation of the practice of recording the ownership of securities in the records of the issuer in other than the name of the beneficial owner of such securities," at  [^start-TA-reg] 40 FR 48741 AA https://www.govinfo.gov/content/pkg/FR-1975-10-17/pdf/FR-1975-10-17.pdf#page=79
 
-[^start-TA-1977]: https://www.sec.gov/rules-regulations/1977/06/regulation-transfer-agents
+[^start-TA-1977]: orgi adoeptenig regs ad33
+https://www.govinfo.gov/content/pkg/FR-1977-06-24/pdf/FR-1977-06-24.pdf#page=172
+^
+backrefs (infra) the 72 init https://github.com/blocktransfer/SEC-publications/blob/5c966d6524cd927ed16cd11a1701f14b0f45cd79/comments/transfer-agent-rules/draft-notes-concept-release/README.md FR
+
 
 ^start-TA-reg ist fperfectly defined yet. PR nate 4 and accomynydng iistn bad..
 
