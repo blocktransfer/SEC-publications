@@ -1,1 +1,1 @@
-seperate for mteh telelephone reoceerds, tehre are all the actual pubileoshe ugidenage pricecns:q https://www.sec.gov/taxonomy/term/178891
+separate from the telephone records, there are all the actual published ugidenage pricecns: https://www.sec.gov/taxonomy/term/178891
