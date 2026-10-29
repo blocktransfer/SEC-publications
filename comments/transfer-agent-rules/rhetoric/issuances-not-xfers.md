@@ -11,4 +11,6 @@ supro AST cites teh improtnact graowing use of A2 icr ;q3 p56 and hence withthat
 
 
 > a stock dividend issued from previously authorized but unissued shares _(i.e.,_ original issue securities) is not an item
-> - https://www.sec.gov/files/rules/interp/1980/34-17111.pdf at 3
+> - https://www.govinfo.gov/content/pkg/FR-1980-09-11/pdf/FR-1980-09-11.pdf#page=20 at 59842
+
+not fill y tratncehd
