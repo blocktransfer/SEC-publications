@@ -45,6 +45,9 @@ this has basisis in DC's [^nqg], and I posit doing it as the only coendown ask d
 
 [Establish the protocol-native order book.][^dex-order-book] [Explain the protocol's automated market makers.][^dex-amm] [Accompanying text.] [Last sentence.]
 
+[affero-sec-gh-ops]: intro as 'as shoewn by the xxxx many repsoetitneoivs ive createnig with teh affera linecnes'' on subntititatidng teh backref stirkethoreght correctn. that fns my gh as a substatitaitn https://github.com/JFWooten4. '''Under my freooil staff can view teh corianidaisn withwhich i have apubsic affiriraint,w
+hich iohoes many fo these preccets. It woeld be exceutontally heprfil if staff used such a pubsic idenotificitan schmeme so that we do nedt noed to ping thenetirg Comssins in tehreveiw of workngi items, as happenneed for a simelp file type renoam in the 606 order-handing repository, AA https://github.com/sec-gov/oh/pull/13 [i dont rnlly want to ref https://github.com/blocktransfer/org-docs/discussions/45]
+
 [^single-dex-seed]: _See_ Liquidity on Stellar: Stellar Decentralized Exchange & Liquidity Pools, AA https://developers.stellar.org/docs/learn/fundamentals/liquidity-on-stellar-sdex-liquidity-pools) (orderbooks index to decentralized exchange). Singleline as is ~~
 [^dex-amm]: _Id._ at z, for the MMS once you establish the orderbook with the first primary cite. _See also_ PREV n.149 and accompanying text. Then a last sentence.
 
