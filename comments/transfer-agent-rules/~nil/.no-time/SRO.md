@@ -117,3 +117,5 @@ The first three were deleted with the other stickies on April 11, 2026. The outr
 See 1914 (and ealere) hoese Drafting arund a federal supervisory regime over national securities exchanges without requiring corporate status -- from teh Pujo committee
 
 there'  some basis ifor orormala noncorpo- rule preceedings downo specicfic actions in https://sechistorical.org/wp-content/uploads/1817_0225_NYSEConstitutionT.pdf
+
+most of the good stuff's in https://archive.org/details/bigboardhistory00sobe
