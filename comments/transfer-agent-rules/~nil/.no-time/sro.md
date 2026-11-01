@@ -110,3 +110,10 @@ Here are the GitHub-history additions and final blame states. For the legacy fil
     https://github.com/JFWooten4/JFWooten4/blame/72a36f0aa9b2a4f6fd64887404b69a275b39594b/decisions/bureaucratic-administration-outreach.md
 
 The first three were deleted with the other stickies on April 11, 2026. The outreach decision file was deleted on April 7, 2026.
+
+
+# Basis for DUNA noncorp-o
+
+See 1914 (and ealere) hoese Drafting arund a federal supervisory regime over national securities exchanges without requiring corporate status -- from teh Pujo committee
+
+there'  some basis ifor orormala noncorpo- rule preceedings downo specicfic actions in https://sechistorical.org/wp-content/uploads/1817_0225_NYSEConstitutionT.pdf

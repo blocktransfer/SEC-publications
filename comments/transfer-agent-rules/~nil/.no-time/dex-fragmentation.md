@@ -25,3 +25,5 @@ under Automated Trading Information
 ---
 
 similar arg teher t obetween Enrique and Adam
+
+for NYSE form button, incerasinc alnterantives with ATS trendede up ofr 2 decades at https://business.columbia.edu/sites/default/files-efs/pubfiles/4048/A%20century%20of%20Market%20Liquidity%20and%20Trading%20Costs.pdf#page=46
