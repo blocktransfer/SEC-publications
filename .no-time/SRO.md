@@ -2,8 +2,8 @@ thdis is also just out of scope
 
 there is soemnit interesteing discussion of the fair representation requirement of Section 17A
 
-see SR-DTC-99-17, wihch als ohas that "each year the Holding 
-Company's Board of Directors will appoint a nominating committee that 
+see SR-DTC-99-17, wihch als ohas that "each year the Holding
+Company's Board of Directors will appoint a nominating committee that
 may include both members and nonmembers of the Board"
 
 Sources:
@@ -37,7 +37,7 @@ Yes. The sequence was:
 
 So the SRO-membership idea preceded the final collaboration decision by about **20 days**.
 
-Finalizing commit:  
+Finalizing commit:
 https://github.com/JFWooten4/JFWooten4/commit/bb9b815a9e84ca4fac1f4944a3eaf2f4b6d31eb7
 
 
