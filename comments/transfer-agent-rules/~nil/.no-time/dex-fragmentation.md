@@ -21,3 +21,7 @@ https://www.sec.gov/files/news/speech/1971/051771needham.pdf
 nad the 1970 rentro lookes at teh commissions and Instinet v NYSE BATS
 https://demo.sechistorical.org/collection/papers/1970/1970_SEC_AR.pdf
 under Automated Trading Information
+
+---
+
+similar arg teher t obetween Enrique and Adam

@@ -30,3 +30,7 @@ then th efinal rueles[^fr-45] com efrem https://www.govinfo.gov/content/pkg/FR-1
 
 https://www.govinfo.gov/content/pkg/FR-1941-08-20/pdf/FR-1941-08-20.pdf#page=30 estabisidseh benefiial repcitng across loans in colemn 2
 TRF-300 (recoderds desoetd in 77)
+
+# Basis for DUNA noncorp-o
+
+See 1914 (and ealere) hoese Drafting arund a federal supervisory regime over national securities exchanges without requiring corporate status -- from teh Pujo committee
