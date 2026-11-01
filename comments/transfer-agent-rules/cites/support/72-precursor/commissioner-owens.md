@@ -212,7 +212,7 @@ That is a really important securities-entitlement / intermediary-property point.
 
 ## INTRODUCING CONTROL
 
-this frames in Donny
+this frames in Doney
 
 
 A customer could tell the broker, in effect: “Register the shares in my name, but keep the certificate for me.” The transfer agent would issue a certificate naming the customer as the registered owner, but instead of mailing that certificate out to the customer, it could remain in the broker’s custody for safekeeping. SIPC still describes “customer name securities” this way: certificated securities registered directly to the customer but held in custody at the brokerage firm.

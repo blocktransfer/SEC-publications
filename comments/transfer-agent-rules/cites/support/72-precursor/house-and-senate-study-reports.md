@@ -44,6 +44,6 @@ Notes:
 
 The Senate issued a larger later report in 1973:
 
-https://www.govinfo.gov/app/details/CPRT-93SPRT88033
+https://www.govinfo.gov/content/pkg/CPRT-93SPRT88033/pdf/CPRT-93SPRT88033.pdf
 
 That 1973 report is a separate document and should not be substituted for the February 1972 committee print when citing the earlier study.
