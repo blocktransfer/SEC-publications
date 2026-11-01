@@ -22,4 +22,4 @@ https://www.securitiesfinancetimes.com/specialistfeatures/specialistfeature.php?
 
 
 > sattets that the ywill hoset legal roendatble and do teh word to "enteagage with intihnedunsyt borediny toe" etc etc cahnge the laws again
-this is also 5 in teh main file wehre they extentd my oruagumnut of dointg what they wlode like withoet aksing -- doue to the natrueof their sole position as contilalnig regintererde woner, as higihtehrd by Donney in the interivew on X refenced in https://genfinity.io/2025/04/30/dtcc-on-chain-patent-global-finance-takeover
+this is also 5 in teh main file wehre they extentd my oruagumnut of dointg what they wlode like withoet aksing -- doue to the natrueof their sole position as contilalnig regintererde woner, as higihtehrd by Doney in the interivew on X refenced in https://genfinity.io/2025/04/30/dtcc-on-chain-patent-global-finance-takeover
