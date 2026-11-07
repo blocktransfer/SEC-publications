@@ -92,3 +92,24 @@ The investors invoked federal customer-protection rules and UCC Article 8, inclu
 Result: The Sixth Circuit affirmed dismissal, concluding that the provisions invoked did not provide the private cause of action necessary to compel the requested change in holding form.
 
 Importance: A statutory duty does not necessarily mean that an investor can independently sue to enforce it under that provision. This holding concerning §§ 8-504, 8-506, 8-507(a), and 8-508 should not be confused with § 8-507(b), which expressly provides a restoration-and-damages remedy
+
+
+# Tokens as Art 8 claims
+---
+ barardolry, i want to anerchor omostof eth analysis in Delawarae alv istnec athtwis ll be theborecdr ot overcoem in re NASAA and Blueasoky
+ ---
+
+Ventura v. Circle Internet Financial
+Delaware Superior Court · August 18 and October 7, 2025 · N25C-01-109 CLS
+
+This is a particularly interesting application of UCC Article 8 to digital assets.
+
+A plaintiff attempted to transfer 511,435 USDC to an Ethereum address. The tokens were accidentally sent to a different address, differing by one character, and reportedly became inaccessible.
+
+The plaintiff sued Circle for replacement tokens or their equivalent value, asserting that UCC § 8-405's replacement remedy could apply.
+
+Circle argued that USDC was not an Article 8 security and that blockchain tokens could not be certificated securities.
+
+The court denied Circle's motion to dismiss, finding that further factual development was needed to determine whether a digital token could satisfy Article 8's definitions. On October 7, 2025, it also denied Circle's motion for reargument.
+
+This was not a final finding that USDC is a security or that Circle owes reimbursement. It was a ruling allowing the claim to proceed.
