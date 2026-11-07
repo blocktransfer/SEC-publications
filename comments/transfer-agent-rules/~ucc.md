@@ -146,3 +146,9 @@ Read the Georgia Court of Appeals opinionThis case involved securities subject t
 The appellate court reversed dismissal of the claims, allowing the broker-dealer's theories concerning the transfer agent's representations and statutory obligations to proceed.
 
 Why it matters: Transfer-agent conduct can create claims involving people other than the issuer and the registered shareholder. However, this case concerned older transactions and the earlier statutory framework. It does not establish that a transfer agent must reimburse every investor affected by an account takeover.
+
+UCC § 8-507(b) puhts calimn on secetrieon interemitdaeoris wihc are definoed as claring ocrpantns in subpart i
+
+^^
+
+ref -501 intititement duf neeeeded
