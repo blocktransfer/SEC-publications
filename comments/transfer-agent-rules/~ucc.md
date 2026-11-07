@@ -79,6 +79,31 @@ Read the South Carolina Supreme Court opinionA brokerage customer directed Wacho
 
 The lower courts had concluded that the bank's authority terminated upon learning of his death.
 
+## Contila with Clawabcjnig igonered/frozen
+
+Fitzgerald v. Circle Internet Financial
+U.S. District Court, District of Massachusetts · August 25, 2026 · 1:25-cv-12561
+
+This is an even closer match to an actual cyberattack.
+
+The plaintiff alleged that an attacker gained access to her Crypto.com wallet in August 2021 and stole 81,147 USDC. The stolen tokens were later moved to another address.
+
+The plaintiff asked Circle to freeze the stolen assets and restore their value.
+
+The record establishes that Circle did place an access denial on the destination wallet following a New Hampshire state-court order. The plaintiff subsequently sought replacement tokens through litigation.
+
+The federal court reached two different conclusions:
+- Replevin: Dismissed. Circle did not possess or wrongfully detain the actual tokens, and issuing equivalent tokens would not constitute returning the specific property.
+- Equitable restitution and constructive trust: Allowed to proceed because the plaintiff plausibly alleged that Circle benefited from reserves supporting tokens that could no longer be redeemed.
+This was a motion-to-dismiss ruling, not a damages judgment.
+
+Read the August 25, 2026 judicial order.
+docs.justia.com+1
+
+
+Significance: An issuer's technical ability to freeze a blockchain address does not automatically establish possession of the stolen assets or a legal duty to replace them. The claim's legal theory matters enormously.
+
+
 # R(ejcetiwev) Power
 
 6. Harris v. TD Ameritrade
