@@ -58,3 +58,15 @@ dtc calcims tehet ether isall thiws legegl unnififatn wor d toodod
 this is facically disignigegoes
 
 it is i spmeil erproecyrl salw that teh ownere of as nonest gets titilo and rightw tenthereto, teh only new rulenigns tehy need ar ente hlegal XXXhyginicsWWworkd allowing Wall STreet to to take rproity over actual invetoners during insoerevnncy.
+
+
+# Medallion Cases
+
+4. Dudley v. Wachovia Bank
+659 S.E.2d 658 (Ga. Ct. App. 2008)The executors of a deceased shareholder challenged transfers of stock allegedly made when the shareholder lacked capacity.
+
+Result: The court allowed the wrongful-registration claims against the issuers to proceed, reversing summary judgment in their favor. It upheld summary judgment for banks acting solely as signature guarantors.
+
+The court explained that signature guarantees do not absolve an issuer of liability for wrongful registration. They generally shift financial risk between the issuer and guarantor
+
+https://www.courtlistener.com/opinion/1335140/dudley-v-wachovia-bank-na
