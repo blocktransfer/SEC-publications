@@ -70,3 +70,11 @@ Result: The court allowed the wrongful-registration claims against the issuers t
 The court explained that signature guarantees do not absolve an issuer of liability for wrongful registration. They generally shift financial risk between the issuer and guarantor
 
 https://www.courtlistener.com/opinion/1335140/dudley-v-wachovia-bank-na
+
+## Standing Auth
+
+Rider v. Estate of Rider
+756 S.E.2d 136 (S.C. 2014) https://www.courtlistener.com/opinion/8327658/rider-v-estate-of-rider/
+Read the South Carolina Supreme Court opinionA brokerage customer directed Wachovia to transfer securities to his wife's account, but died before every transfer was completed.
+
+The lower courts had concluded that the bank's authority terminated upon learning of his death.

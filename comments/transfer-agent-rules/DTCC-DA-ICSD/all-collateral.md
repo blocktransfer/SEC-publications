@@ -83,3 +83,21 @@ See the [2013 bankruptcy opinion](https://www.nysb.uscourts.gov/sites/default/fi
 - [In re Lehman Brothers Holdings, Inc., --- Fed.Appx. ---- (2016)](https://www.fedbar.org/wp-content/uploads/2019/12/March-Case-Summaries-All-pdf.pdf)
 
 This was not a classic forged-transfer case. FirstBank had contractually authorized reuse of its collateral. Nevertheless, the litigation illustrates the consequences when securities leave their original holding arrangement.
+
+
+
+alt sipc -- ONE FN
+
+FirstBank's separate claim against Lehman's liquidation trustee
+FirstBank Puerto Rico v. Giddens, 562 B.R. 234 (S.D.N.Y. 2016)FirstBank also sought the return of the securities, or their market value, through Lehman's Securities Investor Protection Act (SIPA) liquidation.https://www.courtlistener.com/opinion/8338988/firstbank-puerto-rico-v-giddens-in-re-lehman-bros-inc/
+
+The district court affirmed the rejection of FirstBank's claim because FirstBank did not qualify as a customer of Lehman's broker-dealer for SIPA purposes
+
+
+> dantg
+> stretch
+> 654 F.3d 229 (2d Cir. 2011), arising from the December 2008 collapse
+Read the Second Circuit opinionThe question was whether victims were entitled to recover the value of securities appearing on their final brokerage statements, even though Madoff had never actually purchased those securities.
+
+The Second Circuit upheld a method based on actual cash deposited and withdrawn rather than fictitious securities balances.
+it's motl nil
