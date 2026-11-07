@@ -138,3 +138,11 @@ Circle argued that USDC was not an Article 8 security and that blockchain tokens
 The court denied Circle's motion to dismiss, finding that further factual development was needed to determine whether a digital token could satisfy Article 8's definitions. On October 7, 2025, it also denied Circle's motion for reargument.
 
 This was not a final finding that USDC is a security or that Circle owes reimbursement. It was a ruling allowing the claim to proceed.
+
+# Restirveitve Leggetdhs Neidiger/Tucker/Bruner, Inc. v. SunTrust Bank
+530 S.E.2d 18 (Ga. Ct. App. 2000)
+Read the Georgia Court of Appeals opinionThis case involved securities subject to transfer restrictions that were not properly disclosed on the certificates. A broker-dealer alleged that it relied on information from SunTrust, acting as transfer agent, and suffered losses when dealing with the shares.
+
+The appellate court reversed dismissal of the claims, allowing the broker-dealer's theories concerning the transfer agent's representations and statutory obligations to proceed.
+
+Why it matters: Transfer-agent conduct can create claims involving people other than the issuer and the registered shareholder. However, this case concerned older transactions and the earlier statutory framework. It does not establish that a transfer agent must reimburse every investor affected by an account takeover.
