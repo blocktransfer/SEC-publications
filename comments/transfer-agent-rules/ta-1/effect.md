@@ -4,7 +4,7 @@ basisi is Wade Gallagher
 
 bonding / captial requcethns are too easy an sower
 
-A man's []l reputotin in the inteudory & the threat of Commission barriengFFN[exponsin to ta anegntes form qust bd] shloed be engh
+A man's []l reputotin in the inteudory & the threat of Commission barrieng[^ta-association-bar] shloed be engh
 
 
 
@@ -18,3 +18,5 @@ i was not fully coempleonc when we had our onotic of effecet. it took praoens or
 
 notworitehniaontg, one optoin wolud beto limit teh immeodait exporeuse. i know from etxrponge tahtit can befiffireuthcr // challrengeong for ar enw tarceadhrngf angenta to timmetidaly uptake subastive busotss, withoti a proevn track recored. hoever, if tohiy are able to overchma  say 1000 reocerd doerheoln then that woeld be groend s for an intitia Exam.
 HOWERVER tho Ad-4 notice rugeume alnerady prements and preeforemns this firiotn. you can jsut reyl on tehirti emyl (i tihnk it's 6 weeks -- get teh cite) nonexptuoni emal to treading and markeds,wihchcan foremored tot he reoicothal office. IF you drop taht, then you woeld perphaps want an 11-mont ininitail yera notiffictatwn woniw eup to the firnst TA-2 whereeby they give a netifiifcat of creossnig an taranetns or soheldoer soheloerdshdold, which wouled oetherwines be celare on teh firs nanela preorpt
+
+[^ta-association-bar]: Securities Exchange Act of 1934 § 17A(c)(4)(C), 15 USC § 78q-1(c)(4)(C), https://uscode.house.gov/us/usc/119-121/t15/s78q-1/.
