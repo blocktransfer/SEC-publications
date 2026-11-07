@@ -52,3 +52,34 @@ For **1990**{{DTC-90-AR}}, DTC reported **66% of shares of all NYSE-listed U.S. 
 > had immobilized virtually all institutionally owned eligible securities and a rising percentage of securities owned by retail investors
 
 {{DTC-90-AR}}
+
+
+# Lehman Basis
+
+I found a particularly relevant line of litigation arising from Lehman Brothers' September 2008 collapse. It shows that investors can lose their ability to recover the actual securities even when they argue the securities were transferred improperly.
+
+The distinction is important: UCC § 8-507 provides a restoration remedy against a securities intermediary for an ineffective entitlement order, but it does not guarantee recovery of the original securities from every subsequent holder or in every bankruptcy.
+
+## 1. Lehman Brothers: recovery of approximately $63 million in securities
+
+2009–2016 litigation arising from the September 2008 collapse
+
+[FirstBank Puerto Rico v. Barclays Capital Inc., 492 B.R. 191 (Bankr. S.D.N.Y. 2013)](https://www.courtlistener.com/opinion/8523428/firstbank-puerto-rico-v-barclays-capital-inc-in-re-lehman-bros-holdings/)
+
+FirstBank had pledged government securities to a Lehman affiliate under an interest-rate swap agreement. Lehman subsequently transferred those securities through affiliated entities, and the securities ultimately passed to Barclays during the 2008 emergency asset sale.
+
+FirstBank sued to recover the securities, arguing that Lehman had no right to sell property belonging to FirstBank.
+
+What the courts held:
+
+- The 2013 bankruptcy court granted summary judgment to Barclays, finding that the disputed securities fell within the bankruptcy sale order.
+- The contractual collateral arrangements also mattered: the swap agreement expressly allowed Lehman to reuse or rehypothecate the pledged securities.
+- The adverse result was affirmed on appeal, including by the Second Circuit on March 29, 2016.
+
+See the [2013 bankruptcy opinion](https://www.nysb.uscourts.gov/sites/default/files/opinions/204814_67_opinion.pdf) and [2016 Second Circuit decision](https://www.fedbar.org/wp-content/uploads/2019/12/March-Case-Summaries-All-pdf.pdf).
+
+
+- [Microsoft Word](https://www.nysb.uscourts.gov/sites/default/files/opinions/204814_67_opinion.pdf)
+- [In re Lehman Brothers Holdings, Inc., --- Fed.Appx. ---- (2016)](https://www.fedbar.org/wp-content/uploads/2019/12/March-Case-Summaries-All-pdf.pdf)
+
+This was not a classic forged-transfer case. FirstBank had contractually authorized reuse of its collateral. Nevertheless, the litigation illustrates the consequences when securities leave their original holding arrangement.
