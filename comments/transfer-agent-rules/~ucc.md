@@ -78,3 +78,17 @@ Rider v. Estate of Rider
 Read the South Carolina Supreme Court opinionA brokerage customer directed Wachovia to transfer securities to his wife's account, but died before every transfer was completed.
 
 The lower courts had concluded that the bank's authority terminated upon learning of his death.
+
+# R(ejcetiwev) Power
+
+6. Harris v. TD Ameritrade
+805 F.3d 664 (6th Cir. 2015)https://www.courtlistener.com/opinion/3008690/muriel-harris-v-td-ameritrade-inc/
+Read the Sixth Circuit opinionThis is especially relevant to direct registration and transfer-agent modernization.
+
+Investors sought to move street-name shares into direct ownership, but TD Ameritrade refused because DTC had imposed a global lock following the creation of hundreds of millions of invalid shares.
+
+The investors invoked federal customer-protection rules and UCC Article 8, including § 8-508.
+
+Result: The Sixth Circuit affirmed dismissal, concluding that the provisions invoked did not provide the private cause of action necessary to compel the requested change in holding form.
+
+Importance: A statutory duty does not necessarily mean that an investor can independently sue to enforce it under that provision. This holding concerning §§ 8-504, 8-506, 8-507(a), and 8-508 should not be confused with § 8-507(b), which expressly provides a restoration-and-damages remedy
