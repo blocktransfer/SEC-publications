@@ -113,3 +113,67 @@ subsequent histories of the firms whose critical problems were not
 commonly known outside the Exchange and whose survival or
 orderly self-liquidation programs were, to a large extent, m a d e
 possible by the absence of publicity.
+
+
+
+after talknig aobeut lijidading it smemebrs ofr 5 pages, thay comment on the sejprecessont of sipc at 28[30]:
+> When Congress passed the Securities Investor Protection Act at the
+end of December, the Exchange announced the termination of its
+voluntary customer assistance program and planned phasing out of
+the Special Trust Fund. It was understoodi however, that the
+Exchange would fulfdl its prior commitments with respect to firms
+already in the customer assistance program. Under the SIPC
+legislatiori, the securities industry is committed to provide initial
+funding of at least $150 million.
+
+[not sic]
+
+on taht sam epaga etha say'''anded pilot Collateral Loan program was operated
+during most of the year with the ten New York Clearing
+House Banks and some 50 NYSE Clearing Members as
+participants. More than $1.8 billion in collateral loans was
+initiated through the system in 197
+
+
+they comment on premitng usabul certifoicates by immavibilvenvg at 29[32]:
+> BASIC's study o f possible development
+of a machine-readable s t o c k certificate raised the provocative
+question of whether or not rapid development of an expanded
+central depository - which would include major over-the-counter
+issues as well as those listed on stock exchanges - might actually
+pre-empt the usef/dness of an automated certificate.
+
+hits als ostarts tho besasis for toheri contral nuberng, wihch is severerly out of daet
+
+
+they satta playl teh basis for 17f2 finoegingng at 30[33], wihch doest have basisi anymore
+
+> These rules were a part of a securities industry-wide program to
+l'educe the problem of missing and stolen securities. D u r i n g
+1967-1970, the Exchange, in cooperation with member firms and
+other securities industry organizations, took a series of steps to
+reduce criminal activity in the securities industry. These included
+expanded background checks of employees; improved security
+procedures in member firms; support for the passage of finger-
+printing legislation in New York State; and educational programs to
+broaden awareness of the problem and of appropriate action which
+might be taken by member finns. The effectiveness of these
+programs became evident as the number of instances o f lost and
+stolen securities, according to Exchange surveys, declined from a
+high of 1,755 in 1968 to a low of 809 in 1970.
+
+## optionality
+
+reptated eareerl, at 36[39]:
+> Following the phasing into CCS of some 960 eligible American Stock
+Exchange issues in April, CCS began a pilot program for computer-
+ized delivery of the most. widely held over-the-counter stocks.
+Although utilization of CCS by particil~ating brokers continues to be
+voluntary, more than 75% of eligible deliveries are now being made
+by bookkeeping entry rather than by physical delivery of a stock
+certificate.
+
+## pledging
+
+riht at teh satert *(39):
+> CCS is expanding in other directions, as well. Ten of the 1 i New York Clearing House Banks--\[ an eleventh bank joined the New York Clearing House Association in I971 \]-are now direct CCS participants for computerized delivery to and receipt from participating brokers. (This is in addition to the banks' participation in the collateral loan program through CCS, which enables brokers to pledge securities for bank loans via CCS bookkeeping entry rather than by physically delivering the shares to the lending bank.)
