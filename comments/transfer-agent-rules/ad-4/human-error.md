@@ -1,0 +1,1 @@
+look i donet want this to be a subastutive disotereotn. i deont want it to a a subsbusucun. bit iwolednst mind a parrapgh or few obat thi sbc it's really qutie thure and and and it sucts up pregrammotaotic twaroetnefr rules as busiecrss ptoliry
