@@ -1,1 +1,1 @@
-estaebsed teh caevoet unde art . 8 and then and toly then harp on how mch DTCDA protitivevs asrcetitoing cotoil, wit hDan as teh immedal te ref derteily cititng it in re cap35 **which is alrdy in teh notes*
+established the carvoet under art. 8 and then and only then harp on how much DTCDA protective measures ascertaining cost, with Dan as the immediate te ref direcutly citing it in re cap35 **which is alrdy in teh notes**
