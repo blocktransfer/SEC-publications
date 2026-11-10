@@ -41,3 +41,39 @@ A defensible comment could ask the Commission **to explain and substantiate its 
 - [Lost securityholder identity permanence](../ideas/lost-securityholder-identity.md) — persistent identifiers, account activity, and contact risk.
 - [Escheatment](escheatment.md) — related section of the Rule 17Ad-17 notes.
 - [Examination Response 8](../../../examinations/response-8/README.md) — lost-securityholder search evidence and procedures.
+
+
+
+
+---
+
+---
+
+it's in teh tail of teh CP
+
+
+and tehn i want a raparrellle to the comprletey static minimial enafercem eproegprom efe
+
+Yes. The Commission originally established the $2,500 threshold in 1984, and it was still using that same nominal amount in 2025.
+
+The original rulemaking is:
+
+- Securities Exchange Act Release No. 34-21013
+- Title: Obligations of Self-Regulatory Organizations
+- Adopted: June 1, 1984
+- Published: June 8, 1984
+- Citation: 49 FR 23828–23833
+
+https://www.govinfo.gov/content/pkg/FR-1984-06-08/pdf/FR-1984-06-08.pdf#page=12
+
+
+Commission originally proposed a $1,000 ceiling in 1983. The NYSE requested $2,500, while CBOE advocated allowing fines as high as $10,000 under the simplified reporting system.
+
+The Commission ultimately accepted $2,500, explaining on page 23830 that it would give exchanges greater flexibility to impose meaningful sanctions without triggering individual disciplinary reports.
+
+That same $2,500 threshold appears in the [2025 24X MRVP approval](https://www.govinfo.gov/content/pkg/FR-2025-09-08/pdf/2025-17110.pdf)
+
+
+
+
+the problem is this just cincloanyg beocmes a barrire to effecti ev comptetoin and operetons with innvaitn baceces tihngs stoep doing doe moininmies, or you artiicarlly loewr the fees to this autdated nubeur and the slops on te hwrist doent mean anythnig
