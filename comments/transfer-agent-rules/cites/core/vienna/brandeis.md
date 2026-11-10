@@ -1,5 +1,7 @@
 # Brandeis — transparency as a basis for accountable self-regulation
 
+refs https://archive.org/details/cu31924082456439/page/n111/mode/2up
+
 ## Primary reference
 
 [Comment on SR-OCC-2024-001, *ENCORE Options Clearing Secrecy Risk Prevention*, May 18, 2024, p. 41, § III (“Self-Regulation Requires Honesty”)](https://www.sec.gov/comments/sr-occ-2024-001/srocc2024001-474471-1355754.pdf#page=41).
