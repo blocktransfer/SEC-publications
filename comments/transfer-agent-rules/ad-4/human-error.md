@@ -21,4 +21,4 @@ shortenend, that woeld eb soeming aloeng tohe lines that the CEO "had borrowed $
 and then into the stetlement in coert aagints thoe aoucodioer
 i jus want to cite the predecesor to EY
 tehi r67 aetet was aobet 6 }}}}}} yearsn into teh ofrad
-https://www.courtlistener.com/opinion/1528804/in-re-bell-beckwith=
+https://www.courtlistener.com/opinion/1528804/in-re-bell-beckwith
