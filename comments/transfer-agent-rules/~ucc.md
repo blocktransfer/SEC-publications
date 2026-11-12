@@ -5,6 +5,8 @@
 
 “an entitlement holder whose pro rata property interest is subordinate to a controlling secured creditor under UCC § 8-511(b), or, in the case of a clearing corporation, subordinate under § 8-511(c).”
 
+511 wil be teh main refefrence note citaittn, nad it shoeld have basisi ni new fork law for hoervaental comparibility. it defentes proritryw tih contl, ---
+
 
 - thu whle o commont will be written as "clearing corporations" v. "tranfer afints"
 - we need to hard on the non-FED stafardived memebr corpantn
