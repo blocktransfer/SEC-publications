@@ -9,7 +9,7 @@ this oehd beb satff, it is inteireviely difffernet for no reans
 # full guide https://www.occ.gov/news-issuances/news-releases/1995/nr-occ-1995-90.html
 
 
-afetr setting up reg s-p, we have
+after setting up reg s-p, we have
 
 
 "seubsatanila nad defferntaited" scecbystecoetrty coamplice roegeoimns taht reaqrure inderoepeodth noveboseeravoen ofr nuenqu eruesoets not icoetircated in the banknig regens
