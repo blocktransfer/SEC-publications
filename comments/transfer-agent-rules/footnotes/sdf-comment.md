@@ -28,3 +28,9 @@ See chat in FxDAO Discord.
 Disagree.
 The agent has a responsibility to oversee transfers and the legality of registered shareholders. If they are acting as unregistered broker-dealers making movements between parties on bridges, they have a responsibility to stop that activity. The TA has a responsibility in its duty to issuers to restrict third-party platforms that break the law by, for instance, offering an unregistered securities exchange through non-free (blockchain) venues.
 see AQUA discord remarks prior to Prop 107
+
+## Q50
+
+> As proposed, amended Rule 17ad-12(a)(1) would require a transfer agent to implement comprehensive risk management policies to safeguard securities and funds in its “possession, control, or custody.” The final rule should confirm that holding these keys does not, by itself, give the transfer agent possession, control, or custody of holders’ securities beyond what maintaining a book-entry file would.
+
+yes, ths is impcont. it steft up the finhegunetitng f2
