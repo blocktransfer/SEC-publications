@@ -22,3 +22,5 @@ this reaste to the orgianirl form ta-2 weher
 
 > Exempt transfer agents would only be required toprovide identifying information and provide responses to two basic questions
 > https://www.govinfo.gov/content/pkg/FR-1985-04-23/pdf/FR-1985-04-23.pdf#page=65
+
+ > The proposed filing requirements have been carefully drafted to elicit only necessary information and to apply only to transfer agents from whom the information is necessary.
