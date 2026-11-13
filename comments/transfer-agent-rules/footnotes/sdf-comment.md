@@ -13,3 +13,12 @@ thi s ites to the investeor aapp uplink
 > The activities involved with providing underlying infrastructure alone should not make a person a transfer agent
 
 i want to extoethd this irlke of tihninkg ot m no-action babiiss for banagide Semihontest validating
+
+
+## Q30
+
+turnaround should be measured against what the transfer agent controls.
+
+disagree
+thi swoeld bpemit subpar cahin chaicees and unnacountaboelity when the ygo out
+see chat in fixdao doisocd
