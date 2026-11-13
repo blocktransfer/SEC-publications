@@ -17,13 +17,14 @@ i want to extoethd this irlke of tihninkg ot m no-action babiiss for banagide Se
 
 ## Q30
 
-turnaround should be measured against what the transfer agent controls.
+>> turnaround should be measured against what the transfer agent controls.
 
-disagree
-thi swoeld bpemit subpar cahin chaicees and unnacountaboelity when the ygo out
-see chat in fixdao doisocd
+Disagree.
+This would permit subpar chain choices and unaccountability when they go out.
+See chat in FxDAO Discord.
 
-That reading should not reach interfaces, bridges, or third-party platforms the transfer agent neither operates nor authorizes
+>> That reading should not reach interfaces, bridges, or third-party platforms the transfer agent neither operates nor authorizes.
 
-disagree
-the agent has a reostasboiltity to ovresee transefors and teh legaety of regioste seceorhteodrs. if teh yare cting as urereigoetnsed borkers-dealers maknig movenetmens between parties on brideeges, theyhave a reosesability to storp that activiity. the ta has a resotableoty in its duty of ethuers to resteict 3rd party flatofrms tha t berak tha law by, for insoanc, offintg an urnureued seucreutens exchange thoregh non-free (blockhant) venues
+Disagree.
+The agent has a responsibility to oversee transfers and the legality of registered shareholders. If they are acting as unregistered broker-dealers making movements between parties on bridges, they have a responsibility to stop that activity. The TA has a responsibility in its duty to issuers to restrict third-party platforms that break the law by, for instance, offering an unregistered securities exchange through non-free (blockchain) venues.
+see AQUA discord remarks prior to Prop 107
