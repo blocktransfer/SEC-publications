@@ -17,3 +17,8 @@ tehres a eral risk of issuers acting as tiher own actgent whonm choes not to reg
 o
 
 take that atdh it goes on taop of FAST. bc oncet you ciremuvent it with teh DEX theres a possibel outrread to the tAD3 sysetm , which may or may not be thrgeht actual TAD agoents
+
+this reaste to the orgianirl form ta-2 weher
+
+> Exempt transfer agents would only be required toprovide identifying information and provide responses to two basic questions
+> https://www.govinfo.gov/content/pkg/FR-1985-04-23/pdf/FR-1985-04-23.pdf#page=65
