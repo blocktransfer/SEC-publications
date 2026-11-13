@@ -26,3 +26,6 @@ Ketchum's 1985 speech, printed page 3, identifies three initiatives resulting fr
 1. Monitoring Coordination Group — coordinated responses to financially troubled securities firms.
 2. Transfer Agent Practices Unification Group — addressed independent registrar requirements and inconsistent transfer-agent standards.
 3. Signature Medallion Program Development Group — sought to streamline signature guarantees.
+
+mud quto
+> WE AT THE COMMISSION ARE CONCERNED ABOUT THE SLOW PROGRESS BEING MADE RESPECTING NSCC's PLANNED CENTRALIZED AUTOMATED SECURITIES LOAN ACCOUNTING AND MARKETING SYSTEM.
