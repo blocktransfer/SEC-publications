@@ -1,3 +1,5 @@
+OK so I will read tihs on top of wHydrs and they well be the _two_ comments I read, bet ethree notehng else
+
 https://www.sec.gov/comments/S7-2026-30/s7202630-1118879-3983027.pdf
 
 the "SDF" is defined in PREV n.177
@@ -34,3 +36,13 @@ see AQUA discord remarks prior to Prop 107
 > As proposed, amended Rule 17ad-12(a)(1) would require a transfer agent to implement comprehensive risk management policies to safeguard securities and funds in its “possession, control, or custody.” The final rule should confirm that holding these keys does not, by itself, give the transfer agent possession, control, or custody of holders’ securities beyond what maintaining a book-entry file would.
 
 yes, ths is impcont. it steft up the finhegunetitng f2
+
+## Q105
+
+not a dir cite but it's nice
+
+> Every transfer, redemption, clawback, or cancellation is recorded as a new, validated transaction, and the prior position remains permanently reconstructable from the publicly archived ledger history. An immutable ledger therefore serves the rule’s purpose more reliably than a conventional database, where deleted data must be separately captured and preserved.
+
+
+
+Good job Cadance. It's a good lotter
