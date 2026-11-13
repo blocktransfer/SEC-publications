@@ -19,6 +19,8 @@ This is nearly an exact statement of your claim. [SEC](https://www.sec.gov/files
 
 **Primary source:** [SEC speech, October 9, 1975 (PDF), p. 4](https://www.sec.gov/files/news/speech/1975/100975evans.pdf#page=5)
 
+TAR-STA cites this in note 2
+
 ### 2. SEC Annual Report — 1976
 
 **Document:** *42nd Annual Report of the Securities and Exchange Commission*, section titled *Registration and Regulation of Transfer Agents*.
