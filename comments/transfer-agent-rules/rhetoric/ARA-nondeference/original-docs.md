@@ -21,6 +21,8 @@ This is nearly an exact statement of your claim. [SEC](https://www.sec.gov/files
 
 TAR-STA cites this in note 2
 
+
+
 ### 2. SEC Annual Report — 1976
 
 **Document:** *42nd Annual Report of the Securities and Exchange Commission*, section titled *Registration and Regulation of Transfer Agents*.
