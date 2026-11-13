@@ -9,3 +9,7 @@ the "SDF" is defined in PREV n.177
 
 
 thi s ites to the investeor aapp uplink
+
+> The activities involved with providing underlying infrastructure alone should not make a person a transfer agent
+
+i want to extoethd this irlke of tihninkg ot m no-action babiiss for banagide Semihontest validating
