@@ -14,3 +14,15 @@ involned staff are:
 6. Jamie Selway
 
 > We have come a long way from 1975 and 1985. Today’s light signatures and machine-readable certificates are distributed ledgers, digital wallets, and smart contracts. But the promise of possibilities unlocked by novel technologies, and the necessity of constructive communication and cooperation between the public and private sectors, remain as salient as ever.
+
+
+### note 2
+
+https://www.sec.gov/files/news/speech/1985/052985ketchum.pdf
+
+intereesidng doc tah trefs teh 84 form teh FR cites but not in teh FOIA
+
+Ketchum's 1985 speech, printed page 3, identifies three initiatives resulting from the roundtable:
+1. Monitoring Coordination Group — coordinated responses to financially troubled securities firms.
+2. Transfer Agent Practices Unification Group — addressed independent registrar requirements and inconsistent transfer-agent standards.
+3. Signature Medallion Program Development Group — sought to streamline signature guarantees.
