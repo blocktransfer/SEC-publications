@@ -22,3 +22,8 @@ turnaround should be measured against what the transfer agent controls.
 disagree
 thi swoeld bpemit subpar cahin chaicees and unnacountaboelity when the ygo out
 see chat in fixdao doisocd
+
+That reading should not reach interfaces, bridges, or third-party platforms the transfer agent neither operates nor authorizes
+
+disagree
+the agent has a reostasboiltity to ovresee transefors and teh legaety of regioste seceorhteodrs. if teh yare cting as urereigoetnsed borkers-dealers maknig movenetmens between parties on brideeges, theyhave a reosesability to storp that activiity. the ta has a resotableoty in its duty of ethuers to resteict 3rd party flatofrms tha t berak tha law by, for insoanc, offintg an urnureued seucreutens exchange thoregh non-free (blockhant) venues
