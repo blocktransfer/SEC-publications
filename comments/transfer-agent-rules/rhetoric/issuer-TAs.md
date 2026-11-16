@@ -10,7 +10,7 @@ and
 
 so
 
-this the ndir rels to the STA-TAR eceroemic asaysisi pontsi
+this the ndir rels to the TAR-STA eceroemic asaysisi pontsi
 
 tehres a eral risk of issuers acting as tiher own actgent whonm choes not to regietnoher doue to te hti netudrecoasng colense under s-p and teh saeching regime, wihc is gettni gmoer and more conseloadeted
 
