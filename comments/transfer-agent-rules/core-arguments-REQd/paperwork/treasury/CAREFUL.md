@@ -5,3 +5,8 @@ you need to definitiavienly answoer teh Valve janitor :uestion, becaes onc you s
 i would souraunoly avoudi it and hold the substance of the card (setting up partner seeds & soerces is fine)
 
 it will baisaclyly come down to how hard they hammer in  the old paperword regime on auth
+
+
+
+
+unforetaerly this came highetr on stack witheth efililng changes in to https://zopen.to/GFVZFADr3net8f5XIKS1

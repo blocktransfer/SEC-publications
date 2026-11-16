@@ -7,7 +7,7 @@ Dr. Trimbath's recent point is that Exchange Act § 17A(b)(5)(C), 15 USC 78q-1(b
 
 For DEX fragmentation, plant the seed for the Dvorak metaphor around how a small drafting or interpretive choice can propagate through market plumbing. But make the LRF distinction strong: even after this **change** from *may* to *shall*, CAT identifies short trades while NSCC identifies net FTD positions; the change would alter the legal close-out duty, not create a persistent identifier that traces an individual short execution through CNS netting into a residual fail. Don't use the Dvorak metaphor to erase that distinction.
 
-https://youtu.be/eDGb-bvAvvw 
+https://youtu.be/eDGb-bvAvvw
 
 
 ## the bank-to-bank settlemente
@@ -21,3 +21,9 @@ https://www.sec.gov/files/news/speech/1971/051771needham.pdf
 nad the 1970 rentro lookes at teh commissions and Instinet v NYSE BATS
 https://demo.sechistorical.org/collection/papers/1970/1970_SEC_AR.pdf
 under Automated Trading Information
+
+---
+
+similar arg teher t obetween Enrique and Adam
+
+for NYSE form button, incerasinc alnterantives with ATS trendede up ofr 2 decades at https://business.columbia.edu/sites/default/files-efs/pubfiles/4048/A%20century%20of%20Market%20Liquidity%20and%20Trading%20Costs.pdf#page=46

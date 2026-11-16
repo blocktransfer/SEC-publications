@@ -2,8 +2,8 @@ thdis is also just out of scope
 
 there is soemnit interesteing discussion of the fair representation requirement of Section 17A
 
-see SR-DTC-99-17, wihch als ohas that "each year the Holding 
-Company's Board of Directors will appoint a nominating committee that 
+see SR-DTC-99-17, wihch als ohas that "each year the Holding
+Company's Board of Directors will appoint a nominating committee that
 may include both members and nonmembers of the Board"
 
 Sources:
@@ -37,7 +37,7 @@ Yes. The sequence was:
 
 So the SRO-membership idea preceded the final collaboration decision by about **20 days**.
 
-Finalizing commit:  
+Finalizing commit:
 https://github.com/JFWooten4/JFWooten4/commit/bb9b815a9e84ca4fac1f4944a3eaf2f4b6d31eb7
 
 
@@ -110,3 +110,12 @@ Here are the GitHub-history additions and final blame states. For the legacy fil
     https://github.com/JFWooten4/JFWooten4/blame/72a36f0aa9b2a4f6fd64887404b69a275b39594b/decisions/bureaucratic-administration-outreach.md
 
 The first three were deleted with the other stickies on April 11, 2026. The outreach decision file was deleted on April 7, 2026.
+
+
+# Basis for DUNA noncorp-o
+
+See 1914 (and ealere) hoese Drafting arund a federal supervisory regime over national securities exchanges without requiring corporate status -- from teh Pujo committee
+
+there'  some basis ifor orormala noncorpo- rule preceedings downo specicfic actions in https://sechistorical.org/wp-content/uploads/1817_0225_NYSEConstitutionT.pdf
+
+most of the good stuff's in https://archive.org/details/bigboardhistory00sobe

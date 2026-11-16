@@ -1,0 +1,5 @@
+the congresson baisis in https://demo.sechistorical.org/collection/papers/1940/1940_SIAA_J.pdf#page=16:
+
+> The Senate bill authorized the Commission to determine the frequency of reports required to be filed by institutional investment managers who satisfied the jurisdictional tests, but stated explicitly that the Commission could not require reports less frequently than annually, or more frequently than quarterly. The House amendment contained no qualifications on the Commission’s authority to prescribe the frequency of reports. The House receded to the Senate.
+
+also '''The Senate bill authorized the Commission to determine the frequency of reports required to be filed by institutional investment managers who satisfied the jurisdictional tests, but stated explicitly that the Commission could not require reports less frequently than annually, or more frequently than quarterly. The House amendment contained no qualifications on the Commission’s authority to prescribe the frequency of reports. The House receded to the Senate.

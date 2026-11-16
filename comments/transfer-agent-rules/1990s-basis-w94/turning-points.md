@@ -18,3 +18,12 @@ So **the Division was plainly actively producing TA regulatory work in 1997–99
 [5]: https://www.sec.gov/rules-regulations/2000/06/revised-transfer-agent-form-related-rule "SEC.gov | Revised Transfer Agent Form and Related Rule"
 [6]: https://www.sec.gov/rules-regulations/rulemaking-activity?%3Bdivision_office=All&%3Bregulation_year=&%3Brulemaking_status=178631&%3Bsearch=&aId=&page=23&utm_source=chatgpt.com "SEC.gov | Rulemaking Activity"
 [7]: https://www.sec.gov/rules/proposed/s71799/michael1.htm "Rule Comments: S7-17-99"
+
+## 2001 adoption of electronic and micrographic recordkeeping (S7-17-99)
+
+The S7-17-99 recordkeeping amendments reached a final rule independently of the broader S7-35-94 transfer-agent modernization proposal. The rulemaking sequence, in chronological order, is:
+
+1. **May 25, 1999 — proposed rule (published June 2, 1999):** Release **34-41442**, File **S7-17-99**, **64 FR 29608–29614**. The Commission proposed expanding Rule 17Ad-7 to permit electronic and micrographic preservation of the records required under Rule 17Ad-6, subject to safeguards for integrity, indexing, duplication, and regulatory access. [Official Federal Register edition (GovInfo)](https://www.govinfo.gov/content/pkg/FR-1999-06-02/pdf/FR-1999-06-02.pdf).
+2. **April 27, 2001 — final rule (published May 1, 2001; effective May 31, 2001):** Release **34-44227**, File **S7-17-99**, **66 FR 21648–21660**. The Commission adopted amendments allowing registered transfer agents to preserve required records on electronic media, microfilm, or microfiche. [Commission release](https://www.sec.gov/rules-regulations/2001/04/recordkeeping-requirements-transfer-agents); [official Federal Register edition (GovInfo), beginning at page 21648](https://www.govinfo.gov/content/pkg/FR-2001-05-01/pdf/FR-2001-05-01.pdf#page=25); [Federal Register document page](https://www.federalregister.gov/documents/2001/05/01/01-11005/recordkeeping-requirements-for-transfer-agents).
+
+**What the 2001 rule changed.** For transfer agents choosing electronic or micrographic retention, amended Rule 17Ad-7(f) prescribed controls for record security, integrity, and recovery; indexes and separately kept duplicates; audit trails; timely production of records for examination; and escrow of the information needed to access electronic records. It also provided for undertakings by third-party records custodians. Transfer agents remaining with paper records were not required by these amendments to change their recordkeeping methods. The final rule completed **S7-17-99**, **not S7-35-94**.

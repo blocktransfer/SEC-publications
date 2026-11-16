@@ -264,6 +264,8 @@ Yes, indeed. Market Regulation is the entity within the SEC that is concerned wi
 
 Lee Pickard was the head of the Market Reg, when Bill Casey was the chair. Who came after Lee? Was it Rick Ketchum? Rick may have come later.
 
+[TAR-STA cites this in note 3]
+
 > Then in May 1973, the company changed its name to The Depository Trust Company. Who picked out the name?
 
 I did.

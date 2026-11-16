@@ -8,3 +8,9 @@ under the 90s teleptehin interierpotins notnone of tihs woled be roenpteid untle
 ref teh blog posh iimg wheenyb cf inst used as much as a
 
 supro AST cites teh improtnact graowing use of A2 icr ;q3 p56 and hence withthath we want to esnture viowaility as te thagents' effectuatunio of newn offenitgs, ratehr than flying blingd
+
+
+> a stock dividend issued from previously authorized but unissued shares _(i.e.,_ original issue securities) is not an item
+> - https://www.govinfo.gov/content/pkg/FR-1980-09-11/pdf/FR-1980-09-11.pdf#page=20 at 59842
+
+not fill y tratncehd

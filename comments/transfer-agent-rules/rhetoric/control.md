@@ -1,0 +1,1 @@
+established the carvoet under art. 8 and then and only then harp on how much DTCDA protective measures ascertaining cost, with Dan as the immediate te ref direcutly citing it in re cap35 **which is alrdy in teh notes**

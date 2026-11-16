@@ -11,4 +11,4 @@ at this yponit we will haev distinguidesh between the 70 and 78 prectocitns
     > The concept of specifically identifiable property was _narrowed_ to include only those securities registered (or in the process of being registered) in the customer’s name (“customer name securities”). The single and separate fund was correspondingly broadened to include available cash and all fully paid-for securities and margin securities (“customer property”).
 359
 
-here we have a court quteting th e77 hearings.AFTER we work thrght th ta whole file, then we can int odirue the Donny implictinos
+here we have a court quteting th e77 hearings.AFTER we work thrght th ta whole file, then we can int odirue the Doney implictinos

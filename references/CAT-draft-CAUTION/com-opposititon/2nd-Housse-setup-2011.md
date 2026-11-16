@@ -157,6 +157,7 @@ She says cancellations could be considered disruptive trading and should be exam
 Ketchum says the omission was not intentional; the same logic should apply to responsible entities under SEC/CFTC oversight.
 
 ---
+TAR-STA cites this in note 3
 
 the Dir doc page has a written transcity which is a better ref than the YT clips https://www.cftc.gov/PressRoom/Events/opaevent_cftcsec021811 DUP with key dir CAT quote is around transcript page 88: Brennan says the Committee recommends the SEC proceed “with a sense of urgency” and cost-benefit focus to implement a consolidated audit trail for U.S. equity markets
 Fifth Meeting
