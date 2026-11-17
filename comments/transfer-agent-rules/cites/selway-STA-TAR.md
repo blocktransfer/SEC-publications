@@ -31,3 +31,12 @@ Ketchum's 1985 speech, printed page 3, identifies three initiatives resulting fr
 
 mud quto
 > WE AT THE COMMISSION ARE CONCERNED ABOUT THE SLOW PROGRESS BEING MADE RESPECTING NSCC's PLANNED CENTRALIZED AUTOMATED SECURITIES LOAN ACCOUNTING AND MARKETING SYSTEM.
+
+
+# note 1
+
+still tao tarch quti fill.
+
+I like page 362
+
+https://archive.org/details/transformationof00seli/page/362/mode/2up
