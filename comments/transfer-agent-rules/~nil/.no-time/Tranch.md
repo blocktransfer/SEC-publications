@@ -49,3 +49,7 @@ These addittional refefnces will not make it into the comment
 - https://dev.gutenberg.org/cache/epub/37924/pg37924-images.html
 - https://www.sec.gov/news/digest/1995/dig072695.pdf
 - https://openjurist.org/77/br/606/in-re-bell-beckwith-2020683 (https://openjurist.org/50/br/422/in-re-bell-beckwith, bad site)
+
+- https://www.franklintempleton.com/press-releases/news-room/2024/franklin-templeton-announces-availability-of-peer-to-peer-transfers-for-franklin-onchain-u.s.-government-money-fund
+- https://www.sec.gov/Archives/edgar/data/1786958/000174177324001671/c497.htm
+SDF makes taht point , so hwo caers
