@@ -1,0 +1,55 @@
+These addittional refefnces will not make it into the comment
+
+- https://www.sec.gov/files/news/speech/1985/052985ketchum.pdf#page=5
+- https://www.sec.gov/newsroom/speeches-statements/remarks-selway-sta-annual-conference-2026-102926#footnote__2yJstg5XE5vsUtrfabbckuNRxy1woXDcHi9ycPcBzA_1
+- https://archives.federalregister.gov/issue_slice/1992/11/9/53362-53368.pdf
+- //althoeght theso ewere moestyl covered
+- https://www.govinfo.gov/content/pkg/FR-1985-04-23/pdf/FR-1985-04-23.pdf#page=65
+-  https://www.govinfo.gov/content/pkg/FR-1992-01-10/pdf/FR-1992-01-10.pdf#page=27
+-  https://www.govinfo.gov/content/pkg/GAOREPORTS-GGD-97-96/pdf/GAOREPORTS-GGD-97-96.pdf#page=52
+-  https://chatgpt.com/share/6b05af0c-accc-83ea-969e-23e6104cff4f
+-  https://chatgpt.com/share/6b05af1e-3988-83ea-87f4-e4a3a600b944
+-  https://www.sec.gov/comments/cll-15/cll15-721507-2259714.pdf
+-  ~~https://www.sec.gov/files/corpfin/no-action/14a-8/lawsongamestop020824-14a8-incoming.pdf#page=9~~https://www.sec.gov/files/corpfin/no-action/14a-8/lawsongamestop042424-14a8.pdf#page=10
+-  https://chatgpt.com/share/6b05bcbe-66a4-83ea-bd7a-08ebcc8699ef
+-  https://chatgpt.com/share/6b05bcd1-211c-83ea-87bb-775bd066540c
+-  https://www.google.com/books/edition/Short_selling_Activity_in_the_Stock_Mark/aEY3SDf_8uYC?hl=en&gbpv=1
+-  https://www.govinfo.gov/content/pkg/FR-1947-01-15/pdf/FR-1947-01-15.pdf#page=8
+-  listing fees https://chatgpt.com/share/6b05bd99-3b6c-83e9-8f14-ebe96e85cd75
+-  CF secondaries https://chatgpt.com/share/6b05bdb2-074c-83e9-b366-30a99d0a7faf
+-  https://www.govinfo.gov/content/pkg/FR-2003-01-02/pdf/02-32912.pdf#page=2
+-  https://chatgpt.com/share/6b05be0c-6894-83ea-b192-e07a89682533 (https://www.sec.gov/files/rules/final/33-8171.htm#footnote_13)
+-  https://www.govinfo.gov/content/pkg/FR-1977-03-03/pdf/FR-1977-03-03.pdf#page=184
+-  https://archives.federalregister.gov/issue_slice/1982/3/16/11378-11481.pdf#page=2
+-  https://chatgpt.com/share/6b05c433-4cb0-83e9-ba84-6a2859fdbf82
+-  https://chatgpt.com/share/6b05c47a-02d0-83e9-925a-6cc2377ad6b0 brandies eleletercc power qute
+-  https://chatgpt.com/share/6b05c44b-3a18-83ea-b4ba-daf16a250883 -- NYSE Open Board aquseesnt (hard to justif the relevasntec of 1800s in tihs comment) (see https://chatgpt.com/share/6b05c785-4e18-83ea-a834-d489cbd34f25 CONTMP'D)
+-  Federal Register _I_ Vol. 45. No. 178 1,'I1lursday, September 11,"\\l98O Rules and Regulations
+-  # gold issue on political gov
+-  https://www.govinfo.gov/content/pkg/USREPORTS-22/pdf/USREPORTS-22-738.pdf
+-  https://www.govinfo.gov/app/details/USREPORTS-22/USREPORTS-22-738
+-  https://chatgpt.com/share/6b05c50b-7d30-83ea-ae0d-6a2fa4647a22
+
+- https://test.sechistorical.org/collection/papers/1970/1971_0701_SECDemise_02.pdf#page=1
+- https://chatgpt.com/share/6b05d059-e7d0-83e9-aa85-f15ecee99921 (qutie long, contting the OBB)
+- https://sechistorical.org/wp-content/uploads/1971_0806_MartinReport.pdf#page=4
+- https://test.sechistorical.org/collection/papers/1970/1971_0730_NYSECrisis.pdf#page=42
+- https://chatgpt.com/share/6b05d624-4964-83ea-8170-fd7d45d8285c (https://en.wikipedia.org/w/index.php?title=Goodbody_%26_Co.)
+- https://openjurist.org/90/tc/465/la-rue-v-commissioner-4706750
+- https://chatgpt.com/share/6b05d654-e7c4-83ea-b63f-f3d8c53e62dc
+  - https://www.washingtonpost.com/archive/business/1983/02/08/sec-closes-toledo-firm-in-fraud-case/a3d8a09a-42f6-4d2f-a970-ae5bb7028ead
+  - https://www.gao.gov/assets/ggd-92-109.pdf#page=6
+  - https://app.midpage.ai/document/in-re-bell-beckwith-2020683
+  - https://www.sec.gov/files/tm/no-action/sipc-nyse-special-trust-022026.pdf#page=6 (not relevant)
+  - https://www.courtlistener.com/opinion/108892/john-p-foley-jr-v-blair-co-inc
+  - https://chatgpt.com/share/6b05d6b6-1b0c-83e9-bb92-07e0c211e5a4
+- // similar notions:
+- https://chatgpt.com/share/6b05d6e3-bae4-83e9-b2ad-d9187e30ead5
+- https://www.toledoblade.com/local/2003/02/09/A-fraud-ahead-of-its-time/stories/200302090046
+- https://dev.gutenberg.org/cache/epub/37924/pg37924-images.html
+- https://www.sec.gov/news/digest/1995/dig072695.pdf
+- https://openjurist.org/77/br/606/in-re-bell-beckwith-2020683 (https://openjurist.org/50/br/422/in-re-bell-beckwith, bad site)
+
+- https://www.franklintempleton.com/press-releases/news-room/2024/franklin-templeton-announces-availability-of-peer-to-peer-transfers-for-franklin-onchain-u.s.-government-money-fund
+- https://www.sec.gov/Archives/edgar/data/1786958/000174177324001671/c497.htm
+SDF makes taht point , so hwo caers
