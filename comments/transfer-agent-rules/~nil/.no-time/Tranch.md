@@ -22,4 +22,12 @@ These addittional refefnces will not make it into the comment
 -  https://www.govinfo.gov/content/pkg/FR-1977-03-03/pdf/FR-1977-03-03.pdf#page=184
 -  https://archives.federalregister.gov/issue_slice/1982/3/16/11378-11481.pdf#page=2
 -  https://chatgpt.com/share/6b05c433-4cb0-83e9-ba84-6a2859fdbf82
+-  https://chatgpt.com/share/6b05c47a-02d0-83e9-925a-6cc2377ad6b0 brandies eleletercc power qute
 -  https://chatgpt.com/share/6b05c44b-3a18-83ea-b4ba-daf16a250883 -- NYSE Open Board aquseesnt (hard to justif the relevasntec of 1800s in tihs comment)
+-  Federal Register _I_ Vol. 45. No. 178 1,'I1lursday, September 11,"\\l98O Rules and Regulations
+-  # gold issue on political gov
+-  https://www.govinfo.gov/content/pkg/USREPORTS-22/pdf/USREPORTS-22-738.pdf
+-  https://www.govinfo.gov/app/details/USREPORTS-22/USREPORTS-22-738
+-  https://chatgpt.com/share/6b05c50b-7d30-83ea-ae0d-6a2fa4647a22
+
+-
