@@ -17,3 +17,9 @@ These addittional refefnces will not make it into the comment
 -  https://www.govinfo.gov/content/pkg/FR-1947-01-15/pdf/FR-1947-01-15.pdf#page=8
 -  listing fees https://chatgpt.com/share/6b05bd99-3b6c-83e9-8f14-ebe96e85cd75
 -  CF secondaries https://chatgpt.com/share/6b05bdb2-074c-83e9-b366-30a99d0a7faf
+-  https://www.govinfo.gov/content/pkg/FR-2003-01-02/pdf/02-32912.pdf#page=2
+-  https://chatgpt.com/share/6b05be0c-6894-83ea-b192-e07a89682533 (https://www.sec.gov/files/rules/final/33-8171.htm#footnote_13)
+-  https://www.govinfo.gov/content/pkg/FR-1977-03-03/pdf/FR-1977-03-03.pdf#page=184
+-  https://archives.federalregister.gov/issue_slice/1982/3/16/11378-11481.pdf#page=2
+-  https://chatgpt.com/share/6b05c433-4cb0-83e9-ba84-6a2859fdbf82
+-  https://chatgpt.com/share/6b05c44b-3a18-83ea-b4ba-daf16a250883 -- NYSE Open Board aquseesnt (hard to justif the relevasntec of 1800s in tihs comment)
