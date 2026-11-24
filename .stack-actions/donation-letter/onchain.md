@@ -1,6 +1,6 @@
-Once the comment period ends, we can do a nov 4 TX 'X'' Recsind legacy beta assets' and tranch back in all the original issuer tokens.
+rescind is https://stellar.expert/explorer/public/tx/e14f4e5b7f36019ba9f1290af7a5b78f5d8176f904ba58a5ffb02ff55073d0b2
 
-rescind:
+rescinded:
 - Laylor stock
 - Syndicate stock
 - DEMO tokens

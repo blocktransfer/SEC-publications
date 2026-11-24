@@ -1,6 +1,4 @@
-sub'd on nov 3
 
-pacnitg into the refresh timeine nov 18-24
 
 so we will have thi tail end of nov into dec to write on the inteurm
 
